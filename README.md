@@ -1,5 +1,7 @@
 # Development Workspace: Initiative for Open Ag Funding
 
+![Project Logo](https://avatars1.githubusercontent.com/u/19473827)
+
 Food insecurity constitutes one of the world’s most pressing development needs. Although progress is being made, almost 800 million people worldwide still suffer from hunger.
 
 Investments in agriculture are critical to improving food security and nutrition and to reducing poverty. However, in order to make the most effective investment decisions, organizations must have access to timely, comprehensive, and comparable information. Today, such information is either unavailable or not comparable due to differing data or coding standards. Simply put, without a clearer and more reliable picture of agricultural investments worldwide, the billions of dollars invested in agriculture each year might not be reaching their full potential.
