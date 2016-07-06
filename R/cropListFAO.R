@@ -30,14 +30,13 @@ f[isGroup==T, GroupCode := ItemCode]
 
 # => a little problematic to identify commodity groups using this source. Also the 
 # groups overlap which is a little too complex for our prupose.
-# Ulrike suggested using FAOSTAT commodity definitions and correspondences at
+# Ulrike suggested using FAO commodity definitions instead at
 # http://www.fao.org/economic/ess/ess-standards/commodity/comm-chapters/en/
-# These tables need to be scraped.
 
 url.base <- "http://www.fao.org/"
 url <- "http://www.fao.org/economic/ess/ess-standards/commodity/comm-chapters/en/"
 
-# Extract the groupings
+# Extract product groupings
 page <- read_html(url)
 g <- page %>% html_nodes(css=".list-title") %>% html_text()
 g.link <- page %>% html_nodes(xpath="//div[@class='list-link']/a/@href") %>% html_text()
@@ -70,6 +69,44 @@ setkey(codelist, groupCode, itemCode)
 # Export to CSV
 write.csv(codelist, "./codelists/FAOSTAT-items.csv", na="", row.names=F)
 
+# An alternative classification is on the old FAOSTAT website (metadata tooltip)
+# cannot be scraped with rvest )-: copy/paste by hand instead, and load here
+tmp <- read.table("clipboard-128", header=T, sep="\t", strip.white=T)
+tmp <- data.table(tmp)
+tmp[is.na(isGroup), isGroup := FALSE]
+tmp[, HSCode := as.character(HSCode)]
+tmp[itemCode==HSCode, HSCode := NA]
 
+# Remove duplicates
+setkey(tmp, itemCode)
+tmp[, N := .N, by=itemCode]
+tmp <- tmp[!(N>1 & is.na(group))]
+tmp[, N := .N, by=itemCode]
+tmp[N>1]
+tmp[N==1]
+# => some commodities appear in up to 6 groups
+
+tmp[, N := NULL]
+tmp[isGroup==T, group := itemCode]
+setnames(tmp, "group", "groupCode")
+
+# Concat sections and groups
+tmp <- tmp[, .(
+    N=.N,
+    section=paste(section, collapse=", "),
+    groupList=paste(groupCode, collapse=", ")), 
+  by=.(isGroup, itemCode, HSCode, itemLabel)]
+setkey(tmp, itemCode)
+tmp[duplicated(tmp)]
+# Empty data.table (0 rows) of 6 cols: isGroup,itemCode,HSCode,itemLabel,N,groupList
+# => OK
+
+tmp[, N := NULL]
+tmp[groupList=="NA", groupList := NA]
+setcolorder(tmp, c(5,2,3,4,1,6))
+setorder(tmp, section, -isGroup, groupList, itemCode)
+
+# Export to CSV
+write.csv(tmp, "./codelists/FAOSTAT-items (aggregates).csv", na="", row.names=F)
 
 
