@@ -21,6 +21,6 @@ You can [engage in discussions through the issue tracker](https://github.com/Ope
 
 ## Partners
 
-The Initiative for Open Ag Funding is a partnership project, co-ordinated by [InterAction](http://www.interaction.org) and working with [Development Gateway](http://www.developmentgateway.org/), the [Foundation Center](http://foundationcenter.org/), [Publish What You Fund](http://www.publishwhatyoufund.org/), and the [CGIAR Research Program on Policies, Markets and Institutions (PIM)](http://www.pim.cgiar.org/).
+The Initiative for Open Ag Funding is a partnership project, co-ordinated by [InterAction](http://www.interaction.org) and working with [Development Gateway](http://www.developmentgateway.org/), the [Foundation Center](http://foundationcenter.org/), [Publish What You Fund](http://www.publishwhatyoufund.org/), and the [CGIAR Research Program on Policies, Institutions and Markets (PIM)](http://www.pim.cgiar.org/).
 
 Technical consultancy for the project is provided by [Open Data Services Co-operative](http://www.opendataservices.coop).
