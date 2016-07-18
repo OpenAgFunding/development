@@ -1,0 +1,31 @@
+# activities with a DAC sector code in an activity
+47870
+
+# activities with a DAC sector code in an transaction
+7621
+
+# activities with a DAC sector code as value
+(These are ignored in the reseaech for now for performance reasons)
+5
+
+# activities added to the set by using the wider-ranging 3-digit codes
+DAC-code: 321 adds: 369
+DAC-code: 430 adds: 938
+DAC-code: 520 adds: 25
+DAC-code: 720 adds: 4894
+
+Sector vocabularies used (other than OECD DAC):
+10
+151
+3
+6
+98
+99
+ADT
+COFOG
+NACE
+RO
+RO2
+U.S. Sector Framework
+WBSector
+WBTheme

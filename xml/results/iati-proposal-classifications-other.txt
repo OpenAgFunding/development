@@ -1,0 +1,21 @@
+# activities with <policy-marker>s
+27942
+
+# activities with <policy-marker>s and no Ag sector codes
+832
+
+# Activities per policy marker without an Ag sector code
+policy marker 1: 832
+policy marker 2: 2
+policy marker 3: 2
+policy marker 4: 2
+policy marker 5: 2
+policy marker 6: 2
+policy marker 7: 2
+policy marker 8: 2
+
+# activities with <country-budget-items>
+5192
+
+# activities with <country-budget-items> and no Ag sector codes
+0

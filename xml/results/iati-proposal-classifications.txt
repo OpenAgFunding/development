@@ -1,0 +1,69 @@
+# Open Ag activities: 
+56659
+
+# Open Ag activities without an identifier: 
+6
+
+# distinct IATI activity identifiers
+54616
+
+# activities with a single Ag <sector>
+38013
+
+# activities with multiple <sector>s
+9865
+
+# activities with a single Ag <sector> and one or more other <sector>s
+7772
+
+# activities with multiple Ag <sector>s but no other sectors
+644
+
+# activities with multiple Ag <sector>s and other <sector>s
+1454
+
+# activities with multiple <sector>s and missing percentages or not adding up to 100% (non-unique identifier)
+vocabulary: DAC: 418
+vocabulary: 2: 497
+vocabulary: 1: 142
+vocabulary: 99: 324
+vocabulary: 98: 0
+vocabulary: DAC-3: 31
+vocabulary: U.S. Sector Framework: 0
+vocabulary: RO: 0
+vocabulary: WBSector: 0
+vocabulary: WBTheme: 32
+no vocabulary specified: 143
+
+# activities with multiple <sector> @vocabularies
+4829
+
+# activities with <sector> at both <activity> and <transaction> level
+899
+
+Publishers using sector codes at both activity and transaction level
+ES-DIR3-E04585801
+FR-PDR-W691075333
+GB-CHC-1050327
+GB-CHC-1094478
+GB-CHC-1109789
+GB-CHC-1112734
+GB-CHC-1120932
+GB-CHC-250456
+GB-CHC-290836
+GB-CHC-291333
+GB-CHC-299717
+GB-CHC-328158
+GB-CHC-328273
+GB-COH-05322719
+GB-COH-1858644
+GB-COH-3031674
+GB-COH-4887855
+GB-COH-NI011322
+GB-OSCR-SC012302
+GB-SC-037597
+GB-SC-SC012302
+NL-KVK-20093733
+NL-KVK-41009723
+XI-IATI-1002
+mz-moj-64vq1
