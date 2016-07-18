@@ -1,0 +1,28 @@
+Reporting organisations with results
+: Aqua for All
+41122: UNICEF
+46002: African Development Bank Group
+CA-3: Foreign Affairs, Trade and Development Canada (DFATD)Affaires étrangères, Commerce et Développement Canada (MAECD)
+CA-4: Department of Finance CanadaMinistère des Finances Canada
+DK-1: Ministry of Foreign Affairs, Denmark
+FR-3: AFD
+FR-99: Service de Coopération et d'Action Culturelle
+FR-PDR-W691075333: Handicap International Federation
+GB-CHC-1092236: Concern Worldwide (UK)
+GB-OSCR-SC032327: EMMS International
+NL-KVK-20093733: Heifer Nederland
+NL-KVK-27108436: Oxfam Novib
+NL-KVK-27378529: Netherlands Enterprise Agency
+NL-KVK-34200988: RAIN foundation
+NL-KVK-40409352: The Netherlands Red Cross
+NL-KVK-41009723: ZOA
+NL-KVK-41152786: SNV Netherlands Development Organisation
+NL-KVK-41160054: Stichting Cordaid
+NL-KVK-41198677: Hivos
+NL-KVK-41201806: Transnational Institute
+NL-KVK-41210098: Both ENDS
+NL-KVK-56484038: ICCO-Cooperation
+SE-0: Sweden
+US-EIN-13-3287064NAM: InterAction’s NGO Aid Map
+XI-IATI-IADB: Inter-American Development Bank
+XM-DAC-41140: World Food Programme
