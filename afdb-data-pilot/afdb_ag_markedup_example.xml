@@ -247,15 +247,15 @@
         <sector vocabulary="DAC" code="31110">
             <narrative>Agriculture</narrative>
         </sector>
-        <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_9647" percentage="33.3">
+        <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_9647">
             <narrative xml:lang="en">cashews</narrative>
             <narrative xml:lang="en">see http://oek1.fao.org/skosmos/agrovoc/en/page/c_9647</narrative>
         </sector>
-        <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_10967" percentage="33.3">
+        <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_10967">
             <narrative xml:lang="en">food security</narrative>
             <narrative xml:lang="en">see http://oek1.fao.org/skosmos/agrovoc/en/page/c_10967</narrative>
         </sector>
-        <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_6207" percentage="33.3">
+        <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_6207">
             <narrative>production possibilities</narrative>
             <narrative>see http://oek1.fao.org/skosmos/agrovoc/en/page/c_6207</narrative>
         </sector>
