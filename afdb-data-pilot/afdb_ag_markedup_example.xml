@@ -249,11 +249,11 @@
         </sector>
         <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_9647">
             <narrative xml:lang="en">cashews</narrative>
-            <narrative xml:lang="en">see http://oek1.fao.org/skosmos/agrovoc/en/page/c_9647</narrative>
+            <narrative xml:lang="en">Tagged based on http://oek1.fao.org/skosmos/agrovoc/en/page/c_9647</narrative>
         </sector>
         <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_10967">
             <narrative xml:lang="en">food security</narrative>
-            <narrative xml:lang="en">see http://oek1.fao.org/skosmos/agrovoc/en/page/c_10967</narrative>
+            <narrative xml:lang="en">Tagged based on http://oek1.fao.org/skosmos/agrovoc/en/page/c_10967</narrative>
         </sector>
         <sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="c_6207">
             <narrative>production possibilities</narrative>
