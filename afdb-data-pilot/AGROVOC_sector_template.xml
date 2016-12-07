@@ -1,0 +1,4 @@
+<sector vocabulary="11" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="$3" percentage="$1">
+  <narrative>$2</narrative>
+  <narrative>see $4<narrative>
+</sector>
