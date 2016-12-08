@@ -1,4 +1,4 @@
-<sector vocabulary="99" vocabulary-uri="http://oek1.fao.org/skosmos/agrovoc/en/" code="$3">
+<sector vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="$3">
   <narrative>$2</narrative>
   <narrative>see $4<narrative>
 </sector>
