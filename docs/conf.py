@@ -350,3 +350,19 @@ def setup(app):
         'enable_eval_rst': True
         }, True)
     app.add_transform(AutoStructify)
+
+import guzzle_sphinx_theme
+
+# Adds an HTML table visitor to apply Bootstrap table classes
+html_translator_class = 'guzzle_sphinx_theme.HTMLTranslator'
+html_theme_path = guzzle_sphinx_theme.html_theme_path()
+html_theme = 'guzzle_sphinx_theme'
+
+# Register the theme as an extension to generate a sitemap.xml
+extensions.append("guzzle_sphinx_theme")
+
+# Guzzle theme options (see theme.conf for more information)
+html_theme_options = {
+    # Set the name of the project to appear in the sidebar
+    "project_nav_name": "Open Ag Funding",
+}

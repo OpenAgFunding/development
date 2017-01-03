@@ -12,13 +12,44 @@ To do so, the project will identify current data needs and propose relevant chan
 
 For more information on the Initiative for Open Ag Funding, please contact [David Duffeck](dduffeck@interaction.org).
 
-
 ## This repository
 
 This repository is a workspace for development of approaches to address the current gap in data availability and usability.
 
 You can [engage in discussions through the issue tracker](https://github.com/OpenAgFunding/development/issues) and you will find a growing collection of documentation here as the project develops. 
 
+## Building the documentation
+
+The docs folder contains documentation on use of IATI for Agriculture. 
+
+The documentation is written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and built with [Sphinx](http://www.sphinx-doc.org/en/1.5.1/)
+
+To build the documentation locally:
+
+(1) Clone the project and setup a python virtual environment
+
+```
+git clone https://github.com/OpenAgFunding/development.git
+virtualenv .ve -p python3
+source .ve/bin/activate
+pip install -r docs/requirements.txt
+```
+
+(2) Enter the documentation folder and build the project
+
+```
+cd docs
+make dirhtml
+```
+
+(3) Serve the files using pythons local web server
+
+```
+cd _build/dirhtml
+python3 -m http.server
+```
+
+The documentation site will now be accessible at http://localhost:8000/
 ## Partners
 
 The Initiative for Open Ag Funding is a partnership project, co-ordinated by [InterAction](http://www.interaction.org) and working with [Development Gateway](http://www.developmentgateway.org/), the [Foundation Center](http://foundationcenter.org/), [Publish What You Fund](http://www.publishwhatyoufund.org/), and the [CGIAR Research Program on Policies, Institutions and Markets (PIM)](http://www.pim.cgiar.org/).
