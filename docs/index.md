@@ -8,6 +8,12 @@ Contents:
    :maxdepth: 2
 
    about
+   iati
+   getting_started
+   framework
+   identifiers
+   codelists
+   contact
 
 ```
 

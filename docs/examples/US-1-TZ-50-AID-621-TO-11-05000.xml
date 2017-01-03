@@ -1,0 +1,134 @@
+<result xmlns:iati-extra="http://datastore.iatistandard.org/ns">
+    <ok>True</ok>
+    <iati-activities generated-datetime="2017-01-03T16:28:56.595900">
+        <query>
+            <total-count>1</total-count>
+            <start>0</start>
+            <limit>50</limit>
+        </query>
+        <iati-activity default-currency="USD" hierarchy="3" iati-extra:version="2.01" last-updated-datetime="2016-07-25T11:19:00" xml:lang="en" xmlns:usg="http://www.foreignassistance.gov/web/IATI/usg-extension">
+            <iati-identifier>US-1-TZ-50-AID-621-TO-11-05000</iati-identifier>
+            <reporting-org ref="US-1" type="10">
+                <narrative lang="en">U.S. Agency for International Development</narrative>
+            </reporting-org>
+            <title>
+                <narrative>ECONOMIC GROWTH - Agriculture Agriculture</narrative>
+            </title>
+            <description>
+                <narrative>Administrative Mod. to incorporate the FAPPIS statutory regulation.Admin mod to include language on burdened rate and correct per of performance in GLAAS</narrative>
+            </description>
+            <participating-org ref="US-USAGOV" role="1" type="10">
+                <narrative>USA</narrative>
+            </participating-org>
+            <participating-org ref="US-1" role="2" type="10">
+                <narrative>U.S. Agency for International Development</narrative>
+            </participating-org>
+            <participating-org ref="US-1" role="3" type="10">
+                <narrative>U.S. Agency for International Development</narrative>
+            </participating-org>
+            <participating-org role="4" type="10">
+                <narrative>ACDI/VOCA</narrative>
+            </participating-org>
+            <activity-status code="2"/>
+            <activity-date iso-date="2011-04-08" type="2">
+                <narrative/>
+            </activity-date>
+            <activity-date iso-date="2017-04-07" type="4">
+                <narrative/>
+            </activity-date>
+            <contact-info type="1">
+                <organisation>
+                    <narrative>U.S. Agency for International Development</narrative>
+                </organisation>
+                <person-name>
+                    <narrative>Crystal Garrett</narrative>
+                </person-name>
+                <telephone>+1 202-712-0371</telephone>
+                <email>cgarrett@usaid.gov</email>
+                <website>https://www.usaid.gov/tanzania</website>
+                <mailing-address>
+                    <narrative>1300 Pennsylvania Ave NW, Washington DC 20004</narrative>
+                </mailing-address>
+            </contact-info>
+            <activity-scope code="4"/>
+            <recipient-country code="TZ" percentage="100"/>
+            <location>
+                <location-reach code="1"/>
+                <name>
+                    <narrative>Tanzania</narrative>
+                </name>
+                <description>
+                    <narrative>Strong partners for over five decades, Tanzania and the United States are working towards a shared vision of improving the quality of life for all Tanzanians.  Despite its political stability and high levels of economic growth over the past two decades, roughly 28 percent of the population lives below the poverty line.  The goal of U.S. assistance is to promote a healthy, prosperous, democratic, well-governed and secure Tanzania.</narrative>
+                </description>
+                <exactness code="1"/>
+                <location-class code="4"/>
+            </location>
+            <collaboration-type code="1"/>
+            <default-flow-type code="10"/>
+            <default-finance-type code="110"/>
+            <default-aid-type code="C01"/>
+            <default-tied-status code="5"/>
+            <transaction>
+                <transaction-type code="3"/>
+                <transaction-date iso-date="2015-12-31"/>
+                <value value-date="2015-12-31">257051.44</value>
+                <disbursement-channel code="2"/>
+                <sector code="31120" vocabulary="1">
+                    <narrative>Agricultural development</narrative>
+                </sector>
+                <sector code="5005" vocabulary="99">
+                    <narrative>Agriculture</narrative>
+                </sector>
+                <usg:treasury-account>
+                    <usg:regular-account code="72"/>
+                    <usg:main-account code="1021">Development Assistance - Development Assistance</usg:main-account>
+                    <usg:fiscal-funding-year begin="2013" end="2014"/>
+                </usg:treasury-account>
+            </transaction>
+            <transaction>
+                <transaction-type code="3"/>
+                <transaction-date iso-date="2015-12-31"/>
+                <value value-date="2015-12-31">1341809.50</value>
+                <disbursement-channel code="2"/>
+                <sector code="31110" vocabulary="1">
+                    <narrative>Agricultural policy and administrative management</narrative>
+                </sector>
+                <sector code="5005" vocabulary="99">
+                    <narrative>Agriculture</narrative>
+                </sector>
+                <usg:treasury-account>
+                    <usg:regular-account code="72"/>
+                    <usg:main-account code="1021">Development Assistance - Development Assistance</usg:main-account>
+                    <usg:fiscal-funding-year begin="2013" end="2014"/>
+                </usg:treasury-account>
+            </transaction>
+            <transaction>
+                <transaction-type code="3"/>
+                <transaction-date iso-date="2016-03-31"/>
+                <value value-date="2016-03-31">1518630.40</value>
+                <disbursement-channel code="2"/>
+                <sector code="31110" vocabulary="1">
+                    <narrative>Agricultural policy and administrative management</narrative>
+                </sector>
+                <sector code="5005" vocabulary="99">
+                    <narrative>Agriculture</narrative>
+                </sector>
+                <usg:treasury-account>
+                    <usg:regular-account code="72"/>
+                    <usg:main-account code="1021">Development Assistance - Development Assistance</usg:main-account>
+                    <usg:fiscal-funding-year begin="2014" end="2015"/>
+                </usg:treasury-account>
+            </transaction>
+            <document-link format="application/pdf" url="http://pdf.usaid.gov/pdf_docs/PA00KRPR.pdf">
+                <title>
+                    <narrative>Mid-term performance evaluation of the USAID/Tanzania Feed the Future program : mwanzo bora, nafaka, and tuberoshe chakula</narrative>
+                </title>
+                <category code="A01"/>
+                <language code="en"/>
+            </document-link>
+            <related-activity ref="US-1-TZ-50" type="1"/>
+            <conditions attached="0"/>
+            <usg:mechanism-signing-date iso-date="2011-04-08T00:00:00"/>
+        </iati-activity>
+    </iati-activities>
+</result>
