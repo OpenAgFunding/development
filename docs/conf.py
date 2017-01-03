@@ -22,7 +22,9 @@
 # sys.path.insert(0, os.path.abspath('.'))
 from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
+import sys, os
 
+sys.path.append(os.path.abspath('exts'))
 
 # -- General configuration ------------------------------------------------
 
@@ -36,6 +38,7 @@ from recommonmark.parser import CommonMarkParser
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
+    'doctabs'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
