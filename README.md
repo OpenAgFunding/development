@@ -50,6 +50,14 @@ python3 -m http.server
 ```
 
 The documentation site will now be accessible at http://localhost:8000/
+
+On OSX you can use fswatch to rebuild whenever there are updates to the markdown files:
+
+```
+fswatch -o *.md |  xargs -n1 make dirhtml &
+```
+
+
 ## Partners
 
 The Initiative for Open Ag Funding is a partnership project, co-ordinated by [InterAction](http://www.interaction.org) and working with [Development Gateway](http://www.developmentgateway.org/), the [Foundation Center](http://foundationcenter.org/), [Publish What You Fund](http://www.publishwhatyoufund.org/), and the [CGIAR Research Program on Policies, Institutions and Markets (PIM)](http://www.pim.cgiar.org/).

@@ -29,3 +29,10 @@ ul.example-selector li.selected:hover {
     background-color: #333;
 }
 
+div.doc-tabs.container {
+    width:inherit;
+}
+
+div.csv.container {
+    width:inherit;
+}

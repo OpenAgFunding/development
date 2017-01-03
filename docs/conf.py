@@ -24,7 +24,7 @@ from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
 import sys, os
 
-sys.path.append(os.path.abspath('exts'))
+sys.path.append(os.path.abspath('_exts'))
 
 # -- General configuration ------------------------------------------------
 
@@ -344,6 +344,7 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
+intersphinx_mapping = {'iati': ('http://iatistandard.org/202/', None)}
 
 
 def setup(app):
