@@ -10,57 +10,50 @@ Each of the elements are outlined below, along with:
 * An example of this element represented in tabular format;
 * Additional information about collecting and managing this information.
 
-For each activtiy reported, data publishers should aim to provide each of the following components:
+For each activity reported, data publishers should aim to provide each of the following components:
 
-### Reporting Organization
- 
+### Activity ID
+
+Each funding allocation or invesment you report on should be assigned an activity identifier. The IATI documentation states that:
+
+> An activity is defined by the reporting organisation. Depending on who is reporting, it might be a large programme, a small project or another logical grouping of work and resources.
+
+When publishing your data, you should establish the level at which you will report activities, and then follow IATI guidance to provide a  'globally unique' ID for each one.  
+
 ```eval_rst
 .. doc-tabs::
 
     .. admonition:: Why?
     
-        **Data users need to know where information has come from.**
+        It is important that activities are suitably disaggregated. For example, if you have multiple projects in a country, there should be an activity record for each of them. 
 
-        You can use the IATI standard to publish information about your own activities, or to provide information you have collected on the investments and funding activities of others.
+        All the other elements of the framework are about the descriptions you apply to each activity. 
 
-        The reporting organization block is used to identify the publisher of all of the following information.
-
+        By using a globally unique identifier for each activity, it becomes possible to cross-reference between different publishers datasets. This is important for **traceability**.
+       
     .. admonition:: How?
       
-        The reporting organisation details can usually be set as a constant value for all the activities you publish.
+        An IATI identifier is usually constructed by combining the **organisation identifier** of the reporting organisation as a prefix, with a dash (-), and then a local identifier from your existing systems.
 
-        As well as the organisation name, you will need an **identifier** and a code to describe the organisation type from the OrganisationType codelist.
+        For example, if your organisation identifier is 'GB-COH-09506232' and you are reporting on an activity that is in your database as 'A2017_01' then the iati-identifier will be 'GB-COH-09506232-A2017_01'.
 
-        Check the **identifiers** page for information on locating your own organisation identifier. 
+        You don't usually need to enter or store the prefix in your database for each individual activity: it can be added when data is exported, or using a formula. 
 
-    .. literalinclude:: /examples/US-1-TZ-50-AID-621-TO-11-05000.xml
-       :language: xml
-       :start-after: <iati-identifier>
-       :end-before: <title>
-       :dedent: 8
+    .. code-block:: xml
+    
+        <iati-identifier>US-1-TZ-50-AID-621-TO-11-05000</iati-identifier>
 
     .. container :: csv
 
         .. csv-table:: CSV
-           :file: docs/examples/reporting-org.csv
            :header-rows: 1
 
-```
-
-IATI Docs: [reporting-org](http://iatistandard.org/activity-standard/iati-activities/iati-activity/reporting-org/) | [OrganisationType codelist](http://iatistandard.org/201/codelists/OrganisationType/) 
-
-### Metadata
-
-Default currencies and languages used in reporting.
-
-```eval_rst
+           iati-identifier
+           US-1-TZ-50-AID-621-TO-11-05000
 
 ```
 
-
-### Activity ID
-
-Activities should be described at a suitable level of granularity. For example, different projects in the same country should not be bundled together in reporting.
+IATI Docs: [iati-activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [IATI Identifier](http://iatistandard.org/activity-standard/iati-activities//iati-activity/iati-identifier/) 
 
 ### Activity Title
 
@@ -138,3 +131,79 @@ Where possible, transactions should link onwards to related IATI activities (som
 Project should publish information on any indicators and benchmarks the project is oriented towards meeting, as well as any structured results data that is available.
 
 Even when results data is not available, the indicators by which a project impact will be measured should be published in a structured form, and associated results documents linked to via the document section. 
+
+### Reporting Organization
+ 
+```eval_rst
+.. doc-tabs::
+
+    .. admonition:: Why?
+    
+        **Data users need to know where information has come from.**
+
+        You can use the IATI standard to publish information about your own activities, or to provide information you have collected on the investments and funding activities of others.
+
+        The reporting organization block is used to identify the publisher of all of the following information.
+
+    .. admonition:: How?
+      
+        The reporting organisation details can usually be set as a constant value for all the activities you publish.
+
+        As well as the organisation name, you will need an **identifier** and a code to describe the organisation type from the OrganisationType codelist.
+
+        Check the **identifiers** page for information on locating your own organisation identifier.
+
+        If you are reporting on behalf of another organisation, the secondary-reporter attribute should be set to '1'. Otherwise it should be '0'.
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-621-TO-11-05000.xml
+       :language: xml
+       :start-after: <iati-identifier>
+       :end-before: <title>
+       :dedent: 8
+
+    .. container :: csv
+
+        .. csv-table:: CSV
+           :file: docs/examples/reporting-org.csv
+           :header-rows: 1
+
+```
+
+IATI Docs: [reporting-org](http://iatistandard.org/activity-standard/iati-activities/iati-activity/reporting-org/) | [OrganisationType codelist](http://iatistandard.org/201/codelists/OrganisationType/) 
+
+### Metadata: default currency and language
+
+```eval_rst
+.. doc-tabs::
+
+    .. admonition:: Why?
+    
+        You can report your activities in different languages and currencies.
+
+        When you specify the default, then tools displaying the data can be sure they show the right language and currency values to their users. 
+
+    .. admonition:: How?
+      
+        These can usually be set as constant values for all the information you are publishing, unless you have certain sets of activities that use different default currencies and languages. 
+
+        The default currency (default-currency) is represented with a three-letter currency code. 
+
+        The default language (xml:lang) is represented with a two-letter country code
+
+        These are expressed as attributes of the iati-activity element
+
+    .. code-block:: xml
+    
+        <iati-activity default-currency="USD" xml:lang="en">
+
+    .. container :: csv
+
+        .. csv-table:: CSV
+           :header-rows: 1
+
+           xml:lang,default-currency
+           en,USD
+
+```
+
+IATI Docs: [iati-activity](http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/) | [Currency codelist](http://iatistandard.org/codelists/Currency/) | [Language codelist](http://iatistandard.org/codelists/Language/)

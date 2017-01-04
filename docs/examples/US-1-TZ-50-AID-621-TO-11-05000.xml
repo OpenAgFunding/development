@@ -8,7 +8,7 @@
         </query>
         <iati-activity default-currency="USD" hierarchy="3" iati-extra:version="2.01" last-updated-datetime="2016-07-25T11:19:00" xml:lang="en" xmlns:usg="http://www.foreignassistance.gov/web/IATI/usg-extension">
             <iati-identifier>US-1-TZ-50-AID-621-TO-11-05000</iati-identifier>
-            <reporting-org ref="US-1" type="10">
+            <reporting-org ref="US-1" type="10" secondary-reporter="0">
                 <narrative lang="en">U.S. Agency for International Development</narrative>
             </reporting-org>
             <title>
