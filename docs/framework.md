@@ -220,15 +220,15 @@ Note: These will often be set as constant values for any given reporting organis
 
            * - Element
              - Codelist
-           * - Collaboration Type
+           * - `Collaboration Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/collaboration-type/>`__
              - `Collaboration Type <http://iatistandard.org/202/codelists/CollaborationType/>`__
-           * - Default Flow Type
+           * - `Default Flow Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-flow-type/>`__
              - `Flow Type <http://iatistandard.org/202/codelists/FlowType/>`__
-           * - Default Finance Type
+           * - `Default Finance Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-finance-type/>`__
              - `Finance Type <http://iatistandard.org/202/codelists/FinanceType/>`__
-           * - Default Aid Type
+           * - `Default Aid Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-aid-type/>`__
              - `Aid Type <http://iatistandard.org/202/codelists/AidType/>`__
-           * - Default Tied Status
+           * - `Default Tied Status <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-tied-status/>`__
              - `Tied Status <http://iatistandard.org/202/codelists/TiedStatus/>`__
 
 
@@ -251,8 +251,10 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 ### Sector Classification
 
 Classification against OECD DAC Sector codes, plus additional taxonomies, including (tbc):
-AGROVOC
-Agricultural Technology Ontology
+* AGROVOC
+* Agricultural Technology Ontology
+
+
 
 ### Participating Organisations
 
