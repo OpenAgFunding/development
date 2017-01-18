@@ -7,8 +7,14 @@
         <title>
             <narrative>Agricultural Capacity Building in Tanzania</narrative>
         </title>
-        <description>
-            <narrative>Administrative Mod. to incorporate the FAPPIS statutory regulation.Admin mod to include language on burdened rate and correct per of performance in GLAAS</narrative>
+        <description type="1">
+            <narrative>General activity description text. Long description of the activity with no particular structure.</narrative>
+        </description>
+        <description type="2">
+            <narrative>Objectives for the activity, for example from a logical framework.</narrative>
+        </description>
+        <description type="3">
+            <narrative>Statement of groups targeted to benefit from the activity.</narrative>
         </description>
         <participating-org ref="US-USAGOV" role="1" type="10">
             <narrative>USA</narrative>
@@ -22,22 +28,19 @@
         <participating-org role="4" type="10">
             <narrative>ACDI/VOCA</narrative>
         </participating-org>
+        <!--pre-status-bookmark-->
         <activity-status code="2"/>
-        <activity-date iso-date="2011-04-08" type="2">
-            <narrative/>
-        </activity-date>
-        <activity-date iso-date="2017-04-07" type="4">
-            <narrative/>
-        </activity-date>
+        <activity-date iso-date="2011-04-08" type="2"/>
+        <activity-date iso-date="2017-04-07" type="4"/>
         <contact-info type="1">
             <organisation>
                 <narrative>U.S. Agency for International Development</narrative>
             </organisation>
             <person-name>
-                <narrative>Crystal Garrett</narrative>
+                <narrative>Example Contact</narrative>
             </person-name>
-            <telephone>+1 202-712-0371</telephone>
-            <email>cgarrett@usaid.gov</email>
+            <telephone>+1 202-712-EXAMPLE</telephone>
+            <email>exampe@usaid.gov</email>
             <website>https://www.usaid.gov/tanzania</website>
             <mailing-address>
                 <narrative>1300 Pennsylvania Ave NW, Washington DC 20004</narrative>

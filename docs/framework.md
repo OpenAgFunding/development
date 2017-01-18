@@ -53,7 +53,7 @@ When publishing your data, you should establish the level at which you will repo
 
 ```
 
-IATI Docs: [iati-activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [IATI Identifier](http://iatistandard.org/activity-standard/iati-activities/iati-activity/iati-identifier/)
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [IATI Identifier](http://iatistandard.org/activity-standard/iati-activities/iati-activity/iati-identifier/)
 
 ### Activity Title
 
@@ -82,36 +82,171 @@ A clear and comprehensible project title that indicates the focus of the activit
           .. csv-table:: CSV
              :header-rows: 1
 
-             title
+             title/narrative
              Agricultural Capacity Building in Tanzania
 
 ```
 
-IATI Docs: [iati-activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Title](http://iatistandard.org/activity-standard/iati-activities/iati-activity/title/)
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Title](http://iatistandard.org/activity-standard/iati-activities/iati-activity/title/)
 
+### Activity Descriptions
+
+Unstructured text describing the activity, its objectives, or its target groups.
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          To offer a more detailed textual account of the activity, its objectives, or its target groups.
+
+      .. admonition:: How?
+
+          Distinct descriptions should be provided for:
+
+          * A description of activity in general
+
+          * The objectives of activity
+
+          * The target groups of activity
+
+          Which these are specified by the description's `@code` attribute (see the xml example)
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: </title>
+         :end-before: <participating-org ref="US-USAGOV" role="1" type="10">
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :file: docs/examples/description.csv
+          :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Description](http://iatistandard.org/activity-standard/iati-activities/iati-activity/title/)
 
 ### Activity Status
 
-Information about activities should be regularly updated
+Indidcates what phase an activity is in its life cycle.
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          To let data users know if a project is still being implemented, completed, or in another state.
+
+      .. admonition:: How?
+
+          By choosing from one of the available codes in the `Activity Status codelist <http://iatistandard.org/202/codelists/ActivityStatus/>`_.
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <!--pre-status-bookmark-->
+         :end-before: <activity-date iso-date="2011-04-08" type="2">
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+           :header-rows: 1
+
+           activity-status/@code
+           2
+```
+> Note: the code '2' in the examples above means 'Implementing'
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Activity Status](http://iatistandard.org/activity-standard/iati-activities/iati-activity/activity-status/)
 
 ### Activity Dates
 
 Start and end dates, either planned or actual.
 
-### Activity Descriptions
+```eval_rst
 
-Distinct descriptions should be provided for:
+  .. doc-tabs::
 
-Description of activity
+      .. admonition:: Why?
 
-Objectives of activity
+          These dates allow data users to tell when a project is planned to start and finish, or when a project actually started or finished.
 
-Target groups of activity
+      .. admonition:: How?
+
+          A standardised iso date with the format YYYY-MM-DD, plus a code to declare if a date is start/end planned/actual, according to the `Activity Date Type codelist <http://iatistandard.org/202/codelists/ActivityDateType/>`__.
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <activity-status code="2"/>
+         :end-before: <contact-info type="1">
+         :dedent: 8
+
+      .. container :: csv
+
+          .. csv-table:: CSV
+             :header-rows: 1
+
+             activity-date/@iso-date, activity-date/@type
+             2011-04-08,2
+             2017-04-07,4
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Activity Date](http://iatistandard.org/activity-standard/iati-activities/iati-activity/activity-date/)
+
 
 ### Aid classifications
 
 Classifications against core IATI fields for: Collaboration Type, Default Flow Type, Default Finance Type, Default Aid Type and Default Tied Status.
 Note: These will often be set as constant values for any given reporting organisation if they are not otherwise recorded for ODA reporting.
+
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          These fields are particularly useful when publishing `OECD DAC CRS <https://stats.oecd.org/Index.aspx?DataSetCode=CRS1>`__ compatible activities.
+
+      .. admonition:: How?
+
+          Each of these fields have their own corresponding codelist, linked below:
+
+          .. list-table:: Aid Classification Codelists
+           :header-rows: 1
+
+           * - Element
+             - Codelist
+           * - Collaboration Type
+             - `Collaboration Type <http://iatistandard.org/202/codelists/CollaborationType/>`__
+           * - Default Flow Type
+             - `Flow Type <http://iatistandard.org/202/codelists/FlowType/>`__
+           * - Default Finance Type
+             - `Finance Type <http://iatistandard.org/202/codelists/FinanceType/>`__
+           * - Default Aid Type
+             - `Aid Type <http://iatistandard.org/202/codelists/AidType/>`__
+           * - Default Tied Status
+             - `Tied Status <http://iatistandard.org/202/codelists/TiedStatus/>`__
+
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: </location>
+         :end-before: <transaction>
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :file: docs/examples/aid_classifications.csv
+          :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | (see 'How' above)
+
 
 ### Sector Classification
 
