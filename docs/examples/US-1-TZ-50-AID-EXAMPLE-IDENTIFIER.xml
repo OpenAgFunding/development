@@ -16,6 +16,7 @@
         <description type="3">
             <narrative>Statement of groups targeted to benefit from the activity.</narrative>
         </description>
+        <!--pre-participating-org-bookmark-->
         <participating-org ref="US-USAGOV" role="1" type="10">
             <narrative>USA</narrative>
         </participating-org>
@@ -60,6 +61,12 @@
             <exactness code="1"/>
             <location-class code="4"/>
         </location>
+        <sector vocabulary="1" code="31110">
+            <narrative>Agriculture</narrative>
+        </sector>
+        <sector vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207">
+            <narrative xml:lang="en">production possibilities</narrative>
+        </sector>
         <collaboration-type code="1"/>
         <default-flow-type code="10"/>
         <default-finance-type code="110"/>

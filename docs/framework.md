@@ -254,17 +254,106 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
 * AGROVOC
 * Agricultural Technology Ontology
 
+> TODO: check available Ag codelists
 
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          Sector classifications allow publishers to specify why they are undertaking a given activity. This is very useful for data users, as it can be cross-referenced with locations / recipient countries / and the receivers of transctions to give an insight in to what aspects of development assistance are well funded, where and to whom.
+
+      .. admonition:: How?
+
+          A recognised code, from a recognised vocabulary, classifying the purpose of the activity. Sector must either be reported at the activity level or at transaction level for all transactions.
+
+          The most commonly used sector vocabulary is the `OECD DAC CRS Purpose Codes <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__. This is useful to make a broad categorisation of an activity (or transaction), but has limited scope to capture details about agricultural projects.
+
+          This is where other vocabularies become useful. There are two ways of using another sector vocabularly:
+
+          1. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/SectorVocabulary/>`__.
+
+          2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: </location>
+         :end-before: <collaboration-type code="1"/>
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :file: docs/examples/sectors.csv
+          :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Sector](http://iatistandard.org/activity-standard/iati-activities/iati-activity/sector/)
 
 ### Participating Organisations
 
 Details on all participating organisations, including partners. This information should be kept updated as new partners are engaged with a project.
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          Declaring participating organisations is one way of connecting IATI data together, and allowing data users to know which funders, partners, sub-contractors, or grantees are conencted to a given activity.
+
+      .. admonition:: How?
+
+          Organisations are identified by their name and IATI Identifier (which is declared in the ``ref`` attribute). How they relate to the project is declared in the ``role`` attribute, which corresponds to the `Organisation Role codelist <http://iatistandard.org/202/codelists/OrganisationRole/>`__, and the type of the organisation is declared in the `Organisation Type codelist <http://iatistandard.org/202/codelists/OrganisationType/>`__.
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <!--pre-participating-org-bookmark-->
+         :end-before: <!--pre-status-bookmark-->
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :file: docs/examples/participating-orgs.csv
+          :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Participating Organisation](http://iatistandard.org/activity-standard/iati-activities/iati-activity/participating-org/)
 
 ### Contact details
 
 At least one contact address for more information on the specific project.
 Documents
 Any relevant and associated project documents should be published and linked to. Examples of useful documents include: project plans, monitoring data, interim reports and evaluations.
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          Contact details offer data users an official communication channel which can be used to make enquiries about data.
+
+      .. admonition:: How?
+
+          IATI is quite flexible with which aspects of the contact information can be included or omitted, but the fields given in the XML and CSV is recommended. For a full breakdown of the available fields, see the official documentation linked below
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <activity-date iso-date="2017-04-07" type="4"/>
+         :end-before: <activity-scope code="4"/>
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :file: docs/examples/contact-info.csv
+          :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Contact Info](http://iatistandard.org/activity-standard/iati-activities/iati-activity/contact-info/)
 
 ### Location (Country/Region)
 
