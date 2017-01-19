@@ -49,17 +49,24 @@
         </contact-info>
         <activity-scope code="4"/>
         <recipient-country code="TZ" percentage="100"/>
+        <!-- for Tanzania. This could also have been: -->
+        <recipient-region code="298" percentage="100"/>
         <location>
             <location-reach code="1"/>
+            <location-id vocabulary="G1" code="159239"/>
             <name>
-                <narrative>Tanzania</narrative>
+                <narrative>Ilala District, Dar es Salaam, Tanzania TZ</narrative>
             </name>
             <description>
-                <narrative>Strong partners for over five decades, Tanzania and the United States are working towards a shared vision of improving the quality of life for all Tanzanians. Despite its political stability and high levels of economic growth over the past
-                    two decades, roughly 28 percent of the population lives below the poverty line. The goal of U.S. assistance is to promote a healthy, prosperous, democratic, well-governed and secure Tanzania.</narrative>
+                <narrative>Ilala District is one of three districts in Dar es Salaam, Tanzania, the others being Temeke to the South and Kinondoni to the North. The 2002 National Tanzania Census states the population for Ilala as 634,924. The area is 273 km². Ilala is commonly referred to as 'Downtown Dar', where much of the commerce, banking, and national offices are located.</narrative>
             </description>
+            <administrative vocabulary="G1" level="2" code="159239"/>
+            <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+                <pos>-6.91805, 39.16254</pos>
+            </point>
             <exactness code="1"/>
-            <location-class code="4"/>
+            <location-class code="1"/>
+            <feature-designation code="ADMD"/>
         </location>
         <sector vocabulary="1" code="31110">
             <narrative>Agriculture</narrative>

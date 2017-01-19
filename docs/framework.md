@@ -357,11 +357,88 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 ### Location (Country/Region)
 
-Including information on the percentage of total project budget in each country or region (when more than one is present).
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          To share where the benefit of a given activity will be. Ideally specifying a country, but if that information isn't available, then specifying a region.
+
+      .. admonition:: How?
+
+          By using an `ISO country code <http://iatistandard.org/202/codelists/Country/>`__, or `OECD DAC CRS Region code <http://iatistandard.org/202/codelists/Region/>`__.
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <activity-scope code="4"/>
+         :end-before: <location>
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :header-rows: 1
+
+          recipient-country/@code, recipient-country/@percentage
+          "TZ","100"
+
+        For Tanzania. This could also have been:
+
+        .. csv-table::
+          :header-rows: 1
+
+          recipient-region/@code, recipient-region/@percentage
+          "298","100"
+
+
+
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Recipient Country](http://iatistandard.org/activity-standard/iati-activities/iati-activity/recipient-country/) OR [Recipient Region](http://iatistandard.org/activity-standard/iati-activities/iati-activity/recipient-region/)
+
 
 ### Sub-national location
 
 Detailed information on the on-the-ground location where activities are taking place.  Where possible, this should be to the geographic precision of second order administrative division (ADM2).
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          To share where the benefit of a given activity will be, but more specifically.
+
+      .. admonition:: How?
+
+         How text
+
+         .. raw:: html
+
+           <embed>
+            <video width="320" height="240" controls>
+              <source src="../_images/Kazam_screencast_00000.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+           </embed>
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <recipient-region code="298" percentage="100"/>
+         :end-before: <sector vocabulary="1" code="31110">
+         :dedent: 8
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+         :file: docs/examples/location.csv
+         :header-rows: 1
+
+
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Location](http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/)
 
 ### Budget
 
