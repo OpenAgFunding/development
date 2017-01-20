@@ -66,7 +66,7 @@
             </point>
             <exactness code="1"/>
             <location-class code="1"/>
-            <feature-designation code="ADMD"/>
+            <feature-designation code="ADM2"/>
         </location>
         <sector vocabulary="1" code="31110">
             <narrative>Agriculture</narrative>

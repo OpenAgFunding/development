@@ -400,7 +400,9 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 ### Sub-national location
 
-Detailed information on the on-the-ground location where activities are taking place.  Where possible, this should be to the geographic precision of second order administrative division (ADM2).
+Detailed information on the on-the-ground location where activities are taking place.  Where possible, this should be to the geographic precision of second order administrative division (ADM2) - see the video in 'how' below.
+
+> Note that the fields which have been highlighted yellow in the XML example are likely to be generic across activities, and so haven't been explored in much depth below. See the location documentation linked at the bottom of this section for more details.
 
 ```eval_rst
 
@@ -408,26 +410,46 @@ Detailed information on the on-the-ground location where activities are taking p
 
       .. admonition:: Why?
 
-          To share where the benefit of a given activity will be, but more specifically.
+          To share where the benefit or beneficiaries of a given activity will be *specifically*.
 
       .. admonition:: How?
 
          This element has a lot of flexibility, supporting multiple vocabularies and allowing a data publisher to include a lot of information.
 
-         > Rory note to self for drafting: highlighted lines in the XML below can be treated as static i.e. most of the time, publishers will want these values...
+         Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relelvant values to specify it. Consider the video below:
 
          .. raw:: html
 
-           <embed>
+           <embed align="centre">
             <video width="640" height="480" controls>
               <source src="../_static/video/geonames_example.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
            </embed>
 
+         **Steps:**
+
+         * Go to the `Geonames website <http://www.geonames.org/v3/>`__
+         * Search for the country, province, administrative district etc., "Ilala District" in this case.
+         * Click the 'Search worldwide' button.
+         * Click the dropdown menu, which reads "Found X items in this area".
+         * Filter by code or class for find the 'AMD2' entries if possible (if unsucessful, try a broader region like "Dar es Salaam" and look for 'AMD1').
+         * Once the small preview has come up, click on the name of the area to be taken to an overview of its boundaries
+
+         Below is an image of the resulting pop-up window, annotated with green numbers for reference:
+
+         .. image:: _static/images/markedup_geonames_result.png
+            :width: 640
+
+         These valeues can then be used to populat the following location fields:
+
+         * (1): "ADM2" in ``feature-designation``
+         * (2): "159239" in ``location-id`` and ``administrative``
+         * (3): "-6.91805, 39.16254" in ``point``
+
       .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
          :language: xml
-         :emphasize-lines: 2, 14, 15
+         :emphasize-lines: 2, 11, 14, 15
          :start-after: <recipient-region code="298" percentage="100"/>
          :end-before: <sector vocabulary="1" code="31110">
          :dedent: 8
