@@ -412,7 +412,9 @@ Detailed information on the on-the-ground location where activities are taking p
 
       .. admonition:: How?
 
-         How text
+         This element has a lot of flexibility, supporting multiple vocabularies and allowing a data publisher to include a lot of information.
+
+         > Rory note to self for drafting: highlighted lines in the XML below can be treated as static i.e. most of the time, publishers will want these values...
 
          .. raw:: html
 
@@ -425,6 +427,7 @@ Detailed information on the on-the-ground location where activities are taking p
 
       .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
          :language: xml
+         :emphasize-lines: 2, 14, 15
          :start-after: <recipient-region code="298" percentage="100"/>
          :end-before: <sector vocabulary="1" code="31110">
          :dedent: 8
