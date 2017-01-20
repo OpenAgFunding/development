@@ -417,8 +417,8 @@ Detailed information on the on-the-ground location where activities are taking p
          .. raw:: html
 
            <embed>
-            <video width="320" height="240" controls>
-              <source src="../_images/Kazam_screencast_00000.mp4" type="video/mp4">
+            <video width="640" height="480" controls>
+              <source src="../_static/video/geonames_example.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
            </embed>
