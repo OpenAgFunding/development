@@ -357,6 +357,8 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 ### Location (Country/Region)
 
+A broad declaration of the country or region which is the recipient of the activity. This is achieved using codelists reference in the 'how' section below.
+
 ```eval_rst
 
   .. doc-tabs::
@@ -391,6 +393,8 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
           recipient-region/@code, recipient-region/@percentage
           "298","100"
 
+        298 = 'Africa, regional' on the Region codelist (see 'how')
+
 
 
 ```
@@ -416,7 +420,7 @@ Detailed information on the on-the-ground location where activities are taking p
 
          This element has a lot of flexibility, supporting multiple vocabularies and allowing a data publisher to include a lot of information.
 
-         Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relelvant values to specify it. Consider the video below:
+         Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relelvant values to specify it. Take a look at the video below:
 
          .. raw:: html
 
@@ -441,7 +445,7 @@ Detailed information on the on-the-ground location where activities are taking p
          .. image:: _static/images/markedup_geonames_result.png
             :width: 640
 
-         These valeues can then be used to populat the following location fields:
+         These values can then be used to populat the following location fields:
 
          * (1): "ADM2" in ``feature-designation``
          * (2): "159239" in ``location-id`` and ``administrative``
@@ -472,6 +476,34 @@ Year by year project budget information.
 ### Transaction
 
 Information on the major transactions associated with the project, particularly commitments and disbursements to partners.
+
+```eval_rst
+
+  .. doc-tabs::
+
+      .. admonition:: Why?
+
+          why text
+
+      .. admonition:: How?
+
+          how text
+
+      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+         :language: xml
+         :start-after: <default-tied-status code="5"/>
+         :end-before: <!--transaction-bookmark-1-->
+         :emphasize-lines: 14, 16, 17, 18, 19, 20, 21
+         :dedent: 8
+
+      Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in the CSV example or explained in detial here.
+
+      .. container :: csv
+
+        .. csv-table:: CSV
+          :file: docs/examples/transaction_full.csv
+          :header-rows: 1
+```
 
 ### Transaction classification
 

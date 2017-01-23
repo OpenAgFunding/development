@@ -51,6 +51,7 @@
         <recipient-country code="TZ" percentage="100"/>
         <!-- for Tanzania. This could also have been: -->
         <recipient-region code="298" percentage="100"/>
+        <!-- 298 = 'Africa, regional' on the Region codelist (see 'how') -->
         <location>
             <location-reach code="1"/>
             <location-id vocabulary="G1" code="159239"/>
@@ -58,7 +59,8 @@
                 <narrative>Ilala District, Dar es Salaam, Tanzania TZ</narrative>
             </name>
             <description>
-                <narrative>Ilala District is one of three districts in Dar es Salaam, Tanzania, the others being Temeke to the South and Kinondoni to the North. The 2002 National Tanzania Census states the population for Ilala as 634,924. The area is 273 km². Ilala is commonly referred to as 'Downtown Dar', where much of the commerce, banking, and national offices are located.</narrative>
+                <narrative>Ilala District is one of three districts in Dar es Salaam, Tanzania, the others being Temeke to the South and Kinondoni to the North. The 2002 National Tanzania Census states the population for Ilala as 634,924. The area is 273 km². Ilala
+                    is commonly referred to as 'Downtown Dar', where much of the commerce, banking, and national offices are located.</narrative>
             </description>
             <administrative vocabulary="G1" level="2" code="159239"/>
             <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
@@ -79,6 +81,29 @@
         <default-finance-type code="110"/>
         <default-aid-type code="C01"/>
         <default-tied-status code="5"/>
+        <transaction ref="1234" humanitarian="1">
+            <transaction-type code="1"/>
+            <transaction-date iso-date="2012-01-01"/>
+            <value currency="EUR" value-date="2012-01-01">1000</value>
+            <description>
+                <narrative>Transaction description text</narrative>
+            </description>
+            <provider-org provider-activity-id="BB-BBB-123456789-1234AA" type="10" ref="BB-BBB-123456789">
+                <narrative>Agency B</narrative>
+            </provider-org>
+            <receiver-org receiver-activity-id="AA-AAA-123456789-1234" type="23" ref="AA-AAA-123456789">
+                <narrative>Agency A</narrative>
+            </receiver-org>
+            <sector vocabulary="2" code="111"/>
+            <!--Note: only a recipient-region OR a recipient-country is expected-->
+            <recipient-country code="TM"/>
+            <recipient-region code="616" vocabulary="1"/>
+            <flow-type code="10"/>
+            <finance-type code="110"/>
+            <aid-type code="A01"/>
+            <tied-status code="3"/>
+        </transaction>
+        <!--transaction-bookmark-1-->
         <transaction>
             <transaction-type code="3"/>
             <transaction-date iso-date="2015-12-31"/>
