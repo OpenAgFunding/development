@@ -61,29 +61,47 @@ A clear and comprehensible project title that indicates the focus of the activit
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          To indicate the focus of the activity.
+        Giving each activity a clear titles makes discovering and understanding the focus of activities much easier. This is particularly important when data about activities is being shared across contexts and in different platforms. 
 
-      .. admonition:: How?
+        Compare the two lists below? Which would you prefer to see in your search results when browsing for relevant projects and investments?
 
-          Using a plain text title.
+        .. csv-table:: CSV
+           :header-rows: 1
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: </reporting-org>
-         :end-before: <description>
-         :dedent: 8
+           Bad titles,Good titles
+           PROFSERV 15-17 Ghana WDP,Western Ghana Wheat Development Project
+           PA Zambia RDP,Zambia Rural Development Project (Partnership Agreement)
+           EARS NP,Early Recovery in Agriculture Sector in Nepal
 
-      .. container :: csv
+    .. admonition:: How?
 
-          .. csv-table:: CSV
-             :header-rows: 1
+        Usually you will be able to take activity titles from your existing database or management information systems. A good title will:
 
-             title/narrative
-             Agricultural Capacity Building in Tanzania
+        * Avoid acroynms (unless very widely used - e.g. UN);
+        * Be 2 - 10 words long;
+        * Put a project in context (e.g. mentioning the country or locality for the project, the goals, or the crop types)
+
+        Consider whether the interface for entering activity names in your database, or training for the people who add new activities, needs to be adapted to promote good quality titles. 
+
+        The title field in IATI uses the 'narrative' element to allow titles to be provided in multiple languages. If you don
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: </reporting-org>
+       :end-before: <description>
+       :dedent: 8
+
+    .. container :: csv
+
+        .. csv-table:: CSV
+           :header-rows: 1
+
+           title/narrative
+           Agricultural Capacity Building in Tanzania
 
 ```
 
@@ -95,35 +113,49 @@ Unstructured text describing the activity, its objectives, or its target groups.
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          To offer a more detailed textual account of the activity, its objectives, or its target groups.
+        The general description of an activity is often the first thing peopel will see when trying to understand the details of an investment or activity. Descriptions are also used by auto-classification tools, that may look for agriculture-specific keywords. 
 
-      .. admonition:: How?
+        Including a separate description of the objectives of an activity, and the target groups, can further help both individuals reading up on a project, and computers configured to assist with searching across projects. 
 
-          Distinct descriptions should be provided for:
+    .. admonition:: How?
 
-          * A description of activity in general
+        The description element can be used to provide distinct text for:
 
-          * The objectives of activity
+        * A description of activity in general
+        * The objectives of activity
+        * The target groups of activity
 
-          * The target groups of activity
+        The type of description provided is specified using the description's `@code` attribute as illustrated in the see the xml example. 
 
-          Which these are specified by the description's `@code` attribute (see the xml example)
+        You may need to consider how project forms, and project databases, collect clear descriptions for each of these fields, or it may be possible to automatically populate objective and target-group fields from structured information in your project database, log-frames or project documents. 
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: </title>
-         :end-before: <participating-org ref="US-USAGOV" role="1" type="10">
-         :dedent: 8
+        A good general description to support Open Ag Funding will be:
 
-      .. container :: csv
+        * 20 - 500 words long;
+        * Have a first paragraph written for a general audience;
+        * Include additional detail in subsequent paragraphs, with specialist information and terminology where appropriate; 
+        * Avoid acronyms, but not avoid specific technical terms - as these can be useful for search and auto-classification; 
+        * Include a line-break between paragraphs;
 
-        .. csv-table:: CSV
-          :file: docs/examples/description.csv
-          :header-rows: 1
+        Objectives and target group descriptions might be written in prose, or using short bullet points. 
+
+        TODO: IMPROVE THE EXAMPLE DESCRIPTIONS TO MATCH THE ABOVE REQUIREMENTS
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: </title>
+       :end-before: <participating-org ref="US-USAGOV" role="1" type="10">
+       :dedent: 8
+
+    .. container :: csv
+
+      .. csv-table:: CSV
+        :file: docs/examples/description.csv
+        :header-rows: 1
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Description](http://iatistandard.org/activity-standard/iati-activities/iati-activity/title/)
@@ -134,29 +166,29 @@ Indidcates what phase an activity is in its life cycle.
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          To let data users know if a project is still being implemented, completed, or in another state.
+        The activity status makes it clear whether a project is planned, active or completed. This is important to support collaboration on upcoming projects, or shared learning from projects that have already taken place.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          By choosing from one of the available codes in the `Activity Status codelist <http://iatistandard.org/202/codelists/ActivityStatus/>`_.
+        Chose from one of the available codes in the `Activity Status codelist <http://iatistandard.org/202/codelists/ActivityStatus/>`_.
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: <!--pre-status-bookmark-->
-         :end-before: <activity-date iso-date="2011-04-08" type="2">
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <!--pre-status-bookmark-->
+       :end-before: <activity-date iso-date="2011-04-08" type="2">
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-           :header-rows: 1
+      .. csv-table:: CSV
+         :header-rows: 1
 
-           activity-status/@code
-           2
+         activity-status/@code
+         2
 ```
 > Note: the code '2' in the examples above means 'Implementing'
 
@@ -168,30 +200,30 @@ Start and end dates, either planned or actual.
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          These dates allow data users to tell when a project is planned to start and finish, or when a project actually started or finished.
+        These dates allow data users to tell when a project is planned to start and finish, or when a project actually started or finished.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          A standardised iso date with the format YYYY-MM-DD, plus a code to declare if a date is start/end planned/actual, according to the `Activity Date Type codelist <http://iatistandard.org/202/codelists/ActivityDateType/>`__.
+        A standardised iso date with the format YYYY-MM-DD, plus a code to declare if a date is start/end planned/actual, according to the `Activity Date Type codelist <http://iatistandard.org/202/codelists/ActivityDateType/>`__.
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: <activity-status code="2"/>
-         :end-before: <contact-info type="1">
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <activity-status code="2"/>
+       :end-before: <contact-info type="1">
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-          .. csv-table:: CSV
-             :header-rows: 1
+        .. csv-table:: CSV
+           :header-rows: 1
 
-             activity-date/@iso-date, activity-date/@type
-             2011-04-08,2
-             2017-04-07,4
+           activity-date/@iso-date, activity-date/@type
+           2011-04-08,2
+           2017-04-07,4
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Activity Date](http://iatistandard.org/activity-standard/iati-activities/iati-activity/activity-date/)
@@ -205,44 +237,44 @@ Note: These will often be set as constant values for any given reporting organis
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          These fields are particularly useful when publishing `OECD DAC CRS <https://stats.oecd.org/Index.aspx?DataSetCode=CRS1>`__ compatible activities.
+        These fields are particularly useful when publishing `OECD DAC CRS <https://stats.oecd.org/Index.aspx?DataSetCode=CRS1>`__ compatible activities.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          Each of these fields have their own corresponding codelist, linked below:
+        Each of these fields have their own corresponding codelist, linked below:
 
-          .. list-table:: Aid Classification Codelists
-           :header-rows: 1
+        .. list-table:: Aid Classification Codelists
+         :header-rows: 1
 
-           * - Element
-             - Codelist
-           * - `Collaboration Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/collaboration-type/>`__
-             - `Collaboration Type <http://iatistandard.org/202/codelists/CollaborationType/>`__
-           * - `Default Flow Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-flow-type/>`__
-             - `Flow Type <http://iatistandard.org/202/codelists/FlowType/>`__
-           * - `Default Finance Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-finance-type/>`__
-             - `Finance Type <http://iatistandard.org/202/codelists/FinanceType/>`__
-           * - `Default Aid Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-aid-type/>`__
-             - `Aid Type <http://iatistandard.org/202/codelists/AidType/>`__
-           * - `Default Tied Status <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-tied-status/>`__
-             - `Tied Status <http://iatistandard.org/202/codelists/TiedStatus/>`__
+         * - Element
+           - Codelist
+         * - `Collaboration Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/collaboration-type/>`__
+           - `Collaboration Type <http://iatistandard.org/202/codelists/CollaborationType/>`__
+         * - `Default Flow Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-flow-type/>`__
+           - `Flow Type <http://iatistandard.org/202/codelists/FlowType/>`__
+         * - `Default Finance Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-finance-type/>`__
+           - `Finance Type <http://iatistandard.org/202/codelists/FinanceType/>`__
+         * - `Default Aid Type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-aid-type/>`__
+           - `Aid Type <http://iatistandard.org/202/codelists/AidType/>`__
+         * - `Default Tied Status <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/default-tied-status/>`__
+           - `Tied Status <http://iatistandard.org/202/codelists/TiedStatus/>`__
 
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: </location>
-         :end-before: <transaction>
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: </location>
+       :end-before: <transaction>
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-          :file: docs/examples/aid_classifications.csv
-          :header-rows: 1
+      .. csv-table:: CSV
+        :file: docs/examples/aid_classifications.csv
+        :header-rows: 1
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | (see 'How' above)
@@ -258,35 +290,35 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          Sector classifications allow publishers to specify why they are undertaking a given activity. This is very useful for data users, as it can be cross-referenced with locations / recipient countries / and the receivers of transctions to give an insight in to what aspects of development assistance are well funded, where and to whom.
+        Sector classifications allow publishers to specify why they are undertaking a given activity. This is very useful for data users, as it can be cross-referenced with locations / recipient countries / and the receivers of transctions to give an insight in to what aspects of development assistance are well funded, where and to whom.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          A recognised code, from a recognised vocabulary, classifying the purpose of the activity. Sector must either be reported at the activity level or at transaction level for all transactions.
+        A recognised code, from a recognised vocabulary, classifying the purpose of the activity. Sector must either be reported at the activity level or at transaction level for all transactions.
 
-          The most commonly used sector vocabulary is the `OECD DAC CRS Purpose Codes <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__. This is useful to make a broad categorisation of an activity (or transaction), but has limited scope to capture details about agricultural projects.
+        The most commonly used sector vocabulary is the `OECD DAC CRS Purpose Codes <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__. This is useful to make a broad categorisation of an activity (or transaction), but has limited scope to capture details about agricultural projects.
 
-          This is where other vocabularies become useful. There are two ways of using another sector vocabularly:
+        This is where other vocabularies become useful. There are two ways of using another sector vocabularly:
 
-          1. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/SectorVocabulary/>`__.
+        1. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/SectorVocabulary/>`__.
 
-          2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
+        2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: </location>
-         :end-before: <collaboration-type code="1"/>
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: </location>
+       :end-before: <collaboration-type code="1"/>
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-          :file: docs/examples/sectors.csv
-          :header-rows: 1
+      .. csv-table:: CSV
+        :file: docs/examples/sectors.csv
+        :header-rows: 1
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Sector](http://iatistandard.org/activity-standard/iati-activities/iati-activity/sector/)
@@ -297,27 +329,27 @@ Details on all participating organisations, including partners. This information
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          Declaring participating organisations is one way of connecting IATI data together, and allowing data users to know which funders, partners, sub-contractors, or grantees are conencted to a given activity.
+        Declaring participating organisations is one way of connecting IATI data together, and allowing data users to know which funders, partners, sub-contractors, or grantees are conencted to a given activity.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          Organisations are identified by their name and IATI Identifier (which is declared in the ``ref`` attribute). How they relate to the project is declared in the ``role`` attribute, which corresponds to the `Organisation Role codelist <http://iatistandard.org/202/codelists/OrganisationRole/>`__, and the type of the organisation is declared in the `Organisation Type codelist <http://iatistandard.org/202/codelists/OrganisationType/>`__.
+        Organisations are identified by their name and IATI Identifier (which is declared in the ``ref`` attribute). How they relate to the project is declared in the ``role`` attribute, which corresponds to the `Organisation Role codelist <http://iatistandard.org/202/codelists/OrganisationRole/>`__, and the type of the organisation is declared in the `Organisation Type codelist <http://iatistandard.org/202/codelists/OrganisationType/>`__.
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: <!--pre-participating-org-bookmark-->
-         :end-before: <!--pre-status-bookmark-->
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <!--pre-participating-org-bookmark-->
+       :end-before: <!--pre-status-bookmark-->
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-          :file: docs/examples/participating-orgs.csv
-          :header-rows: 1
+      .. csv-table:: CSV
+        :file: docs/examples/participating-orgs.csv
+        :header-rows: 1
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Participating Organisation](http://iatistandard.org/activity-standard/iati-activities/iati-activity/participating-org/)
@@ -330,27 +362,27 @@ Any relevant and associated project documents should be published and linked to.
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          Contact details offer data users an official communication channel which can be used to make enquiries about data.
+        Contact details offer data users an official communication channel which can be used to make enquiries about data.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          IATI is quite flexible with which aspects of the contact information can be included or omitted, but the fields given in the XML and CSV is recommended. For a full breakdown of the available fields, see the official documentation linked below
+        IATI is quite flexible with which aspects of the contact information can be included or omitted, but the fields given in the XML and CSV is recommended. For a full breakdown of the available fields, see the official documentation linked below
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: <activity-date iso-date="2017-04-07" type="4"/>
-         :end-before: <activity-scope code="4"/>
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <activity-date iso-date="2017-04-07" type="4"/>
+       :end-before: <activity-scope code="4"/>
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-          :file: docs/examples/contact-info.csv
-          :header-rows: 1
+      .. csv-table:: CSV
+        :file: docs/examples/contact-info.csv
+        :header-rows: 1
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Contact Info](http://iatistandard.org/activity-standard/iati-activities/iati-activity/contact-info/)
@@ -361,39 +393,39 @@ A broad declaration of the country or region which is the recipient of the activ
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          To share where the benefit of a given activity will be. Ideally specifying a country, but if that information isn't available, then specifying a region.
+        To share where the benefit of a given activity will be. Ideally specifying a country, but if that information isn't available, then specifying a region.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          By using an `ISO country code <http://iatistandard.org/202/codelists/Country/>`__, or `OECD DAC CRS Region code <http://iatistandard.org/202/codelists/Region/>`__.
+        By using an `ISO country code <http://iatistandard.org/202/codelists/Country/>`__, or `OECD DAC CRS Region code <http://iatistandard.org/202/codelists/Region/>`__.
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: <activity-scope code="4"/>
-         :end-before: <location>
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <activity-scope code="4"/>
+       :end-before: <location>
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-          :header-rows: 1
+      .. csv-table:: CSV
+        :header-rows: 1
 
-          recipient-country/@code, recipient-country/@percentage
-          "TZ","100"
+        recipient-country/@code, recipient-country/@percentage
+        "TZ","100"
 
-        For Tanzania. This could also have been:
+      For Tanzania. This could also have been:
 
-        .. csv-table::
-          :header-rows: 1
+      .. csv-table::
+        :header-rows: 1
 
-          recipient-region/@code, recipient-region/@percentage
-          "298","100"
+        recipient-region/@code, recipient-region/@percentage
+        "298","100"
 
-        298 = 'Africa, regional' on the Region codelist (see 'how')
+      298 = 'Africa, regional' on the Region codelist (see 'how')
 
 
 
@@ -410,59 +442,59 @@ Detailed information on the on-the-ground location where activities are taking p
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          To share where the benefit or beneficiaries of a given activity will be *specifically*.
+        To share where the benefit or beneficiaries of a given activity will be *specifically*.
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-         This element has a lot of flexibility, supporting multiple vocabularies and allowing a data publisher to include a lot of information.
+       This element has a lot of flexibility, supporting multiple vocabularies and allowing a data publisher to include a lot of information.
 
-         Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relelvant values to specify it. Take a look at the video below:
+       Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relelvant values to specify it. Take a look at the video below:
 
-         .. raw:: html
+       .. raw:: html
 
-           <embed align="centre">
-            <video width="640" height="480" controls>
-              <source src="../_static/video/geonames_example.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-           </embed>
+         <embed align="centre">
+          <video width="640" height="480" controls>
+            <source src="../_static/video/geonames_example.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+          </video>
+         </embed>
 
-         **Steps:**
+       **Steps:**
 
-         * Go to the `Geonames website <http://www.geonames.org/v3/>`__
-         * Search for the country, province, administrative district etc., "Ilala District" in this case.
-         * Click the 'Search worldwide' button.
-         * Click the dropdown menu, which reads "Found X items in this area".
-         * Filter by code or class for find the 'AMD2' entries if possible (if unsucessful, try a broader region like "Dar es Salaam" and look for 'AMD1').
-         * Once the small preview has come up, click on the name of the area to be taken to an overview of its boundaries
+       * Go to the `Geonames website <http://www.geonames.org/v3/>`__
+       * Search for the country, province, administrative district etc., "Ilala District" in this case.
+       * Click the 'Search worldwide' button.
+       * Click the dropdown menu, which reads "Found X items in this area".
+       * Filter by code or class for find the 'AMD2' entries if possible (if unsucessful, try a broader region like "Dar es Salaam" and look for 'AMD1').
+       * Once the small preview has come up, click on the name of the area to be taken to an overview of its boundaries
 
-         Below is an image of the resulting pop-up window, annotated with green numbers for reference:
+       Below is an image of the resulting pop-up window, annotated with green numbers for reference:
 
-         .. image:: _static/images/markedup_geonames_result.png
-            :width: 640
+       .. image:: _static/images/markedup_geonames_result.png
+          :width: 640
 
-         These values can then be used to populat the following location fields:
+       These values can then be used to populat the following location fields:
 
-         * (1): "ADM2" in ``feature-designation``
-         * (2): "159239" in ``location-id`` and ``administrative``
-         * (3): "-6.91805, 39.16254" in ``point``
+       * (1): "ADM2" in ``feature-designation``
+       * (2): "159239" in ``location-id`` and ``administrative``
+       * (3): "-6.91805, 39.16254" in ``point``
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :emphasize-lines: 2, 11, 14, 15
-         :start-after: <recipient-region code="298" percentage="100"/>
-         :end-before: <sector vocabulary="1" code="31110">
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :emphasize-lines: 2, 11, 14, 15
+       :start-after: <recipient-region code="298" percentage="100"/>
+       :end-before: <sector vocabulary="1" code="31110">
+       :dedent: 8
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-         :file: docs/examples/location.csv
-         :header-rows: 1
+      .. csv-table:: CSV
+       :file: docs/examples/location.csv
+       :header-rows: 1
 
 
 ```
@@ -479,30 +511,30 @@ Information on the major transactions associated with the project, particularly 
 
 ```eval_rst
 
-  .. doc-tabs::
+.. doc-tabs::
 
-      .. admonition:: Why?
+    .. admonition:: Why?
 
-          why text
+        why text
 
-      .. admonition:: How?
+    .. admonition:: How?
 
-          how text
+        how text
 
-      .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
-         :language: xml
-         :start-after: <default-tied-status code="5"/>
-         :end-before: <!--transaction-bookmark-1-->
-         :emphasize-lines: 14, 16, 17, 18, 19, 20, 21
-         :dedent: 8
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <default-tied-status code="5"/>
+       :end-before: <!--transaction-bookmark-1-->
+       :emphasize-lines: 14, 16, 17, 18, 19, 20, 21
+       :dedent: 8
 
-      Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in the CSV example or explained in detial here.
+    Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in the CSV example or explained in detial here.
 
-      .. container :: csv
+    .. container :: csv
 
-        .. csv-table:: CSV
-          :file: docs/examples/transaction_full.csv
-          :header-rows: 1
+     # .. csv-table:: CSV
+     #   :file: docs/examples/transaction_full.csv
+     #   :header-rows: 1
 ```
 
 ### Transaction classification
@@ -526,6 +558,7 @@ Even when results data is not available, the indicators by which a project impac
 ### Reporting Organization
 
 ```eval_rst
+
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -565,6 +598,7 @@ IATI Docs: [reporting-org](http://iatistandard.org/activity-standard/iati-activi
 ### Metadata: default currency and language
 
 ```eval_rst
+
 .. doc-tabs::
 
     .. admonition:: Why?
