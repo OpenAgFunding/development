@@ -65,7 +65,7 @@ A clear and comprehensible project title that indicates the focus of the activit
 
     .. admonition:: Why?
 
-        Giving each activity a clear titles makes discovering and understanding the focus of activities much easier. This is particularly important when data about activities is being shared across contexts and in different platforms. 
+        Giving each activity a clear titles makes discovering and understanding the focus of activities much easier. This is particularly important when data about activities is being shared across contexts and in different platforms.
 
         Compare the two lists below? Which would you prefer to see in your search results when browsing for relevant projects and investments?
 
@@ -85,14 +85,14 @@ A clear and comprehensible project title that indicates the focus of the activit
         * Be 2 - 10 words long;
         * Put a project in context (e.g. mentioning the country or locality for the project, the goals, or the crop types)
 
-        Consider whether the interface for entering activity names in your database, or training for the people who add new activities, needs to be adapted to promote good quality titles. 
+        Consider whether the interface for entering activity names in your database, or training for the people who add new activities, needs to be adapted to promote good quality titles.
 
         The title field in IATI uses the 'narrative' element to allow titles to be provided in multiple languages. If you don
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
        :start-after: </reporting-org>
-       :end-before: <description>
+       :end-before: <description type="1">
        :dedent: 8
 
     .. container :: csv
@@ -117,9 +117,9 @@ Unstructured text describing the activity, its objectives, or its target groups.
 
     .. admonition:: Why?
 
-        The general description of an activity is often the first thing peopel will see when trying to understand the details of an investment or activity. Descriptions are also used by auto-classification tools, that may look for agriculture-specific keywords. 
+        The general description of an activity is often the first thing peopel will see when trying to understand the details of an investment or activity. Descriptions are also used by auto-classification tools, that may look for agriculture-specific keywords.
 
-        Including a separate description of the objectives of an activity, and the target groups, can further help both individuals reading up on a project, and computers configured to assist with searching across projects. 
+        Including a separate description of the objectives of an activity, and the target groups, can further help both individuals reading up on a project, and computers configured to assist with searching across projects.
 
     .. admonition:: How?
 
@@ -129,19 +129,19 @@ Unstructured text describing the activity, its objectives, or its target groups.
         * The objectives of activity
         * The target groups of activity
 
-        The type of description provided is specified using the description's `@code` attribute as illustrated in the see the xml example. 
+        The type of description provided is specified using the description's `@code` attribute as illustrated in the see the xml example.
 
-        You may need to consider how project forms, and project databases, collect clear descriptions for each of these fields, or it may be possible to automatically populate objective and target-group fields from structured information in your project database, log-frames or project documents. 
+        You may need to consider how project forms, and project databases, collect clear descriptions for each of these fields, or it may be possible to automatically populate objective and target-group fields from structured information in your project database, log-frames or project documents.
 
         A good general description to support Open Ag Funding will be:
 
         * 20 - 500 words long;
         * Have a first paragraph written for a general audience;
-        * Include additional detail in subsequent paragraphs, with specialist information and terminology where appropriate; 
-        * Avoid acronyms, but not avoid specific technical terms - as these can be useful for search and auto-classification; 
+        * Include additional detail in subsequent paragraphs, with specialist information and terminology where appropriate;
+        * Avoid acronyms, but not avoid specific technical terms - as these can be useful for search and auto-classification;
         * Include a line-break between paragraphs;
 
-        Objectives and target group descriptions might be written in prose, or using short bullet points. 
+        Objectives and target group descriptions might be written in prose, or using short bullet points.
 
         TODO: IMPROVE THE EXAMPLE DESCRIPTIONS TO MATCH THE ABOVE REQUIREMENTS
 
@@ -179,7 +179,7 @@ Indidcates what phase an activity is in its life cycle.
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
        :start-after: <!--pre-status-bookmark-->
-       :end-before: <activity-date iso-date="2011-04-08" type="2">
+       :end-before: <activity-date iso-date="2011-04-08" type="2"/>
        :dedent: 8
 
     .. container :: csv
@@ -266,8 +266,8 @@ Note: These will often be set as constant values for any given reporting organis
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
-       :start-after: </location>
-       :end-before: <transaction>
+       :start-after: <!-- pre-aid-classifications-bookmark -->
+       :end-before: <transaction ref="1234" humanitarian="1">
        :dedent: 8
 
     .. container :: csv
@@ -311,7 +311,7 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
        :start-after: </location>
-       :end-before: <collaboration-type code="1"/>
+       :end-before: <!-- pre-policy-marker-bookmark -->
        :dedent: 8
 
     .. container :: csv
