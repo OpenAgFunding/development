@@ -3,6 +3,17 @@ Framework
 
 The Open Ag Funding framework identifies 20 elements from the IATI standard and how they should be used to meet the needs of agricultural development and food security funders and practitioners.
 
+The requirements can be divided into three groups
+
+```eval_rst
+.. csv-table:: Data Quality Requirements: Overview
+           :header-rows: 1
+
+           Meta-Data,Core IATI,Enhanced Data
+           "Fields that are important for interoperability, but that can often be set as constant values in the software or spreadsheets used to publish data","Fields that are part of the basic International Aid Transparency Initiative standard. These are commonly available in existing databases of funding or investments.","Fields or quality requirements for existing fields, tailored to the needs of the Agriculture and Food Security community. Providing these will  invole some additional steps to collect or re-code information."
+           "Activity ID, Activity Status, Default currency and language, Reporting Organisation, Aid Classifications","Activity Title, Activity Descriptions, Activity Dates, Budget, Location (Country/region), Transactions","Participating orgnaisations, Contact details, Sub-national location, Transaction classification, Transaction parties, Transaction traceability, Results information"
+```
+
 Each of the elements are outlined below, along with:
 
 * Why this element matters;
