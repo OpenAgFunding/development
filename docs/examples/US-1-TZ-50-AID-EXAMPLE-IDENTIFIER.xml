@@ -1,4 +1,4 @@
-<iati-activities version="2.01" generated-datetime="2017-01-03T16:28:56.595900">
+<iati-activities version="2.02" generated-datetime="2017-01-03T16:28:56.595900">
     <iati-activity default-currency="USD" hierarchy="3" last-updated-datetime="2016-07-25T11:19:00" xml:lang="en">
         <iati-identifier>US-1-TZ-50-AID-EXAMPLE-IDENTIFIER</iati-identifier>
         <reporting-org ref="US-1" type="10" secondary-reporter="0">
@@ -73,9 +73,9 @@
         <sector vocabulary="1" code="31110">
             <narrative>Agriculture</narrative>
         </sector>
-        <sector vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207">
-            <narrative xml:lang="en">production possibilities</narrative>
-        </sector>
+        <!-- pre-policy-marker-bookmark -->
+        <policy-marker vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207" significance="3" />
+        <!-- pre-aid-classifications-bookmark -->
         <collaboration-type code="1"/>
         <default-flow-type code="10"/>
         <default-finance-type code="110"/>

@@ -1,3 +1,2 @@
-sector/@code, sector/narrative, sector/narrative/@xml:lang, sector/@vocabulary, sector/@vocabulary-uri
-"31110", "Agriculture",,"1",,
-"c_6207", "production possibilities", "en", "99", "http://aims.fao.org/aos/agrovoc/"
+sector/@code, sector/narrative
+"31110", "Agriculture"
