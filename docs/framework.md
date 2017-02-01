@@ -542,6 +542,31 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 Year by year project budget information.
 
+```eval_rst
+
+.. doc-tabs::
+
+    .. admonition:: Why?
+
+        why text
+
+    .. admonition:: How?
+
+        how text
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <default-tied-status code="5"/>
+       :end-before: <transaction ref="1234" humanitarian="1">
+       :dedent: 8
+
+    .. container :: csv
+
+      .. csv-table:: CSV
+        :file: docs/examples/budget.csv
+        :header-rows: 1
+```
+
 ### Transaction
 
 Information on the major transactions associated with the project, particularly commitments and disbursements to partners.
@@ -569,9 +594,9 @@ Information on the major transactions associated with the project, particularly 
 
     .. container :: csv
 
-     # .. csv-table:: CSV
-     #   :file: docs/examples/transaction_full.csv
-     #   :header-rows: 1
+       .. csv-table:: CSV
+        :file: docs/examples/transaction_full.csv
+        :header-rows: 1
 ```
 
 ### Transaction classification

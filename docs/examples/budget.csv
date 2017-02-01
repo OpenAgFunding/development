@@ -1,0 +1,2 @@
+budget/@type, budget/@status, budget/period-start/@iso-date, budget/period-end/@iso-date, budget/value, budget/value/@currency, budget/value/@value-date
+"1", "1", "2017-01-01", "2017-12-31", "30000", "EUR", "2012-01-01"
