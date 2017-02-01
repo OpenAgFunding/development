@@ -540,7 +540,7 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 ### Budget
 
-Year by year project budget information.
+A given activity's budget, broken into periods of time.
 
 ```eval_rst
 
@@ -548,11 +548,17 @@ Year by year project budget information.
 
     .. admonition:: Why?
 
-        why text
+        Budgets are very useful for users of IATI data, as they can indicate how much has been allocated for a given activity, and offer a good point of comparison with expenditure and disbursements (in ``transactions``).
+
+        This is particularly true of *forward looking* budgets - those which apply to future time perious. These allow stakeholders to react to funding shortfalls or surpluses i.e. instances of budgets not being met with comparable expenditure.
 
     .. admonition:: How?
 
-        how text
+        Budgets only require the amount allocted, the currency, and relevant start, end, and valuation dates, and the following flags:
+
+        * `Type <http://iatistandard.org/202/codelists/BudgetType/>`__: Whether this is the original budget (prepared when the original commitment was made) or has subsequently been revised
+
+        * `Status <http://iatistandard.org/202/codelists/BudgetStatus/>`__: The status explains whether the budget being reported is indicative or has been formally committed. The value should appear within the BudgetStatus codelist. If the @status attribute is not present, the budget is assumed to be indicative.
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
