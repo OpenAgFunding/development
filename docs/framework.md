@@ -573,9 +573,13 @@ A given activity's budget, broken into periods of time.
         :header-rows: 1
 ```
 
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Budget](http://iatistandard.org/activity-standard/iati-activities/iati-activity/budget/)
+
 ### Transaction
 
-Information on the major transactions associated with the project, particularly commitments and disbursements to partners.
+Information on the major transactions associated with the project, particularly commitments and disbursements to partners. Transaction elements can get large and complex when compared with most other elements of an IATI activity, so the specific use-case for various aspects of the transaction model have been given their own sections below.
+
+> Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in CSV examples or explained in detial below.
 
 ```eval_rst
 
@@ -585,18 +589,49 @@ Information on the major transactions associated with the project, particularly 
 
         why text
 
+    .. admonition:: Codelists
+
+      .. csv-table:: CSV
+         :header-rows: 1
+
+         Codelist, Element, Description
+         `Transaction Type <http://localhost:8881/202/codelists/TransactionType/>`__, `transaction-type/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__, description
+         `Currency <http://localhost:8881/202/codelists/Currency/>`__, `value/@currency <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/value/>`__, description
+         `Organisation Type <http://localhost:8881/202/codelists/OrganisationType/>`__, `provider-org/@type <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__, description
+         `DAC 5 Digit Sector  <http://localhost:8881/202/codelists/Sector/>`__, `sector/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__, description
+         `Sector Vocabulary <http://localhost:8881/202/codelists/SectorVocabulary/>`__, `sector/@vocabulary <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__, description
+         `Country <http://localhost:8881/202/codelists/Country/>`__, `recipient-country/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/recipient-country/>`__, description
+         `Region <http://localhost:8881/202/codelists/Region/>`__, `recipient-region/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/recipient-region/>`__, description
+
+
     .. admonition:: How?
 
-        how text
+        In the IATI Standard, Transaction elements range from small blocks with three values, to much larger pieces of data, which can convey a fair amount of the same metadata as a whole activity. Here is the smallest *valid* transaction which can be published.
+
+        **Minimal activity elements CSV:**
+
+        .. csv-table:: CSV
+         :file: docs/examples/transaction_minimal.csv
+         :header-rows: 1
+
+        **... And as XML:**
+
+        .. code-block:: XML
+
+           <transaction>
+               <transaction-type code="3"/>
+               <transaction-date iso-date="2015-12-31"/>
+               <value>257051.44</value>
+           </transaction>
+
+        Clearly, this isn't very useful or even usable, except to say that an amount *has been spent*
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
-       :start-after: <default-tied-status code="5"/>
+       :start-after: </budget>
        :end-before: <!--transaction-bookmark-1-->
        :emphasize-lines: 14, 16, 17, 18, 19, 20, 21
        :dedent: 8
-
-    Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in the CSV example or explained in detial here.
 
     .. container :: csv
 
@@ -604,6 +639,9 @@ Information on the major transactions associated with the project, particularly 
         :file: docs/examples/transaction_full.csv
         :header-rows: 1
 ```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Transaction](http://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/)
+
 
 ### Transaction classification
 

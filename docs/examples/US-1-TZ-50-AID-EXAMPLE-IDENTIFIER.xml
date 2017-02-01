@@ -113,12 +113,8 @@
             <transaction-type code="3"/>
             <transaction-date iso-date="2015-12-31"/>
             <value value-date="2015-12-31">257051.44</value>
-            <disbursement-channel code="2"/>
             <sector code="31120" vocabulary="1">
                 <narrative>Agricultural development</narrative>
-            </sector>
-            <sector code="5005" vocabulary="99">
-                <narrative>Agriculture</narrative>
             </sector>
         </transaction>
         <transaction>
@@ -145,7 +141,7 @@
                 <narrative>Agriculture</narrative>
             </sector>
         </transaction>
-        <document-link format="application/pdf" url="http://pdf.usaid.gov/pdf_docs/PA00KRPR.pdf">
+        <document-link format="application/pdf" url="http://example.com/example-document.pdf">
             <title>
                 <narrative>Mid-term performance evaluation of the USAID/Tanzania Feed the Future program : mwanzo bora, nafaka, and tuberoshe chakula</narrative>
             </title>
