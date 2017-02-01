@@ -1,3 +1,5 @@
 .project
 .Rproj.user
 .ipynb_checkpoints
+.ve
+_build

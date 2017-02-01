@@ -11,3 +11,4 @@ recommonmark==0.4.0
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.4.4
+guzzle-sphinx-theme==0.7.11

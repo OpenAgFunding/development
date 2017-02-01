@@ -22,7 +22,9 @@
 # sys.path.insert(0, os.path.abspath('.'))
 from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
+import sys, os
 
+sys.path.append(os.path.abspath('_exts'))
 
 # -- General configuration ------------------------------------------------
 
@@ -36,6 +38,7 @@ from recommonmark.parser import CommonMarkParser
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
+    'doctabs'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -341,6 +344,7 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
+intersphinx_mapping = {'iati': ('http://iatistandard.org/202/', None)}
 
 
 def setup(app):
@@ -350,3 +354,19 @@ def setup(app):
         'enable_eval_rst': True
         }, True)
     app.add_transform(AutoStructify)
+
+import guzzle_sphinx_theme
+
+# Adds an HTML table visitor to apply Bootstrap table classes
+html_translator_class = 'guzzle_sphinx_theme.HTMLTranslator'
+html_theme_path = guzzle_sphinx_theme.html_theme_path()
+html_theme = 'guzzle_sphinx_theme'
+
+# Register the theme as an extension to generate a sitemap.xml
+extensions.append("guzzle_sphinx_theme")
+
+# Guzzle theme options (see theme.conf for more information)
+html_theme_options = {
+    # Set the name of the project to appear in the sidebar
+    "project_nav_name": "Open Ag Funding",
+}
