@@ -28,21 +28,21 @@ On this site you can find out **how to publish and use Open Ag Funding data** th
 You can: 
 
 * Read more about [how we are building on the International Aid Transparency Initiative (IATI) data standard](iati.md);
-* Explore the 20 data elements needed for effective Open Ag Funding data;
+* Explore the [priority data elements needed for effective Open Ag Funding data](framework.md);
 * View the technical documentation on how to prepare your data in XML or spreadsheet formats; 
 * Read background research from the project
-
-
 
 ## Share your data
 
 **Does your organization provides funding for agricultural development or food security?** If so -  we need your data. 
 
-If you already publish data using the IATI standard, you can enhance your existing data to make it Open Ag ready. 
+* **If you already publish data using the IATI standard**, you can enhance your existing data to make it Open Ag ready. 
 
-If you do not currently publish structured data on your funding or investments, you can [follow these simple steps to plan out new open data publication](ADD LINK ADD LINKS).  
 
-Not sure why you would share your data? Read more here about the benefits.
+* **If you do not currently publish structured data on your funding or investments**, you can [follow these simple steps to plan out new open data publication](getting_started.md).  
+
+
+* **Not sure why you would share your data?** Read more here about the benefits.
 
 Looking for support to publish? We're offering free publisher support during 2017. 
 
