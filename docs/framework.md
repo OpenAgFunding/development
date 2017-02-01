@@ -282,11 +282,7 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 ### Sector Classification
 
-Classification against OECD DAC Sector codes, plus additional taxonomies, including (tbc):
-* AGROVOC
-* Agricultural Technology Ontology
-
-> TODO: check available Ag codelists
+Classification against OECD DAC Sector codes, plus additional vocabularies, which can be found on the [Sector vocabulary codelist](http://iatistandard.org/202/codelists/SectorVocabulary/), or a custom sector codelist can be used (see 'how').
 
 ```eval_rst
 
@@ -306,7 +302,7 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
 
         1. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/SectorVocabulary/>`__.
 
-        2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
+        2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it.
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
@@ -322,6 +318,47 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Sector](http://iatistandard.org/activity-standard/iati-activities/iati-activity/sector/)
+
+### Policy Marker
+
+Classification against OECD DAC Policy Marker codes, plus additional vocabularies, which can be found on the [Policy Marker Vocabulary codelist](http://iatistandard.org/202/codelists/PolicyMarkerVocabulary/), or a custom sector codelist can be used (see 'how').
+
+> TODO: check available Ag codelists
+
+```eval_rst
+
+.. doc-tabs::
+
+    .. admonition:: Why?
+
+        Policy Markers allow publishers to specify the focus of a given activity, and indicate the degree of that focus. This is very useful for data users, as it can be cross-referenced with locations / recipient countries / and the receivers of transctions to give an insight in to what aspects of development assistance are well funded, where and to whom. Unlike the Sector elemet, the Policy Marker element doesn't extend to transaction level, and doesn't expect percentages for more than one instance, which means they act more like a *tag*.
+
+    .. admonition:: How?
+
+        A recognised code, from a recognised vocabulary, classifying the policy focus of the activity. Currently, this can only be reported at the activity level.
+
+        The most commonly used vocabulary for this element is the `OECD DAC CRS Policy Marker <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__. Again, this vocabulary is useful to make a broad categorisation of an activity (or transaction), but has limited scope to capture details about agricultural projects.
+
+        As with Sector elemnts, other vocabularies are useful here. There are two ways of using another Policy Marker vocabularly:
+
+        1. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/PolicyMarkerVocabulary/>`__.
+
+        2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: </location>
+       :end-before: <!-- pre-policy-marker-bookmark -->
+       :dedent: 8
+
+    .. container :: csv
+
+      .. csv-table:: CSV
+        :file: docs/examples/sectors.csv
+        :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Policy Marker](http://iatistandard.org/activity-standard/iati-activities/iati-activity/policy-marker/)
 
 ### Participating Organisations
 

@@ -74,13 +74,18 @@
             <narrative>Agriculture</narrative>
         </sector>
         <!-- pre-policy-marker-bookmark -->
-        <policy-marker vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207" significance="3" />
+        <policy-marker vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207" significance="3"/>
         <!-- pre-aid-classifications-bookmark -->
         <collaboration-type code="1"/>
         <default-flow-type code="10"/>
         <default-finance-type code="110"/>
         <default-aid-type code="C01"/>
         <default-tied-status code="5"/>
+        <budget type="1" status="1">
+            <period-start iso-date="2017-01-01"/>
+            <period-end iso-date="2017-12-31"/>
+            <value currency="EUR" value-date="2012-01-01">3000</value>
+        </budget>
         <transaction ref="1234" humanitarian="1">
             <transaction-type code="1"/>
             <transaction-date iso-date="2012-01-01"/>
