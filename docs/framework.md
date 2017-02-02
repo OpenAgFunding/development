@@ -594,15 +594,14 @@ Information on the major transactions associated with the project, particularly 
       .. csv-table:: CSV
          :header-rows: 1
 
-         Codelist, Element, Description
-         `Transaction Type <http://localhost:8881/202/codelists/TransactionType/>`__, `transaction-type/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__, description
-         `Currency <http://localhost:8881/202/codelists/Currency/>`__, `value/@currency <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/value/>`__, description
-         `Organisation Type <http://localhost:8881/202/codelists/OrganisationType/>`__, `provider-org/@type <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__, description
-         `DAC 5 Digit Sector  <http://localhost:8881/202/codelists/Sector/>`__, `sector/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__, description
-         `Sector Vocabulary <http://localhost:8881/202/codelists/SectorVocabulary/>`__, `sector/@vocabulary <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__, description
-         `Country <http://localhost:8881/202/codelists/Country/>`__, `recipient-country/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/recipient-country/>`__, description
-         `Region <http://localhost:8881/202/codelists/Region/>`__, `recipient-region/@code <http://localhost:8881/202/activity-standard/iati-activities/iati-activity/transaction/recipient-region/>`__, description
-
+         "Codelist", " Element", "description"
+         "`Transaction Type <http://iatistandard.org/202/codelists/TransactionType/>`__", " `transaction-type/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__", "description"
+         "`Currency <http://iatistandard.org/202/codelists/Currency/>`__", " `value/@currency <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/value/>`__", "description"
+         "`Organisation Type <http://iatistandard.org/202/codelists/OrganisationType/>`__", " `provider-org/@type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__", "description"
+         "`DAC 5 Digit Sector  <http://iatistandard.org/202/codelists/Sector/>`__", " `sector/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "description"
+         "`Sector Vocabulary <http://iatistandard.org/202/codelists/SectorVocabulary/>`__", " `sector/@vocabulary <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "description"
+         "`Country <http://iatistandard.org/202/codelists/Country/>`__", " `recipient-country/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-country/>`__", "description"
+         "`Region <http://iatistandard.org/202/codelists/Region/>`__", " `recipient-region/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-region/>`__", "description"
 
     .. admonition:: How?
 
