@@ -3,3 +3,4 @@
 .ipynb_checkpoints
 .ve
 _build
+docs/_exts/__pycache__/
