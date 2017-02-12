@@ -605,14 +605,14 @@ Information on the major transactions associated with the project, particularly 
       .. csv-table:: CSV
          :header-rows: 1
 
-         "Codelist", " Element", "description"
-         "`Transaction Type <http://iatistandard.org/202/codelists/TransactionType/>`__", " `transaction-type/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__", "description"
-         "`Currency <http://iatistandard.org/202/codelists/Currency/>`__", " `value/@currency <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/value/>`__", "description"
-         "`Organisation Type <http://iatistandard.org/202/codelists/OrganisationType/>`__", " `provider-org/@type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__", "description"
-         "`DAC 5 Digit Sector  <http://iatistandard.org/202/codelists/Sector/>`__", " `sector/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "description"
-         "`Sector Vocabulary <http://iatistandard.org/202/codelists/SectorVocabulary/>`__", " `sector/@vocabulary <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "description"
-         "`Country <http://iatistandard.org/202/codelists/Country/>`__", " `recipient-country/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-country/>`__", "description"
-         "`Region <http://iatistandard.org/202/codelists/Region/>`__", " `recipient-region/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-region/>`__", "description"
+         "Codelist", "Element", "description"
+         "`Transaction Type <http://iatistandard.org/202/codelists/TransactionType/>`__", "`transaction-type/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__", "What kind of transaction? Incoming/Outgoing, Expenditure/Disbursement etc."
+         "`Currency <http://iatistandard.org/202/codelists/Currency/>`__", "`value/@currency <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/value/>`__", "The currency a given transaction was made using, given in the three-letter ISO code e.g. 'GBP' for Pounds Sterling."
+         "`Organisation Type <http://iatistandard.org/202/codelists/OrganisationType/>`__", "`provider-org/@type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__", "What kind of organisation is fulfilling the role of provider or receiver in a given transaction."
+         "`DAC 5 Digit Sector  <http://iatistandard.org/202/codelists/Sector/>`__", "`sector/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "A transaction-level equivalent of the activity level element. The purpose or category of a given transaction."
+         "`Sector Vocabulary <http://iatistandard.org/202/codelists/SectorVocabulary/>`__", "`sector/@vocabulary <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "Again, this is a corrolary of the activity-level equivalent. It can be used to specify another (or custom) vocabulary for transaction sectors"
+         "`Country <http://iatistandard.org/202/codelists/Country/>`__", "`recipient-country/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-country/>`__", "Two-letter ISO code denoting the country that will benefit from a given transaction."
+         "`Region <http://iatistandard.org/202/codelists/Region/>`__", "`recipient-region/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-region/>`__", "An OECD DAC CRS Region code denoting the region that will benefit from a given transaction."
 
     .. admonition:: How?
 
@@ -634,7 +634,7 @@ Information on the major transactions associated with the project, particularly 
                <value>257051.44</value>
            </transaction>
 
-        Clearly, this isn't very useful or even usable, except to say that an amount *has been spent*
+        Clearly, this isn't very useful or even usable, except to say that an amount *has been disbursed at a given time*. For a more comprehensive example, see the 'xml' tab.
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
@@ -643,11 +643,10 @@ Information on the major transactions associated with the project, particularly 
        :emphasize-lines: 14, 16, 17, 18, 19, 20, 21
        :dedent: 8
 
-    .. container :: csv
+    .. admonition:: csv
 
-       .. csv-table:: CSV
-        :file: docs/examples/transaction_full.csv
-        :header-rows: 1
+       Unfortunately, a full CSV representation of a transaction element would be too big to comfortably read, but the principles in the examples above can be used to encorporate whichever elements are desired above those that are minimally required.
+
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Transaction](http://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/)
