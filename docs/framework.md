@@ -652,17 +652,42 @@ Information on the major transactions associated with the project, particularly 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Transaction](http://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/)
 
 
-### Transaction classification
+#### Transaction classification
 
 Where possible, transactions should be classified against relevant sector codes (see Focus 3)
 
-### Transaction parties (participating organisations)
+This can be done simply by adding a sector classification in the same way you might at the activity level, for example:
 
-Transactions should clearly identify the partner receiving funding, and the relevant organisation should be detailed under participating organisations.
+```xml
+<sector vocabulary="2" code="111"/>
+```
 
-### Transaction Traceability
+> Note that as of version 2.02 of the IATI standard, transaction level classifications don't permit percentage declarations, and so act more like a 'tag'.
 
-Where possible, transactions should link onwards to related IATI activities (sometimes published by other organisations).
+#### Transaction parties (participating organisations) and traceability
+
+Transactions should clearly identify the partner receiving funding, and the relevant organisation should be detailed under participating organisations. Where possible, transactions should link onwards to related IATI activities (sometimes published by other organisations).
+
+Consider the following XML from the larger example above:
+
+```xml
+<receiver-org receiver-activity-id="AA-AAA-123456789-1234" type="23" ref="AA-AAA-123456789">
+  <narrative>Agency A</narrative>
+</receiver-org>
+```
+
+Because the example transaction was a *disbursement* (declared by `transaction-type` being '3'), this means that the reporting-org, USAID, is disbursing funds at a value of $100,000. What the `receiver-org` snippet above does, is specify who the funds have been disbursed to. As you can tell, this is a hypothetical organisation, but it has the follwing attributes (emphasis added to highlight the attributes needed for *traceability* - see below):
+
+```eval_rst
+.. csv-table:: CSV
+           :header-rows: 1
+
+           Attribute, Description
+           **receiver-activity-id**, "**the activity published by the recipient of the fuds, in which those funds are documented.**"
+           "type", "The category of the recipient organisation. Government, NGO, Multilateral, etc."
+           **ref**, "**The organisation identifer of the recipient organisation.**"
+           "narrative", "The name of the recipient organisation."
+```
 
 ### Results information
 
