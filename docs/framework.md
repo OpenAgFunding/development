@@ -1,5 +1,4 @@
-Framework
-=========
+# Framework
 
 The Open Ag Funding framework identifies 20 elements from the IATI standard and how they should be used to meet the needs of agricultural development and food security funders and practitioners.
 
@@ -16,20 +15,20 @@ The requirements can be divided into three groups
 
 Each of the elements are outlined below, along with:
 
-* Why this element matters;
-* An example of this element represented in IATI XML;
-* An example of this element represented in tabular format;
-* Additional information about collecting and managing this information.
+- Why this element matters;
+- An example of this element represented in IATI XML;
+- An example of this element represented in tabular format;
+- Additional information about collecting and managing this information.
 
 For each activity reported, data publishers should aim to provide each of the following components:
 
-### Activity ID
+## Activity ID
 
 Each funding allocation or invesment you report on should be assigned an activity identifier. The IATI documentation states that:
 
 > An activity is defined by the reporting organisation. Depending on who is reporting, it might be a large programme, a small project or another logical grouping of work and resources.
 
-When publishing your data, you should establish the level at which you will report activities, and then follow IATI guidance to provide a  'globally unique' ID for each one.  
+When publishing your data, you should establish the level at which you will report activities, and then follow IATI guidance to provide a 'globally unique' ID for each one.
 
 ```eval_rst
 .. doc-tabs::
@@ -61,17 +60,15 @@ When publishing your data, you should establish the level at which you will repo
 
            iati-identifier
            US-1-TZ-50-AID-EXAMPLE-IDENTIFIER
-
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [IATI Identifier](http://iatistandard.org/activity-standard/iati-activities/iati-activity/iati-identifier/)
 
-### Activity Title
+## Activity Title
 
 A clear and comprehensible project title that indicates the focus of the activity.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -113,17 +110,15 @@ A clear and comprehensible project title that indicates the focus of the activit
 
            title/narrative
            Agricultural Capacity Building in Tanzania
-
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Title](http://iatistandard.org/activity-standard/iati-activities/iati-activity/title/)
 
-### Activity Descriptions
+## Activity Descriptions
 
 Unstructured text describing the activity, its objectives, or its target groups.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -171,12 +166,11 @@ Unstructured text describing the activity, its objectives, or its target groups.
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Description](http://iatistandard.org/activity-standard/iati-activities/iati-activity/title/)
 
-### Activity Status
+## Activity Status
 
 Indidcates what phase an activity is in its life cycle.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -201,16 +195,16 @@ Indidcates what phase an activity is in its life cycle.
          activity-status/@code
          2
 ```
+
 > Note: the code '2' in the examples above means 'Implementing'
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Activity Status](http://iatistandard.org/activity-standard/iati-activities/iati-activity/activity-status/)
 
-### Activity Dates
+## Activity Dates
 
 Start and end dates, either planned or actual.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -239,15 +233,11 @@ Start and end dates, either planned or actual.
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Activity Date](http://iatistandard.org/activity-standard/iati-activities/iati-activity/activity-date/)
 
+## Aid classifications
 
-### Aid classifications
-
-Classifications against core IATI fields for: Collaboration Type, Default Flow Type, Default Finance Type, Default Aid Type and Default Tied Status.
-Note: These will often be set as constant values for any given reporting organisation if they are not otherwise recorded for ODA reporting.
-
+Classifications against core IATI fields for: Collaboration Type, Default Flow Type, Default Finance Type, Default Aid Type and Default Tied Status. Note: These will often be set as constant values for any given reporting organisation if they are not otherwise recorded for ODA reporting.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -290,17 +280,11 @@ Note: These will often be set as constant values for any given reporting organis
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | (see 'How' above)
 
+## Sector Classification
 
-### Sector Classification
-
-Classification against OECD DAC Sector codes, plus additional taxonomies, including (tbc):
-* AGROVOC
-* Agricultural Technology Ontology
-
-> TODO: check available Ag codelists
+Classification against OECD DAC Sector codes, plus additional vocabularies, which can be found on the [Sector vocabulary codelist](http://iatistandard.org/202/codelists/SectorVocabulary/), or a custom sector codelist can be used (see 'how').
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -315,9 +299,9 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
 
         This is where other vocabularies become useful. There are two ways of using another sector vocabularly:
 
-        1. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/SectorVocabulary/>`__.
+        1\. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/SectorVocabulary/>`__.
 
-        2. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
+        2\. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it.
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
@@ -334,12 +318,51 @@ Classification against OECD DAC Sector codes, plus additional taxonomies, includ
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Sector](http://iatistandard.org/activity-standard/iati-activities/iati-activity/sector/)
 
-### Participating Organisations
+## Policy Marker
+
+Classification against OECD DAC Policy Marker codes, plus additional vocabularies, which can be found on the [Policy Marker Vocabulary codelist](http://iatistandard.org/202/codelists/PolicyMarkerVocabulary/), or a custom sector codelist can be used (see 'how').
+
+> TODO: check available Ag codelists
+
+```eval_rst
+.. doc-tabs::
+
+    .. admonition:: Why?
+
+        Policy Markers allow publishers to specify the focus of a given activity, and indicate the degree of that focus. This is very useful for data users, as it can be cross-referenced with locations / recipient countries / and the receivers of transctions to give an insight in to what aspects of development assistance are well funded, where and to whom. Unlike the Sector elemet, the Policy Marker element doesn't extend to transaction level, and doesn't expect percentages for more than one instance, which means they act more like a *tag*.
+
+    .. admonition:: How?
+
+        A recognised code, from a recognised vocabulary, classifying the policy focus of the activity. Currently, this can only be reported at the activity level.
+
+        The most commonly used vocabulary for this element is the `OECD DAC CRS Policy Marker <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__. Again, this vocabulary is useful to make a broad categorisation of an activity (or transaction), but has limited scope to capture details about agricultural projects.
+
+        As with Sector elemnts, other vocabularies are useful here. There are two ways of using another Policy Marker vocabularly:
+
+        1\. By using one of the alternative vocabularies available on the `Sector Vocabulary codelist <http://iatistandard.org/202/codelists/PolicyMarkerVocabulary/>`__.
+
+        2\. By declaring the ``vocabulary`` of the sector to be ``99``, and then specifying the ``vocabulary-uri`` along with it. See the XML and and CSV boxes for an example using `AGROVOC <http://aims.fao.org/aos/agrovoc/>`__.
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: </location>
+       :end-before: <!-- pre-policy-marker-bookmark -->
+       :dedent: 8
+
+    .. container :: csv
+
+      .. csv-table:: CSV
+        :file: docs/examples/sectors.csv
+        :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Policy Marker](http://iatistandard.org/activity-standard/iati-activities/iati-activity/policy-marker/)
+
+## Participating Organisations
 
 Details on all participating organisations, including partners. This information should be kept updated as new partners are engaged with a project.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -365,14 +388,11 @@ Details on all participating organisations, including partners. This information
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Participating Organisation](http://iatistandard.org/activity-standard/iati-activities/iati-activity/participating-org/)
 
-### Contact details
+## Contact details
 
-At least one contact address for more information on the specific project.
-Documents
-Any relevant and associated project documents should be published and linked to. Examples of useful documents include: project plans, monitoring data, interim reports and evaluations.
+At least one contact address for more information on the specific project. Documents Any relevant and associated project documents should be published and linked to. Examples of useful documents include: project plans, monitoring data, interim reports and evaluations.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -398,12 +418,11 @@ Any relevant and associated project documents should be published and linked to.
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Contact Info](http://iatistandard.org/activity-standard/iati-activities/iati-activity/contact-info/)
 
-### Location (Country/Region)
+## Location (Country/Region)
 
 A broad declaration of the country or region which is the recipient of the activity. This is achieved using codelists reference in the 'how' section below.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -437,22 +456,17 @@ A broad declaration of the country or region which is the recipient of the activ
         "298","100"
 
       298 = 'Africa, regional' on the Region codelist (see 'how')
-
-
-
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Recipient Country](http://iatistandard.org/activity-standard/iati-activities/iati-activity/recipient-country/) OR [Recipient Region](http://iatistandard.org/activity-standard/iati-activities/iati-activity/recipient-region/)
 
+## Sub-national location
 
-### Sub-national location
-
-Detailed information on the on-the-ground location where activities are taking place.  Where possible, this should be to the geographic precision of second order administrative division (ADM2) - see the video in 'how' below.
+Detailed information on the on-the-ground location where activities are taking place. Where possible, this should be to the geographic precision of second order administrative division (ADM2) - see the video in 'how' below.
 
 > Note that the fields which have been highlighted yellow in the XML example are likely to be generic across activities, and so haven't been explored in much depth below. See the location documentation linked at the bottom of this section for more details.
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -506,70 +520,196 @@ Detailed information on the on-the-ground location where activities are taking p
       .. csv-table:: CSV
        :file: docs/examples/location.csv
        :header-rows: 1
-
-
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Location](http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/)
 
-### Budget
+## Budget
 
-Year by year project budget information.
-
-### Transaction
-
-Information on the major transactions associated with the project, particularly commitments and disbursements to partners.
+A given activity's budget, broken into periods of time.
 
 ```eval_rst
+.. doc-tabs::
 
+    .. admonition:: Why?
+
+        Budgets are very useful for users of IATI data, as they can indicate how much has been allocated for a given activity, and offer a good point of comparison with expenditure and disbursements (in ``transactions``).
+
+        This is particularly true of *forward looking* budgets - those which apply to future time perious. These allow stakeholders to react to funding shortfalls or surpluses i.e. instances of budgets not being met with comparable expenditure.
+
+    .. admonition:: How?
+
+        Budgets only require the amount allocted, the currency, and relevant start, end, and valuation dates, and the following flags:
+
+        * `Type <http://iatistandard.org/202/codelists/BudgetType/>`__: Whether this is the original budget (prepared when the original commitment was made) or has subsequently been revised
+
+        * `Status <http://iatistandard.org/202/codelists/BudgetStatus/>`__: The status explains whether the budget being reported is indicative or has been formally committed. The value should appear within the BudgetStatus codelist. If the @status attribute is not present, the budget is assumed to be indicative.
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <default-tied-status code="5"/>
+       :end-before: <transaction ref="1234" humanitarian="1">
+       :dedent: 8
+
+    .. container :: csv
+
+      .. csv-table:: CSV
+        :file: docs/examples/budget.csv
+        :header-rows: 1
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Budget](http://iatistandard.org/activity-standard/iati-activities/iati-activity/budget/)
+
+## Transaction
+
+Information on the major transactions associated with the project, particularly commitments and disbursements to partners. Transaction elements can get large and complex when compared with most other elements of an IATI activity, so the specific use-case for various aspects of the transaction model have been given their own sections below.
+
+> Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in CSV examples or explained in detial below.
+
+```eval_rst
 .. doc-tabs::
 
     .. admonition:: Why?
 
         why text
 
+    .. admonition:: Codelists
+
+      .. csv-table:: CSV
+         :header-rows: 1
+
+         "Codelist", "Element", "description"
+         "`Transaction Type <http://iatistandard.org/202/codelists/TransactionType/>`__", "`transaction-type/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__", "What kind of transaction? Incoming/Outgoing, Expenditure/Disbursement etc."
+         "`Currency <http://iatistandard.org/202/codelists/Currency/>`__", "`value/@currency <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/value/>`__", "The currency a given transaction was made using, given in the three-letter ISO code e.g. 'GBP' for Pounds Sterling."
+         "`Organisation Type <http://iatistandard.org/202/codelists/OrganisationType/>`__", "`provider-org/@type <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__", "What kind of organisation is fulfilling the role of provider or receiver in a given transaction."
+         "`DAC 5 Digit Sector  <http://iatistandard.org/202/codelists/Sector/>`__", "`sector/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "A transaction-level equivalent of the activity level element. The purpose or category of a given transaction."
+         "`Sector Vocabulary <http://iatistandard.org/202/codelists/SectorVocabulary/>`__", "`sector/@vocabulary <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/sector/>`__", "Again, this is a corrolary of the activity-level equivalent. It can be used to specify another (or custom) vocabulary for transaction sectors"
+         "`Country <http://iatistandard.org/202/codelists/Country/>`__", "`recipient-country/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-country/>`__", "Two-letter ISO code denoting the country that will benefit from a given transaction."
+         "`Region <http://iatistandard.org/202/codelists/Region/>`__", "`recipient-region/@code <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/transaction/recipient-region/>`__", "An OECD DAC CRS Region code denoting the region that will benefit from a given transaction."
+
     .. admonition:: How?
 
-        how text
+        In the IATI Standard, Transaction elements range from small blocks with three values, to much larger pieces of data, which can convey a fair amount of the same metadata as a whole activity. Here is the smallest *valid* transaction which can be published.
+
+        **Minimal activity elements CSV:**
+
+        .. csv-table:: CSV
+         :file: docs/examples/transaction_minimal.csv
+         :header-rows: 1
+
+        **... And as XML:**
+
+        .. code-block:: XML
+
+           <transaction>
+               <transaction-type code="3"/>
+               <transaction-date iso-date="2015-12-31"/>
+               <value>257051.44</value>
+           </transaction>
+
+        Clearly, this isn't very useful or even usable, except to say that an amount *has been disbursed at a given time*. For a more comprehensive example, see the 'xml' tab.
 
     .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
        :language: xml
-       :start-after: <default-tied-status code="5"/>
+       :start-after: </budget>
        :end-before: <!--transaction-bookmark-1-->
        :emphasize-lines: 14, 16, 17, 18, 19, 20, 21
        :dedent: 8
 
-    Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in the CSV example or explained in detial here.
+    .. admonition:: csv
 
-    .. container :: csv
-
-     # .. csv-table:: CSV
-     #   :file: docs/examples/transaction_full.csv
-     #   :header-rows: 1
+       Unfortunately, a full CSV representation of a transaction element would be too big to comfortably read, but the principles in the examples above can be used to encorporate whichever elements are desired above those that are minimally required.
 ```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Transaction](http://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/)
 
 ### Transaction classification
 
 Where possible, transactions should be classified against relevant sector codes (see Focus 3)
 
-### Transaction parties (participating organisations)
+This can be done simply by adding a sector classification in the same way you might at the activity level, for example:
 
-Transactions should clearly identify the partner receiving funding, and the relevant organisation should be detailed under participating organisations.
+```xml
+<sector vocabulary="2" code="111"/>
+```
 
-### Transaction Traceability
+> Note that as of version 2.02 of the IATI standard, transaction level classifications don't permit percentage declarations, and so act more like a 'tag'.
 
-Where possible, transactions should link onwards to related IATI activities (sometimes published by other organisations).
+### Transaction parties (participating organisations) and traceability
 
-### Results information
+Transactions should clearly identify the partner receiving funding, and the relevant organisation should be detailed under participating organisations. Where possible, transactions should link onwards to related IATI activities (sometimes published by other organisations).
+
+Consider the following XML from the larger example above:
+
+```xml
+<receiver-org receiver-activity-id="AA-AAA-123456789-1234" type="23" ref="AA-AAA-123456789">
+  <narrative>Agency A</narrative>
+</receiver-org>
+```
+
+Because the example transaction was a _disbursement_ (declared by `transaction-type` being '3'), this means that the reporting-org, USAID, is disbursing funds at a value of $100,000\. What the `receiver-org` snippet above does, is specify who the funds have been disbursed to. As you can tell, this is a hypothetical organisation, but it has the follwing attributes (emphasis added to highlight the attributes needed for _traceability_ - see below):
+
+```eval_rst
+.. csv-table:: CSV
+           :header-rows: 1
+
+           Attribute, Description
+           **receiver-activity-id**, "**the activity published by the recipient of the fuds, in which those funds are documented.**"
+           "type", "The category of the recipient organisation. Government, NGO, Multilateral, etc."
+           **ref**, "**The organisation identifer of the recipient organisation.**"
+           "narrative", "The name of the recipient organisation."
+```
+
+**Transaction Traceability** is achieved when the details listed in a given activity's transactions can be associated with other organisations and their activities, so that a chain or network of collaboration and funding can be drawn using IATI data.
+
+This ability to connect IATI activities and transactions is particularly useful when trying to find out where a given investment has ended up being implemented, who originally funded a given activity or intervention, or what the result of a given investment was further down the delivery chain.
+
+## Results information
 
 Project should publish information on any indicators and benchmarks the project is oriented towards meeting, as well as any structured results data that is available.
 
 Even when results data is not available, the indicators by which a project impact will be measured should be published in a structured form, and associated results documents linked to via the document section.
 
-### Reporting Organization
+```eval_rst
+.. doc-tabs::
+
+    .. admonition:: Why?
+
+       Restuts offer a way to express how effective or impactful a given investment or activity has been. This has a huge range of uses, from evaluating the general outcomes of development assistance in a given country, region or sector, down to evaluating the specific outcomes of a small, regional project to guide future investment decisions in that region.  
+
+    .. admonition:: How?
+
+       Much like a Transaction, the Result element is quite sprawling, and and can be used to express structured results data in a variety of ways. For the purposes of this guide, the 'xml' tab to the right is an *opinionated* take on the minimally useful, as opposed to the minimal valid, or the maximal utilisation of the element.
+
+    .. admonition:: Codelists
+
+      .. csv-table:: CSV
+        :header-rows: 1
+
+        "Codelist", "Element", "description"
+        "`Result Type <http://iatistandard.org/202/codelists/ResultType/>`__", "`Result <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/result/>`__", "Wether this result describes and output, outcome, imact or something else."
+        "`Indicator Measure <http://iatistandard.org/202/codelists/IndicatorMeasure/>`__", "`Indicator <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/result/indicator>`__", "Wether the indicator is measured in units or percentages."
+        "`Indicator Vocabulary  <http://iatistandard.org/202/codelists/IndicatorVocabulary/>`__", "`Indicator <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/result/indicator>`__", "A range of external codelists which themselves provide codes and descriptions for indicators, for example to specify results."
+        "Result Aggregation Status Flag (binary '1' or '0', not a codelist)", "`result/@aggregation-status <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/result/>`__", "Whether or not a given result element is apt for aggregation"
+        "Result Indicator Ascending Flag (binary '1' or '0', not a codelist)", "`result/indicator/@ascending <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/result/indicator/>`__", "Wether a given indicator is ascending or descending i.e. higer is better or lower is better."
+
+
+    .. literalinclude:: /examples/US-1-TZ-50-AID-EXAMPLE-IDENTIFIER.xml
+       :language: xml
+       :start-after: <!-- minimal-result-bookmark -->
+       :end-before: </iati-activity>
+       :dedent: 8
+
+    .. admonition:: csv
+
+      As with transactions, the CSV example would be too large to be helpful here, but again the principles in the examples above can be used to encorporate whichever elements are desired above the miminally useful ones in the xml example given.
+```
+
+IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Location](http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/)
+
+## Reporting Organization
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -601,15 +741,13 @@ Even when results data is not available, the indicators by which a project impac
         .. csv-table:: CSV
            :file: docs/examples/reporting-org.csv
            :header-rows: 1
-
 ```
 
 IATI Docs: [reporting-org](http://iatistandard.org/activity-standard/iati-activities/iati-activity/reporting-org/) | [OrganisationType codelist](http://iatistandard.org/201/codelists/OrganisationType/)
 
-### Metadata: default currency and language
+## Metadata: default currency and language
 
 ```eval_rst
-
 .. doc-tabs::
 
     .. admonition:: Why?
@@ -639,7 +777,6 @@ IATI Docs: [reporting-org](http://iatistandard.org/activity-standard/iati-activi
 
            xml:lang,default-currency
            en,USD
-
 ```
 
 IATI Docs: [iati-activity](http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/) | [Currency codelist](http://iatistandard.org/codelists/Currency/) | [Language codelist](http://iatistandard.org/codelists/Language/)

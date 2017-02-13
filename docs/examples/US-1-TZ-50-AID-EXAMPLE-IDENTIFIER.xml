@@ -74,23 +74,25 @@
             <narrative>Agriculture</narrative>
         </sector>
         <!-- pre-policy-marker-bookmark -->
-        <policy-marker vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207" significance="3" />
+        <policy-marker vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_6207" significance="3"/>
         <!-- pre-aid-classifications-bookmark -->
         <collaboration-type code="1"/>
         <default-flow-type code="10"/>
         <default-finance-type code="110"/>
         <default-aid-type code="C01"/>
         <default-tied-status code="5"/>
+        <budget type="1" status="1">
+            <period-start iso-date="2017-01-01"/>
+            <period-end iso-date="2017-12-31"/>
+            <value currency="EUR" value-date="2012-01-01">30000</value>
+        </budget>
         <transaction ref="1234" humanitarian="1">
-            <transaction-type code="1"/>
+            <transaction-type code="3"/>
             <transaction-date iso-date="2012-01-01"/>
-            <value currency="EUR" value-date="2012-01-01">1000</value>
+            <value currency="USD" value-date="2012-01-01">100000</value>
             <description>
                 <narrative>Transaction description text</narrative>
             </description>
-            <provider-org provider-activity-id="BB-BBB-123456789-1234AA" type="10" ref="BB-BBB-123456789">
-                <narrative>Agency B</narrative>
-            </provider-org>
             <receiver-org receiver-activity-id="AA-AAA-123456789-1234" type="23" ref="AA-AAA-123456789">
                 <narrative>Agency A</narrative>
             </receiver-org>
@@ -108,12 +110,8 @@
             <transaction-type code="3"/>
             <transaction-date iso-date="2015-12-31"/>
             <value value-date="2015-12-31">257051.44</value>
-            <disbursement-channel code="2"/>
             <sector code="31120" vocabulary="1">
                 <narrative>Agricultural development</narrative>
-            </sector>
-            <sector code="5005" vocabulary="99">
-                <narrative>Agriculture</narrative>
             </sector>
         </transaction>
         <transaction>
@@ -140,7 +138,7 @@
                 <narrative>Agriculture</narrative>
             </sector>
         </transaction>
-        <document-link format="application/pdf" url="http://pdf.usaid.gov/pdf_docs/PA00KRPR.pdf">
+        <document-link format="application/pdf" url="http://example.com/example-document.pdf">
             <title>
                 <narrative>Mid-term performance evaluation of the USAID/Tanzania Feed the Future program : mwanzo bora, nafaka, and tuberoshe chakula</narrative>
             </title>
@@ -149,5 +147,91 @@
         </document-link>
         <related-activity ref="US-1-TZ-50" type="1"/>
         <conditions attached="0"/>
+        <!-- maximal-result-bookmark -->
+        <result type="1" aggregation-status="1">
+            <title>
+                <narrative>Result title</narrative>
+            </title>
+            <description>
+                <narrative>Result description text</narrative>
+            </description>
+            <indicator measure="1" ascending="1">
+                <title>
+                    <narrative>Indicator title</narrative>
+                </title>
+                <description>
+                    <narrative>Indicator description text</narrative>
+                </description>
+                <reference vocabulary="1" code="3429"/>
+                <reference vocabulary="7" code="861"/>
+                <reference vocabulary="99" code="B1" indicator-uri="http://example.com/indicators.html"/>
+                <baseline year="2012" value="10">
+                    <comment>
+                        <narrative>Baseline comment text</narrative>
+                    </comment>
+                </baseline>
+                <period>
+                    <period-start iso-date="2013-01-01"/>
+                    <period-end iso-date="2013-03-31"/>
+                    <target value="10">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Target comment text</narrative>
+                        </comment>
+                    </target>
+                    <actual value="11">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Actual comment text</narrative>
+                        </comment>
+                    </actual>
+                </period>
+            </indicator>
+        </result>
+        <!-- minimal-result-bookmark -->
+        <result type="1" aggregation-status="1">
+            <title>
+                <narrative>Result title</narrative>
+            </title>
+            <indicator measure="1">
+                <title>
+                    <narrative>Indicator title</narrative>
+                </title>
+                <reference vocabulary="1" code="3429"/>
+                <baseline year="2012" value="10">
+                    <comment>
+                        <narrative>Baseline comment text</narrative>
+                    </comment>
+                </baseline>
+                <period>
+                    <period-start iso-date="2013-01-01"/>
+                    <period-end iso-date="2013-03-31"/>
+                    <target value="10">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Target comment text</narrative>
+                        </comment>
+                    </target>
+                    <actual value="11">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Actual comment text</narrative>
+                        </comment>
+                    </actual>
+                </period>
+            </indicator>
+        </result>
     </iati-activity>
 </iati-activities>
