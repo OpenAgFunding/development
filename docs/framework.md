@@ -24,7 +24,7 @@ For each activity reported, data publishers should aim to provide each of the fo
 
 ## Activity ID
 
-Each funding allocation or invesment you report on should be assigned an activity identifier. The IATI documentation states that:
+Each funding allocation or investment you report on should be assigned an activity identifier. The IATI documentation states that:
 
 > An activity is defined by the reporting organisation. Depending on who is reporting, it might be a large programme, a small project or another logical grouping of work and resources.
 
@@ -168,7 +168,7 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 ## Activity Status
 
-Indidcates what phase an activity is in its life cycle.
+Indicates what phase an activity is in its life cycle.
 
 ```eval_rst
 .. doc-tabs::
@@ -477,7 +477,7 @@ Detailed information on the on-the-ground location where activities are taking p
 
        This element has a lot of flexibility, supporting multiple vocabularies and allowing a data publisher to include a lot of information.
 
-       Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relelvant values to specify it. Take a look at the video below:
+       Due to this flexibility, there are many possibilities for how to gather location data. One fairly intuitive method is to use a tool like Geonames both to confirm an activity's location, and to record the relevant values to specify it. Take a look at the video below:
 
        .. raw:: html
 
@@ -494,7 +494,7 @@ Detailed information on the on-the-ground location where activities are taking p
        * Search for the country, province, administrative district etc., "Ilala District" in this case.
        * Click the 'Search worldwide' button.
        * Click the dropdown menu, which reads "Found X items in this area".
-       * Filter by code or class for find the 'AMD2' entries if possible (if unsucessful, try a broader region like "Dar es Salaam" and look for 'AMD1').
+       * Filter by code or class for find the 'AMD2' entries if possible (if unsuccessful, try a broader region like "Dar es Salaam" and look for 'AMD1').
        * Once the small preview has come up, click on the name of the area to be taken to an overview of its boundaries
 
        Below is an image of the resulting pop-up window, annotated with green numbers for reference:
@@ -502,7 +502,7 @@ Detailed information on the on-the-ground location where activities are taking p
        .. image:: _static/images/markedup_geonames_result.png
           :width: 640
 
-       These values can then be used to populat the following location fields:
+       These values can then be used to populate the following location fields:
 
        * (1): "ADM2" in ``feature-designation``
        * (2): "159239" in ``location-id`` and ``administrative``
@@ -564,7 +564,7 @@ IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activi
 
 Information on the major transactions associated with the project, particularly commitments and disbursements to partners. Transaction elements can get large and complex when compared with most other elements of an IATI activity, so the specific use-case for various aspects of the transaction model have been given their own sections below.
 
-> Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defults speficied. Because of this they won't be shown in CSV examples or explained in detial below.
+> Note that highlighted lines in the example XML above are the same fields as their 'default' equivalents on the activity level. Specifying them on the transaction level can 'override' the defaults, and must be done for all transactions if there are no defaults specified. Because of this they won't be shown in CSV examples or explained in detail below.
 
 ```eval_rst
 .. doc-tabs::
@@ -618,7 +618,7 @@ Information on the major transactions associated with the project, particularly 
 
     .. admonition:: csv
 
-       Unfortunately, a full CSV representation of a transaction element would be too big to comfortably read, but the principles in the examples above can be used to encorporate whichever elements are desired above those that are minimally required.
+       Unfortunately, a full CSV representation of a transaction element would be too big to comfortably read, but the principles in the examples above can be used to incorporate whichever elements are desired above those that are minimally required.
 ```
 
 IATI Docs: [IATI Activity](http://iatistandard.org/activity-standard/iati-activities/iati-activity/) | [Transaction](http://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/)
@@ -647,7 +647,7 @@ Consider the following XML from the larger example above:
 </receiver-org>
 ```
 
-Because the example transaction was a _disbursement_ (declared by `transaction-type` being '3'), this means that the reporting-org, USAID, is disbursing funds at a value of $100,000\. What the `receiver-org` snippet above does, is specify who the funds have been disbursed to. As you can tell, this is a hypothetical organisation, but it has the follwing attributes (emphasis added to highlight the attributes needed for _traceability_ - see below):
+Because the example transaction was a _disbursement_ (declared by `transaction-type` being '3'), this means that the reporting-org, USAID, is disbursing funds at a value of $100,000\. What the `receiver-org` snippet above does, is specify who the funds have been disbursed to. As you can tell, this is a hypothetical organisation, but it has the following attributes (emphasis added to highlight the attributes needed for _traceability_ - see below):
 
 ```eval_rst
 .. csv-table:: CSV
@@ -675,7 +675,7 @@ Even when results data is not available, the indicators by which a project impac
 
     .. admonition:: Why?
 
-       Restuts offer a way to express how effective or impactful a given investment or activity has been. This has a huge range of uses, from evaluating the general outcomes of development assistance in a given country, region or sector, down to evaluating the specific outcomes of a small, regional project to guide future investment decisions in that region.  
+       Results offer a way to express how effective or impactful a given investment or activity has been. This has a huge range of uses, from evaluating the general outcomes of development assistance in a given country, region or sector, down to evaluating the specific outcomes of a small, regional project to guide future investment decisions in that region.  
 
     .. admonition:: How?
 
