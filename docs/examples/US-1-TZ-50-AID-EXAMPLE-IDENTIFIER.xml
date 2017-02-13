@@ -147,5 +147,91 @@
         </document-link>
         <related-activity ref="US-1-TZ-50" type="1"/>
         <conditions attached="0"/>
+        <!-- maximal-result-bookmark -->
+        <result type="1" aggregation-status="1">
+            <title>
+                <narrative>Result title</narrative>
+            </title>
+            <description>
+                <narrative>Result description text</narrative>
+            </description>
+            <indicator measure="1" ascending="1">
+                <title>
+                    <narrative>Indicator title</narrative>
+                </title>
+                <description>
+                    <narrative>Indicator description text</narrative>
+                </description>
+                <reference vocabulary="1" code="3429"/>
+                <reference vocabulary="7" code="861"/>
+                <reference vocabulary="99" code="B1" indicator-uri="http://example.com/indicators.html"/>
+                <baseline year="2012" value="10">
+                    <comment>
+                        <narrative>Baseline comment text</narrative>
+                    </comment>
+                </baseline>
+                <period>
+                    <period-start iso-date="2013-01-01"/>
+                    <period-end iso-date="2013-03-31"/>
+                    <target value="10">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Target comment text</narrative>
+                        </comment>
+                    </target>
+                    <actual value="11">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Actual comment text</narrative>
+                        </comment>
+                    </actual>
+                </period>
+            </indicator>
+        </result>
+        <!-- minimal-result-bookmark -->
+        <result type="1" aggregation-status="1">
+            <title>
+                <narrative>Result title</narrative>
+            </title>
+            <indicator measure="1">
+                <title>
+                    <narrative>Indicator title</narrative>
+                </title>
+                <reference vocabulary="1" code="3429"/>
+                <baseline year="2012" value="10">
+                    <comment>
+                        <narrative>Baseline comment text</narrative>
+                    </comment>
+                </baseline>
+                <period>
+                    <period-start iso-date="2013-01-01"/>
+                    <period-end iso-date="2013-03-31"/>
+                    <target value="10">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Target comment text</narrative>
+                        </comment>
+                    </target>
+                    <actual value="11">
+                        <location ref="TZ-PQR"/>
+                        <location ref="TZ-ABC"/>
+                        <dimension name="sex" value="female"/>
+                        <dimension name="age" value="adult"/>
+                        <comment>
+                            <narrative>Actual comment text</narrative>
+                        </comment>
+                    </actual>
+                </period>
+            </indicator>
+        </result>
     </iati-activity>
 </iati-activities>
