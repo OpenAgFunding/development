@@ -1,0 +1,423 @@
+level,term_path,term_id,term_url,title,agrovoc
+1,C422,C422,http://id.agrisemantics.org/gacs/C422,Crops,http://aims.fao.org/aos/agrovoc/c_1972
+2,C422>C10525,C10525,http://id.agrisemantics.org/gacs/C10525,- Fuel crops,http://aims.fao.org/aos/agrovoc/c_15583
+2,C422>C14299,C14299,http://id.agrisemantics.org/gacs/C14299,- Protein plants,http://aims.fao.org/aos/agrovoc/c_32690
+2,C422>C1486,C1486,http://id.agrisemantics.org/gacs/C1486,- Soil reclamation plants,http://aims.fao.org/aos/agrovoc/c_7185
+2,C422>C15011,C15011,http://id.agrisemantics.org/gacs/C15011,- Tan plants,http://aims.fao.org/aos/agrovoc/c_7599
+2,C422>C15865,C15865,http://id.agrisemantics.org/gacs/C15865,- Browse plants,http://aims.fao.org/aos/agrovoc/c_9458
+3,C422>C15865>C17598,C17598,http://id.agrisemantics.org/gacs/C17598,- - Artemisia tridentata,http://aims.fao.org/aos/agrovoc/c_35528
+3,C422>C15865>C26941,C26941,http://id.agrisemantics.org/gacs/C26941,- - Tamarindus indica,http://aims.fao.org/aos/agrovoc/c_7596
+3,C422>C15865>C27771,C27771,http://id.agrisemantics.org/gacs/C27771,- - Larrea tridentata,
+2,C422>C15943,C15943,http://id.agrisemantics.org/gacs/C15943,- Cash crops,http://aims.fao.org/aos/agrovoc/c_1359
+2,C422>C16835,C16835,http://id.agrisemantics.org/gacs/C16835,- Intercrops,
+2,C422>C17044,C17044,http://id.agrisemantics.org/gacs/C17044,- Upland crops,http://aims.fao.org/aos/agrovoc/c_8075
+2,C422>C17290,C17290,http://id.agrisemantics.org/gacs/C17290,- Nectar plants,http://aims.fao.org/aos/agrovoc/c_860
+2,C422>C1772,C1772,http://id.agrisemantics.org/gacs/C1772,- Dye plants,http://aims.fao.org/aos/agrovoc/c_2422
+3,C422>C1772>C29842,C29842,http://id.agrisemantics.org/gacs/C29842,- - Bixa orellana,http://aims.fao.org/aos/agrovoc/c_943
+2,C422>C17911,C17911,http://id.agrisemantics.org/gacs/C17911,- Herbage crops,http://aims.fao.org/aos/agrovoc/c_28009
+2,C422>C19801,C19801,http://id.agrisemantics.org/gacs/C19801,- Structural crops,http://aims.fao.org/aos/agrovoc/c_7464
+2,C422>C20122,C20122,http://id.agrisemantics.org/gacs/C20122,- Catch crops,http://aims.fao.org/aos/agrovoc/c_29684
+2,C422>C20147,C20147,http://id.agrisemantics.org/gacs/C20147,- Shade plants,http://aims.fao.org/aos/agrovoc/c_7019
+3,C422>C20147>C20144,C20144,http://id.agrisemantics.org/gacs/C20144,- - Shade trees,http://aims.fao.org/aos/agrovoc/c_25548
+2,C422>C20544,C20544,http://id.agrisemantics.org/gacs/C20544,- Tropical and subtropical crops,
+3,C422>C20544>C4175,C4175,http://id.agrisemantics.org/gacs/C4175,- - Subtropical crops,
+3,C422>C20544>C4616,C4616,http://id.agrisemantics.org/gacs/C4616,- - Tropical crops,http://aims.fao.org/aos/agrovoc/c_34136
+4,C422>C20544>C4616>C5204,C5204,http://id.agrisemantics.org/gacs/C5204,- - - Tropical fruits,http://aims.fao.org/aos/agrovoc/c_7974
+5,C422>C20544>C4616>C5204>C13466,C13466,http://id.agrisemantics.org/gacs/C13466,- - - - Kiwifruits,http://aims.fao.org/aos/agrovoc/c_12002
+5,C422>C20544>C4616>C5204>C3668,C3668,http://id.agrisemantics.org/gacs/C3668,- - - - Bananas,http://aims.fao.org/aos/agrovoc/c_806
+5,C422>C20544>C4616>C5204>C4172,C4172,http://id.agrisemantics.org/gacs/C4172,- - - - Subtropical fruits,
+6,C422>C20544>C4616>C5204>C4172>C31154,C31154,http://id.agrisemantics.org/gacs/C31154,- - - - - Subtropical small fruits,
+7,C422>C20544>C4616>C5204>C4172>C31154>C18914,C18914,http://id.agrisemantics.org/gacs/C18914,- - - - - - Passion fruits,http://aims.fao.org/aos/agrovoc/c_13127
+7,C422>C20544>C4616>C5204>C4172>C31154>C22887,C22887,http://id.agrisemantics.org/gacs/C22887,- - - - - - Opuntia ficus-indica,http://aims.fao.org/aos/agrovoc/c_26594
+5,C422>C20544>C4616>C5204>C5201,C5201,http://id.agrisemantics.org/gacs/C5201,- - - - Tropical tree fruits,
+6,C422>C20544>C4616>C5204>C5201>C10337,C10337,http://id.agrisemantics.org/gacs/C10337,- - - - - Guavas,http://aims.fao.org/aos/agrovoc/c_11392
+6,C422>C20544>C4616>C5204>C5201>C18077,C18077,http://id.agrisemantics.org/gacs/C18077,- - - - - Ziziphus mauritiana,http://aims.fao.org/aos/agrovoc/c_331539
+6,C422>C20544>C4616>C5204>C5201>C26065,C26065,http://id.agrisemantics.org/gacs/C26065,- - - - - Bactris gasipaes,http://aims.fao.org/aos/agrovoc/c_3422
+6,C422>C20544>C4616>C5204>C5201>C26835,C26835,http://id.agrisemantics.org/gacs/C26835,- - - - - Lychees,http://aims.fao.org/aos/agrovoc/c_12283
+6,C422>C20544>C4616>C5204>C5201>C27143,C27143,http://id.agrisemantics.org/gacs/C27143,- - - - - Tamarinds,
+6,C422>C20544>C4616>C5204>C5201>C29420,C29420,http://id.agrisemantics.org/gacs/C29420,- - - - - Jackfruits,http://aims.fao.org/aos/agrovoc/c_11864
+6,C422>C20544>C4616>C5204>C5201>C31049,C31049,http://id.agrisemantics.org/gacs/C31049,- - - - - Sapodillas,
+6,C422>C20544>C4616>C5204>C5201>C5207,C5207,http://id.agrisemantics.org/gacs/C5207,- - - - - Mangifera indica,http://aims.fao.org/aos/agrovoc/c_4575
+6,C422>C20544>C4616>C5204>C5201>C5216,C5216,http://id.agrisemantics.org/gacs/C5216,- - - - - Mangoes,http://aims.fao.org/aos/agrovoc/c_12367
+6,C422>C20544>C4616>C5204>C5201>C8957,C8957,http://id.agrisemantics.org/gacs/C8957,- - - - - Papayas,http://aims.fao.org/aos/agrovoc/c_13087
+5,C422>C20544>C4616>C5204>C5813,C5813,http://id.agrisemantics.org/gacs/C5813,- - - - Coconuts,http://aims.fao.org/aos/agrovoc/c_25470
+5,C422>C20544>C4616>C5204>C8858,C8858,http://id.agrisemantics.org/gacs/C8858,- - - - Pineapples,http://aims.fao.org/aos/agrovoc/c_13394
+2,C422>C21043,C21043,http://id.agrisemantics.org/gacs/C21043,- Companion crops,http://aims.fao.org/aos/agrovoc/c_25549
+2,C422>C21265,C21265,http://id.agrisemantics.org/gacs/C21265,- Erosion control plants,http://aims.fao.org/aos/agrovoc/c_2653
+2,C422>C21668,C21668,http://id.agrisemantics.org/gacs/C21668,- Plantation crops,http://aims.fao.org/aos/agrovoc/c_13443
+2,C422>C2222,C2222,http://id.agrisemantics.org/gacs/C2222,- Root crops,http://aims.fao.org/aos/agrovoc/c_6641
+3,C422>C2222>C26719,C26719,http://id.agrisemantics.org/gacs/C26719,- - Armoracia rusticana,http://aims.fao.org/aos/agrovoc/c_621
+2,C422>C23167,C23167,http://id.agrisemantics.org/gacs/C23167,- Protective plants,http://aims.fao.org/aos/agrovoc/c_6248
+2,C422>C2390,C2390,http://id.agrisemantics.org/gacs/C2390,- Temperate crops,
+3,C422>C2390>C2393,C2393,http://id.agrisemantics.org/gacs/C2393,- - Temperate fruits,http://aims.fao.org/aos/agrovoc/c_7655
+4,C422>C2390>C2393>C24755,C24755,http://id.agrisemantics.org/gacs/C24755,- - - Temperate small fruits,
+5,C422>C2390>C2393>C24755>C11315,C11315,http://id.agrisemantics.org/gacs/C11315,- - - - Black currants,http://aims.fao.org/aos/agrovoc/c_945
+5,C422>C2390>C2393>C24755>C12924,C12924,http://id.agrisemantics.org/gacs/C12924,- - - - Vaccinium corymbosum,http://aims.fao.org/aos/agrovoc/c_8135
+5,C422>C2390>C2393>C24755>C15806,C15806,http://id.agrisemantics.org/gacs/C15806,- - - - Blackberries,http://aims.fao.org/aos/agrovoc/c_947
+5,C422>C2390>C2393>C24755>C17021,C17021,http://id.agrisemantics.org/gacs/C17021,- - - - Gooseberries,http://aims.fao.org/aos/agrovoc/c_3333
+5,C422>C2390>C2393>C24755>C20071,C20071,http://id.agrisemantics.org/gacs/C20071,- - - - Cranberries,http://aims.fao.org/aos/agrovoc/c_1944
+5,C422>C2390>C2393>C24755>C23601,C23601,http://id.agrisemantics.org/gacs/C23601,- - - - Vaccinium virgatum,http://aims.fao.org/aos/agrovoc/c_8133
+5,C422>C2390>C2393>C24755>C23852,C23852,http://id.agrisemantics.org/gacs/C23852,- - - - Red currants,http://aims.fao.org/aos/agrovoc/c_6479
+5,C422>C2390>C2393>C24755>C24360,C24360,http://id.agrisemantics.org/gacs/C24360,- - - - Vaccinium angustifolium,http://aims.fao.org/aos/agrovoc/c_8132
+5,C422>C2390>C2393>C24755>C27118,C27118,http://id.agrisemantics.org/gacs/C27118,- - - - Vaccinium vitis-idaea,http://aims.fao.org/aos/agrovoc/c_16299
+5,C422>C2390>C2393>C24755>C2741,C2741,http://id.agrisemantics.org/gacs/C2741,- - - - Strawberries,http://aims.fao.org/aos/agrovoc/c_7443
+5,C422>C2390>C2393>C24755>C4771,C4771,http://id.agrisemantics.org/gacs/C4771,- - - - Roses,http://aims.fao.org/aos/agrovoc/c_6655
+6,C422>C2390>C2393>C24755>C4771>C30167,C30167,http://id.agrisemantics.org/gacs/C30167,- - - - - Rosa hybrida,
+5,C422>C2390>C2393>C24755>C7463,C7463,http://id.agrisemantics.org/gacs/C7463,- - - - Raspberries,http://aims.fao.org/aos/agrovoc/c_6458
+5,C422>C2390>C2393>C24755>C9990,C9990,http://id.agrisemantics.org/gacs/C9990,- - - - Blueberries,http://aims.fao.org/aos/agrovoc/c_974
+2,C422>C24418,C24418,http://id.agrisemantics.org/gacs/C24418,- Hedgerow plants,http://aims.fao.org/aos/agrovoc/c_3530
+2,C422>C26565,C26565,http://id.agrisemantics.org/gacs/C26565,- New crops,
+2,C422>C26608,C26608,http://id.agrisemantics.org/gacs/C26608,- Trap crops,http://aims.fao.org/aos/agrovoc/c_24910
+2,C422>C27523,C27523,http://id.agrisemantics.org/gacs/C27523,- Revegetation plants,http://aims.fao.org/aos/agrovoc/c_6545
+2,C422>C2918,C2918,http://id.agrisemantics.org/gacs/C2918,- Green manures,http://aims.fao.org/aos/agrovoc/c_3375
+3,C422>C2918>C12385,C12385,http://id.agrisemantics.org/gacs/C12385,- - Lupinus albus,http://aims.fao.org/aos/agrovoc/c_4464
+3,C422>C2918>C13226,C13226,http://id.agrisemantics.org/gacs/C13226,- - Fagopyrum esculentum,http://aims.fao.org/aos/agrovoc/c_2777
+3,C422>C2918>C13267,C13267,http://id.agrisemantics.org/gacs/C13267,- - Vicia sativa,http://aims.fao.org/aos/agrovoc/c_8222
+3,C422>C2918>C14563,C14563,http://id.agrisemantics.org/gacs/C14563,- - Trifolium alexandrinum,http://aims.fao.org/aos/agrovoc/c_7911
+3,C422>C2918>C15882,C15882,http://id.agrisemantics.org/gacs/C15882,- - Lupinus angustifolius,http://aims.fao.org/aos/agrovoc/c_4465
+3,C422>C2918>C18184,C18184,http://id.agrisemantics.org/gacs/C18184,- - Vicia villosa,http://aims.fao.org/aos/agrovoc/c_8223
+3,C422>C2918>C18592,C18592,http://id.agrisemantics.org/gacs/C18592,- - Lupinus luteus,http://aims.fao.org/aos/agrovoc/c_4466
+3,C422>C2918>C19808,C19808,http://id.agrisemantics.org/gacs/C19808,- - Lablab purpureus,http://aims.fao.org/aos/agrovoc/c_4125
+3,C422>C2918>C20917,C20917,http://id.agrisemantics.org/gacs/C20917,- - Canavalia ensiformis,http://aims.fao.org/aos/agrovoc/c_1244
+3,C422>C2918>C21905,C21905,http://id.agrisemantics.org/gacs/C21905,- - Sunn hemp,http://aims.fao.org/aos/agrovoc/c_1978
+3,C422>C2918>C24661,C24661,http://id.agrisemantics.org/gacs/C24661,- - Trifolium incarnatum,http://aims.fao.org/aos/agrovoc/c_7915
+3,C422>C2918>C26134,C26134,http://id.agrisemantics.org/gacs/C26134,- - Centrosema pubescens,http://aims.fao.org/aos/agrovoc/c_1447
+3,C422>C2918>C2915,C2915,http://id.agrisemantics.org/gacs/C2915,- - Secale cereale,http://aims.fao.org/aos/agrovoc/c_6919
+3,C422>C2918>C29698,C29698,http://id.agrisemantics.org/gacs/C29698,- - Medicago polymorpha,http://aims.fao.org/aos/agrovoc/c_26568
+3,C422>C2918>C30691,C30691,http://id.agrisemantics.org/gacs/C30691,- - Lupinus mutabilis,http://aims.fao.org/aos/agrovoc/c_4467
+3,C422>C2918>C31963,C31963,http://id.agrisemantics.org/gacs/C31963,- - Azolla pinnata,http://aims.fao.org/aos/agrovoc/c_24729
+3,C422>C2918>C3845,C3845,http://id.agrisemantics.org/gacs/C3845,- - Vigna unguiculata,http://aims.fao.org/aos/agrovoc/c_8247
+4,C422>C2918>C3845>C32497,C32497,http://id.agrisemantics.org/gacs/C32497,- - - Vigna unguiculata subsp. sesquipedalis,http://aims.fao.org/aos/agrovoc/c_8249
+2,C422>C29221,C29221,http://id.agrisemantics.org/gacs/C29221,- Rootstock crops,http://aims.fao.org/aos/agrovoc/c_6652
+2,C422>C3035,C3035,http://id.agrisemantics.org/gacs/C3035,- Stimulant plants,http://aims.fao.org/aos/agrovoc/c_7413
+3,C422>C3035>C19330,C19330,http://id.agrisemantics.org/gacs/C19330,- - Coffea canephora,http://aims.fao.org/aos/agrovoc/c_1723
+3,C422>C3035>C25901,C25901,http://id.agrisemantics.org/gacs/C25901,- - Nicotiana rustica,http://aims.fao.org/aos/agrovoc/c_5176
+3,C422>C3035>C3044,C3044,http://id.agrisemantics.org/gacs/C3044,- - Camellia sinensis,http://aims.fao.org/aos/agrovoc/c_1227
+2,C422>C3070,C3070,http://id.agrisemantics.org/gacs/C3070,- Winter crops,http://aims.fao.org/aos/agrovoc/c_24917
+2,C422>C36,C36,http://id.agrisemantics.org/gacs/C36,- Horticultural crops,
+3,C422>C36>C10194,C10194,http://id.agrisemantics.org/gacs/C10194,- - Nursery crops,
+3,C422>C36>C23691,C23691,http://id.agrisemantics.org/gacs/C23691,- - Floriculture crops,
+3,C422>C36>C425,C425,http://id.agrisemantics.org/gacs/C425,- - Vegetable crops,http://aims.fao.org/aos/agrovoc/c_8165
+4,C422>C36>C425>C14239,C14239,http://id.agrisemantics.org/gacs/C14239,- - - Root vegetables,http://aims.fao.org/aos/agrovoc/c_6647
+5,C422>C36>C425>C14239>C12656,C12656,http://id.agrisemantics.org/gacs/C12656,- - - - Yams,http://aims.fao.org/aos/agrovoc/c_8478
+5,C422>C36>C425>C14239>C14357,C14357,http://id.agrisemantics.org/gacs/C14357,- - - - Turnips,http://aims.fao.org/aos/agrovoc/c_8019
+5,C422>C36>C425>C14239>C14906,C14906,http://id.agrisemantics.org/gacs/C14906,- - - - Beetroots,http://aims.fao.org/aos/agrovoc/c_867
+5,C422>C36>C425>C14239>C17159,C17159,http://id.agrisemantics.org/gacs/C17159,- - - - Mangolds,http://aims.fao.org/aos/agrovoc/c_4576
+5,C422>C36>C425>C14239>C20091,C20091,http://id.agrisemantics.org/gacs/C20091,- - - - Cyperus esculentus,http://aims.fao.org/aos/agrovoc/c_2074
+5,C422>C36>C425>C14239>C23315,C23315,http://id.agrisemantics.org/gacs/C23315,- - - - Jerusalem artichokes,http://aims.fao.org/aos/agrovoc/c_11903
+5,C422>C36>C425>C14239>C24416,C24416,http://id.agrisemantics.org/gacs/C24416,- - - - Rutabagas,http://aims.fao.org/aos/agrovoc/c_6713
+5,C422>C36>C425>C14239>C27220,C27220,http://id.agrisemantics.org/gacs/C27220,- - - - Taro,http://aims.fao.org/aos/agrovoc/c_14791
+5,C422>C36>C425>C14239>C29539,C29539,http://id.agrisemantics.org/gacs/C29539,- - - - Xanthosoma sagittifolium,http://aims.fao.org/aos/agrovoc/c_8460
+5,C422>C36>C425>C14239>C30353,C30353,http://id.agrisemantics.org/gacs/C30353,- - - - Parsnips,http://aims.fao.org/aos/agrovoc/c_13122
+5,C422>C36>C425>C14239>C4313,C4313,http://id.agrisemantics.org/gacs/C4313,- - - - Carrots,http://aims.fao.org/aos/agrovoc/c_9640
+5,C422>C36>C425>C14239>C5690,C5690,http://id.agrisemantics.org/gacs/C5690,- - - - Sweet potatoes,http://aims.fao.org/aos/agrovoc/c_14729
+5,C422>C36>C425>C14239>C6821,C6821,http://id.agrisemantics.org/gacs/C6821,- - - - Radishes,http://aims.fao.org/aos/agrovoc/c_13735
+4,C422>C36>C425>C15476,C15476,http://id.agrisemantics.org/gacs/C15476,- - - Green leafy vegetables,http://aims.fao.org/aos/agrovoc/c_3376
+5,C422>C36>C425>C15476>C10588,C10588,http://id.agrisemantics.org/gacs/C10588,- - - - Brassica chinensis,http://aims.fao.org/aos/agrovoc/c_1063
+5,C422>C36>C425>C15476>C11838,C11838,http://id.agrisemantics.org/gacs/C11838,- - - - Broccoli,http://aims.fao.org/aos/agrovoc/c_7339
+5,C422>C36>C425>C15476>C12005,C12005,http://id.agrisemantics.org/gacs/C12005,- - - - Celery,http://aims.fao.org/aos/agrovoc/c_1412
+5,C422>C36>C425>C15476>C13529,C13529,http://id.agrisemantics.org/gacs/C13529,- - - - Chinese cabbages,http://aims.fao.org/aos/agrovoc/c_9804
+5,C422>C36>C425>C15476>C14465,C14465,http://id.agrisemantics.org/gacs/C14465,- - - - Kale,http://aims.fao.org/aos/agrovoc/c_4070
+5,C422>C36>C425>C15476>C15437,C15437,http://id.agrisemantics.org/gacs/C15437,- - - - Chicory,http://aims.fao.org/aos/agrovoc/c_9786
+5,C422>C36>C425>C15476>C16319,C16319,http://id.agrisemantics.org/gacs/C16319,- - - - Amaranthus retroflexus,
+5,C422>C36>C425>C15476>C17414,C17414,http://id.agrisemantics.org/gacs/C17414,- - - - Brussels sprouts,http://aims.fao.org/aos/agrovoc/c_1127
+5,C422>C36>C425>C15476>C24896,C24896,http://id.agrisemantics.org/gacs/C24896,- - - - Globe artichokes,http://aims.fao.org/aos/agrovoc/c_11171
+5,C422>C36>C425>C15476>C25084,C25084,http://id.agrisemantics.org/gacs/C25084,- - - - Corchorus capsularis,http://aims.fao.org/aos/agrovoc/c_1884
+5,C422>C36>C425>C15476>C26756,C26756,http://id.agrisemantics.org/gacs/C26756,- - - - Kohlrabi,http://aims.fao.org/aos/agrovoc/c_4114
+5,C422>C36>C425>C15476>C26896,C26896,http://id.agrisemantics.org/gacs/C26896,- - - - Corchorus olitorius,http://aims.fao.org/aos/agrovoc/c_1885
+5,C422>C36>C425>C15476>C30365,C30365,http://id.agrisemantics.org/gacs/C30365,- - - - Cress,
+5,C422>C36>C425>C15476>C31638,C31638,http://id.agrisemantics.org/gacs/C31638,- - - - Amaranthus hybridus,
+5,C422>C36>C425>C15476>C3173,C3173,http://id.agrisemantics.org/gacs/C3173,- - - - Cabbages,http://aims.fao.org/aos/agrovoc/c_1173
+5,C422>C36>C425>C15476>C3542,C3542,http://id.agrisemantics.org/gacs/C3542,- - - - Lettuces,http://aims.fao.org/aos/agrovoc/c_12151
+5,C422>C36>C425>C15476>C5877,C5877,http://id.agrisemantics.org/gacs/C5877,- - - - Spinach,http://aims.fao.org/aos/agrovoc/c_14508
+5,C422>C36>C425>C15476>C7757,C7757,http://id.agrisemantics.org/gacs/C7757,- - - - Cauliflowers,http://aims.fao.org/aos/agrovoc/c_1394
+4,C422>C36>C425>C2057,C2057,http://id.agrisemantics.org/gacs/C2057,- - - Fruit vegetables,http://aims.fao.org/aos/agrovoc/c_3129
+5,C422>C36>C425>C2057>C13774,C13774,http://id.agrisemantics.org/gacs/C13774,- - - - Sweet peppers,http://aims.fao.org/aos/agrovoc/c_14727
+5,C422>C36>C425>C2057>C2054,C2054,http://id.agrisemantics.org/gacs/C2054,- - - - Vegetable legumes,http://aims.fao.org/aos/agrovoc/c_8169
+6,C422>C36>C425>C2057>C2054>C1637,C1637,http://id.agrisemantics.org/gacs/C1637,- - - - - Peas,http://aims.fao.org/aos/agrovoc/c_13177
+6,C422>C36>C425>C2057>C2054>C18704,C18704,http://id.agrisemantics.org/gacs/C18704,- - - - - Phaseolus lunatus,http://aims.fao.org/aos/agrovoc/c_5766
+6,C422>C36>C425>C2057>C2054>C19232,C19232,http://id.agrisemantics.org/gacs/C19232,- - - - - Cyamopsis tetragonoloba,http://aims.fao.org/aos/agrovoc/c_2051
+6,C422>C36>C425>C2057>C2054>C20074,C20074,http://id.agrisemantics.org/gacs/C20074,- - - - - Phaseolus coccineus,http://aims.fao.org/aos/agrovoc/c_5765
+6,C422>C36>C425>C2057>C2054>C21943,C21943,http://id.agrisemantics.org/gacs/C21943,- - - - - Psophocarpus tetragonolobus,http://aims.fao.org/aos/agrovoc/c_6322
+6,C422>C36>C425>C2057>C2054>C27865,C27865,http://id.agrisemantics.org/gacs/C27865,- - - - - Phaseolus acutifolius,http://aims.fao.org/aos/agrovoc/c_5764
+5,C422>C36>C425>C2057>C6002,C6002,http://id.agrisemantics.org/gacs/C6002,- - - - Aubergines,http://aims.fao.org/aos/agrovoc/c_8998
+5,C422>C36>C425>C2057>C815,C815,http://id.agrisemantics.org/gacs/C815,- - - - Tomatoes,http://aims.fao.org/aos/agrovoc/c_7805
+5,C422>C36>C425>C2057>C9275,C9275,http://id.agrisemantics.org/gacs/C9275,- - - - Cucurbit vegetables,http://aims.fao.org/aos/agrovoc/c_2006
+6,C422>C36>C425>C2057>C9275>C18853,C18853,http://id.agrisemantics.org/gacs/C18853,- - - - - Cucurbita maxima,http://aims.fao.org/aos/agrovoc/c_2009
+6,C422>C36>C425>C2057>C9275>C21185,C21185,http://id.agrisemantics.org/gacs/C21185,- - - - - Squashes,http://aims.fao.org/aos/agrovoc/c_37735
+7,C422>C36>C425>C2057>C9275>C21185>C12554,C12554,http://id.agrisemantics.org/gacs/C12554,- - - - - - Marrows,http://aims.fao.org/aos/agrovoc/c_12414
+7,C422>C36>C425>C2057>C9275>C21185>C15493,C15493,http://id.agrisemantics.org/gacs/C15493,- - - - - - Pumpkins,http://aims.fao.org/aos/agrovoc/c_6369
+6,C422>C36>C425>C2057>C9275>C21736,C21736,http://id.agrisemantics.org/gacs/C21736,- - - - - Cucurbita moschata,http://aims.fao.org/aos/agrovoc/c_2011
+6,C422>C36>C425>C2057>C9275>C2762,C2762,http://id.agrisemantics.org/gacs/C2762,- - - - - Cucumbers,http://aims.fao.org/aos/agrovoc/c_10195
+6,C422>C36>C425>C2057>C9275>C28250,C28250,http://id.agrisemantics.org/gacs/C28250,- - - - - Lagenaria siceraria,http://aims.fao.org/aos/agrovoc/c_4154
+5,C422>C36>C425>C2057>C9860,C9860,http://id.agrisemantics.org/gacs/C9860,- - - - Okras,http://aims.fao.org/aos/agrovoc/c_12920
+4,C422>C36>C425>C5073,C5073,http://id.agrisemantics.org/gacs/C5073,- - - Mushrooms,
+3,C422>C36>C5396,C5396,http://id.agrisemantics.org/gacs/C5396,- - Nut crops,http://aims.fao.org/aos/agrovoc/c_5266
+4,C422>C36>C5396>C2033,C2033,http://id.agrisemantics.org/gacs/C2033,- - - Groundnuts,http://aims.fao.org/aos/agrovoc/c_11368
+3,C422>C36>C557,C557,http://id.agrisemantics.org/gacs/C557,- - Fruit crops,http://aims.fao.org/aos/agrovoc/c_3120
+4,C422>C36>C557>C2471,C2471,http://id.agrisemantics.org/gacs/C2471,- - - Small fruits,http://aims.fao.org/aos/agrovoc/c_7151
+5,C422>C36>C557>C2471>C1220,C1220,http://id.agrisemantics.org/gacs/C1220,- - - - Grapes,http://aims.fao.org/aos/agrovoc/c_3359
+6,C422>C36>C557>C2471>C1220>C10888,C10888,http://id.agrisemantics.org/gacs/C10888,- - - - - Dessert grapes,http://aims.fao.org/aos/agrovoc/c_2215
+6,C422>C36>C557>C2471>C1220>C5539,C5539,http://id.agrisemantics.org/gacs/C5539,- - - - - Wine grapes,http://aims.fao.org/aos/agrovoc/c_8403
+4,C422>C36>C557>C3079,C3079,http://id.agrisemantics.org/gacs/C3079,- - - Fruit trees,http://aims.fao.org/aos/agrovoc/c_3128
+4,C422>C36>C557>C3220,C3220,http://id.agrisemantics.org/gacs/C3220,- - - Grapevines,http://aims.fao.org/aos/agrovoc/c_3360
+4,C422>C36>C557>C4889,C4889,http://id.agrisemantics.org/gacs/C4889,- - - Tree fruits,
+5,C422>C36>C557>C4889>C13673,C13673,http://id.agrisemantics.org/gacs/C13673,- - - - Temperate tree fruits,
+6,C422>C36>C557>C4889>C13673>C10478,C10478,http://id.agrisemantics.org/gacs/C10478,- - - - - Mulberries,http://aims.fao.org/aos/agrovoc/c_25487
+6,C422>C36>C557>C4889>C13673>C13676,C13676,http://id.agrisemantics.org/gacs/C13676,- - - - - Stone fruits,http://aims.fao.org/aos/agrovoc/c_25461
+7,C422>C36>C557>C4889>C13673>C13676>C14260,C14260,http://id.agrisemantics.org/gacs/C14260,- - - - - - Nectarines,http://aims.fao.org/aos/agrovoc/c_5100
+7,C422>C36>C557>C4889>C13673>C13676>C2573,C2573,http://id.agrisemantics.org/gacs/C2573,- - - - - - Peaches,http://aims.fao.org/aos/agrovoc/c_5638
+7,C422>C36>C557>C4889>C13673>C13676>C4094,C4094,http://id.agrisemantics.org/gacs/C4094,- - - - - - Cherries,http://aims.fao.org/aos/agrovoc/c_1534
+7,C422>C36>C557>C4889>C13673>C13676>C4139,C4139,http://id.agrisemantics.org/gacs/C4139,- - - - - - Plums,http://aims.fao.org/aos/agrovoc/c_6028
+7,C422>C36>C557>C4889>C13673>C13676>C6305,C6305,http://id.agrisemantics.org/gacs/C6305,- - - - - - Apricots,http://aims.fao.org/aos/agrovoc/c_545
+6,C422>C36>C557>C4889>C13673>C15548,C15548,http://id.agrisemantics.org/gacs/C15548,- - - - - Figs,http://aims.fao.org/aos/agrovoc/c_10840
+6,C422>C36>C557>C4889>C13673>C17345,C17345,http://id.agrisemantics.org/gacs/C17345,- - - - - Pome fruits,http://aims.fao.org/aos/agrovoc/c_25497
+7,C422>C36>C557>C4889>C13673>C17345>C14929,C14929,http://id.agrisemantics.org/gacs/C14929,- - - - - - Pyrus pyrifolia,http://aims.fao.org/aos/agrovoc/c_32230
+7,C422>C36>C557>C4889>C13673>C17345>C17009,C17009,http://id.agrisemantics.org/gacs/C17009,- - - - - - Quinces,http://aims.fao.org/aos/agrovoc/c_13714
+7,C422>C36>C557>C4889>C13673>C17345>C3071,C3071,http://id.agrisemantics.org/gacs/C3071,- - - - - - Pears,http://aims.fao.org/aos/agrovoc/c_5645
+7,C422>C36>C557>C4889>C13673>C17345>C860,C860,http://id.agrisemantics.org/gacs/C860,- - - - - - Apples,http://aims.fao.org/aos/agrovoc/c_541
+5,C422>C36>C557>C4889>C4895,C4895,http://id.agrisemantics.org/gacs/C4895,- - - - Subtropical tree fruits,
+6,C422>C36>C557>C4889>C4895>C11759,C11759,http://id.agrisemantics.org/gacs/C11759,- - - - - Dates,http://aims.fao.org/aos/agrovoc/c_25475
+6,C422>C36>C557>C4889>C4895>C15005,C15005,http://id.agrisemantics.org/gacs/C15005,- - - - - Pomegranates,http://aims.fao.org/aos/agrovoc/c_13505
+6,C422>C36>C557>C4889>C4895>C15458,C15458,http://id.agrisemantics.org/gacs/C15458,- - - - - Persimmons,
+6,C422>C36>C557>C4889>C4895>C24383,C24383,http://id.agrisemantics.org/gacs/C24383,- - - - - Loquats,http://aims.fao.org/aos/agrovoc/c_12246
+6,C422>C36>C557>C4889>C4895>C31376,C31376,http://id.agrisemantics.org/gacs/C31376,- - - - - Carobs,http://aims.fao.org/aos/agrovoc/c_9631
+6,C422>C36>C557>C4889>C4895>C31468,C31468,http://id.agrisemantics.org/gacs/C31468,- - - - - Longans,http://aims.fao.org/aos/agrovoc/c_331528
+6,C422>C36>C557>C4889>C4895>C4892,C4892,http://id.agrisemantics.org/gacs/C4892,- - - - - Citrus fruits,http://aims.fao.org/aos/agrovoc/c_1641
+7,C422>C36>C557>C4889>C4895>C4892>C10721,C10721,http://id.agrisemantics.org/gacs/C10721,- - - - - - Grapefruits,http://aims.fao.org/aos/agrovoc/c_3358
+7,C422>C36>C557>C4889>C4895>C4892>C13234,C13234,http://id.agrisemantics.org/gacs/C13234,- - - - - - Limes,http://aims.fao.org/aos/agrovoc/c_4341
+7,C422>C36>C557>C4889>C4895>C4892>C14876,C14876,http://id.agrisemantics.org/gacs/C14876,- - - - - - Sour oranges,http://aims.fao.org/aos/agrovoc/c_7006
+7,C422>C36>C557>C4889>C4895>C4892>C23093,C23093,http://id.agrisemantics.org/gacs/C23093,- - - - - - Pummelos,http://aims.fao.org/aos/agrovoc/c_6367
+7,C422>C36>C557>C4889>C4895>C4892>C24182,C24182,http://id.agrisemantics.org/gacs/C24182,- - - - - - Rough lemons,
+7,C422>C36>C557>C4889>C4895>C4892>C28679,C28679,http://id.agrisemantics.org/gacs/C28679,- - - - - - Citranges,
+7,C422>C36>C557>C4889>C4895>C4892>C31990,C31990,http://id.agrisemantics.org/gacs/C31990,- - - - - - Clementines,http://aims.fao.org/aos/agrovoc/c_9895
+7,C422>C36>C557>C4889>C4895>C4892>C3620,C3620,http://id.agrisemantics.org/gacs/C3620,- - - - - - Oranges,http://aims.fao.org/aos/agrovoc/c_7550
+7,C422>C36>C557>C4889>C4895>C4892>C8540,C8540,http://id.agrisemantics.org/gacs/C8540,- - - - - - Mandarins,http://aims.fao.org/aos/agrovoc/c_7601
+8,C422>C36>C557>C4889>C4895>C4892>C8540>C17749,C17749,http://id.agrisemantics.org/gacs/C17749,- - - - - - - Satsumas,http://aims.fao.org/aos/agrovoc/c_6819
+7,C422>C36>C557>C4889>C4895>C4892>C9386,C9386,http://id.agrisemantics.org/gacs/C9386,- - - - - - Lemons,http://aims.fao.org/aos/agrovoc/c_4259
+6,C422>C36>C557>C4889>C4895>C5963,C5963,http://id.agrisemantics.org/gacs/C5963,- - - - - Olives,http://aims.fao.org/aos/agrovoc/c_12926
+6,C422>C36>C557>C4889>C4895>C9494,C9494,http://id.agrisemantics.org/gacs/C9494,- - - - - Avocados,http://aims.fao.org/aos/agrovoc/c_9022
+2,C422>C4436,C4436,http://id.agrisemantics.org/gacs/C4436,- Pesticidal plants,http://aims.fao.org/aos/agrovoc/c_5733
+3,C422>C4436>C4439,C4439,http://id.agrisemantics.org/gacs/C4439,- - Nematicidal plants,
+4,C422>C4436>C4439>C12252,C12252,http://id.agrisemantics.org/gacs/C12252,- - - Catharanthus roseus,http://aims.fao.org/aos/agrovoc/c_33320
+4,C422>C4436>C4439>C15411,C15411,http://id.agrisemantics.org/gacs/C15411,- - - Eichhornia crassipes,http://aims.fao.org/aos/agrovoc/c_33694
+4,C422>C4436>C4439>C26813,C26813,http://id.agrisemantics.org/gacs/C26813,- - - Parthenium hysterophorus,
+4,C422>C4436>C4439>C29466,C29466,http://id.agrisemantics.org/gacs/C29466,- - - Tagetes erecta,http://aims.fao.org/aos/agrovoc/c_331514
+4,C422>C4436>C4439>C30971,C30971,http://id.agrisemantics.org/gacs/C30971,- - - Piper betle,http://aims.fao.org/aos/agrovoc/c_5916
+3,C422>C4436>C6554,C6554,http://id.agrisemantics.org/gacs/C6554,- - Acaricidal plants,
+3,C422>C4436>C6560,C6560,http://id.agrisemantics.org/gacs/C6560,- - Insecticidal plants,
+4,C422>C4436>C6560>C17710,C17710,http://id.agrisemantics.org/gacs/C17710,- - - Ocimum basilicum,http://aims.fao.org/aos/agrovoc/c_5305
+4,C422>C4436>C6560>C18511,C18511,http://id.agrisemantics.org/gacs/C18511,- - - Mentha piperita,http://aims.fao.org/aos/agrovoc/c_4746
+4,C422>C4436>C6560>C29542,C29542,http://id.agrisemantics.org/gacs/C29542,- - - Cymbopogon citratus,http://aims.fao.org/aos/agrovoc/c_35540
+4,C422>C4436>C6560>C31553,C31553,http://id.agrisemantics.org/gacs/C31553,- - - Cymbopogon nardus,
+3,C422>C4436>C6566,C6566,http://id.agrisemantics.org/gacs/C6566,- - Molluscicidal plants,
+2,C422>C45,C45,http://id.agrisemantics.org/gacs/C45,- Field crops,http://aims.fao.org/aos/agrovoc/c_10836
+3,C422>C45>C16093,C16093,http://id.agrisemantics.org/gacs/C16093,- - Starch crops,http://aims.fao.org/aos/agrovoc/c_7370
+4,C422>C45>C16093>C4958,C4958,http://id.agrisemantics.org/gacs/C4958,- - - Cassava,http://aims.fao.org/aos/agrovoc/c_9649
+4,C422>C45>C16093>C689,C689,http://id.agrisemantics.org/gacs/C689,- - - Potatoes,http://aims.fao.org/aos/agrovoc/c_13551
+3,C422>C45>C2031,C2031,http://id.agrisemantics.org/gacs/C2031,- - Grain crops,http://aims.fao.org/aos/agrovoc/c_3348
+4,C422>C45>C2031>C10067,C10067,http://id.agrisemantics.org/gacs/C10067,- - - Pseudocereals,http://aims.fao.org/aos/agrovoc/c_6301
+5,C422>C45>C2031>C10067>C10064,C10064,http://id.agrisemantics.org/gacs/C10064,- - - - Chenopodium album,
+5,C422>C45>C2031>C10067>C13217,C13217,http://id.agrisemantics.org/gacs/C13217,- - - - Buckwheat,http://aims.fao.org/aos/agrovoc/c_9471
+5,C422>C45>C2031>C10067>C18376,C18376,http://id.agrisemantics.org/gacs/C18376,- - - - Chenopodium quinoa,http://aims.fao.org/aos/agrovoc/c_1531
+5,C422>C45>C2031>C10067>C28078,C28078,http://id.agrisemantics.org/gacs/C28078,- - - - Amaranthus cruentus,http://aims.fao.org/aos/agrovoc/c_326
+5,C422>C45>C2031>C10067>C28324,C28324,http://id.agrisemantics.org/gacs/C28324,- - - - Amaranthus caudatus,http://aims.fao.org/aos/agrovoc/c_325
+4,C422>C45>C2031>C1709,C1709,http://id.agrisemantics.org/gacs/C1709,- - - Grain legumes,http://aims.fao.org/aos/agrovoc/c_3351
+5,C422>C45>C2031>C1709>C18941,C18941,http://id.agrisemantics.org/gacs/C18941,- - - - Black gram,http://aims.fao.org/aos/agrovoc/c_8089
+5,C422>C45>C2031>C1709>C19906,C19906,http://id.agrisemantics.org/gacs/C19906,- - - - Lathyrus sativus,http://aims.fao.org/aos/agrovoc/c_4218
+5,C422>C45>C2031>C1709>C20395,C20395,http://id.agrisemantics.org/gacs/C20395,- - - - Vigna angularis,http://aims.fao.org/aos/agrovoc/c_8231
+5,C422>C45>C2031>C1709>C29146,C29146,http://id.agrisemantics.org/gacs/C29146,- - - - Vigna subterranea,http://aims.fao.org/aos/agrovoc/c_15594
+5,C422>C45>C2031>C1709>C3495,C3495,http://id.agrisemantics.org/gacs/C3495,- - - - Beans,http://aims.fao.org/aos/agrovoc/c_331566
+6,C422>C45>C2031>C1709>C3495>C17334,C17334,http://id.agrisemantics.org/gacs/C17334,- - - - - Green beans,
+6,C422>C45>C2031>C1709>C3495>C18240,C18240,http://id.agrisemantics.org/gacs/C18240,- - - - - Dry beans,
+6,C422>C45>C2031>C1709>C3495>C18701,C18701,http://id.agrisemantics.org/gacs/C18701,- - - - - Lima beans,http://aims.fao.org/aos/agrovoc/c_12180
+6,C422>C45>C2031>C1709>C3495>C3818,C3818,http://id.agrisemantics.org/gacs/C3818,- - - - - Faba beans,http://aims.fao.org/aos/agrovoc/c_10722
+6,C422>C45>C2031>C1709>C3495>C3857,C3857,http://id.agrisemantics.org/gacs/C3857,- - - - - Cowpeas,http://aims.fao.org/aos/agrovoc/c_1938
+6,C422>C45>C2031>C1709>C3495>C4991,C4991,http://id.agrisemantics.org/gacs/C4991,- - - - - Chickpeas,http://aims.fao.org/aos/agrovoc/c_9785
+6,C422>C45>C2031>C1709>C3495>C5476,C5476,http://id.agrisemantics.org/gacs/C5476,- - - - - Kidney beans,http://aims.fao.org/aos/agrovoc/c_4098
+6,C422>C45>C2031>C1709>C3495>C6407,C6407,http://id.agrisemantics.org/gacs/C6407,- - - - - Mung beans,http://aims.fao.org/aos/agrovoc/c_4988
+6,C422>C45>C2031>C1709>C3495>C6665,C6665,http://id.agrisemantics.org/gacs/C6665,- - - - - Pigeon peas,http://aims.fao.org/aos/agrovoc/c_13356
+5,C422>C45>C2031>C1709>C746,C746,http://id.agrisemantics.org/gacs/C746,- - - - Soybeans,http://aims.fao.org/aos/agrovoc/c_14477
+5,C422>C45>C2031>C1709>C9092,C9092,http://id.agrisemantics.org/gacs/C9092,- - - - Lupins,
+5,C422>C45>C2031>C1709>C9848,C9848,http://id.agrisemantics.org/gacs/C9848,- - - - Lentils,http://aims.fao.org/aos/agrovoc/c_12140
+4,C422>C45>C2031>C326,C326,http://id.agrisemantics.org/gacs/C326,- - - Cereals,http://aims.fao.org/aos/agrovoc/c_1474
+5,C422>C45>C2031>C326>C11148,C11148,http://id.agrisemantics.org/gacs/C11148,- - - - Food grains,
+5,C422>C45>C2031>C326>C15721,C15721,http://id.agrisemantics.org/gacs/C15721,- - - - Feed cereals,http://aims.fao.org/aos/agrovoc/c_2828
+5,C422>C45>C2031>C326>C1814,C1814,http://id.agrisemantics.org/gacs/C1814,- - - - Oats,http://aims.fao.org/aos/agrovoc/c_5287
+5,C422>C45>C2031>C326>C212,C212,http://id.agrisemantics.org/gacs/C212,- - - - Wheat,http://aims.fao.org/aos/agrovoc/c_8373
+6,C422>C45>C2031>C326>C212>C14302,C14302,http://id.agrisemantics.org/gacs/C14302,- - - - - Hard wheat,http://aims.fao.org/aos/agrovoc/c_11456
+6,C422>C45>C2031>C326>C212>C3435,C3435,http://id.agrisemantics.org/gacs/C3435,- - - - - Winter wheat,http://aims.fao.org/aos/agrovoc/c_8412
+6,C422>C45>C2031>C326>C212>C9303,C9303,http://id.agrisemantics.org/gacs/C9303,- - - - - Spring wheat,http://aims.fao.org/aos/agrovoc/c_7337
+6,C422>C45>C2031>C326>C212>C9480,C9480,http://id.agrisemantics.org/gacs/C9480,- - - - - Durum wheat,
+6,C422>C45>C2031>C326>C212>C9964,C9964,http://id.agrisemantics.org/gacs/C9964,- - - - - Soft wheat,http://aims.fao.org/aos/agrovoc/c_14386
+5,C422>C45>C2031>C326>C272,C272,http://id.agrisemantics.org/gacs/C272,- - - - Maize,http://aims.fao.org/aos/agrovoc/c_12332
+6,C422>C45>C2031>C326>C272>C13658,C13658,http://id.agrisemantics.org/gacs/C13658,- - - - - Sweetcorn,http://aims.fao.org/aos/agrovoc/c_7552
+6,C422>C45>C2031>C326>C272>C26632,C26632,http://id.agrisemantics.org/gacs/C26632,- - - - - Popcorn,http://aims.fao.org/aos/agrovoc/c_6108
+6,C422>C45>C2031>C326>C272>C31683,C31683,http://id.agrisemantics.org/gacs/C31683,- - - - - Waxy maize,http://aims.fao.org/aos/agrovoc/c_8337
+6,C422>C45>C2031>C326>C272>C32188,C32188,http://id.agrisemantics.org/gacs/C32188,- - - - - Dent maize,http://aims.fao.org/aos/agrovoc/c_2187
+5,C422>C45>C2031>C326>C2909,C2909,http://id.agrisemantics.org/gacs/C2909,- - - - Rye,http://aims.fao.org/aos/agrovoc/c_14010
+5,C422>C45>C2031>C326>C3875,C3875,http://id.agrisemantics.org/gacs/C3875,- - - - Millets,http://aims.fao.org/aos/agrovoc/c_4838
+6,C422>C45>C2031>C326>C3875>C19120,C19120,http://id.agrisemantics.org/gacs/C19120,- - - - - Echinochloa frumentacea,http://aims.fao.org/aos/agrovoc/c_2454
+6,C422>C45>C2031>C326>C3875>C19300,C19300,http://id.agrisemantics.org/gacs/C19300,- - - - - Panicum miliaceum,http://aims.fao.org/aos/agrovoc/c_5538
+6,C422>C45>C2031>C326>C3875>C24702,C24702,http://id.agrisemantics.org/gacs/C24702,- - - - - Setaria viridis,
+6,C422>C45>C2031>C326>C3875>C25310,C25310,http://id.agrisemantics.org/gacs/C25310,- - - - - Echinochloa colona,http://aims.fao.org/aos/agrovoc/c_2453
+6,C422>C45>C2031>C326>C3875>C27595,C27595,http://id.agrisemantics.org/gacs/C27595,- - - - - Eragrostis tef,http://aims.fao.org/aos/agrovoc/c_2635
+6,C422>C45>C2031>C326>C3875>C32000,C32000,http://id.agrisemantics.org/gacs/C32000,- - - - - Finger millet,http://aims.fao.org/aos/agrovoc/c_2904
+6,C422>C45>C2031>C326>C3875>C6740,C6740,http://id.agrisemantics.org/gacs/C6740,- - - - - Pearl millet,
+5,C422>C45>C2031>C326>C476,C476,http://id.agrisemantics.org/gacs/C476,- - - - Rice,http://aims.fao.org/aos/agrovoc/c_6599
+6,C422>C45>C2031>C326>C476>C11686,C11686,http://id.agrisemantics.org/gacs/C11686,- - - - - Upland rice,http://aims.fao.org/aos/agrovoc/c_8076
+6,C422>C45>C2031>C326>C476>C15073,C15073,http://id.agrisemantics.org/gacs/C15073,- - - - - Flooded rice,http://aims.fao.org/aos/agrovoc/c_2979
+6,C422>C45>C2031>C326>C476>C30189,C30189,http://id.agrisemantics.org/gacs/C30189,- - - - - Brown rice,
+5,C422>C45>C2031>C326>C785,C785,http://id.agrisemantics.org/gacs/C785,- - - - Barley,http://aims.fao.org/aos/agrovoc/c_823
+6,C422>C45>C2031>C326>C785>C12256,C12256,http://id.agrisemantics.org/gacs/C12256,- - - - - Malting barley,http://aims.fao.org/aos/agrovoc/c_25485
+6,C422>C45>C2031>C326>C785>C26757,C26757,http://id.agrisemantics.org/gacs/C26757,- - - - - Spring barley,
+5,C422>C45>C2031>C326>C8075,C8075,http://id.agrisemantics.org/gacs/C8075,- - - - Triticale,http://aims.fao.org/aos/agrovoc/c_7949
+5,C422>C45>C2031>C326>C9819,C9819,http://id.agrisemantics.org/gacs/C9819,- - - - Grain sorghum,http://aims.fao.org/aos/agrovoc/c_7249
+4,C422>C45>C2031>C3397,C3397,http://id.agrisemantics.org/gacs/C3397,- - - Cereal crops,http://aims.fao.org/aos/agrovoc/c_25512
+3,C422>C45>C254,C254,http://id.agrisemantics.org/gacs/C254,- - Fodder plants,http://aims.fao.org/aos/agrovoc/c_2829
+4,C422>C45>C254>C1292,C1292,http://id.agrisemantics.org/gacs/C1292,- - - Fodder legumes,http://aims.fao.org/aos/agrovoc/c_2834
+5,C422>C45>C254>C1292>C1295,C1295,http://id.agrisemantics.org/gacs/C1295,- - - - Medicago sativa,http://aims.fao.org/aos/agrovoc/c_4693
+5,C422>C45>C254>C1292>C1593,C1593,http://id.agrisemantics.org/gacs/C1593,- - - - Pisum sativum,http://aims.fao.org/aos/agrovoc/c_5933
+5,C422>C45>C254>C1292>C22624,C22624,http://id.agrisemantics.org/gacs/C22624,- - - - Onobrychis viciifolia,http://aims.fao.org/aos/agrovoc/c_5357
+5,C422>C45>C254>C1292>C23512,C23512,http://id.agrisemantics.org/gacs/C23512,- - - - Pueraria phaseoloides,http://aims.fao.org/aos/agrovoc/c_6357
+5,C422>C45>C254>C1292>C24460,C24460,http://id.agrisemantics.org/gacs/C24460,- - - - Arachis pintoi,http://aims.fao.org/aos/agrovoc/c_33617
+5,C422>C45>C254>C1292>C25318,C25318,http://id.agrisemantics.org/gacs/C25318,- - - - Macroptilium atropurpureum,http://aims.fao.org/aos/agrovoc/c_4501
+5,C422>C45>C254>C1292>C25526,C25526,http://id.agrisemantics.org/gacs/C25526,- - - - Trifolium hybridum,http://aims.fao.org/aos/agrovoc/c_7914
+5,C422>C45>C254>C1292>C29776,C29776,http://id.agrisemantics.org/gacs/C29776,- - - - Trifolium resupinatum,http://aims.fao.org/aos/agrovoc/c_7919
+5,C422>C45>C254>C1292>C31180,C31180,http://id.agrisemantics.org/gacs/C31180,- - - - Melilotus albus,http://aims.fao.org/aos/agrovoc/c_4720
+5,C422>C45>C254>C1292>C32057,C32057,http://id.agrisemantics.org/gacs/C32057,- - - - Sesbania cannabina,
+5,C422>C45>C254>C1292>C5642,C5642,http://id.agrisemantics.org/gacs/C5642,- - - - Vigna radiata,http://aims.fao.org/aos/agrovoc/c_8242
+6,C422>C45>C254>C1292>C5642>C18889,C18889,http://id.agrisemantics.org/gacs/C18889,- - - - - Vigna radiata radiata,http://aims.fao.org/aos/agrovoc/c_8243
+4,C422>C45>C254>C14360,C14360,http://id.agrisemantics.org/gacs/C14360,- - - Brassica campestris var. rapa,http://aims.fao.org/aos/agrovoc/c_9399
+4,C422>C45>C254>C14459,C14459,http://id.agrisemantics.org/gacs/C14459,- - - Brassica oleracea var. viridis,
+4,C422>C45>C254>C14960,C14960,http://id.agrisemantics.org/gacs/C14960,- - - Sorghum bicolor subsp. drummondii,
+4,C422>C45>C254>C15416,C15416,http://id.agrisemantics.org/gacs/C15416,- - - Sorghum halepense,http://aims.fao.org/aos/agrovoc/c_7248
+4,C422>C45>C254>C1754,C1754,http://id.agrisemantics.org/gacs/C1754,- - - Beta vulgaris,http://aims.fao.org/aos/agrovoc/c_890
+5,C422>C45>C254>C1754>C1757,C1757,http://id.agrisemantics.org/gacs/C1757,- - - - Beta vulgaris var. saccharifera,
+4,C422>C45>C254>C1817,C1817,http://id.agrisemantics.org/gacs/C1817,- - - Avena sativa,http://aims.fao.org/aos/agrovoc/c_731
+4,C422>C45>C254>C2315,C2315,http://id.agrisemantics.org/gacs/C2315,- - - Saccharum officinarum,http://aims.fao.org/aos/agrovoc/c_6727
+4,C422>C45>C254>C29216,C29216,http://id.agrisemantics.org/gacs/C29216,- - - Arrhenatherum elatius,http://aims.fao.org/aos/agrovoc/c_627
+4,C422>C45>C254>C29710,C29710,http://id.agrisemantics.org/gacs/C29710,- - - Saccharum spontaneum,http://aims.fao.org/aos/agrovoc/c_6729
+4,C422>C45>C254>C30359,C30359,http://id.agrisemantics.org/gacs/C30359,- - - Pastinaca sativa,http://aims.fao.org/aos/agrovoc/c_5625
+4,C422>C45>C254>C32425,C32425,http://id.agrisemantics.org/gacs/C32425,- - - Tripsacum dactyloides,http://aims.fao.org/aos/agrovoc/c_7941
+3,C422>C45>C257,C257,http://id.agrisemantics.org/gacs/C257,- - Oil crops,http://aims.fao.org/aos/agrovoc/c_5328
+4,C422>C45>C257>C251,C251,http://id.agrisemantics.org/gacs/C251,- - - Fatty oil plants,
+3,C422>C45>C2900,C2900,http://id.agrisemantics.org/gacs/C2900,- - Fibre plants,http://aims.fao.org/aos/agrovoc/c_2876
+4,C422>C45>C2900>C10963,C10963,http://id.agrisemantics.org/gacs/C10963,- - - Gossypium barbadense,http://aims.fao.org/aos/agrovoc/c_3337
+4,C422>C45>C2900>C15298,C15298,http://id.agrisemantics.org/gacs/C15298,- - - Hibiscus cannabinus,http://aims.fao.org/aos/agrovoc/c_3595
+4,C422>C45>C2900>C1599,C1599,http://id.agrisemantics.org/gacs/C1599,- - - Gossypium hirsutum,http://aims.fao.org/aos/agrovoc/c_3339
+4,C422>C45>C2900>C16350,C16350,http://id.agrisemantics.org/gacs/C16350,- - - Phragmites australis,http://aims.fao.org/aos/agrovoc/c_23959
+4,C422>C45>C2900>C25264,C25264,http://id.agrisemantics.org/gacs/C25264,- - - Gossypium arboreum,http://aims.fao.org/aos/agrovoc/c_3336
+4,C422>C45>C2900>C27808,C27808,http://id.agrisemantics.org/gacs/C27808,- - - Yucca,http://aims.fao.org/aos/agrovoc/c_15526
+4,C422>C45>C2900>C29834,C29834,http://id.agrisemantics.org/gacs/C29834,- - - Agave sisalana,http://aims.fao.org/aos/agrovoc/c_184
+4,C422>C45>C2900>C30157,C30157,http://id.agrisemantics.org/gacs/C30157,- - - Sesbania sesban,http://aims.fao.org/aos/agrovoc/c_33878
+3,C422>C45>C4727,C4727,http://id.agrisemantics.org/gacs/C4727,- - Sugar crops,http://aims.fao.org/aos/agrovoc/c_7503
+4,C422>C45>C4727>C10548,C10548,http://id.agrisemantics.org/gacs/C10548,- - - Acer saccharum,http://aims.fao.org/aos/agrovoc/c_75
+4,C422>C45>C4727>C1442,C1442,http://id.agrisemantics.org/gacs/C1442,- - - Sugarcane,http://aims.fao.org/aos/agrovoc/c_7501
+5,C422>C45>C4727>C1442>C25661,C25661,http://id.agrisemantics.org/gacs/C25661,- - - - Sugarcane juice,http://aims.fao.org/aos/agrovoc/c_32708
+4,C422>C45>C4727>C1748,C1748,http://id.agrisemantics.org/gacs/C1748,- - - Sugarbeet,http://aims.fao.org/aos/agrovoc/c_7499
+4,C422>C45>C4727>C21689,C21689,http://id.agrisemantics.org/gacs/C21689,- - - Sweet sorghum,
+2,C422>C465,C465,http://id.agrisemantics.org/gacs/C465,- Medicinal plants,http://aims.fao.org/aos/agrovoc/c_2393
+3,C422>C465>C14879,C14879,http://id.agrisemantics.org/gacs/C14879,- - Citrus aurantium,http://aims.fao.org/aos/agrovoc/c_1639
+3,C422>C465>C15812,C15812,http://id.agrisemantics.org/gacs/C15812,- - Zingiber officinale,http://aims.fao.org/aos/agrovoc/c_8521
+3,C422>C465>C17034,C17034,http://id.agrisemantics.org/gacs/C17034,- - Chrysanthemum morifolium,http://aims.fao.org/aos/agrovoc/c_33343
+3,C422>C465>C18800,C18800,http://id.agrisemantics.org/gacs/C18800,- - Datura stramonium,http://aims.fao.org/aos/agrovoc/c_26468
+3,C422>C465>C22727,C22727,http://id.agrisemantics.org/gacs/C22727,- - Thymus vulgaris,
+3,C422>C465>C22736,C22736,http://id.agrisemantics.org/gacs/C22736,- - Chrysanthemum indicum,
+3,C422>C465>C26982,C26982,http://id.agrisemantics.org/gacs/C26982,- - Panax quinquefolius,http://aims.fao.org/aos/agrovoc/c_35571
+3,C422>C465>C27236,C27236,http://id.agrisemantics.org/gacs/C27236,- - Salvia miltiorrhiza,http://aims.fao.org/aos/agrovoc/c_33866
+3,C422>C465>C28018,C28018,http://id.agrisemantics.org/gacs/C28018,- - Stevia rebaudiana,http://aims.fao.org/aos/agrovoc/c_24805
+3,C422>C465>C6569,C6569,http://id.agrisemantics.org/gacs/C6569,- - Antibacterial plants,
+3,C422>C465>C6578,C6578,http://id.agrisemantics.org/gacs/C6578,- - Azadirachta indica,http://aims.fao.org/aos/agrovoc/c_15749
+3,C422>C465>C6718,C6718,http://id.agrisemantics.org/gacs/C6718,- - Allium sativum,http://aims.fao.org/aos/agrovoc/c_290
+2,C422>C5058,C5058,http://id.agrisemantics.org/gacs/C5058,- Container grown plants,
+3,C422>C5058>C25179,C25179,http://id.agrisemantics.org/gacs/C25179,- - Potted foliage plants,
+3,C422>C5058>C28272,C28272,http://id.agrisemantics.org/gacs/C28272,- - Potted flowering plants,
+2,C422>C5119,C5119,http://id.agrisemantics.org/gacs/C5119,- Greenhouse crops,http://aims.fao.org/aos/agrovoc/c_3377
+2,C422>C5242,C5242,http://id.agrisemantics.org/gacs/C5242,- Spring crops,http://aims.fao.org/aos/agrovoc/c_24918
+2,C422>C5366,C5366,http://id.agrisemantics.org/gacs/C5366,- Spice plants,http://aims.fao.org/aos/agrovoc/c_7299
+3,C422>C5366>C14908,C14908,http://id.agrisemantics.org/gacs/C14908,- - Piper nigrum,http://aims.fao.org/aos/agrovoc/c_5919
+3,C422>C5366>C15579,C15579,http://id.agrisemantics.org/gacs/C15579,- - Sinapis alba,http://aims.fao.org/aos/agrovoc/c_1061
+3,C422>C5366>C19108,C19108,http://id.agrisemantics.org/gacs/C19108,- - Papaver somniferum,http://aims.fao.org/aos/agrovoc/c_5546
+3,C422>C5366>C20590,C20590,http://id.agrisemantics.org/gacs/C20590,- - Capsicum frutescens,http://aims.fao.org/aos/agrovoc/c_1291
+3,C422>C5366>C21116,C21116,http://id.agrisemantics.org/gacs/C21116,- - Foeniculum vulgare,http://aims.fao.org/aos/agrovoc/c_3004
+3,C422>C5366>C21593,C21593,http://id.agrisemantics.org/gacs/C21593,- - Syzygium aromaticum,http://aims.fao.org/aos/agrovoc/c_14762
+3,C422>C5366>C23917,C23917,http://id.agrisemantics.org/gacs/C23917,- - Crocus sativus,http://aims.fao.org/aos/agrovoc/c_1964
+3,C422>C5366>C24511,C24511,http://id.agrisemantics.org/gacs/C24511,- - Brassica nigra,http://aims.fao.org/aos/agrovoc/c_1067
+3,C422>C5366>C27568,C27568,http://id.agrisemantics.org/gacs/C27568,- - Nigella sativa,http://aims.fao.org/aos/agrovoc/c_26585
+3,C422>C5366>C27790,C27790,http://id.agrisemantics.org/gacs/C27790,- - Carum carvi,http://aims.fao.org/aos/agrovoc/c_1347
+3,C422>C5366>C29468,C29468,http://id.agrisemantics.org/gacs/C29468,- - Cuminum cyminum,http://aims.fao.org/aos/agrovoc/c_2024
+3,C422>C5366>C3499,C3499,http://id.agrisemantics.org/gacs/C3499,- - Capsicum annuum,http://aims.fao.org/aos/agrovoc/c_1288
+2,C422>C6087,C6087,http://id.agrisemantics.org/gacs/C6087,- Specialty crops,
+3,C422>C6087>C2441,C2441,http://id.agrisemantics.org/gacs/C2441,- - Essential oil crops,http://aims.fao.org/aos/agrovoc/c_2668
+4,C422>C6087>C2441>C10645,C10645,http://id.agrisemantics.org/gacs/C10645,- - - Citrus reticulata,http://aims.fao.org/aos/agrovoc/c_1646
+4,C422>C6087>C2441>C10718,C10718,http://id.agrisemantics.org/gacs/C10718,- - - Citrus paradisi,http://aims.fao.org/aos/agrovoc/c_1645
+4,C422>C6087>C2441>C12104,C12104,http://id.agrisemantics.org/gacs/C12104,- - - Citrus limon,http://aims.fao.org/aos/agrovoc/c_1643
+4,C422>C6087>C2441>C17026,C17026,http://id.agrisemantics.org/gacs/C17026,- - - Chamaecyparis obtusa,http://aims.fao.org/aos/agrovoc/c_34592
+4,C422>C6087>C2441>C19418,C19418,http://id.agrisemantics.org/gacs/C19418,- - - Petroselinum crispum,http://aims.fao.org/aos/agrovoc/c_5751
+4,C422>C6087>C2441>C26194,C26194,http://id.agrisemantics.org/gacs/C26194,- - - Origanum vulgare,http://aims.fao.org/aos/agrovoc/c_34635
+4,C422>C6087>C2441>C28306,C28306,http://id.agrisemantics.org/gacs/C28306,- - - Chrysopogon zizanioides,http://aims.fao.org/aos/agrovoc/c_8209
+4,C422>C6087>C2441>C29059,C29059,http://id.agrisemantics.org/gacs/C29059,- - - Achillea millefolium,http://aims.fao.org/aos/agrovoc/c_24583
+4,C422>C6087>C2441>C29618,C29618,http://id.agrisemantics.org/gacs/C29618,- - - Anethum graveolens,http://aims.fao.org/aos/agrovoc/c_26353
+4,C422>C6087>C2441>C30211,C30211,http://id.agrisemantics.org/gacs/C30211,- - - Cupressus sempervirens,http://aims.fao.org/aos/agrovoc/c_26458
+4,C422>C6087>C2441>C32002,C32002,http://id.agrisemantics.org/gacs/C32002,- - - Laurus nobilis,http://aims.fao.org/aos/agrovoc/c_4227
+4,C422>C6087>C2441>C32581,C32581,http://id.agrisemantics.org/gacs/C32581,- - - Melissa officinalis,http://aims.fao.org/aos/agrovoc/c_25464
+4,C422>C6087>C2441>C5240,C5240,http://id.agrisemantics.org/gacs/C5240,- - - Citrus sinensis,http://aims.fao.org/aos/agrovoc/c_1647
+2,C422>C6156,C6156,http://id.agrisemantics.org/gacs/C6156,- Cover crops,
+2,C422>C6535,C6535,http://id.agrisemantics.org/gacs/C6535,- Pot plants,http://aims.fao.org/aos/agrovoc/c_6136
+2,C422>C6551,C6551,http://id.agrisemantics.org/gacs/C6551,- Gum plants,http://aims.fao.org/aos/agrovoc/c_3439
+3,C422>C6551>C11518,C11518,http://id.agrisemantics.org/gacs/C11518,- - Actinidia deliciosa,http://aims.fao.org/aos/agrovoc/c_27109
+3,C422>C6551>C14573,C14573,http://id.agrisemantics.org/gacs/C14573,- - Anacardium occidentale,http://aims.fao.org/aos/agrovoc/c_378
+3,C422>C6551>C19256,C19256,http://id.agrisemantics.org/gacs/C19256,- - Guar,
+3,C422>C6551>C19325,C19325,http://id.agrisemantics.org/gacs/C19325,- - Cydonia oblonga,http://aims.fao.org/aos/agrovoc/c_2062
+3,C422>C6551>C25783,C25783,http://id.agrisemantics.org/gacs/C25783,- - Ceratonia siliqua,http://aims.fao.org/aos/agrovoc/c_1464
+3,C422>C6551>C26002,C26002,http://id.agrisemantics.org/gacs/C26002,- - Acacia senegal,http://aims.fao.org/aos/agrovoc/c_48
+2,C422>C6805,C6805,http://id.agrisemantics.org/gacs/C6805,- Food crops,http://aims.fao.org/aos/agrovoc/c_3017
+2,C422>C7540,C7540,http://id.agrisemantics.org/gacs/C7540,- Ground cover plants,http://aims.fao.org/aos/agrovoc/c_1936
+2,C422>C7584,C7584,http://id.agrisemantics.org/gacs/C7584,- Culinary herbs,http://aims.fao.org/aos/agrovoc/c_3568
+3,C422>C7584>C19143,C19143,http://id.agrisemantics.org/gacs/C19143,- - Rosemary,http://aims.fao.org/aos/agrovoc/c_13963
+3,C422>C7584>C19169,C19169,http://id.agrisemantics.org/gacs/C19169,- - Fenugreek,
+3,C422>C7584>C19412,C19412,http://id.agrisemantics.org/gacs/C19412,- - Parsley,http://aims.fao.org/aos/agrovoc/c_13120
+3,C422>C7584>C19736,C19736,http://id.agrisemantics.org/gacs/C19736,- - Rosmarinus officinalis,http://aims.fao.org/aos/agrovoc/c_6660
+3,C422>C7584>C21110,C21110,http://id.agrisemantics.org/gacs/C21110,- - Fennel,http://aims.fao.org/aos/agrovoc/c_10789
+3,C422>C7584>C23972,C23972,http://id.agrisemantics.org/gacs/C23972,- - Liquorice,http://aims.fao.org/aos/agrovoc/c_12201
+3,C422>C7584>C24042,C24042,http://id.agrisemantics.org/gacs/C24042,- - Oregano,http://aims.fao.org/aos/agrovoc/c_34066
+3,C422>C7584>C24218,C24218,http://id.agrisemantics.org/gacs/C24218,- - Sage,http://aims.fao.org/aos/agrovoc/c_14025
+3,C422>C7584>C25618,C25618,http://id.agrisemantics.org/gacs/C25618,- - Basil,http://aims.fao.org/aos/agrovoc/c_9093
+3,C422>C7584>C27723,C27723,http://id.agrisemantics.org/gacs/C27723,- - Thyme,http://aims.fao.org/aos/agrovoc/c_14877
+3,C422>C7584>C29630,C29630,http://id.agrisemantics.org/gacs/C29630,- - Dill,http://aims.fao.org/aos/agrovoc/c_10377
+3,C422>C7584>C32299,C32299,http://id.agrisemantics.org/gacs/C32299,- - Chamomile,http://aims.fao.org/aos/agrovoc/c_9733
+3,C422>C7584>C32353,C32353,http://id.agrisemantics.org/gacs/C32353,- - Horseradish,http://aims.fao.org/aos/agrovoc/c_11614
+3,C422>C7584>C7202,C7202,http://id.agrisemantics.org/gacs/C7202,- - Garlic,http://aims.fao.org/aos/agrovoc/c_11091
+2,C422>C8332,C8332,http://id.agrisemantics.org/gacs/C8332,- Industrial crops,http://aims.fao.org/aos/agrovoc/c_3845
+2,C422>C8386,C8386,http://id.agrisemantics.org/gacs/C8386,- Beverage crops,http://aims.fao.org/aos/agrovoc/c_894
+3,C422>C8386>C11525,C11525,http://id.agrisemantics.org/gacs/C11525,- - Hops,http://aims.fao.org/aos/agrovoc/c_11596
+3,C422>C8386>C2627,C2627,http://id.agrisemantics.org/gacs/C2627,- - Coffee,
+3,C422>C8386>C2945,C2945,http://id.agrisemantics.org/gacs/C2945,- - Tea,http://aims.fao.org/aos/agrovoc/c_7634
+4,C422>C8386>C2945>C11682,C11682,http://id.agrisemantics.org/gacs/C11682,- - - Green tea,
+4,C422>C8386>C2945>C22647,C22647,http://id.agrisemantics.org/gacs/C22647,- - - Black tea,
+4,C422>C8386>C2945>C29334,C29334,http://id.agrisemantics.org/gacs/C29334,- - - Herbal teas,http://aims.fao.org/aos/agrovoc/c_35743
+3,C422>C8386>C4493,C4493,http://id.agrisemantics.org/gacs/C4493,- - Cocoa,
+2,C422>C8803,C8803,http://id.agrisemantics.org/gacs/C8803,- Seed crops,http://aims.fao.org/aos/agrovoc/c_6931
+3,C422>C8803>C24454,C24454,http://id.agrisemantics.org/gacs/C24454,- - Seed trees,http://aims.fao.org/aos/agrovoc/c_6941
+3,C422>C8803>C263,C263,http://id.agrisemantics.org/gacs/C263,- - Oilseed plants,
+4,C422>C8803>C263>C10030,C10030,http://id.agrisemantics.org/gacs/C10030,- - - Juglans regia,http://aims.fao.org/aos/agrovoc/c_4060
+4,C422>C8803>C263>C10327,C10327,http://id.agrisemantics.org/gacs/C10327,- - - Ricinus communis,http://aims.fao.org/aos/agrovoc/c_6600
+4,C422>C8803>C263>C11714,C11714,http://id.agrisemantics.org/gacs/C11714,- - - Safflower,http://aims.fao.org/aos/agrovoc/c_14022
+4,C422>C8803>C263>C14346,C14346,http://id.agrisemantics.org/gacs/C14346,- - - Corylus avellana,http://aims.fao.org/aos/agrovoc/c_32098
+4,C422>C8803>C263>C2039,C2039,http://id.agrisemantics.org/gacs/C2039,- - - Arachis hypogaea,http://aims.fao.org/aos/agrovoc/c_572
+4,C422>C8803>C263>C207,C207,http://id.agrisemantics.org/gacs/C207,- - - Zea mays,http://aims.fao.org/aos/agrovoc/c_8504
+4,C422>C8803>C263>C2179,C2179,http://id.agrisemantics.org/gacs/C2179,- - - Vitis vinifera,http://aims.fao.org/aos/agrovoc/c_8283
+4,C422>C8803>C263>C2519,C2519,http://id.agrisemantics.org/gacs/C2519,- - - Sunflowers,http://aims.fao.org/aos/agrovoc/c_3539
+4,C422>C8803>C263>C26384,C26384,http://id.agrisemantics.org/gacs/C26384,- - - Pongamia pinnata,http://aims.fao.org/aos/agrovoc/c_26630
+4,C422>C8803>C263>C26683,C26683,http://id.agrisemantics.org/gacs/C26683,- - - Brassica carinata,http://aims.fao.org/aos/agrovoc/c_33311
+4,C422>C8803>C263>C28142,C28142,http://id.agrisemantics.org/gacs/C28142,- - - Shorea robusta,http://aims.fao.org/aos/agrovoc/c_26677
+4,C422>C8803>C263>C28631,C28631,http://id.agrisemantics.org/gacs/C28631,- - - Tung,
+4,C422>C8803>C263>C29545,C29545,http://id.agrisemantics.org/gacs/C29545,- - - Eruca vesicaria,http://aims.fao.org/aos/agrovoc/c_15797
+4,C422>C8803>C263>C2981,C2981,http://id.agrisemantics.org/gacs/C2981,- - - Rape,
+4,C422>C8803>C263>C30515,C30515,http://id.agrisemantics.org/gacs/C30515,- - - Turnip rape,
+4,C422>C8803>C263>C3137,C3137,http://id.agrisemantics.org/gacs/C3137,- - - Swede rape,
+4,C422>C8803>C263>C7406,C7406,http://id.agrisemantics.org/gacs/C7406,- - - Oil palms,http://aims.fao.org/aos/agrovoc/c_5330
+4,C422>C8803>C263>C8795,C8795,http://id.agrisemantics.org/gacs/C8795,- - - Sesame,http://aims.fao.org/aos/agrovoc/c_14216
+2,C422>C9233,C9233,http://id.agrisemantics.org/gacs/C9233,- Rubber plants,http://aims.fao.org/aos/agrovoc/c_6679
+3,C422>C9233>C21762,C21762,http://id.agrisemantics.org/gacs/C21762,- - Parthenium argentatum,http://aims.fao.org/aos/agrovoc/c_5597

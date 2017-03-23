@@ -1,0 +1,1116 @@
+level,term_path,term_id,term_url,title,agrovoc
+1,C4648,C4648,http://id.agrisemantics.org/gacs/C4648,Products,http://aims.fao.org/aos/agrovoc/c_6211
+2,C4648>C10050,C10050,http://id.agrisemantics.org/gacs/C10050,- Plant residues,
+3,C4648>C10050>C30430,C30430,http://id.agrisemantics.org/gacs/C30430,- - Thatch,http://aims.fao.org/aos/agrovoc/c_7704
+3,C4648>C10050>C3990,C3990,http://id.agrisemantics.org/gacs/C3990,- - Crop residues,http://aims.fao.org/aos/agrovoc/c_16118
+4,C4648>C10050>C3990>C12752,C12752,http://id.agrisemantics.org/gacs/C12752,- - - Stumps,http://aims.fao.org/aos/agrovoc/c_24412
+4,C4648>C10050>C3990>C14213,C14213,http://id.agrisemantics.org/gacs/C14213,- - - Stubble,http://aims.fao.org/aos/agrovoc/c_16650
+4,C4648>C10050>C3990>C20178,C20178,http://id.agrisemantics.org/gacs/C20178,- - - Maize cobs,
+4,C4648>C10050>C3990>C4767,C4767,http://id.agrisemantics.org/gacs/C4767,- - - Plant litter,http://aims.fao.org/aos/agrovoc/c_24064
+5,C4648>C10050>C3990>C4767>C3927,C3927,http://id.agrisemantics.org/gacs/C3927,- - - - Forest litter,http://aims.fao.org/aos/agrovoc/c_3047
+2,C4648>C10937,C10937,http://id.agrisemantics.org/gacs/C10937,- Meal,
+3,C4648>C10937>C10451,C10451,http://id.agrisemantics.org/gacs/C10451,- - Oilmeals,
+4,C4648>C10937>C10451>C23027,C23027,http://id.agrisemantics.org/gacs/C23027,- - - Groundnut oilmeal,
+3,C4648>C10937>C13387,C13387,http://id.agrisemantics.org/gacs/C13387,- - Feed meals,http://aims.fao.org/aos/agrovoc/c_2835
+4,C4648>C10937>C13387>C30718,C30718,http://id.agrisemantics.org/gacs/C30718,- - - Leaf meal,http://aims.fao.org/aos/agrovoc/c_16374
+3,C4648>C10937>C18636,C18636,http://id.agrisemantics.org/gacs/C18636,- - Maize meal,
+3,C4648>C10937>C19896,C19896,http://id.agrisemantics.org/gacs/C19896,- - Blood meal,http://aims.fao.org/aos/agrovoc/c_966
+3,C4648>C10937>C23439,C23439,http://id.agrisemantics.org/gacs/C23439,- - Maize gluten meal,
+3,C4648>C10937>C24428,C24428,http://id.agrisemantics.org/gacs/C24428,- - Alfalfa meal,
+3,C4648>C10937>C28063,C28063,http://id.agrisemantics.org/gacs/C28063,- - Feather meal,http://aims.fao.org/aos/agrovoc/c_15901
+3,C4648>C10937>C8503,C8503,http://id.agrisemantics.org/gacs/C8503,- - Fish meal,http://aims.fao.org/aos/agrovoc/c_2925
+2,C4648>C11209,C11209,http://id.agrisemantics.org/gacs/C11209,- Processed products,http://aims.fao.org/aos/agrovoc/c_15742
+3,C4648>C11209>C13591,C13591,http://id.agrisemantics.org/gacs/C13591,- - Processed foods,http://aims.fao.org/aos/agrovoc/c_28228
+4,C4648>C11209>C13591>C10576,C10576,http://id.agrisemantics.org/gacs/C10576,- - - Prepared foods,http://aims.fao.org/aos/agrovoc/c_6170
+5,C4648>C11209>C13591>C10576>C10870,C10870,http://id.agrisemantics.org/gacs/C10870,- - - - Infant foods,http://aims.fao.org/aos/agrovoc/c_3850
+6,C4648>C11209>C13591>C10576>C10870>C31554,C31554,http://id.agrisemantics.org/gacs/C31554,- - - - - Complementary foods,
+6,C4648>C11209>C13591>C10576>C10870>C6822,C6822,http://id.agrisemantics.org/gacs/C6822,- - - - - Infant formulae,
+5,C4648>C11209>C13591>C10576>C28114,C28114,http://id.agrisemantics.org/gacs/C28114,- - - - Instant foods,http://aims.fao.org/aos/agrovoc/c_3896
+5,C4648>C11209>C13591>C10576>C8935,C8935,http://id.agrisemantics.org/gacs/C8935,- - - - Soyfoods,http://aims.fao.org/aos/agrovoc/c_15523
+6,C4648>C11209>C13591>C10576>C8935>C17565,C17565,http://id.agrisemantics.org/gacs/C17565,- - - - - Soya milk,http://aims.fao.org/aos/agrovoc/c_15563
+6,C4648>C11209>C13591>C10576>C8935>C22752,C22752,http://id.agrisemantics.org/gacs/C22752,- - - - - Tofu,http://aims.fao.org/aos/agrovoc/c_15570
+6,C4648>C11209>C13591>C10576>C8935>C30741,C30741,http://id.agrisemantics.org/gacs/C30741,- - - - - Soy sauce,http://aims.fao.org/aos/agrovoc/c_24246
+5,C4648>C11209>C13591>C10576>C9623,C9623,http://id.agrisemantics.org/gacs/C9623,- - - - Ice cream,http://aims.fao.org/aos/agrovoc/c_3784
+4,C4648>C11209>C13591>C21727,C21727,http://id.agrisemantics.org/gacs/C21727,- - - Desserts,http://aims.fao.org/aos/agrovoc/c_24015
+4,C4648>C11209>C13591>C27144,C27144,http://id.agrisemantics.org/gacs/C27144,- - - Minimally processed foods,
+5,C4648>C11209>C13591>C27144>C15399,C15399,http://id.agrisemantics.org/gacs/C15399,- - - - Fresh-cut foods,
+3,C4648>C11209>C13675,C13675,http://id.agrisemantics.org/gacs/C13675,- - Fermentation products,http://aims.fao.org/aos/agrovoc/c_15734
+4,C4648>C11209>C13675>C2480,C2480,http://id.agrisemantics.org/gacs/C2480,- - - Silage,http://aims.fao.org/aos/agrovoc/c_7060
+5,C4648>C11209>C13675>C2480>C12075,C12075,http://id.agrisemantics.org/gacs/C12075,- - - - Grass silage,
+5,C4648>C11209>C13675>C2480>C19972,C19972,http://id.agrisemantics.org/gacs/C19972,- - - - Whole crop silage,http://aims.fao.org/aos/agrovoc/c_24915
+5,C4648>C11209>C13675>C2480>C22164,C22164,http://id.agrisemantics.org/gacs/C22164,- - - - Alfalfa silage,
+5,C4648>C11209>C13675>C2480>C24316,C24316,http://id.agrisemantics.org/gacs/C24316,- - - - Haylage,http://aims.fao.org/aos/agrovoc/c_24036
+5,C4648>C11209>C13675>C2480>C9246,C9246,http://id.agrisemantics.org/gacs/C9246,- - - - Maize silage,
+4,C4648>C11209>C13675>C7588,C7588,http://id.agrisemantics.org/gacs/C7588,- - - Alcoholic beverages,http://aims.fao.org/aos/agrovoc/c_248
+5,C4648>C11209>C13675>C7588>C12316,C12316,http://id.agrisemantics.org/gacs/C12316,- - - - Distilled spirits,http://aims.fao.org/aos/agrovoc/c_7309
+6,C4648>C11209>C13675>C7588>C12316>C28891,C28891,http://id.agrisemantics.org/gacs/C28891,- - - - - Liqueurs,http://aims.fao.org/aos/agrovoc/c_4369
+3,C4648>C11209>C14737,C14737,http://id.agrisemantics.org/gacs/C14737,- - Canned products,http://aims.fao.org/aos/agrovoc/c_1259
+3,C4648>C11209>C17344,C17344,http://id.agrisemantics.org/gacs/C17344,- - Dried products,http://aims.fao.org/aos/agrovoc/c_15740
+3,C4648>C11209>C17674,C17674,http://id.agrisemantics.org/gacs/C17674,- - Frozen products,http://aims.fao.org/aos/agrovoc/c_15741
+4,C4648>C11209>C17674>C13516,C13516,http://id.agrisemantics.org/gacs/C13516,- - - Frozen foods,http://aims.fao.org/aos/agrovoc/c_16490
+5,C4648>C11209>C17674>C13516>C18202,C18202,http://id.agrisemantics.org/gacs/C18202,- - - - Frozen fish,http://aims.fao.org/aos/agrovoc/c_3115
+3,C4648>C11209>C17838,C17838,http://id.agrisemantics.org/gacs/C17838,- - Yarns,
+3,C4648>C11209>C20410,C20410,http://id.agrisemantics.org/gacs/C20410,- - Textiles,http://aims.fao.org/aos/agrovoc/c_7697
+3,C4648>C11209>C20515,C20515,http://id.agrisemantics.org/gacs/C20515,- - Processed plant products,http://aims.fao.org/aos/agrovoc/c_29989
+4,C4648>C11209>C20515>C10534,C10534,http://id.agrisemantics.org/gacs/C10534,- - - Cereal products,http://aims.fao.org/aos/agrovoc/c_1473
+5,C4648>C11209>C20515>C10534>C15096,C15096,http://id.agrisemantics.org/gacs/C15096,- - - - Breakfast cereals,http://aims.fao.org/aos/agrovoc/c_1073
+5,C4648>C11209>C20515>C10534>C15123,C15123,http://id.agrisemantics.org/gacs/C15123,- - - - Pasta,http://aims.fao.org/aos/agrovoc/c_5621
+6,C4648>C11209>C20515>C10534>C15123>C22467,C22467,http://id.agrisemantics.org/gacs/C22467,- - - - - Noodles,http://aims.fao.org/aos/agrovoc/c_12848
+5,C4648>C11209>C20515>C10534>C1825,C1825,http://id.agrisemantics.org/gacs/C1825,- - - - Grain,http://aims.fao.org/aos/agrovoc/c_3346
+6,C4648>C11209>C20515>C10534>C1825>C23524,C23524,http://id.agrisemantics.org/gacs/C23524,- - - - - Brewers grains,http://aims.fao.org/aos/agrovoc/c_1085
+6,C4648>C11209>C20515>C10534>C1825>C326,C326,http://id.agrisemantics.org/gacs/C326,- - - - - Cereals,http://aims.fao.org/aos/agrovoc/c_1474
+7,C4648>C11209>C20515>C10534>C1825>C326>C11148,C11148,http://id.agrisemantics.org/gacs/C11148,- - - - - - Food grains,
+7,C4648>C11209>C20515>C10534>C1825>C326>C1814,C1814,http://id.agrisemantics.org/gacs/C1814,- - - - - - Oats,http://aims.fao.org/aos/agrovoc/c_5287
+7,C4648>C11209>C20515>C10534>C1825>C326>C212,C212,http://id.agrisemantics.org/gacs/C212,- - - - - - Wheat,http://aims.fao.org/aos/agrovoc/c_8373
+8,C4648>C11209>C20515>C10534>C1825>C326>C212>C14302,C14302,http://id.agrisemantics.org/gacs/C14302,- - - - - - - Hard wheat,http://aims.fao.org/aos/agrovoc/c_11456
+8,C4648>C11209>C20515>C10534>C1825>C326>C212>C3435,C3435,http://id.agrisemantics.org/gacs/C3435,- - - - - - - Winter wheat,http://aims.fao.org/aos/agrovoc/c_8412
+8,C4648>C11209>C20515>C10534>C1825>C326>C212>C9303,C9303,http://id.agrisemantics.org/gacs/C9303,- - - - - - - Spring wheat,http://aims.fao.org/aos/agrovoc/c_7337
+8,C4648>C11209>C20515>C10534>C1825>C326>C212>C9480,C9480,http://id.agrisemantics.org/gacs/C9480,- - - - - - - Durum wheat,
+8,C4648>C11209>C20515>C10534>C1825>C326>C212>C9964,C9964,http://id.agrisemantics.org/gacs/C9964,- - - - - - - Soft wheat,http://aims.fao.org/aos/agrovoc/c_14386
+7,C4648>C11209>C20515>C10534>C1825>C326>C272,C272,http://id.agrisemantics.org/gacs/C272,- - - - - - Maize,http://aims.fao.org/aos/agrovoc/c_12332
+8,C4648>C11209>C20515>C10534>C1825>C326>C272>C13658,C13658,http://id.agrisemantics.org/gacs/C13658,- - - - - - - Sweetcorn,http://aims.fao.org/aos/agrovoc/c_7552
+8,C4648>C11209>C20515>C10534>C1825>C326>C272>C26632,C26632,http://id.agrisemantics.org/gacs/C26632,- - - - - - - Popcorn,http://aims.fao.org/aos/agrovoc/c_6108
+8,C4648>C11209>C20515>C10534>C1825>C326>C272>C31683,C31683,http://id.agrisemantics.org/gacs/C31683,- - - - - - - Waxy maize,http://aims.fao.org/aos/agrovoc/c_8337
+8,C4648>C11209>C20515>C10534>C1825>C326>C272>C32188,C32188,http://id.agrisemantics.org/gacs/C32188,- - - - - - - Dent maize,http://aims.fao.org/aos/agrovoc/c_2187
+7,C4648>C11209>C20515>C10534>C1825>C326>C2909,C2909,http://id.agrisemantics.org/gacs/C2909,- - - - - - Rye,http://aims.fao.org/aos/agrovoc/c_14010
+7,C4648>C11209>C20515>C10534>C1825>C326>C3875,C3875,http://id.agrisemantics.org/gacs/C3875,- - - - - - Millets,http://aims.fao.org/aos/agrovoc/c_4838
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C19120,C19120,http://id.agrisemantics.org/gacs/C19120,- - - - - - - Echinochloa frumentacea,http://aims.fao.org/aos/agrovoc/c_2454
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C19300,C19300,http://id.agrisemantics.org/gacs/C19300,- - - - - - - Panicum miliaceum,http://aims.fao.org/aos/agrovoc/c_5538
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C24702,C24702,http://id.agrisemantics.org/gacs/C24702,- - - - - - - Setaria viridis,
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C25310,C25310,http://id.agrisemantics.org/gacs/C25310,- - - - - - - Echinochloa colona,http://aims.fao.org/aos/agrovoc/c_2453
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C27595,C27595,http://id.agrisemantics.org/gacs/C27595,- - - - - - - Eragrostis tef,http://aims.fao.org/aos/agrovoc/c_2635
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C32000,C32000,http://id.agrisemantics.org/gacs/C32000,- - - - - - - Finger millet,http://aims.fao.org/aos/agrovoc/c_2904
+8,C4648>C11209>C20515>C10534>C1825>C326>C3875>C6740,C6740,http://id.agrisemantics.org/gacs/C6740,- - - - - - - Pearl millet,
+7,C4648>C11209>C20515>C10534>C1825>C326>C476,C476,http://id.agrisemantics.org/gacs/C476,- - - - - - Rice,http://aims.fao.org/aos/agrovoc/c_6599
+8,C4648>C11209>C20515>C10534>C1825>C326>C476>C11686,C11686,http://id.agrisemantics.org/gacs/C11686,- - - - - - - Upland rice,http://aims.fao.org/aos/agrovoc/c_8076
+8,C4648>C11209>C20515>C10534>C1825>C326>C476>C15073,C15073,http://id.agrisemantics.org/gacs/C15073,- - - - - - - Flooded rice,http://aims.fao.org/aos/agrovoc/c_2979
+8,C4648>C11209>C20515>C10534>C1825>C326>C476>C30189,C30189,http://id.agrisemantics.org/gacs/C30189,- - - - - - - Brown rice,
+7,C4648>C11209>C20515>C10534>C1825>C326>C785,C785,http://id.agrisemantics.org/gacs/C785,- - - - - - Barley,http://aims.fao.org/aos/agrovoc/c_823
+8,C4648>C11209>C20515>C10534>C1825>C326>C785>C12256,C12256,http://id.agrisemantics.org/gacs/C12256,- - - - - - - Malting barley,http://aims.fao.org/aos/agrovoc/c_25485
+8,C4648>C11209>C20515>C10534>C1825>C326>C785>C26757,C26757,http://id.agrisemantics.org/gacs/C26757,- - - - - - - Spring barley,
+7,C4648>C11209>C20515>C10534>C1825>C326>C8075,C8075,http://id.agrisemantics.org/gacs/C8075,- - - - - - Triticale,http://aims.fao.org/aos/agrovoc/c_7949
+7,C4648>C11209>C20515>C10534>C1825>C326>C9819,C9819,http://id.agrisemantics.org/gacs/C9819,- - - - - - Grain sorghum,http://aims.fao.org/aos/agrovoc/c_7249
+6,C4648>C11209>C20515>C10534>C1825>C8117,C8117,http://id.agrisemantics.org/gacs/C8117,- - - - - Cereal grains,
+6,C4648>C11209>C20515>C10534>C1825>C8811,C8811,http://id.agrisemantics.org/gacs/C8811,- - - - - Feed grains,http://aims.fao.org/aos/agrovoc/c_3349
+7,C4648>C11209>C20515>C10534>C1825>C8811>C14571,C14571,http://id.agrisemantics.org/gacs/C14571,- - - - - - Distillers' grains,
+5,C4648>C11209>C20515>C10534>C26029,C26029,http://id.agrisemantics.org/gacs/C26029,- - - - Cereal germs,http://aims.fao.org/aos/agrovoc/c_1472
+6,C4648>C11209>C20515>C10534>C26029>C20787,C20787,http://id.agrisemantics.org/gacs/C20787,- - - - - Wheat germ,http://aims.fao.org/aos/agrovoc/c_11131
+5,C4648>C11209>C20515>C10534>C8806,C8806,http://id.agrisemantics.org/gacs/C8806,- - - - Malt,http://aims.fao.org/aos/agrovoc/c_4547
+4,C4648>C11209>C20515>C11914,C11914,http://id.agrisemantics.org/gacs/C11914,- - - Vegetable products,http://aims.fao.org/aos/agrovoc/c_13438
+5,C4648>C11209>C20515>C11914>C1302,C1302,http://id.agrisemantics.org/gacs/C1302,- - - - Vegetables,http://aims.fao.org/aos/agrovoc/c_8174
+6,C4648>C11209>C20515>C11914>C1302>C11403,C11403,http://id.agrisemantics.org/gacs/C11403,- - - - - Peppers,
+7,C4648>C11209>C20515>C11914>C1302>C11403>C13774,C13774,http://id.agrisemantics.org/gacs/C13774,- - - - - - Sweet peppers,http://aims.fao.org/aos/agrovoc/c_14727
+6,C4648>C11209>C20515>C11914>C1302>C14239,C14239,http://id.agrisemantics.org/gacs/C14239,- - - - - Root vegetables,http://aims.fao.org/aos/agrovoc/c_6647
+7,C4648>C11209>C20515>C11914>C1302>C14239>C12656,C12656,http://id.agrisemantics.org/gacs/C12656,- - - - - - Yams,http://aims.fao.org/aos/agrovoc/c_8478
+7,C4648>C11209>C20515>C11914>C1302>C14239>C14357,C14357,http://id.agrisemantics.org/gacs/C14357,- - - - - - Turnips,http://aims.fao.org/aos/agrovoc/c_8019
+7,C4648>C11209>C20515>C11914>C1302>C14239>C14906,C14906,http://id.agrisemantics.org/gacs/C14906,- - - - - - Beetroots,http://aims.fao.org/aos/agrovoc/c_867
+7,C4648>C11209>C20515>C11914>C1302>C14239>C17159,C17159,http://id.agrisemantics.org/gacs/C17159,- - - - - - Mangolds,http://aims.fao.org/aos/agrovoc/c_4576
+7,C4648>C11209>C20515>C11914>C1302>C14239>C20091,C20091,http://id.agrisemantics.org/gacs/C20091,- - - - - - Cyperus esculentus,http://aims.fao.org/aos/agrovoc/c_2074
+7,C4648>C11209>C20515>C11914>C1302>C14239>C23315,C23315,http://id.agrisemantics.org/gacs/C23315,- - - - - - Jerusalem artichokes,http://aims.fao.org/aos/agrovoc/c_11903
+7,C4648>C11209>C20515>C11914>C1302>C14239>C24416,C24416,http://id.agrisemantics.org/gacs/C24416,- - - - - - Rutabagas,http://aims.fao.org/aos/agrovoc/c_6713
+7,C4648>C11209>C20515>C11914>C1302>C14239>C27220,C27220,http://id.agrisemantics.org/gacs/C27220,- - - - - - Taro,http://aims.fao.org/aos/agrovoc/c_14791
+7,C4648>C11209>C20515>C11914>C1302>C14239>C29539,C29539,http://id.agrisemantics.org/gacs/C29539,- - - - - - Xanthosoma sagittifolium,http://aims.fao.org/aos/agrovoc/c_8460
+7,C4648>C11209>C20515>C11914>C1302>C14239>C30353,C30353,http://id.agrisemantics.org/gacs/C30353,- - - - - - Parsnips,http://aims.fao.org/aos/agrovoc/c_13122
+7,C4648>C11209>C20515>C11914>C1302>C14239>C4313,C4313,http://id.agrisemantics.org/gacs/C4313,- - - - - - Carrots,http://aims.fao.org/aos/agrovoc/c_9640
+7,C4648>C11209>C20515>C11914>C1302>C14239>C4958,C4958,http://id.agrisemantics.org/gacs/C4958,- - - - - - Cassava,http://aims.fao.org/aos/agrovoc/c_9649
+7,C4648>C11209>C20515>C11914>C1302>C14239>C5690,C5690,http://id.agrisemantics.org/gacs/C5690,- - - - - - Sweet potatoes,http://aims.fao.org/aos/agrovoc/c_14729
+7,C4648>C11209>C20515>C11914>C1302>C14239>C6821,C6821,http://id.agrisemantics.org/gacs/C6821,- - - - - - Radishes,http://aims.fao.org/aos/agrovoc/c_13735
+7,C4648>C11209>C20515>C11914>C1302>C14239>C689,C689,http://id.agrisemantics.org/gacs/C689,- - - - - - Potatoes,http://aims.fao.org/aos/agrovoc/c_13551
+6,C4648>C11209>C20515>C11914>C1302>C15476,C15476,http://id.agrisemantics.org/gacs/C15476,- - - - - Green leafy vegetables,http://aims.fao.org/aos/agrovoc/c_3376
+7,C4648>C11209>C20515>C11914>C1302>C15476>C10588,C10588,http://id.agrisemantics.org/gacs/C10588,- - - - - - Brassica chinensis,http://aims.fao.org/aos/agrovoc/c_1063
+7,C4648>C11209>C20515>C11914>C1302>C15476>C11838,C11838,http://id.agrisemantics.org/gacs/C11838,- - - - - - Broccoli,http://aims.fao.org/aos/agrovoc/c_7339
+7,C4648>C11209>C20515>C11914>C1302>C15476>C12005,C12005,http://id.agrisemantics.org/gacs/C12005,- - - - - - Celery,http://aims.fao.org/aos/agrovoc/c_1412
+7,C4648>C11209>C20515>C11914>C1302>C15476>C13529,C13529,http://id.agrisemantics.org/gacs/C13529,- - - - - - Chinese cabbages,http://aims.fao.org/aos/agrovoc/c_9804
+7,C4648>C11209>C20515>C11914>C1302>C15476>C14465,C14465,http://id.agrisemantics.org/gacs/C14465,- - - - - - Kale,http://aims.fao.org/aos/agrovoc/c_4070
+7,C4648>C11209>C20515>C11914>C1302>C15476>C15437,C15437,http://id.agrisemantics.org/gacs/C15437,- - - - - - Chicory,http://aims.fao.org/aos/agrovoc/c_9786
+7,C4648>C11209>C20515>C11914>C1302>C15476>C16319,C16319,http://id.agrisemantics.org/gacs/C16319,- - - - - - Amaranthus retroflexus,
+7,C4648>C11209>C20515>C11914>C1302>C15476>C17414,C17414,http://id.agrisemantics.org/gacs/C17414,- - - - - - Brussels sprouts,http://aims.fao.org/aos/agrovoc/c_1127
+7,C4648>C11209>C20515>C11914>C1302>C15476>C24896,C24896,http://id.agrisemantics.org/gacs/C24896,- - - - - - Globe artichokes,http://aims.fao.org/aos/agrovoc/c_11171
+7,C4648>C11209>C20515>C11914>C1302>C15476>C25084,C25084,http://id.agrisemantics.org/gacs/C25084,- - - - - - Corchorus capsularis,http://aims.fao.org/aos/agrovoc/c_1884
+7,C4648>C11209>C20515>C11914>C1302>C15476>C26683,C26683,http://id.agrisemantics.org/gacs/C26683,- - - - - - Brassica carinata,http://aims.fao.org/aos/agrovoc/c_33311
+7,C4648>C11209>C20515>C11914>C1302>C15476>C26756,C26756,http://id.agrisemantics.org/gacs/C26756,- - - - - - Kohlrabi,http://aims.fao.org/aos/agrovoc/c_4114
+7,C4648>C11209>C20515>C11914>C1302>C15476>C26896,C26896,http://id.agrisemantics.org/gacs/C26896,- - - - - - Corchorus olitorius,http://aims.fao.org/aos/agrovoc/c_1885
+7,C4648>C11209>C20515>C11914>C1302>C15476>C29545,C29545,http://id.agrisemantics.org/gacs/C29545,- - - - - - Eruca vesicaria,http://aims.fao.org/aos/agrovoc/c_15797
+7,C4648>C11209>C20515>C11914>C1302>C15476>C30365,C30365,http://id.agrisemantics.org/gacs/C30365,- - - - - - Cress,
+7,C4648>C11209>C20515>C11914>C1302>C15476>C31638,C31638,http://id.agrisemantics.org/gacs/C31638,- - - - - - Amaranthus hybridus,
+7,C4648>C11209>C20515>C11914>C1302>C15476>C3173,C3173,http://id.agrisemantics.org/gacs/C3173,- - - - - - Cabbages,http://aims.fao.org/aos/agrovoc/c_1173
+7,C4648>C11209>C20515>C11914>C1302>C15476>C3542,C3542,http://id.agrisemantics.org/gacs/C3542,- - - - - - Lettuces,http://aims.fao.org/aos/agrovoc/c_12151
+7,C4648>C11209>C20515>C11914>C1302>C15476>C5877,C5877,http://id.agrisemantics.org/gacs/C5877,- - - - - - Spinach,http://aims.fao.org/aos/agrovoc/c_14508
+7,C4648>C11209>C20515>C11914>C1302>C15476>C7757,C7757,http://id.agrisemantics.org/gacs/C7757,- - - - - - Cauliflowers,http://aims.fao.org/aos/agrovoc/c_1394
+6,C4648>C11209>C20515>C11914>C1302>C16682,C16682,http://id.agrisemantics.org/gacs/C16682,- - - - - Leeks,http://aims.fao.org/aos/agrovoc/c_12128
+6,C4648>C11209>C20515>C11914>C1302>C17334,C17334,http://id.agrisemantics.org/gacs/C17334,- - - - - Green beans,
+6,C4648>C11209>C20515>C11914>C1302>C17343,C17343,http://id.agrisemantics.org/gacs/C17343,- - - - - Raw vegetables,
+6,C4648>C11209>C20515>C11914>C1302>C18941,C18941,http://id.agrisemantics.org/gacs/C18941,- - - - - Black gram,http://aims.fao.org/aos/agrovoc/c_8089
+6,C4648>C11209>C20515>C11914>C1302>C2057,C2057,http://id.agrisemantics.org/gacs/C2057,- - - - - Fruit vegetables,http://aims.fao.org/aos/agrovoc/c_3129
+7,C4648>C11209>C20515>C11914>C1302>C2057>C6002,C6002,http://id.agrisemantics.org/gacs/C6002,- - - - - - Aubergines,http://aims.fao.org/aos/agrovoc/c_8998
+7,C4648>C11209>C20515>C11914>C1302>C2057>C815,C815,http://id.agrisemantics.org/gacs/C815,- - - - - - Tomatoes,http://aims.fao.org/aos/agrovoc/c_7805
+7,C4648>C11209>C20515>C11914>C1302>C2057>C9275,C9275,http://id.agrisemantics.org/gacs/C9275,- - - - - - Cucurbit vegetables,http://aims.fao.org/aos/agrovoc/c_2006
+8,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C18853,C18853,http://id.agrisemantics.org/gacs/C18853,- - - - - - - Cucurbita maxima,http://aims.fao.org/aos/agrovoc/c_2009
+8,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C21185,C21185,http://id.agrisemantics.org/gacs/C21185,- - - - - - - Squashes,http://aims.fao.org/aos/agrovoc/c_37735
+9,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C21185>C12554,C12554,http://id.agrisemantics.org/gacs/C12554,- - - - - - - - Marrows,http://aims.fao.org/aos/agrovoc/c_12414
+9,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C21185>C15493,C15493,http://id.agrisemantics.org/gacs/C15493,- - - - - - - - Pumpkins,http://aims.fao.org/aos/agrovoc/c_6369
+8,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C21736,C21736,http://id.agrisemantics.org/gacs/C21736,- - - - - - - Cucurbita moschata,http://aims.fao.org/aos/agrovoc/c_2011
+8,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C2762,C2762,http://id.agrisemantics.org/gacs/C2762,- - - - - - - Cucumbers,http://aims.fao.org/aos/agrovoc/c_10195
+8,C4648>C11209>C20515>C11914>C1302>C2057>C9275>C28250,C28250,http://id.agrisemantics.org/gacs/C28250,- - - - - - - Lagenaria siceraria,http://aims.fao.org/aos/agrovoc/c_4154
+7,C4648>C11209>C20515>C11914>C1302>C2057>C9860,C9860,http://id.agrisemantics.org/gacs/C9860,- - - - - - Okras,http://aims.fao.org/aos/agrovoc/c_12920
+6,C4648>C11209>C20515>C11914>C1302>C21110,C21110,http://id.agrisemantics.org/gacs/C21110,- - - - - Fennel,http://aims.fao.org/aos/agrovoc/c_10789
+6,C4648>C11209>C20515>C11914>C1302>C24055,C24055,http://id.agrisemantics.org/gacs/C24055,- - - - - Cardoons,http://aims.fao.org/aos/agrovoc/c_9623
+6,C4648>C11209>C20515>C11914>C1302>C26800,C26800,http://id.agrisemantics.org/gacs/C26800,- - - - - Asparagus spears,http://aims.fao.org/aos/agrovoc/c_17156
+6,C4648>C11209>C20515>C11914>C1302>C28094,C28094,http://id.agrisemantics.org/gacs/C28094,- - - - - Sprouts (food),
+7,C4648>C11209>C20515>C11914>C1302>C28094>C29467,C29467,http://id.agrisemantics.org/gacs/C29467,- - - - - - Bean sprouts,http://aims.fao.org/aos/agrovoc/c_15889
+6,C4648>C11209>C20515>C11914>C1302>C28985,C28985,http://id.agrisemantics.org/gacs/C28985,- - - - - Rhubarb,http://aims.fao.org/aos/agrovoc/c_11089
+6,C4648>C11209>C20515>C11914>C1302>C31376,C31376,http://id.agrisemantics.org/gacs/C31376,- - - - - Carobs,http://aims.fao.org/aos/agrovoc/c_9631
+6,C4648>C11209>C20515>C11914>C1302>C32020,C32020,http://id.agrisemantics.org/gacs/C32020,- - - - - Bamboo shoots,http://aims.fao.org/aos/agrovoc/c_801
+6,C4648>C11209>C20515>C11914>C1302>C32515,C32515,http://id.agrisemantics.org/gacs/C32515,- - - - - Palm hearts,http://aims.fao.org/aos/agrovoc/c_28302
+6,C4648>C11209>C20515>C11914>C1302>C3410,C3410,http://id.agrisemantics.org/gacs/C3410,- - - - - Onions,http://aims.fao.org/aos/agrovoc/c_12934
+7,C4648>C11209>C20515>C11914>C1302>C3410>C32084,C32084,http://id.agrisemantics.org/gacs/C32084,- - - - - - Japanese bunching onions,http://aims.fao.org/aos/agrovoc/c_4040
+6,C4648>C11209>C20515>C11914>C1302>C3668,C3668,http://id.agrisemantics.org/gacs/C3668,- - - - - Bananas,http://aims.fao.org/aos/agrovoc/c_806
+6,C4648>C11209>C20515>C11914>C1302>C3818,C3818,http://id.agrisemantics.org/gacs/C3818,- - - - - Faba beans,http://aims.fao.org/aos/agrovoc/c_10722
+6,C4648>C11209>C20515>C11914>C1302>C3857,C3857,http://id.agrisemantics.org/gacs/C3857,- - - - - Cowpeas,http://aims.fao.org/aos/agrovoc/c_1938
+6,C4648>C11209>C20515>C11914>C1302>C4823,C4823,http://id.agrisemantics.org/gacs/C4823,- - - - - Edible fungi,http://aims.fao.org/aos/agrovoc/c_2487
+7,C4648>C11209>C20515>C11914>C1302>C4823>C16962,C16962,http://id.agrisemantics.org/gacs/C16962,- - - - - - Coriolus versicolor,http://aims.fao.org/aos/agrovoc/c_32097
+7,C4648>C11209>C20515>C11914>C1302>C4823>C17245,C17245,http://id.agrisemantics.org/gacs/C17245,- - - - - - Pleurotus ostreatus,http://aims.fao.org/aos/agrovoc/c_37099
+7,C4648>C11209>C20515>C11914>C1302>C4823>C21066,C21066,http://id.agrisemantics.org/gacs/C21066,- - - - - - Lentinula edodes,http://aims.fao.org/aos/agrovoc/c_33757
+7,C4648>C11209>C20515>C11914>C1302>C4823>C27501,C27501,http://id.agrisemantics.org/gacs/C27501,- - - - - - Schizophyllum commune,http://aims.fao.org/aos/agrovoc/c_33872
+7,C4648>C11209>C20515>C11914>C1302>C4823>C5073,C5073,http://id.agrisemantics.org/gacs/C5073,- - - - - - Mushrooms,
+6,C4648>C11209>C20515>C11914>C1302>C4991,C4991,http://id.agrisemantics.org/gacs/C4991,- - - - - Chickpeas,http://aims.fao.org/aos/agrovoc/c_9785
+6,C4648>C11209>C20515>C11914>C1302>C5476,C5476,http://id.agrisemantics.org/gacs/C5476,- - - - - Kidney beans,http://aims.fao.org/aos/agrovoc/c_4098
+6,C4648>C11209>C20515>C11914>C1302>C5963,C5963,http://id.agrisemantics.org/gacs/C5963,- - - - - Olives,http://aims.fao.org/aos/agrovoc/c_12926
+6,C4648>C11209>C20515>C11914>C1302>C6407,C6407,http://id.agrisemantics.org/gacs/C6407,- - - - - Mung beans,http://aims.fao.org/aos/agrovoc/c_4988
+6,C4648>C11209>C20515>C11914>C1302>C746,C746,http://id.agrisemantics.org/gacs/C746,- - - - - Soybeans,http://aims.fao.org/aos/agrovoc/c_14477
+6,C4648>C11209>C20515>C11914>C1302>C9848,C9848,http://id.agrisemantics.org/gacs/C9848,- - - - - Lentils,http://aims.fao.org/aos/agrovoc/c_12140
+5,C4648>C11209>C20515>C11914>C18244,C18244,http://id.agrisemantics.org/gacs/C18244,- - - - Vegetable juices,http://aims.fao.org/aos/agrovoc/c_8168
+6,C4648>C11209>C20515>C11914>C18244>C29910,C29910,http://id.agrisemantics.org/gacs/C29910,- - - - - Tomato juice,
+5,C4648>C11209>C20515>C11914>C19231,C19231,http://id.agrisemantics.org/gacs/C19231,- - - - Potato products,http://aims.fao.org/aos/agrovoc/c_16500
+6,C4648>C11209>C20515>C11914>C19231>C21708,C21708,http://id.agrisemantics.org/gacs/C21708,- - - - - Potato chips,
+6,C4648>C11209>C20515>C11914>C19231>C25368,C25368,http://id.agrisemantics.org/gacs/C25368,- - - - - Chips (french fries),
+5,C4648>C11209>C20515>C11914>C21838,C21838,http://id.agrisemantics.org/gacs/C21838,- - - - Dried vegetables,http://aims.fao.org/aos/agrovoc/c_16487
+5,C4648>C11209>C20515>C11914>C23386,C23386,http://id.agrisemantics.org/gacs/C23386,- - - - Frozen vegetables,http://aims.fao.org/aos/agrovoc/c_15743
+5,C4648>C11209>C20515>C11914>C23446,C23446,http://id.agrisemantics.org/gacs/C23446,- - - - Canned vegetables,http://aims.fao.org/aos/agrovoc/c_16483
+5,C4648>C11209>C20515>C11914>C27589,C27589,http://id.agrisemantics.org/gacs/C27589,- - - - Vegetable extracts,http://aims.fao.org/aos/agrovoc/c_14487
+5,C4648>C11209>C20515>C11914>C4016,C4016,http://id.agrisemantics.org/gacs/C4016,- - - - Plant oils,http://aims.fao.org/aos/agrovoc/c_8170
+6,C4648>C11209>C20515>C11914>C4016>C1527,C1527,http://id.agrisemantics.org/gacs/C1527,- - - - - Essential oils,http://aims.fao.org/aos/agrovoc/c_2669
+6,C4648>C11209>C20515>C11914>C4016>C5160,C5160,http://id.agrisemantics.org/gacs/C5160,- - - - - Olive oil,http://aims.fao.org/aos/agrovoc/c_25491
+6,C4648>C11209>C20515>C11914>C4016>C6651,C6651,http://id.agrisemantics.org/gacs/C6651,- - - - - Seed oils,
+7,C4648>C11209>C20515>C11914>C4016>C6651>C10209,C10209,http://id.agrisemantics.org/gacs/C10209,- - - - - - Maize oil,http://aims.fao.org/aos/agrovoc/c_29474
+7,C4648>C11209>C20515>C11914>C4016>C6651>C14958,C14958,http://id.agrisemantics.org/gacs/C14958,- - - - - - Linseed oil,http://aims.fao.org/aos/agrovoc/c_4353
+7,C4648>C11209>C20515>C11914>C4016>C6651>C17425,C17425,http://id.agrisemantics.org/gacs/C17425,- - - - - - Coconut oil,http://aims.fao.org/aos/agrovoc/c_1714
+7,C4648>C11209>C20515>C11914>C4016>C6651>C21375,C21375,http://id.agrisemantics.org/gacs/C21375,- - - - - - Safflower oil,http://aims.fao.org/aos/agrovoc/c_25502
+7,C4648>C11209>C20515>C11914>C4016>C6651>C22208,C22208,http://id.agrisemantics.org/gacs/C22208,- - - - - - Groundnut oil,http://aims.fao.org/aos/agrovoc/c_25477
+7,C4648>C11209>C20515>C11914>C4016>C6651>C23296,C23296,http://id.agrisemantics.org/gacs/C23296,- - - - - - Cottonseed oil,http://aims.fao.org/aos/agrovoc/c_25474
+7,C4648>C11209>C20515>C11914>C4016>C6651>C25667,C25667,http://id.agrisemantics.org/gacs/C25667,- - - - - - Castor oil,http://aims.fao.org/aos/agrovoc/c_25466
+7,C4648>C11209>C20515>C11914>C4016>C6651>C27169,C27169,http://id.agrisemantics.org/gacs/C27169,- - - - - - Cocoa butter,http://aims.fao.org/aos/agrovoc/c_28260
+7,C4648>C11209>C20515>C11914>C4016>C6651>C27715,C27715,http://id.agrisemantics.org/gacs/C27715,- - - - - - Palm kernel oil,http://aims.fao.org/aos/agrovoc/c_5515
+7,C4648>C11209>C20515>C11914>C4016>C6651>C29110,C29110,http://id.agrisemantics.org/gacs/C29110,- - - - - - Sesame oil,http://aims.fao.org/aos/agrovoc/c_25504
+7,C4648>C11209>C20515>C11914>C4016>C6651>C8340,C8340,http://id.agrisemantics.org/gacs/C8340,- - - - - - Sunflower oil,http://aims.fao.org/aos/agrovoc/c_25506
+7,C4648>C11209>C20515>C11914>C4016>C6651>C9637,C9637,http://id.agrisemantics.org/gacs/C9637,- - - - - - Rapeseed oil,http://aims.fao.org/aos/agrovoc/c_24939
+8,C4648>C11209>C20515>C11914>C4016>C6651>C9637>C22593,C22593,http://id.agrisemantics.org/gacs/C22593,- - - - - - - Canola oil,
+6,C4648>C11209>C20515>C11914>C4016>C9070,C9070,http://id.agrisemantics.org/gacs/C9070,- - - - - Palm oils,http://aims.fao.org/aos/agrovoc/c_5514
+5,C4648>C11209>C20515>C11914>C9528,C9528,http://id.agrisemantics.org/gacs/C9528,- - - - Soybean products,http://aims.fao.org/aos/agrovoc/c_16506
+6,C4648>C11209>C20515>C11914>C9528>C16749,C16749,http://id.agrisemantics.org/gacs/C16749,- - - - - Soyabean flour,http://aims.fao.org/aos/agrovoc/c_16507
+6,C4648>C11209>C20515>C11914>C9528>C4833,C4833,http://id.agrisemantics.org/gacs/C4833,- - - - - Soybean oil,http://aims.fao.org/aos/agrovoc/c_16508
+6,C4648>C11209>C20515>C11914>C9528>C5244,C5244,http://id.agrisemantics.org/gacs/C5244,- - - - - Soybean meal,http://aims.fao.org/aos/agrovoc/c_16043
+6,C4648>C11209>C20515>C11914>C9528>C5604,C5604,http://id.agrisemantics.org/gacs/C5604,- - - - - Soy protein,http://aims.fao.org/aos/agrovoc/c_14474
+4,C4648>C11209>C20515>C14014,C14014,http://id.agrisemantics.org/gacs/C14014,- - - Gums,http://aims.fao.org/aos/agrovoc/c_3441
+5,C4648>C11209>C20515>C14014>C10284,C10284,http://id.agrisemantics.org/gacs/C10284,- - - - Xylan,http://aims.fao.org/aos/agrovoc/c_8469
+5,C4648>C11209>C20515>C14014>C14358,C14358,http://id.agrisemantics.org/gacs/C14358,- - - - Carrageenan,http://aims.fao.org/aos/agrovoc/c_1339
+5,C4648>C11209>C20515>C14014>C16731,C16731,http://id.agrisemantics.org/gacs/C16731,- - - - Xanthan gum,http://aims.fao.org/aos/agrovoc/c_16204
+5,C4648>C11209>C20515>C14014>C17247,C17247,http://id.agrisemantics.org/gacs/C17247,- - - - Guar gum,http://aims.fao.org/aos/agrovoc/c_35356
+5,C4648>C11209>C20515>C14014>C18120,C18120,http://id.agrisemantics.org/gacs/C18120,- - - - Dextran,http://aims.fao.org/aos/agrovoc/c_2233
+5,C4648>C11209>C20515>C14014>C18334,C18334,http://id.agrisemantics.org/gacs/C18334,- - - - Dextrins,http://aims.fao.org/aos/agrovoc/c_2234
+6,C4648>C11209>C20515>C14014>C18334>C23424,C23424,http://id.agrisemantics.org/gacs/C23424,- - - - - Maltodextrins,http://aims.fao.org/aos/agrovoc/c_27570
+6,C4648>C11209>C20515>C14014>C18334>C24411,C24411,http://id.agrisemantics.org/gacs/C24411,- - - - - Cyclodextrins,http://aims.fao.org/aos/agrovoc/c_10240
+4,C4648>C11209>C20515>C16714,C16714,http://id.agrisemantics.org/gacs/C16714,- - - Plant fats,http://aims.fao.org/aos/agrovoc/c_8167
+5,C4648>C11209>C20515>C16714>C29226,C29226,http://id.agrisemantics.org/gacs/C29226,- - - - Cutin,
+4,C4648>C11209>C20515>C1939,C1939,http://id.agrisemantics.org/gacs/C1939,- - - Fruit products,http://aims.fao.org/aos/agrovoc/c_3131
+5,C4648>C11209>C20515>C1939>C17481,C17481,http://id.agrisemantics.org/gacs/C17481,- - - - Dried fruit,http://aims.fao.org/aos/agrovoc/c_2382
+6,C4648>C11209>C20515>C1939>C17481>C22144,C22144,http://id.agrisemantics.org/gacs/C22144,- - - - - Raisins,http://aims.fao.org/aos/agrovoc/c_16502
+6,C4648>C11209>C20515>C1939>C17481>C31771,C31771,http://id.agrisemantics.org/gacs/C31771,- - - - - Prunes,http://aims.fao.org/aos/agrovoc/c_13635
+5,C4648>C11209>C20515>C1939>C17490,C17490,http://id.agrisemantics.org/gacs/C17490,- - - - Raw fruit,
+5,C4648>C11209>C20515>C1939>C20728,C20728,http://id.agrisemantics.org/gacs/C20728,- - - - Jams,http://aims.fao.org/aos/agrovoc/c_4037
+5,C4648>C11209>C20515>C1939>C2393,C2393,http://id.agrisemantics.org/gacs/C2393,- - - - Temperate fruits,http://aims.fao.org/aos/agrovoc/c_7655
+6,C4648>C11209>C20515>C1939>C2393>C24755,C24755,http://id.agrisemantics.org/gacs/C24755,- - - - - Temperate small fruits,
+7,C4648>C11209>C20515>C1939>C2393>C24755>C11315,C11315,http://id.agrisemantics.org/gacs/C11315,- - - - - - Black currants,http://aims.fao.org/aos/agrovoc/c_945
+7,C4648>C11209>C20515>C1939>C2393>C24755>C12924,C12924,http://id.agrisemantics.org/gacs/C12924,- - - - - - Vaccinium corymbosum,http://aims.fao.org/aos/agrovoc/c_8135
+7,C4648>C11209>C20515>C1939>C2393>C24755>C15806,C15806,http://id.agrisemantics.org/gacs/C15806,- - - - - - Blackberries,http://aims.fao.org/aos/agrovoc/c_947
+7,C4648>C11209>C20515>C1939>C2393>C24755>C17021,C17021,http://id.agrisemantics.org/gacs/C17021,- - - - - - Gooseberries,http://aims.fao.org/aos/agrovoc/c_3333
+7,C4648>C11209>C20515>C1939>C2393>C24755>C20071,C20071,http://id.agrisemantics.org/gacs/C20071,- - - - - - Cranberries,http://aims.fao.org/aos/agrovoc/c_1944
+7,C4648>C11209>C20515>C1939>C2393>C24755>C23601,C23601,http://id.agrisemantics.org/gacs/C23601,- - - - - - Vaccinium virgatum,http://aims.fao.org/aos/agrovoc/c_8133
+7,C4648>C11209>C20515>C1939>C2393>C24755>C23852,C23852,http://id.agrisemantics.org/gacs/C23852,- - - - - - Red currants,http://aims.fao.org/aos/agrovoc/c_6479
+7,C4648>C11209>C20515>C1939>C2393>C24755>C24360,C24360,http://id.agrisemantics.org/gacs/C24360,- - - - - - Vaccinium angustifolium,http://aims.fao.org/aos/agrovoc/c_8132
+7,C4648>C11209>C20515>C1939>C2393>C24755>C27118,C27118,http://id.agrisemantics.org/gacs/C27118,- - - - - - Vaccinium vitis-idaea,http://aims.fao.org/aos/agrovoc/c_16299
+7,C4648>C11209>C20515>C1939>C2393>C24755>C2741,C2741,http://id.agrisemantics.org/gacs/C2741,- - - - - - Strawberries,http://aims.fao.org/aos/agrovoc/c_7443
+7,C4648>C11209>C20515>C1939>C2393>C24755>C4771,C4771,http://id.agrisemantics.org/gacs/C4771,- - - - - - Roses,http://aims.fao.org/aos/agrovoc/c_6655
+8,C4648>C11209>C20515>C1939>C2393>C24755>C4771>C30167,C30167,http://id.agrisemantics.org/gacs/C30167,- - - - - - - Rosa hybrida,
+7,C4648>C11209>C20515>C1939>C2393>C24755>C7463,C7463,http://id.agrisemantics.org/gacs/C7463,- - - - - - Raspberries,http://aims.fao.org/aos/agrovoc/c_6458
+7,C4648>C11209>C20515>C1939>C2393>C24755>C9990,C9990,http://id.agrisemantics.org/gacs/C9990,- - - - - - Blueberries,http://aims.fao.org/aos/agrovoc/c_974
+5,C4648>C11209>C20515>C1939>C2471,C2471,http://id.agrisemantics.org/gacs/C2471,- - - - Small fruits,http://aims.fao.org/aos/agrovoc/c_7151
+6,C4648>C11209>C20515>C1939>C2471>C1220,C1220,http://id.agrisemantics.org/gacs/C1220,- - - - - Grapes,http://aims.fao.org/aos/agrovoc/c_3359
+7,C4648>C11209>C20515>C1939>C2471>C1220>C10888,C10888,http://id.agrisemantics.org/gacs/C10888,- - - - - - Dessert grapes,http://aims.fao.org/aos/agrovoc/c_2215
+7,C4648>C11209>C20515>C1939>C2471>C1220>C5539,C5539,http://id.agrisemantics.org/gacs/C5539,- - - - - - Wine grapes,http://aims.fao.org/aos/agrovoc/c_8403
+5,C4648>C11209>C20515>C1939>C26641,C26641,http://id.agrisemantics.org/gacs/C26641,- - - - Fruit musts,http://aims.fao.org/aos/agrovoc/c_3124
+5,C4648>C11209>C20515>C1939>C27980,C27980,http://id.agrisemantics.org/gacs/C27980,- - - - Acorns,http://aims.fao.org/aos/agrovoc/c_23986
+5,C4648>C11209>C20515>C1939>C29116,C29116,http://id.agrisemantics.org/gacs/C29116,- - - - Canned fruit,http://aims.fao.org/aos/agrovoc/c_16480
+5,C4648>C11209>C20515>C1939>C4889,C4889,http://id.agrisemantics.org/gacs/C4889,- - - - Tree fruits,
+6,C4648>C11209>C20515>C1939>C4889>C13673,C13673,http://id.agrisemantics.org/gacs/C13673,- - - - - Temperate tree fruits,
+7,C4648>C11209>C20515>C1939>C4889>C13673>C10478,C10478,http://id.agrisemantics.org/gacs/C10478,- - - - - - Mulberries,http://aims.fao.org/aos/agrovoc/c_25487
+7,C4648>C11209>C20515>C1939>C4889>C13673>C13676,C13676,http://id.agrisemantics.org/gacs/C13676,- - - - - - Stone fruits,http://aims.fao.org/aos/agrovoc/c_25461
+8,C4648>C11209>C20515>C1939>C4889>C13673>C13676>C14260,C14260,http://id.agrisemantics.org/gacs/C14260,- - - - - - - Nectarines,http://aims.fao.org/aos/agrovoc/c_5100
+8,C4648>C11209>C20515>C1939>C4889>C13673>C13676>C2573,C2573,http://id.agrisemantics.org/gacs/C2573,- - - - - - - Peaches,http://aims.fao.org/aos/agrovoc/c_5638
+8,C4648>C11209>C20515>C1939>C4889>C13673>C13676>C4094,C4094,http://id.agrisemantics.org/gacs/C4094,- - - - - - - Cherries,http://aims.fao.org/aos/agrovoc/c_1534
+8,C4648>C11209>C20515>C1939>C4889>C13673>C13676>C4139,C4139,http://id.agrisemantics.org/gacs/C4139,- - - - - - - Plums,http://aims.fao.org/aos/agrovoc/c_6028
+8,C4648>C11209>C20515>C1939>C4889>C13673>C13676>C6305,C6305,http://id.agrisemantics.org/gacs/C6305,- - - - - - - Apricots,http://aims.fao.org/aos/agrovoc/c_545
+7,C4648>C11209>C20515>C1939>C4889>C13673>C15548,C15548,http://id.agrisemantics.org/gacs/C15548,- - - - - - Figs,http://aims.fao.org/aos/agrovoc/c_10840
+7,C4648>C11209>C20515>C1939>C4889>C13673>C17345,C17345,http://id.agrisemantics.org/gacs/C17345,- - - - - - Pome fruits,http://aims.fao.org/aos/agrovoc/c_25497
+8,C4648>C11209>C20515>C1939>C4889>C13673>C17345>C14929,C14929,http://id.agrisemantics.org/gacs/C14929,- - - - - - - Pyrus pyrifolia,http://aims.fao.org/aos/agrovoc/c_32230
+8,C4648>C11209>C20515>C1939>C4889>C13673>C17345>C17009,C17009,http://id.agrisemantics.org/gacs/C17009,- - - - - - - Quinces,http://aims.fao.org/aos/agrovoc/c_13714
+8,C4648>C11209>C20515>C1939>C4889>C13673>C17345>C3071,C3071,http://id.agrisemantics.org/gacs/C3071,- - - - - - - Pears,http://aims.fao.org/aos/agrovoc/c_5645
+8,C4648>C11209>C20515>C1939>C4889>C13673>C17345>C860,C860,http://id.agrisemantics.org/gacs/C860,- - - - - - - Apples,http://aims.fao.org/aos/agrovoc/c_541
+6,C4648>C11209>C20515>C1939>C4889>C4895,C4895,http://id.agrisemantics.org/gacs/C4895,- - - - - Subtropical tree fruits,
+7,C4648>C11209>C20515>C1939>C4889>C4895>C11759,C11759,http://id.agrisemantics.org/gacs/C11759,- - - - - - Dates,http://aims.fao.org/aos/agrovoc/c_25475
+7,C4648>C11209>C20515>C1939>C4889>C4895>C15005,C15005,http://id.agrisemantics.org/gacs/C15005,- - - - - - Pomegranates,http://aims.fao.org/aos/agrovoc/c_13505
+7,C4648>C11209>C20515>C1939>C4889>C4895>C15458,C15458,http://id.agrisemantics.org/gacs/C15458,- - - - - - Persimmons,
+7,C4648>C11209>C20515>C1939>C4889>C4895>C24383,C24383,http://id.agrisemantics.org/gacs/C24383,- - - - - - Loquats,http://aims.fao.org/aos/agrovoc/c_12246
+7,C4648>C11209>C20515>C1939>C4889>C4895>C31468,C31468,http://id.agrisemantics.org/gacs/C31468,- - - - - - Longans,http://aims.fao.org/aos/agrovoc/c_331528
+7,C4648>C11209>C20515>C1939>C4889>C4895>C4892,C4892,http://id.agrisemantics.org/gacs/C4892,- - - - - - Citrus fruits,http://aims.fao.org/aos/agrovoc/c_1641
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C10721,C10721,http://id.agrisemantics.org/gacs/C10721,- - - - - - - Grapefruits,http://aims.fao.org/aos/agrovoc/c_3358
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C13234,C13234,http://id.agrisemantics.org/gacs/C13234,- - - - - - - Limes,http://aims.fao.org/aos/agrovoc/c_4341
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C14876,C14876,http://id.agrisemantics.org/gacs/C14876,- - - - - - - Sour oranges,http://aims.fao.org/aos/agrovoc/c_7006
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C23093,C23093,http://id.agrisemantics.org/gacs/C23093,- - - - - - - Pummelos,http://aims.fao.org/aos/agrovoc/c_6367
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C24182,C24182,http://id.agrisemantics.org/gacs/C24182,- - - - - - - Rough lemons,
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C28679,C28679,http://id.agrisemantics.org/gacs/C28679,- - - - - - - Citranges,
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C31990,C31990,http://id.agrisemantics.org/gacs/C31990,- - - - - - - Clementines,http://aims.fao.org/aos/agrovoc/c_9895
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C3620,C3620,http://id.agrisemantics.org/gacs/C3620,- - - - - - - Oranges,http://aims.fao.org/aos/agrovoc/c_7550
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C8540,C8540,http://id.agrisemantics.org/gacs/C8540,- - - - - - - Mandarins,http://aims.fao.org/aos/agrovoc/c_7601
+9,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C8540>C17749,C17749,http://id.agrisemantics.org/gacs/C17749,- - - - - - - - Satsumas,http://aims.fao.org/aos/agrovoc/c_6819
+8,C4648>C11209>C20515>C1939>C4889>C4895>C4892>C9386,C9386,http://id.agrisemantics.org/gacs/C9386,- - - - - - - Lemons,http://aims.fao.org/aos/agrovoc/c_4259
+7,C4648>C11209>C20515>C1939>C4889>C4895>C9494,C9494,http://id.agrisemantics.org/gacs/C9494,- - - - - - Avocados,http://aims.fao.org/aos/agrovoc/c_9022
+5,C4648>C11209>C20515>C1939>C5204,C5204,http://id.agrisemantics.org/gacs/C5204,- - - - Tropical fruits,http://aims.fao.org/aos/agrovoc/c_7974
+6,C4648>C11209>C20515>C1939>C5204>C13466,C13466,http://id.agrisemantics.org/gacs/C13466,- - - - - Kiwifruits,http://aims.fao.org/aos/agrovoc/c_12002
+6,C4648>C11209>C20515>C1939>C5204>C4172,C4172,http://id.agrisemantics.org/gacs/C4172,- - - - - Subtropical fruits,
+7,C4648>C11209>C20515>C1939>C5204>C4172>C31154,C31154,http://id.agrisemantics.org/gacs/C31154,- - - - - - Subtropical small fruits,
+8,C4648>C11209>C20515>C1939>C5204>C4172>C31154>C18914,C18914,http://id.agrisemantics.org/gacs/C18914,- - - - - - - Passion fruits,http://aims.fao.org/aos/agrovoc/c_13127
+8,C4648>C11209>C20515>C1939>C5204>C4172>C31154>C22887,C22887,http://id.agrisemantics.org/gacs/C22887,- - - - - - - Opuntia ficus-indica,http://aims.fao.org/aos/agrovoc/c_26594
+6,C4648>C11209>C20515>C1939>C5204>C5201,C5201,http://id.agrisemantics.org/gacs/C5201,- - - - - Tropical tree fruits,
+7,C4648>C11209>C20515>C1939>C5204>C5201>C10337,C10337,http://id.agrisemantics.org/gacs/C10337,- - - - - - Guavas,http://aims.fao.org/aos/agrovoc/c_11392
+7,C4648>C11209>C20515>C1939>C5204>C5201>C18077,C18077,http://id.agrisemantics.org/gacs/C18077,- - - - - - Ziziphus mauritiana,http://aims.fao.org/aos/agrovoc/c_331539
+7,C4648>C11209>C20515>C1939>C5204>C5201>C26065,C26065,http://id.agrisemantics.org/gacs/C26065,- - - - - - Bactris gasipaes,http://aims.fao.org/aos/agrovoc/c_3422
+7,C4648>C11209>C20515>C1939>C5204>C5201>C26835,C26835,http://id.agrisemantics.org/gacs/C26835,- - - - - - Lychees,http://aims.fao.org/aos/agrovoc/c_12283
+7,C4648>C11209>C20515>C1939>C5204>C5201>C27143,C27143,http://id.agrisemantics.org/gacs/C27143,- - - - - - Tamarinds,
+7,C4648>C11209>C20515>C1939>C5204>C5201>C29420,C29420,http://id.agrisemantics.org/gacs/C29420,- - - - - - Jackfruits,http://aims.fao.org/aos/agrovoc/c_11864
+7,C4648>C11209>C20515>C1939>C5204>C5201>C31049,C31049,http://id.agrisemantics.org/gacs/C31049,- - - - - - Sapodillas,
+7,C4648>C11209>C20515>C1939>C5204>C5201>C5207,C5207,http://id.agrisemantics.org/gacs/C5207,- - - - - - Mangifera indica,http://aims.fao.org/aos/agrovoc/c_4575
+7,C4648>C11209>C20515>C1939>C5204>C5201>C5216,C5216,http://id.agrisemantics.org/gacs/C5216,- - - - - - Mangoes,http://aims.fao.org/aos/agrovoc/c_12367
+7,C4648>C11209>C20515>C1939>C5204>C5201>C8957,C8957,http://id.agrisemantics.org/gacs/C8957,- - - - - - Papayas,http://aims.fao.org/aos/agrovoc/c_13087
+6,C4648>C11209>C20515>C1939>C5204>C5813,C5813,http://id.agrisemantics.org/gacs/C5813,- - - - - Coconuts,http://aims.fao.org/aos/agrovoc/c_25470
+6,C4648>C11209>C20515>C1939>C5204>C8858,C8858,http://id.agrisemantics.org/gacs/C8858,- - - - - Pineapples,http://aims.fao.org/aos/agrovoc/c_13394
+5,C4648>C11209>C20515>C1939>C5345,C5345,http://id.agrisemantics.org/gacs/C5345,- - - - Melons,http://aims.fao.org/aos/agrovoc/c_12487
+6,C4648>C11209>C20515>C1939>C5345>C27888,C27888,http://id.agrisemantics.org/gacs/C27888,- - - - - Cantaloupes,
+6,C4648>C11209>C20515>C1939>C5345>C8921,C8921,http://id.agrisemantics.org/gacs/C8921,- - - - - Watermelons,http://aims.fao.org/aos/agrovoc/c_15277
+4,C4648>C11209>C20515>C20632,C20632,http://id.agrisemantics.org/gacs/C20632,- - - Starch products,http://aims.fao.org/aos/agrovoc/c_15524
+5,C4648>C11209>C20515>C20632>C12735,C12735,http://id.agrisemantics.org/gacs/C12735,- - - - Potato starch,http://aims.fao.org/aos/agrovoc/c_15512
+5,C4648>C11209>C20515>C20632>C20319,C20319,http://id.agrisemantics.org/gacs/C20319,- - - - Wheat starch,
+5,C4648>C11209>C20515>C20632>C23356,C23356,http://id.agrisemantics.org/gacs/C23356,- - - - Modified starches,http://aims.fao.org/aos/agrovoc/c_4883
+5,C4648>C11209>C20515>C20632>C23400,C23400,http://id.agrisemantics.org/gacs/C23400,- - - - Rice starch,
+5,C4648>C11209>C20515>C20632>C24205,C24205,http://id.agrisemantics.org/gacs/C24205,- - - - Semolina,http://aims.fao.org/aos/agrovoc/c_14196
+5,C4648>C11209>C20515>C20632>C25533,C25533,http://id.agrisemantics.org/gacs/C25533,- - - - Cassava starch,
+6,C4648>C11209>C20515>C20632>C25533>C18997,C18997,http://id.agrisemantics.org/gacs/C18997,- - - - - Tapioca,http://aims.fao.org/aos/agrovoc/c_15525
+5,C4648>C11209>C20515>C20632>C28519,C28519,http://id.agrisemantics.org/gacs/C28519,- - - - Sago,http://aims.fao.org/aos/agrovoc/c_15518
+5,C4648>C11209>C20515>C20632>C7107,C7107,http://id.agrisemantics.org/gacs/C7107,- - - - Corn starch,http://aims.fao.org/aos/agrovoc/c_15500
+4,C4648>C11209>C20515>C24130,C24130,http://id.agrisemantics.org/gacs/C24130,- - - Seaweed products,http://aims.fao.org/aos/agrovoc/c_6915
+4,C4648>C11209>C20515>C2937,C2937,http://id.agrisemantics.org/gacs/C2937,- - - Wood products,http://aims.fao.org/aos/agrovoc/c_16203
+5,C4648>C11209>C20515>C2937>C10350,C10350,http://id.agrisemantics.org/gacs/C10350,- - - - Composite wood products,http://aims.fao.org/aos/agrovoc/c_32409
+6,C4648>C11209>C20515>C2937>C10350>C15928,C15928,http://id.agrisemantics.org/gacs/C15928,- - - - - Wood panels,http://aims.fao.org/aos/agrovoc/c_8427
+7,C4648>C11209>C20515>C2937>C10350>C15928>C11650,C11650,http://id.agrisemantics.org/gacs/C11650,- - - - - - Plywood,http://aims.fao.org/aos/agrovoc/c_6033
+7,C4648>C11209>C20515>C2937>C10350>C15928>C14275,C14275,http://id.agrisemantics.org/gacs/C14275,- - - - - - Fibreboards,http://aims.fao.org/aos/agrovoc/c_2878
+8,C4648>C11209>C20515>C2937>C10350>C15928>C14275>C31857,C31857,http://id.agrisemantics.org/gacs/C31857,- - - - - - - Medium density fiberboards,
+7,C4648>C11209>C20515>C2937>C10350>C15928>C14675,C14675,http://id.agrisemantics.org/gacs/C14675,- - - - - - Veneers,http://aims.fao.org/aos/agrovoc/c_8184
+7,C4648>C11209>C20515>C2937>C10350>C15928>C19642,C19642,http://id.agrisemantics.org/gacs/C19642,- - - - - - Laminated wood,http://aims.fao.org/aos/agrovoc/c_16567
+7,C4648>C11209>C20515>C2937>C10350>C15928>C8761,C8761,http://id.agrisemantics.org/gacs/C8761,- - - - - - Particleboards,http://aims.fao.org/aos/agrovoc/c_5600
+5,C4648>C11209>C20515>C2937>C11347,C11347,http://id.agrisemantics.org/gacs/C11347,- - - - Wood residues,http://aims.fao.org/aos/agrovoc/c_8430
+6,C4648>C11209>C20515>C2937>C11347>C10829,C10829,http://id.agrisemantics.org/gacs/C10829,- - - - - Sawdust,http://aims.fao.org/aos/agrovoc/c_6827
+6,C4648>C11209>C20515>C2937>C11347>C21095,C21095,http://id.agrisemantics.org/gacs/C21095,- - - - - Waste wood,
+7,C4648>C11209>C20515>C2937>C11347>C21095>C22749,C22749,http://id.agrisemantics.org/gacs/C22749,- - - - - - Slash,http://aims.fao.org/aos/agrovoc/c_28152
+6,C4648>C11209>C20515>C2937>C11347>C9256,C9256,http://id.agrisemantics.org/gacs/C9256,- - - - - Wood chips,http://aims.fao.org/aos/agrovoc/c_8423
+5,C4648>C11209>C20515>C2937>C1639,C1639,http://id.agrisemantics.org/gacs/C1639,- - - - Wood,http://aims.fao.org/aos/agrovoc/c_8421
+6,C4648>C11209>C20515>C2937>C1639>C11155,C11155,http://id.agrisemantics.org/gacs/C11155,- - - - - Roundwood,http://aims.fao.org/aos/agrovoc/c_6672
+7,C4648>C11209>C20515>C2937>C1639>C11155>C19886,C19886,http://id.agrisemantics.org/gacs/C19886,- - - - - - Poles,http://aims.fao.org/aos/agrovoc/c_6061
+7,C4648>C11209>C20515>C2937>C1639>C11155>C6091,C6091,http://id.agrisemantics.org/gacs/C6091,- - - - - - Logs,http://aims.fao.org/aos/agrovoc/c_4420
+8,C4648>C11209>C20515>C2937>C1639>C11155>C6091>C22900,C22900,http://id.agrisemantics.org/gacs/C22900,- - - - - - - Sawlogs,http://aims.fao.org/aos/agrovoc/c_6829
+6,C4648>C11209>C20515>C2937>C1639>C11882,C11882,http://id.agrisemantics.org/gacs/C11882,- - - - - Heartwood,http://aims.fao.org/aos/agrovoc/c_3518
+6,C4648>C11209>C20515>C2937>C1639>C12051,C12051,http://id.agrisemantics.org/gacs/C12051,- - - - - Sapwood,http://aims.fao.org/aos/agrovoc/c_6800
+6,C4648>C11209>C20515>C2937>C1639>C12456,C12456,http://id.agrisemantics.org/gacs/C12456,- - - - - Dead wood,http://aims.fao.org/aos/agrovoc/c_28060
+7,C4648>C11209>C20515>C2937>C1639>C12456>C20715,C20715,http://id.agrisemantics.org/gacs/C20715,- - - - - - Coarse woody debris,
+7,C4648>C11209>C20515>C2937>C1639>C12456>C25910,C25910,http://id.agrisemantics.org/gacs/C25910,- - - - - - Dead trees,
+6,C4648>C11209>C20515>C2937>C1639>C14263,C14263,http://id.agrisemantics.org/gacs/C14263,- - - - - Structural timbers,http://aims.fao.org/aos/agrovoc/c_28158
+6,C4648>C11209>C20515>C2937>C1639>C15661,C15661,http://id.agrisemantics.org/gacs/C15661,- - - - - Pulpwood,http://aims.fao.org/aos/agrovoc/c_6365
+6,C4648>C11209>C20515>C2937>C1639>C15912,C15912,http://id.agrisemantics.org/gacs/C15912,- - - - - Decayed wood,
+6,C4648>C11209>C20515>C2937>C1639>C25175,C25175,http://id.agrisemantics.org/gacs/C25175,- - - - - Improved wood,http://aims.fao.org/aos/agrovoc/c_28094
+6,C4648>C11209>C20515>C2937>C1639>C26416,C26416,http://id.agrisemantics.org/gacs/C26416,- - - - - Juvenile wood,http://aims.fao.org/aos/agrovoc/c_4066
+6,C4648>C11209>C20515>C2937>C1639>C26966,C26966,http://id.agrisemantics.org/gacs/C26966,- - - - - Tropical timbers,
+6,C4648>C11209>C20515>C2937>C1639>C28165,C28165,http://id.agrisemantics.org/gacs/C28165,- - - - - Stemwood,http://aims.fao.org/aos/agrovoc/c_28157
+6,C4648>C11209>C20515>C2937>C1639>C28289,C28289,http://id.agrisemantics.org/gacs/C28289,- - - - - Reaction wood,http://aims.fao.org/aos/agrovoc/c_24890
+6,C4648>C11209>C20515>C2937>C1639>C28329,C28329,http://id.agrisemantics.org/gacs/C28329,- - - - - Old and fossil wood,
+6,C4648>C11209>C20515>C2937>C1639>C5278,C5278,http://id.agrisemantics.org/gacs/C5278,- - - - - Fuelwood,http://aims.fao.org/aos/agrovoc/c_3137
+6,C4648>C11209>C20515>C2937>C1639>C5949,C5949,http://id.agrisemantics.org/gacs/C5949,- - - - - Hardwood,http://aims.fao.org/aos/agrovoc/c_3495
+6,C4648>C11209>C20515>C2937>C1639>C6784,C6784,http://id.agrisemantics.org/gacs/C6784,- - - - - Sawnwood,http://aims.fao.org/aos/agrovoc/c_6831
+6,C4648>C11209>C20515>C2937>C1639>C8572,C8572,http://id.agrisemantics.org/gacs/C8572,- - - - - Softwood,http://aims.fao.org/aos/agrovoc/c_7154
+5,C4648>C11209>C20515>C2937>C24925,C24925,http://id.agrisemantics.org/gacs/C24925,- - - - Wood extracts,http://aims.fao.org/aos/agrovoc/c_8424
+5,C4648>C11209>C20515>C2937>C28785,C28785,http://id.agrisemantics.org/gacs/C28785,- - - - Wood ash,
+5,C4648>C11209>C20515>C2937>C31573,C31573,http://id.agrisemantics.org/gacs/C31573,- - - - Wood flour,http://aims.fao.org/aos/agrovoc/c_8425
+5,C4648>C11209>C20515>C2937>C9656,C9656,http://id.agrisemantics.org/gacs/C9656,- - - - Charcoal,http://aims.fao.org/aos/agrovoc/c_1503
+6,C4648>C11209>C20515>C2937>C9656>C25251,C25251,http://id.agrisemantics.org/gacs/C25251,- - - - - Biochar,
+5,C4648>C11209>C20515>C2937>C9882,C9882,http://id.agrisemantics.org/gacs/C9882,- - - - Wood pulp,http://aims.fao.org/aos/agrovoc/c_15391
+4,C4648>C11209>C20515>C5504,C5504,http://id.agrisemantics.org/gacs/C5504,- - - Flours,http://aims.fao.org/aos/agrovoc/c_2988
+5,C4648>C11209>C20515>C5504>C17785,C17785,http://id.agrisemantics.org/gacs/C17785,- - - - Cereal flours,http://aims.fao.org/aos/agrovoc/c_24393
+6,C4648>C11209>C20515>C5504>C17785>C19486,C19486,http://id.agrisemantics.org/gacs/C19486,- - - - - Rice flour,http://aims.fao.org/aos/agrovoc/c_25500
+6,C4648>C11209>C20515>C5504>C17785>C21723,C21723,http://id.agrisemantics.org/gacs/C21723,- - - - - Corn flour,http://aims.fao.org/aos/agrovoc/c_25472
+6,C4648>C11209>C20515>C5504>C17785>C24748,C24748,http://id.agrisemantics.org/gacs/C24748,- - - - - Rye flour,http://aims.fao.org/aos/agrovoc/c_25501
+6,C4648>C11209>C20515>C5504>C17785>C4464,C4464,http://id.agrisemantics.org/gacs/C4464,- - - - - Wheat flour,http://aims.fao.org/aos/agrovoc/c_25511
+5,C4648>C11209>C20515>C5504>C31108,C31108,http://id.agrisemantics.org/gacs/C31108,- - - - Noncereal flours,http://aims.fao.org/aos/agrovoc/c_35229
+4,C4648>C11209>C20515>C8446,C8446,http://id.agrisemantics.org/gacs/C8446,- - - Rubber,http://aims.fao.org/aos/agrovoc/c_6678
+3,C4648>C11209>C6595,C6595,http://id.agrisemantics.org/gacs/C6595,- - Processed animal products,http://aims.fao.org/aos/agrovoc/c_29107
+4,C4648>C11209>C6595>C11716,C11716,http://id.agrisemantics.org/gacs/C11716,- - - Animal fats and oils,http://aims.fao.org/aos/agrovoc/c_428
+5,C4648>C11209>C6595>C11716>C16473,C16473,http://id.agrisemantics.org/gacs/C16473,- - - - Tallow,http://aims.fao.org/aos/agrovoc/c_7595
+5,C4648>C11209>C6595>C11716>C21462,C21462,http://id.agrisemantics.org/gacs/C21462,- - - - Lard,http://aims.fao.org/aos/agrovoc/c_12088
+5,C4648>C11209>C6595>C11716>C2285,C2285,http://id.agrisemantics.org/gacs/C2285,- - - - Milk fat,http://aims.fao.org/aos/agrovoc/c_4828
+6,C4648>C11209>C6595>C11716>C2285>C8331,C8331,http://id.agrisemantics.org/gacs/C8331,- - - - - Milk fat percentage,
+5,C4648>C11209>C6595>C11716>C29503,C29503,http://id.agrisemantics.org/gacs/C29503,- - - - Animal oils,http://aims.fao.org/aos/agrovoc/c_32376
+4,C4648>C11209>C6595>C12424,C12424,http://id.agrisemantics.org/gacs/C12424,- - - Hides and skins,http://aims.fao.org/aos/agrovoc/c_3609
+5,C4648>C11209>C6595>C12424>C14404,C14404,http://id.agrisemantics.org/gacs/C14404,- - - - Leather,http://aims.fao.org/aos/agrovoc/c_4241
+5,C4648>C11209>C6595>C12424>C16783,C16783,http://id.agrisemantics.org/gacs/C16783,- - - - Furs,http://aims.fao.org/aos/agrovoc/c_3155
+5,C4648>C11209>C6595>C12424>C29675,C29675,http://id.agrisemantics.org/gacs/C29675,- - - - Pelts,
+4,C4648>C11209>C6595>C2100,C2100,http://id.agrisemantics.org/gacs/C2100,- - - Meat products,http://aims.fao.org/aos/agrovoc/c_4680
+5,C4648>C11209>C6595>C2100>C14832,C14832,http://id.agrisemantics.org/gacs/C14832,- - - - Cured meats,http://aims.fao.org/aos/agrovoc/c_2038
+5,C4648>C11209>C6595>C2100>C1946,C1946,http://id.agrisemantics.org/gacs/C1946,- - - - Meat,http://aims.fao.org/aos/agrovoc/c_4669
+6,C4648>C11209>C6595>C2100>C1946>C12688,C12688,http://id.agrisemantics.org/gacs/C12688,- - - - - Meat cuts,http://aims.fao.org/aos/agrovoc/c_4672
+7,C4648>C11209>C6595>C2100>C1946>C12688>C17244,C17244,http://id.agrisemantics.org/gacs/C17244,- - - - - - Steaks,http://aims.fao.org/aos/agrovoc/c_7380
+7,C4648>C11209>C6595>C2100>C1946>C12688>C22707,C22707,http://id.agrisemantics.org/gacs/C22707,- - - - - - Fillets,http://aims.fao.org/aos/agrovoc/c_2897
+7,C4648>C11209>C6595>C2100>C1946>C12688>C27625,C27625,http://id.agrisemantics.org/gacs/C27625,- - - - - - Loins (meat cut),http://aims.fao.org/aos/agrovoc/c_4421
+7,C4648>C11209>C6595>C2100>C1946>C12688>C28116,C28116,http://id.agrisemantics.org/gacs/C28116,- - - - - - Shoulders,http://aims.fao.org/aos/agrovoc/c_7047
+6,C4648>C11209>C6595>C2100>C1946>C16712,C16712,http://id.agrisemantics.org/gacs/C16712,- - - - - Sheep meat,
+7,C4648>C11209>C6595>C2100>C1946>C16712>C10435,C10435,http://id.agrisemantics.org/gacs/C10435,- - - - - - Lamb meat,http://aims.fao.org/aos/agrovoc/c_4162
+7,C4648>C11209>C6595>C2100>C1946>C16712>C14110,C14110,http://id.agrisemantics.org/gacs/C14110,- - - - - - Mutton,http://aims.fao.org/aos/agrovoc/c_5015
+6,C4648>C11209>C6595>C2100>C1946>C16798,C16798,http://id.agrisemantics.org/gacs/C16798,- - - - - Rabbit meat,http://aims.fao.org/aos/agrovoc/c_16026
+6,C4648>C11209>C6595>C2100>C1946>C18892,C18892,http://id.agrisemantics.org/gacs/C18892,- - - - - Goat meat,http://aims.fao.org/aos/agrovoc/c_15978
+6,C4648>C11209>C6595>C2100>C1946>C21364,C21364,http://id.agrisemantics.org/gacs/C21364,- - - - - Game meat,http://aims.fao.org/aos/agrovoc/c_3183
+6,C4648>C11209>C6595>C2100>C1946>C2151,C2151,http://id.agrisemantics.org/gacs/C2151,- - - - - Beef,http://aims.fao.org/aos/agrovoc/c_861
+7,C4648>C11209>C6595>C2100>C1946>C2151>C10707,C10707,http://id.agrisemantics.org/gacs/C10707,- - - - - - Ground beef,
+7,C4648>C11209>C6595>C2100>C1946>C2151>C14815,C14815,http://id.agrisemantics.org/gacs/C14815,- - - - - - Veal,http://aims.fao.org/aos/agrovoc/c_8163
+6,C4648>C11209>C6595>C2100>C1946>C23311,C23311,http://id.agrisemantics.org/gacs/C23311,- - - - - Pale soft exudative meat,http://aims.fao.org/aos/agrovoc/c_15920
+6,C4648>C11209>C6595>C2100>C1946>C2697,C2697,http://id.agrisemantics.org/gacs/C2697,- - - - - Pork,http://aims.fao.org/aos/agrovoc/c_6120
+7,C4648>C11209>C6595>C2100>C1946>C2697>C11049,C11049,http://id.agrisemantics.org/gacs/C11049,- - - - - - Ham,http://aims.fao.org/aos/agrovoc/c_3481
+7,C4648>C11209>C6595>C2100>C1946>C2697>C22964,C22964,http://id.agrisemantics.org/gacs/C22964,- - - - - - Bacon,http://aims.fao.org/aos/agrovoc/c_764
+6,C4648>C11209>C6595>C2100>C1946>C27385,C27385,http://id.agrisemantics.org/gacs/C27385,- - - - - Horse meat,http://aims.fao.org/aos/agrovoc/c_15983
+6,C4648>C11209>C6595>C2100>C1946>C29601,C29601,http://id.agrisemantics.org/gacs/C29601,- - - - - Red meat,
+6,C4648>C11209>C6595>C2100>C1946>C31408,C31408,http://id.agrisemantics.org/gacs/C31408,- - - - - Dark cutting meat,http://aims.fao.org/aos/agrovoc/c_15896
+6,C4648>C11209>C6595>C2100>C1946>C31948,C31948,http://id.agrisemantics.org/gacs/C31948,- - - - - Buffalo meat,http://aims.fao.org/aos/agrovoc/c_23996
+5,C4648>C11209>C6595>C2100>C20974,C20974,http://id.agrisemantics.org/gacs/C20974,- - - - Frozen meat,http://aims.fao.org/aos/agrovoc/c_3116
+5,C4648>C11209>C6595>C2100>C21241,C21241,http://id.agrisemantics.org/gacs/C21241,- - - - Offal,http://aims.fao.org/aos/agrovoc/c_5324
+6,C4648>C11209>C6595>C2100>C21241>C28044,C28044,http://id.agrisemantics.org/gacs/C28044,- - - - - Livers as food,
+5,C4648>C11209>C6595>C2100>C21276,C21276,http://id.agrisemantics.org/gacs/C21276,- - - - Dried meat,http://aims.fao.org/aos/agrovoc/c_2383
+5,C4648>C11209>C6595>C2100>C22504,C22504,http://id.agrisemantics.org/gacs/C22504,- - - - Minced meat,http://aims.fao.org/aos/agrovoc/c_24873
+5,C4648>C11209>C6595>C2100>C23133,C23133,http://id.agrisemantics.org/gacs/C23133,- - - - Patties,
+6,C4648>C11209>C6595>C2100>C23133>C26235,C26235,http://id.agrisemantics.org/gacs/C26235,- - - - - Hamburgers,
+5,C4648>C11209>C6595>C2100>C32449,C32449,http://id.agrisemantics.org/gacs/C32449,- - - - Canned meat,http://aims.fao.org/aos/agrovoc/c_16481
+5,C4648>C11209>C6595>C2100>C6589,C6589,http://id.agrisemantics.org/gacs/C6589,- - - - Sausages,http://aims.fao.org/aos/agrovoc/c_6824
+6,C4648>C11209>C6595>C2100>C6589>C21102,C21102,http://id.agrisemantics.org/gacs/C21102,- - - - - Hot dogs,
+4,C4648>C11209>C6595>C22486,C22486,http://id.agrisemantics.org/gacs/C22486,- - - Egg products,http://aims.fao.org/aos/agrovoc/c_2499
+4,C4648>C11209>C6595>C573,C573,http://id.agrisemantics.org/gacs/C573,- - - Milk products,http://aims.fao.org/aos/agrovoc/c_4830
+5,C4648>C11209>C6595>C573>C17925,C17925,http://id.agrisemantics.org/gacs/C17925,- - - - Cheese milk,
+5,C4648>C11209>C6595>C573>C1859,C1859,http://id.agrisemantics.org/gacs/C1859,- - - - Cheeses,http://aims.fao.org/aos/agrovoc/c_1507
+6,C4648>C11209>C6595>C573>C1859>C13998,C13998,http://id.agrisemantics.org/gacs/C13998,- - - - - Cheddar cheese,
+6,C4648>C11209>C6595>C573>C1859>C16408,C16408,http://id.agrisemantics.org/gacs/C16408,- - - - - Hard cheeses,http://aims.fao.org/aos/agrovoc/c_16492
+6,C4648>C11209>C6595>C573>C1859>C16990,C16990,http://id.agrisemantics.org/gacs/C16990,- - - - - Soft cheese,http://aims.fao.org/aos/agrovoc/c_16505
+6,C4648>C11209>C6595>C573>C1859>C21340,C21340,http://id.agrisemantics.org/gacs/C21340,- - - - - Goat cheese,http://aims.fao.org/aos/agrovoc/c_32463
+6,C4648>C11209>C6595>C573>C1859>C23617,C23617,http://id.agrisemantics.org/gacs/C23617,- - - - - Ewe cheese,http://aims.fao.org/aos/agrovoc/c_32464
+6,C4648>C11209>C6595>C573>C1859>C23696,C23696,http://id.agrisemantics.org/gacs/C23696,- - - - - Processed cheese,http://aims.fao.org/aos/agrovoc/c_16501
+6,C4648>C11209>C6595>C573>C1859>C25173,C25173,http://id.agrisemantics.org/gacs/C25173,- - - - - Mozzarella cheese,
+6,C4648>C11209>C6595>C573>C1859>C28841,C28841,http://id.agrisemantics.org/gacs/C28841,- - - - - Cottage cheese,
+6,C4648>C11209>C6595>C573>C1859>C30159,C30159,http://id.agrisemantics.org/gacs/C30159,- - - - - Low fat cheeses,
+5,C4648>C11209>C6595>C573>C20003,C20003,http://id.agrisemantics.org/gacs/C20003,- - - - Curd,http://aims.fao.org/aos/agrovoc/c_10209
+5,C4648>C11209>C6595>C573>C26092,C26092,http://id.agrisemantics.org/gacs/C26092,- - - - Reconstituted milk,http://aims.fao.org/aos/agrovoc/c_16503
+5,C4648>C11209>C6595>C573>C31957,C31957,http://id.agrisemantics.org/gacs/C31957,- - - - Butter oil,http://aims.fao.org/aos/agrovoc/c_1164
+5,C4648>C11209>C6595>C573>C410,C410,http://id.agrisemantics.org/gacs/C410,- - - - Milk,http://aims.fao.org/aos/agrovoc/c_4826
+6,C4648>C11209>C6595>C573>C410>C12863,C12863,http://id.agrisemantics.org/gacs/C12863,- - - - - Pasteurized milk,http://aims.fao.org/aos/agrovoc/c_13132
+6,C4648>C11209>C6595>C573>C410>C14420,C14420,http://id.agrisemantics.org/gacs/C14420,- - - - - Buffalo milk,http://aims.fao.org/aos/agrovoc/c_16076
+6,C4648>C11209>C6595>C573>C410>C19927,C19927,http://id.agrisemantics.org/gacs/C19927,- - - - - Liquid milk,http://aims.fao.org/aos/agrovoc/c_4374
+7,C4648>C11209>C6595>C573>C410>C19927>C18825,C18825,http://id.agrisemantics.org/gacs/C18825,- - - - - - Bulk milk,
+7,C4648>C11209>C6595>C573>C410>C19927>C26690,C26690,http://id.agrisemantics.org/gacs/C26690,- - - - - - Market milk,
+6,C4648>C11209>C6595>C573>C410>C23618,C23618,http://id.agrisemantics.org/gacs/C23618,- - - - - Sweetened condensed milk,
+6,C4648>C11209>C6595>C573>C410>C25592,C25592,http://id.agrisemantics.org/gacs/C25592,- - - - - Evaporated milk,http://aims.fao.org/aos/agrovoc/c_2737
+6,C4648>C11209>C6595>C573>C410>C28868,C28868,http://id.agrisemantics.org/gacs/C28868,- - - - - Sterilized milk,http://aims.fao.org/aos/agrovoc/c_14585
+7,C4648>C11209>C6595>C573>C410>C28868>C20179,C20179,http://id.agrisemantics.org/gacs/C20179,- - - - - - Uht milk,http://aims.fao.org/aos/agrovoc/c_15068
+6,C4648>C11209>C6595>C573>C410>C28957,C28957,http://id.agrisemantics.org/gacs/C28957,- - - - - Camel milk,http://aims.fao.org/aos/agrovoc/c_16077
+6,C4648>C11209>C6595>C573>C410>C30753,C30753,http://id.agrisemantics.org/gacs/C30753,- - - - - Whole milk,http://aims.fao.org/aos/agrovoc/c_15364
+6,C4648>C11209>C6595>C573>C410>C31843,C31843,http://id.agrisemantics.org/gacs/C31843,- - - - - Mare milk,http://aims.fao.org/aos/agrovoc/c_16087
+6,C4648>C11209>C6595>C573>C410>C4417,C4417,http://id.agrisemantics.org/gacs/C4417,- - - - - Cow milk,http://aims.fao.org/aos/agrovoc/c_16080
+6,C4648>C11209>C6595>C573>C410>C5159,C5159,http://id.agrisemantics.org/gacs/C5159,- - - - - Human milk,http://aims.fao.org/aos/agrovoc/c_16085
+6,C4648>C11209>C6595>C573>C410>C5402,C5402,http://id.agrisemantics.org/gacs/C5402,- - - - - Skim milk,http://aims.fao.org/aos/agrovoc/c_7096
+7,C4648>C11209>C6595>C573>C410>C5402>C13688,C13688,http://id.agrisemantics.org/gacs/C13688,- - - - - - Dried skim milk,http://aims.fao.org/aos/agrovoc/c_16486
+6,C4648>C11209>C6595>C573>C410>C7480,C7480,http://id.agrisemantics.org/gacs/C7480,- - - - - Goat milk,http://aims.fao.org/aos/agrovoc/c_16083
+6,C4648>C11209>C6595>C573>C410>C7499,C7499,http://id.agrisemantics.org/gacs/C7499,- - - - - Colostrum,http://aims.fao.org/aos/agrovoc/c_1772
+7,C4648>C11209>C6595>C573>C410>C7499>C19758,C19758,http://id.agrisemantics.org/gacs/C19758,- - - - - - Cow colostrum,
+6,C4648>C11209>C6595>C573>C410>C7769,C7769,http://id.agrisemantics.org/gacs/C7769,- - - - - Dried milk,http://aims.fao.org/aos/agrovoc/c_2384
+6,C4648>C11209>C6595>C573>C410>C8701,C8701,http://id.agrisemantics.org/gacs/C8701,- - - - - Ewe milk,http://aims.fao.org/aos/agrovoc/c_16081
+5,C4648>C11209>C6595>C573>C4259,C4259,http://id.agrisemantics.org/gacs/C4259,- - - - Butter,http://aims.fao.org/aos/agrovoc/c_1162
+6,C4648>C11209>C6595>C573>C4259>C29801,C29801,http://id.agrisemantics.org/gacs/C29801,- - - - - Ghee,http://aims.fao.org/aos/agrovoc/c_3254
+5,C4648>C11209>C6595>C573>C5060,C5060,http://id.agrisemantics.org/gacs/C5060,- - - - Whey,http://aims.fao.org/aos/agrovoc/c_8376
+6,C4648>C11209>C6595>C573>C5060>C29198,C29198,http://id.agrisemantics.org/gacs/C29198,- - - - - Dried whey,http://aims.fao.org/aos/agrovoc/c_24019
+6,C4648>C11209>C6595>C573>C5060>C31839,C31839,http://id.agrisemantics.org/gacs/C31839,- - - - - Cheese whey,http://aims.fao.org/aos/agrovoc/c_35804
+5,C4648>C11209>C6595>C573>C7145,C7145,http://id.agrisemantics.org/gacs/C7145,- - - - Milk protein,http://aims.fao.org/aos/agrovoc/c_4831
+6,C4648>C11209>C6595>C573>C7145>C6309,C6309,http://id.agrisemantics.org/gacs/C6309,- - - - - Whey protein,http://aims.fao.org/aos/agrovoc/c_28528
+5,C4648>C11209>C6595>C573>C7838,C7838,http://id.agrisemantics.org/gacs/C7838,- - - - Cream,http://aims.fao.org/aos/agrovoc/c_1951
+5,C4648>C11209>C6595>C573>C9965,C9965,http://id.agrisemantics.org/gacs/C9965,- - - - Cultured milks,http://aims.fao.org/aos/agrovoc/c_2023
+6,C4648>C11209>C6595>C573>C9965>C18902,C18902,http://id.agrisemantics.org/gacs/C18902,- - - - - Buttermilk,http://aims.fao.org/aos/agrovoc/c_9513
+6,C4648>C11209>C6595>C573>C9965>C27733,C27733,http://id.agrisemantics.org/gacs/C27733,- - - - - Kefir,http://aims.fao.org/aos/agrovoc/c_23849
+6,C4648>C11209>C6595>C573>C9965>C7483,C7483,http://id.agrisemantics.org/gacs/C7483,- - - - - Yoghurt,http://aims.fao.org/aos/agrovoc/c_15463
+4,C4648>C11209>C6595>C6562,C6562,http://id.agrisemantics.org/gacs/C6562,- - - Fish products,http://aims.fao.org/aos/agrovoc/c_2930
+5,C4648>C11209>C6595>C6562>C15384,C15384,http://id.agrisemantics.org/gacs/C15384,- - - - Fish fillets,http://aims.fao.org/aos/agrovoc/c_29019
+5,C4648>C11209>C6595>C6562>C19042,C19042,http://id.agrisemantics.org/gacs/C19042,- - - - Smoked fish,http://aims.fao.org/aos/agrovoc/c_7115
+5,C4648>C11209>C6595>C6562>C21997,C21997,http://id.agrisemantics.org/gacs/C21997,- - - - Dried fish,http://aims.fao.org/aos/agrovoc/c_2381
+5,C4648>C11209>C6595>C6562>C23635,C23635,http://id.agrisemantics.org/gacs/C23635,- - - - Salted fish,http://aims.fao.org/aos/agrovoc/c_6762
+5,C4648>C11209>C6595>C6562>C23656,C23656,http://id.agrisemantics.org/gacs/C23656,- - - - Canned fish,http://aims.fao.org/aos/agrovoc/c_16479
+5,C4648>C11209>C6595>C6562>C2878,C2878,http://id.agrisemantics.org/gacs/C2878,- - - - Fish roe,http://aims.fao.org/aos/agrovoc/c_6634
+5,C4648>C11209>C6595>C6562>C31456,C31456,http://id.agrisemantics.org/gacs/C31456,- - - - Minced fish,http://aims.fao.org/aos/agrovoc/c_26801
+5,C4648>C11209>C6595>C6562>C5184,C5184,http://id.agrisemantics.org/gacs/C5184,- - - - Fish oils,http://aims.fao.org/aos/agrovoc/c_2926
+6,C4648>C11209>C6595>C6562>C5184>C14939,C14939,http://id.agrisemantics.org/gacs/C14939,- - - - - Fish liver oils,
+7,C4648>C11209>C6595>C6562>C5184>C14939>C13757,C13757,http://id.agrisemantics.org/gacs/C13757,- - - - - - Cod liver oil,
+7,C4648>C11209>C6595>C6562>C5184>C14939>C28515,C28515,http://id.agrisemantics.org/gacs/C28515,- - - - - - Menhaden oil,
+2,C4648>C11218,C11218,http://id.agrisemantics.org/gacs/C11218,- Fresh products,http://aims.fao.org/aos/agrovoc/c_15739
+2,C4648>C11493,C11493,http://id.agrisemantics.org/gacs/C11493,- Products and commodities,
+3,C4648>C11493>C10826,C10826,http://id.agrisemantics.org/gacs/C10826,- - Commodities,
+3,C4648>C11493>C12811,C12811,http://id.agrisemantics.org/gacs/C12811,- - Furniture,http://aims.fao.org/aos/agrovoc/c_3152
+3,C4648>C11493>C13050,C13050,http://id.agrisemantics.org/gacs/C13050,- - Brand name products,
+3,C4648>C11493>C1798,C1798,http://id.agrisemantics.org/gacs/C1798,- - Stored products,http://aims.fao.org/aos/agrovoc/c_33118
+3,C4648>C11493>C22293,C22293,http://id.agrisemantics.org/gacs/C22293,- - Biodegradable products,
+3,C4648>C11493>C23839,C23839,http://id.agrisemantics.org/gacs/C23839,- - Protein products,http://aims.fao.org/aos/agrovoc/c_6256
+4,C4648>C11493>C23839>C11131,C11131,http://id.agrisemantics.org/gacs/C11131,- - - Protein concentrates,http://aims.fao.org/aos/agrovoc/c_6250
+4,C4648>C11493>C23839>C11751,C11751,http://id.agrisemantics.org/gacs/C11751,- - - Protein hydrolysates,http://aims.fao.org/aos/agrovoc/c_3732
+5,C4648>C11493>C23839>C11751>C26855,C26855,http://id.agrisemantics.org/gacs/C26855,- - - - Casein hydrolysates,
+4,C4648>C11493>C23839>C14124,C14124,http://id.agrisemantics.org/gacs/C14124,- - - Single cell protein,http://aims.fao.org/aos/agrovoc/c_7078
+5,C4648>C11493>C23839>C14124>C12750,C12750,http://id.agrisemantics.org/gacs/C12750,- - - - Fungal proteins,http://aims.fao.org/aos/agrovoc/c_25437
+4,C4648>C11493>C23839>C19980,C19980,http://id.agrisemantics.org/gacs/C19980,- - - Caseinates,http://aims.fao.org/aos/agrovoc/c_1358
+4,C4648>C11493>C23839>C3075,C3075,http://id.agrisemantics.org/gacs/C3075,- - - Animal proteins,http://aims.fao.org/aos/agrovoc/c_439
+5,C4648>C11493>C23839>C3075>C11274,C11274,http://id.agrisemantics.org/gacs/C11274,- - - - Gelatin,http://aims.fao.org/aos/agrovoc/c_3209
+5,C4648>C11493>C23839>C3075>C12068,C12068,http://id.agrisemantics.org/gacs/C12068,- - - - Blood source protein,
+5,C4648>C11493>C23839>C3075>C14765,C14765,http://id.agrisemantics.org/gacs/C14765,- - - - Rennet,http://aims.fao.org/aos/agrovoc/c_24075
+5,C4648>C11493>C23839>C3075>C18867,C18867,http://id.agrisemantics.org/gacs/C18867,- - - - Insect proteins,http://aims.fao.org/aos/agrovoc/c_1387363306809
+5,C4648>C11493>C23839>C3075>C19347,C19347,http://id.agrisemantics.org/gacs/C19347,- - - - Ovalbumin,
+5,C4648>C11493>C23839>C3075>C22347,C22347,http://id.agrisemantics.org/gacs/C22347,- - - - Keratin,http://aims.fao.org/aos/agrovoc/c_4088
+5,C4648>C11493>C23839>C3075>C30471,C30471,http://id.agrisemantics.org/gacs/C30471,- - - - Excretory secretory products,
+5,C4648>C11493>C23839>C3075>C3143,C3143,http://id.agrisemantics.org/gacs/C3143,- - - - Interferons,http://aims.fao.org/aos/agrovoc/c_3914
+6,C4648>C11493>C23839>C3075>C3143>C22779,C22779,http://id.agrisemantics.org/gacs/C22779,- - - - - Interferon-gamma,
+5,C4648>C11493>C23839>C3075>C4607,C4607,http://id.agrisemantics.org/gacs/C4607,- - - - Milk proteins,
+6,C4648>C11493>C23839>C3075>C4607>C10047,C10047,http://id.agrisemantics.org/gacs/C10047,- - - - - Milk protein percentage,
+6,C4648>C11493>C23839>C3075>C4607>C18028,C18028,http://id.agrisemantics.org/gacs/C18028,- - - - - Lactoferrin,http://aims.fao.org/aos/agrovoc/c_12040
+6,C4648>C11493>C23839>C3075>C4607>C18217,C18217,http://id.agrisemantics.org/gacs/C18217,- - - - - Lactoglobulins,http://aims.fao.org/aos/agrovoc/c_12043
+7,C4648>C11493>C23839>C3075>C4607>C18217>C12968,C12968,http://id.agrisemantics.org/gacs/C12968,- - - - - - Beta-lactoglobulin,http://aims.fao.org/aos/agrovoc/c_23994
+6,C4648>C11493>C23839>C3075>C4607>C18273,C18273,http://id.agrisemantics.org/gacs/C18273,- - - - - Lactalbumin,http://aims.fao.org/aos/agrovoc/c_12036
+7,C4648>C11493>C23839>C3075>C4607>C18273>C18773,C18773,http://id.agrisemantics.org/gacs/C18773,- - - - - - Alpha-lactalbumin,
+6,C4648>C11493>C23839>C3075>C4607>C2954,C2954,http://id.agrisemantics.org/gacs/C2954,- - - - - Casein,http://aims.fao.org/aos/agrovoc/c_1357
+7,C4648>C11493>C23839>C3075>C4607>C2954>C17180,C17180,http://id.agrisemantics.org/gacs/C17180,- - - - - - Beta-casein,
+7,C4648>C11493>C23839>C3075>C4607>C2954>C19880,C19880,http://id.agrisemantics.org/gacs/C19880,- - - - - - Kappa-casein,
+7,C4648>C11493>C23839>C3075>C4607>C2954>C26019,C26019,http://id.agrisemantics.org/gacs/C26019,- - - - - - Alpha-s1-casein,
+5,C4648>C11493>C23839>C3075>C5429,C5429,http://id.agrisemantics.org/gacs/C5429,- - - - Blood proteins,http://aims.fao.org/aos/agrovoc/c_970
+6,C4648>C11493>C23839>C3075>C5429>C13083,C13083,http://id.agrisemantics.org/gacs/C13083,- - - - - Ferritin,http://aims.fao.org/aos/agrovoc/c_37715
+6,C4648>C11493>C23839>C3075>C5429>C18726,C18726,http://id.agrisemantics.org/gacs/C18726,- - - - - Myoglobin,http://aims.fao.org/aos/agrovoc/c_5031
+6,C4648>C11493>C23839>C3075>C5429>C22845,C22845,http://id.agrisemantics.org/gacs/C22845,- - - - - Acute phase proteins,
+7,C4648>C11493>C23839>C3075>C5429>C22845>C10292,C10292,http://id.agrisemantics.org/gacs/C10292,- - - - - - Serum albumin,http://aims.fao.org/aos/agrovoc/c_14213
+8,C4648>C11493>C23839>C3075>C5429>C22845>C10292>C14043,C14043,http://id.agrisemantics.org/gacs/C14043,- - - - - - - Bovine serum albumin,
+7,C4648>C11493>C23839>C3075>C5429>C22845>C11567,C11567,http://id.agrisemantics.org/gacs/C11567,- - - - - - C-reactive protein,
+7,C4648>C11493>C23839>C3075>C5429>C22845>C15680,C15680,http://id.agrisemantics.org/gacs/C15680,- - - - - - Transferrin,http://aims.fao.org/aos/agrovoc/c_14958
+7,C4648>C11493>C23839>C3075>C5429>C22845>C18737,C18737,http://id.agrisemantics.org/gacs/C18737,- - - - - - Fibrinogen,http://aims.fao.org/aos/agrovoc/c_34825
+7,C4648>C11493>C23839>C3075>C5429>C22845>C28803,C28803,http://id.agrisemantics.org/gacs/C28803,- - - - - - Haptoglobins,
+7,C4648>C11493>C23839>C3075>C5429>C22845>C31649,C31649,http://id.agrisemantics.org/gacs/C31649,- - - - - - Ceruloplasmin,
+6,C4648>C11493>C23839>C3075>C5429>C25578,C25578,http://id.agrisemantics.org/gacs/C25578,- - - - - Blood coagulation factors,
+7,C4648>C11493>C23839>C3075>C5429>C25578>C22703,C22703,http://id.agrisemantics.org/gacs/C22703,- - - - - - Prothrombin,
+7,C4648>C11493>C23839>C3075>C5429>C25578>C28992,C28992,http://id.agrisemantics.org/gacs/C28992,- - - - - - Thrombin,
+6,C4648>C11493>C23839>C3075>C5429>C3017,C3017,http://id.agrisemantics.org/gacs/C3017,- - - - - Haemoglobin,http://aims.fao.org/aos/agrovoc/c_3462
+7,C4648>C11493>C23839>C3075>C5429>C3017>C28436,C28436,http://id.agrisemantics.org/gacs/C28436,- - - - - - Haemoglobin a1,
+6,C4648>C11493>C23839>C3075>C5429>C31001,C31001,http://id.agrisemantics.org/gacs/C31001,- - - - - Fibrin,
+6,C4648>C11493>C23839>C3075>C5429>C32104,C32104,http://id.agrisemantics.org/gacs/C32104,- - - - - Erythropoietin,http://aims.fao.org/aos/agrovoc/c_27517
+6,C4648>C11493>C23839>C3075>C5429>C3308,C3308,http://id.agrisemantics.org/gacs/C3308,- - - - - Immunoglobulins,http://aims.fao.org/aos/agrovoc/c_3805
+7,C4648>C11493>C23839>C3075>C5429>C3308>C1028,C1028,http://id.agrisemantics.org/gacs/C1028,- - - - - - Antibodies,http://aims.fao.org/aos/agrovoc/c_493
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C14810,C14810,http://id.agrisemantics.org/gacs/C14810,- - - - - - - Antitoxins,
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C16194,C16194,http://id.agrisemantics.org/gacs/C16194,- - - - - - - Polyclonal antibodies,http://aims.fao.org/aos/agrovoc/c_36002
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C20072,C20072,http://id.agrisemantics.org/gacs/C20072,- - - - - - - Haemolysins,http://aims.fao.org/aos/agrovoc/c_34293
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C23141,C23141,http://id.agrisemantics.org/gacs/C23141,- - - - - - - Autoantibodies,
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C2919,C2919,http://id.agrisemantics.org/gacs/C2919,- - - - - - - Monoclonal antibodies,http://aims.fao.org/aos/agrovoc/c_24051
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C29735,C29735,http://id.agrisemantics.org/gacs/C29735,- - - - - - - Maternal antibodies,
+8,C4648>C11493>C23839>C3075>C5429>C3308>C1028>C9866,C9866,http://id.agrisemantics.org/gacs/C9866,- - - - - - - Neutralizing antibodies,
+7,C4648>C11493>C23839>C3075>C5429>C3308>C3656,C3656,http://id.agrisemantics.org/gacs/C3656,- - - - - - Immunoglobulin g,
+7,C4648>C11493>C23839>C3075>C5429>C3308>C7658,C7658,http://id.agrisemantics.org/gacs/C7658,- - - - - - Immunoglobulin m,
+7,C4648>C11493>C23839>C3075>C5429>C3308>C8822,C8822,http://id.agrisemantics.org/gacs/C8822,- - - - - - Immunoglobulin e,
+7,C4648>C11493>C23839>C3075>C5429>C3308>C9962,C9962,http://id.agrisemantics.org/gacs/C9962,- - - - - - Immunoglobulin a,
+6,C4648>C11493>C23839>C3075>C5429>C8288,C8288,http://id.agrisemantics.org/gacs/C8288,- - - - - Leptin,http://aims.fao.org/aos/agrovoc/c_37243
+4,C4648>C11493>C23839>C738,C738,http://id.agrisemantics.org/gacs/C738,- - - Plant proteins,http://aims.fao.org/aos/agrovoc/c_8172
+5,C4648>C11493>C23839>C738>C14148,C14148,http://id.agrisemantics.org/gacs/C14148,- - - - Ubiquitin,
+5,C4648>C11493>C23839>C738>C27843,C27843,http://id.agrisemantics.org/gacs/C27843,- - - - Leghaemoglobin,http://aims.fao.org/aos/agrovoc/c_26798
+5,C4648>C11493>C23839>C738>C28554,C28554,http://id.agrisemantics.org/gacs/C28554,- - - - Leaf protein,http://aims.fao.org/aos/agrovoc/c_24867
+5,C4648>C11493>C23839>C738>C28755,C28755,http://id.agrisemantics.org/gacs/C28755,- - - - Nodulins,
+5,C4648>C11493>C23839>C738>C30534,C30534,http://id.agrisemantics.org/gacs/C30534,- - - - Cereal protein,http://aims.fao.org/aos/agrovoc/c_23999
+6,C4648>C11493>C23839>C738>C30534>C21525,C21525,http://id.agrisemantics.org/gacs/C21525,- - - - - Wheat protein,
+6,C4648>C11493>C23839>C738>C30534>C30360,C30360,http://id.agrisemantics.org/gacs/C30360,- - - - - Rice protein,
+5,C4648>C11493>C23839>C738>C6306,C6306,http://id.agrisemantics.org/gacs/C6306,- - - - Lectins,http://aims.fao.org/aos/agrovoc/c_24042
+6,C4648>C11493>C23839>C738>C6306>C31520,C31520,http://id.agrisemantics.org/gacs/C31520,- - - - - Phytohaemagglutinins,http://aims.fao.org/aos/agrovoc/c_35260
+7,C4648>C11493>C23839>C738>C6306>C31520>C19185,C19185,http://id.agrisemantics.org/gacs/C19185,- - - - - - Concanavalin a,http://aims.fao.org/aos/agrovoc/c_35974
+5,C4648>C11493>C23839>C738>C7743,C7743,http://id.agrisemantics.org/gacs/C7743,- - - - Phytochrome,http://aims.fao.org/aos/agrovoc/c_24063
+5,C4648>C11493>C23839>C738>C9816,C9816,http://id.agrisemantics.org/gacs/C9816,- - - - Light harvesting complexes,
+5,C4648>C11493>C23839>C738>C9906,C9906,http://id.agrisemantics.org/gacs/C9906,- - - - Pathogenesis-related proteins,
+4,C4648>C11493>C23839>C9408,C9408,http://id.agrisemantics.org/gacs/C9408,- - - Protein isolates,http://aims.fao.org/aos/agrovoc/c_6253
+3,C4648>C11493>C3890,C3890,http://id.agrisemantics.org/gacs/C3890,- - Oils,http://aims.fao.org/aos/agrovoc/c_5334
+4,C4648>C11493>C3890>C16044,C16044,http://id.agrisemantics.org/gacs/C16044,- - - Cooking oils,http://aims.fao.org/aos/agrovoc/c_1853
+5,C4648>C11493>C3890>C16044>C16639,C16639,http://id.agrisemantics.org/gacs/C16639,- - - - Margarine,http://aims.fao.org/aos/agrovoc/c_4601
+4,C4648>C11493>C3890>C20643,C20643,http://id.agrisemantics.org/gacs/C20643,- - - Hydrogenated fats,http://aims.fao.org/aos/agrovoc/c_28400
+4,C4648>C11493>C3890>C30870,C30870,http://id.agrisemantics.org/gacs/C30870,- - - Fuel oils,
+5,C4648>C11493>C3890>C30870>C7404,C7404,http://id.agrisemantics.org/gacs/C7404,- - - - Petroleum,http://aims.fao.org/aos/agrovoc/c_5747
+6,C4648>C11493>C3890>C30870>C7404>C13700,C13700,http://id.agrisemantics.org/gacs/C13700,- - - - - Mineral oils,http://aims.fao.org/aos/agrovoc/c_4851
+6,C4648>C11493>C3890>C30870>C7404>C18135,C18135,http://id.agrisemantics.org/gacs/C18135,- - - - - Diesel oil,http://aims.fao.org/aos/agrovoc/c_34813
+6,C4648>C11493>C3890>C30870>C7404>C25167,C25167,http://id.agrisemantics.org/gacs/C25167,- - - - - Gasoline,http://aims.fao.org/aos/agrovoc/c_5746
+3,C4648>C11493>C5644,C5644,http://id.agrisemantics.org/gacs/C5644,- - Byproducts,http://aims.fao.org/aos/agrovoc/c_1172
+4,C4648>C11493>C5644>C19302,C19302,http://id.agrisemantics.org/gacs/C19302,- - - Biosolids,
+4,C4648>C11493>C5644>C19454,C19454,http://id.agrisemantics.org/gacs/C19454,- - - Sugar beet pulp,http://aims.fao.org/aos/agrovoc/c_27459
+4,C4648>C11493>C5644>C22012,C22012,http://id.agrisemantics.org/gacs/C22012,- - - Abattoir byproducts,http://aims.fao.org/aos/agrovoc/c_7
+4,C4648>C11493>C5644>C22413,C22413,http://id.agrisemantics.org/gacs/C22413,- - - Plant byproducts,
+5,C4648>C11493>C5644>C22413>C13405,C13405,http://id.agrisemantics.org/gacs/C13405,- - - - Bagasse,http://aims.fao.org/aos/agrovoc/c_776
+6,C4648>C11493>C5644>C22413>C13405>C18027,C18027,http://id.agrisemantics.org/gacs/C18027,- - - - - Sugarcane bagasse,
+5,C4648>C11493>C5644>C22413>C20890,C20890,http://id.agrisemantics.org/gacs/C20890,- - - - Cereal byproducts,http://aims.fao.org/aos/agrovoc/c_1471
+6,C4648>C11493>C5644>C22413>C20890>C28924,C28924,http://id.agrisemantics.org/gacs/C28924,- - - - - Milling byproducts,http://aims.fao.org/aos/agrovoc/c_4841
+7,C4648>C11493>C5644>C22413>C20890>C28924>C9175,C9175,http://id.agrisemantics.org/gacs/C9175,- - - - - - Bran,http://aims.fao.org/aos/agrovoc/c_1056
+8,C4648>C11493>C5644>C22413>C20890>C28924>C9175>C10062,C10062,http://id.agrisemantics.org/gacs/C10062,- - - - - - - Wheat bran,
+8,C4648>C11493>C5644>C22413>C20890>C28924>C9175>C15348,C15348,http://id.agrisemantics.org/gacs/C15348,- - - - - - - Rice bran,
+8,C4648>C11493>C5644>C22413>C20890>C28924>C9175>C26979,C26979,http://id.agrisemantics.org/gacs/C26979,- - - - - - - Oat bran,
+4,C4648>C11493>C5644>C28036,C28036,http://id.agrisemantics.org/gacs/C28036,- - - Oil mill byproducts,http://aims.fao.org/aos/agrovoc/c_25402
+4,C4648>C11493>C5644>C30052,C30052,http://id.agrisemantics.org/gacs/C30052,- - - Meat byproducts,http://aims.fao.org/aos/agrovoc/c_4671
+5,C4648>C11493>C5644>C30052>C20959,C20959,http://id.agrisemantics.org/gacs/C20959,- - - - Meat meal,http://aims.fao.org/aos/agrovoc/c_4677
+5,C4648>C11493>C5644>C30052>C24103,C24103,http://id.agrisemantics.org/gacs/C24103,- - - - Bone meal,http://aims.fao.org/aos/agrovoc/c_1000
+5,C4648>C11493>C5644>C30052>C25713,C25713,http://id.agrisemantics.org/gacs/C25713,- - - - Meat and bone meal,
+4,C4648>C11493>C5644>C30166,C30166,http://id.agrisemantics.org/gacs/C30166,- - - Milk byproducts,http://aims.fao.org/aos/agrovoc/c_4827
+4,C4648>C11493>C5644>C31430,C31430,http://id.agrisemantics.org/gacs/C31430,- - - Agroindustrial byproducts,
+5,C4648>C11493>C5644>C31430>C24610,C24610,http://id.agrisemantics.org/gacs/C24610,- - - - Vinasse,http://aims.fao.org/aos/agrovoc/c_27624
+5,C4648>C11493>C5644>C31430>C28177,C28177,http://id.agrisemantics.org/gacs/C28177,- - - - Brewery byproducts,http://aims.fao.org/aos/agrovoc/c_1086
+6,C4648>C11493>C5644>C31430>C28177>C15322,C15322,http://id.agrisemantics.org/gacs/C15322,- - - - - Wort,http://aims.fao.org/aos/agrovoc/c_15618
+3,C4648>C11493>C588,C588,http://id.agrisemantics.org/gacs/C588,- - Agricultural products,http://aims.fao.org/aos/agrovoc/c_8678
+4,C4648>C11493>C588>C1797,C1797,http://id.agrisemantics.org/gacs/C1797,- - - Animal products,http://aims.fao.org/aos/agrovoc/c_438
+5,C4648>C11493>C588>C1797>C12515,C12515,http://id.agrisemantics.org/gacs/C12515,- - - - Cocoons,http://aims.fao.org/aos/agrovoc/c_36538
+5,C4648>C11493>C588>C1797>C27212,C27212,http://id.agrisemantics.org/gacs/C27212,- - - - Frozen semen,
+5,C4648>C11493>C588>C1797>C27317,C27317,http://id.agrisemantics.org/gacs/C27317,- - - - Hive products,http://aims.fao.org/aos/agrovoc/c_3655
+6,C4648>C11493>C588>C1797>C27317>C22969,C22969,http://id.agrisemantics.org/gacs/C22969,- - - - - Beeswax,http://aims.fao.org/aos/agrovoc/c_866
+6,C4648>C11493>C588>C1797>C27317>C24436,C24436,http://id.agrisemantics.org/gacs/C24436,- - - - - Royal jelly,http://aims.fao.org/aos/agrovoc/c_26817
+6,C4648>C11493>C588>C1797>C27317>C27839,C27839,http://id.agrisemantics.org/gacs/C27839,- - - - - Honey bee venom,http://aims.fao.org/aos/agrovoc/c_36467
+6,C4648>C11493>C588>C1797>C27317>C5512,C5512,http://id.agrisemantics.org/gacs/C5512,- - - - - Honey,http://aims.fao.org/aos/agrovoc/c_3652
+7,C4648>C11493>C588>C1797>C27317>C5512>C31447,C31447,http://id.agrisemantics.org/gacs/C31447,- - - - - - Comb honey,http://aims.fao.org/aos/agrovoc/c_3656
+5,C4648>C11493>C588>C1797>C3128,C3128,http://id.agrisemantics.org/gacs/C3128,- - - - Carcasses,http://aims.fao.org/aos/agrovoc/c_1310
+6,C4648>C11493>C588>C1797>C3128>C19716,C19716,http://id.agrisemantics.org/gacs/C19716,- - - - - Beef carcasses,
+6,C4648>C11493>C588>C1797>C3128>C23541,C23541,http://id.agrisemantics.org/gacs/C23541,- - - - - Pig carcasses,
+6,C4648>C11493>C588>C1797>C3128>C24639,C24639,http://id.agrisemantics.org/gacs/C24639,- - - - - Chicken carcasses,
+6,C4648>C11493>C588>C1797>C3128>C3142,C3142,http://id.agrisemantics.org/gacs/C3142,- - - - - Carcass composition,http://aims.fao.org/aos/agrovoc/c_16168
+7,C4648>C11493>C588>C1797>C3128>C3142>C12210,C12210,http://id.agrisemantics.org/gacs/C12210,- - - - - - Fat thickness,
+7,C4648>C11493>C588>C1797>C3128>C3142>C21564,C21564,http://id.agrisemantics.org/gacs/C21564,- - - - - - Lean meat,
+7,C4648>C11493>C588>C1797>C3128>C3142>C8968,C8968,http://id.agrisemantics.org/gacs/C8968,- - - - - - Dressing percentage,http://aims.fao.org/aos/agrovoc/c_32430
+7,C4648>C11493>C588>C1797>C3128>C3142>C9075,C9075,http://id.agrisemantics.org/gacs/C9075,- - - - - - Backfat,http://aims.fao.org/aos/agrovoc/c_23992
+5,C4648>C11493>C588>C1797>C4074,C4074,http://id.agrisemantics.org/gacs/C4074,- - - - Poultry products,
+6,C4648>C11493>C588>C1797>C4074>C1895,C1895,http://id.agrisemantics.org/gacs/C1895,- - - - - Eggs,http://aims.fao.org/aos/agrovoc/c_2502
+7,C4648>C11493>C588>C1797>C4074>C1895>C11226,C11226,http://id.agrisemantics.org/gacs/C11226,- - - - - - Egg albumen,http://aims.fao.org/aos/agrovoc/c_10549
+7,C4648>C11493>C588>C1797>C4074>C1895>C22536,C22536,http://id.agrisemantics.org/gacs/C22536,- - - - - - Fish eggs,
+7,C4648>C11493>C588>C1797>C4074>C1895>C8574,C8574,http://id.agrisemantics.org/gacs/C8574,- - - - - - Egg yolk,http://aims.fao.org/aos/agrovoc/c_2501
+6,C4648>C11493>C588>C1797>C4074>C7054,C7054,http://id.agrisemantics.org/gacs/C7054,- - - - - Poultry meat,http://aims.fao.org/aos/agrovoc/c_6147
+7,C4648>C11493>C588>C1797>C4074>C7054>C14787,C14787,http://id.agrisemantics.org/gacs/C14787,- - - - - - Turkey meat,http://aims.fao.org/aos/agrovoc/c_24096
+7,C4648>C11493>C588>C1797>C4074>C7054>C28801,C28801,http://id.agrisemantics.org/gacs/C28801,- - - - - - Duck meat,http://aims.fao.org/aos/agrovoc/c_24021
+7,C4648>C11493>C588>C1797>C4074>C7054>C4530,C4530,http://id.agrisemantics.org/gacs/C4530,- - - - - - Chicken meat,http://aims.fao.org/aos/agrovoc/c_24000
+4,C4648>C11493>C588>C26245,C26245,http://id.agrisemantics.org/gacs/C26245,- - - Biobased products,http://aims.fao.org/aos/agrovoc/c_36642
+5,C4648>C11493>C588>C26245>C4388,C4388,http://id.agrisemantics.org/gacs/C4388,- - - - Biofuels,http://aims.fao.org/aos/agrovoc/c_27465
+6,C4648>C11493>C588>C26245>C4388>C1575,C1575,http://id.agrisemantics.org/gacs/C1575,- - - - - Ethanol,http://aims.fao.org/aos/agrovoc/c_10677
+6,C4648>C11493>C588>C26245>C4388>C28224,C28224,http://id.agrisemantics.org/gacs/C28224,- - - - - Bioethanol,
+6,C4648>C11493>C588>C26245>C4388>C4821,C4821,http://id.agrisemantics.org/gacs/C4821,- - - - - Methanol,http://aims.fao.org/aos/agrovoc/c_12521
+6,C4648>C11493>C588>C26245>C4388>C8515,C8515,http://id.agrisemantics.org/gacs/C8515,- - - - - Biogas,http://aims.fao.org/aos/agrovoc/c_9262
+7,C4648>C11493>C588>C26245>C4388>C8515>C3030,C3030,http://id.agrisemantics.org/gacs/C3030,- - - - - - Methane,http://aims.fao.org/aos/agrovoc/c_4784
+6,C4648>C11493>C588>C26245>C4388>C9666,C9666,http://id.agrisemantics.org/gacs/C9666,- - - - - Biodiesel,http://aims.fao.org/aos/agrovoc/c_35013
+4,C4648>C11493>C588>C276,C276,http://id.agrisemantics.org/gacs/C276,- - - Plant products,http://aims.fao.org/aos/agrovoc/c_8171
+5,C4648>C11493>C588>C276>C10067,C10067,http://id.agrisemantics.org/gacs/C10067,- - - - Pseudocereals,http://aims.fao.org/aos/agrovoc/c_6301
+6,C4648>C11493>C588>C276>C10067>C10064,C10064,http://id.agrisemantics.org/gacs/C10064,- - - - - Chenopodium album,
+6,C4648>C11493>C588>C276>C10067>C13217,C13217,http://id.agrisemantics.org/gacs/C13217,- - - - - Buckwheat,http://aims.fao.org/aos/agrovoc/c_9471
+6,C4648>C11493>C588>C276>C10067>C18376,C18376,http://id.agrisemantics.org/gacs/C18376,- - - - - Chenopodium quinoa,http://aims.fao.org/aos/agrovoc/c_1531
+6,C4648>C11493>C588>C276>C10067>C28078,C28078,http://id.agrisemantics.org/gacs/C28078,- - - - - Amaranthus cruentus,http://aims.fao.org/aos/agrovoc/c_326
+6,C4648>C11493>C588>C276>C10067>C28324,C28324,http://id.agrisemantics.org/gacs/C28324,- - - - - Amaranthus caudatus,http://aims.fao.org/aos/agrovoc/c_325
+5,C4648>C11493>C588>C276>C10657,C10657,http://id.agrisemantics.org/gacs/C10657,- - - - Oilseed cakes,http://aims.fao.org/aos/agrovoc/c_5336
+6,C4648>C11493>C588>C276>C10657>C11767,C11767,http://id.agrisemantics.org/gacs/C11767,- - - - - Rapeseed meal,http://aims.fao.org/aos/agrovoc/c_16027
+6,C4648>C11493>C588>C276>C10657>C19662,C19662,http://id.agrisemantics.org/gacs/C19662,- - - - - Cottonseed meal,http://aims.fao.org/aos/agrovoc/c_35678
+6,C4648>C11493>C588>C276>C10657>C25693,C25693,http://id.agrisemantics.org/gacs/C25693,- - - - - Sunflower meal,http://aims.fao.org/aos/agrovoc/c_35709
+6,C4648>C11493>C588>C276>C10657>C30079,C30079,http://id.agrisemantics.org/gacs/C30079,- - - - - Copra,http://aims.fao.org/aos/agrovoc/c_1873
+6,C4648>C11493>C588>C276>C10657>C30773,C30773,http://id.agrisemantics.org/gacs/C30773,- - - - - Neem seed cake,
+5,C4648>C11493>C588>C276>C11004,C11004,http://id.agrisemantics.org/gacs/C11004,- - - - Husks,http://aims.fao.org/aos/agrovoc/c_37743
+6,C4648>C11493>C588>C276>C11004>C18169,C18169,http://id.agrisemantics.org/gacs/C18169,- - - - - Rice husks,http://aims.fao.org/aos/agrovoc/c_24892
+6,C4648>C11493>C588>C276>C11004>C25449,C25449,http://id.agrisemantics.org/gacs/C25449,- - - - - Soyabean husks,
+5,C4648>C11493>C588>C276>C11525,C11525,http://id.agrisemantics.org/gacs/C11525,- - - - Hops,http://aims.fao.org/aos/agrovoc/c_11596
+5,C4648>C11493>C588>C276>C1214,C1214,http://id.agrisemantics.org/gacs/C1214,- - - - Legumes,http://aims.fao.org/aos/agrovoc/c_4255
+6,C4648>C11493>C588>C276>C1214>C1235,C1235,http://id.agrisemantics.org/gacs/C1235,- - - - - Alfalfa,
+6,C4648>C11493>C588>C276>C1214>C1292,C1292,http://id.agrisemantics.org/gacs/C1292,- - - - - Fodder legumes,http://aims.fao.org/aos/agrovoc/c_2834
+7,C4648>C11493>C588>C276>C1214>C1292>C12385,C12385,http://id.agrisemantics.org/gacs/C12385,- - - - - - Lupinus albus,http://aims.fao.org/aos/agrovoc/c_4464
+7,C4648>C11493>C588>C276>C1214>C1292>C1295,C1295,http://id.agrisemantics.org/gacs/C1295,- - - - - - Medicago sativa,http://aims.fao.org/aos/agrovoc/c_4693
+7,C4648>C11493>C588>C276>C1214>C1292>C13267,C13267,http://id.agrisemantics.org/gacs/C13267,- - - - - - Vicia sativa,http://aims.fao.org/aos/agrovoc/c_8222
+7,C4648>C11493>C588>C276>C1214>C1292>C14563,C14563,http://id.agrisemantics.org/gacs/C14563,- - - - - - Trifolium alexandrinum,http://aims.fao.org/aos/agrovoc/c_7911
+7,C4648>C11493>C588>C276>C1214>C1292>C15882,C15882,http://id.agrisemantics.org/gacs/C15882,- - - - - - Lupinus angustifolius,http://aims.fao.org/aos/agrovoc/c_4465
+7,C4648>C11493>C588>C276>C1214>C1292>C1593,C1593,http://id.agrisemantics.org/gacs/C1593,- - - - - - Pisum sativum,http://aims.fao.org/aos/agrovoc/c_5933
+7,C4648>C11493>C588>C276>C1214>C1292>C18184,C18184,http://id.agrisemantics.org/gacs/C18184,- - - - - - Vicia villosa,http://aims.fao.org/aos/agrovoc/c_8223
+7,C4648>C11493>C588>C276>C1214>C1292>C18592,C18592,http://id.agrisemantics.org/gacs/C18592,- - - - - - Lupinus luteus,http://aims.fao.org/aos/agrovoc/c_4466
+7,C4648>C11493>C588>C276>C1214>C1292>C2039,C2039,http://id.agrisemantics.org/gacs/C2039,- - - - - - Arachis hypogaea,http://aims.fao.org/aos/agrovoc/c_572
+7,C4648>C11493>C588>C276>C1214>C1292>C22624,C22624,http://id.agrisemantics.org/gacs/C22624,- - - - - - Onobrychis viciifolia,http://aims.fao.org/aos/agrovoc/c_5357
+7,C4648>C11493>C588>C276>C1214>C1292>C23512,C23512,http://id.agrisemantics.org/gacs/C23512,- - - - - - Pueraria phaseoloides,http://aims.fao.org/aos/agrovoc/c_6357
+7,C4648>C11493>C588>C276>C1214>C1292>C24460,C24460,http://id.agrisemantics.org/gacs/C24460,- - - - - - Arachis pintoi,http://aims.fao.org/aos/agrovoc/c_33617
+7,C4648>C11493>C588>C276>C1214>C1292>C24661,C24661,http://id.agrisemantics.org/gacs/C24661,- - - - - - Trifolium incarnatum,http://aims.fao.org/aos/agrovoc/c_7915
+7,C4648>C11493>C588>C276>C1214>C1292>C25318,C25318,http://id.agrisemantics.org/gacs/C25318,- - - - - - Macroptilium atropurpureum,http://aims.fao.org/aos/agrovoc/c_4501
+7,C4648>C11493>C588>C276>C1214>C1292>C25526,C25526,http://id.agrisemantics.org/gacs/C25526,- - - - - - Trifolium hybridum,http://aims.fao.org/aos/agrovoc/c_7914
+7,C4648>C11493>C588>C276>C1214>C1292>C25783,C25783,http://id.agrisemantics.org/gacs/C25783,- - - - - - Ceratonia siliqua,http://aims.fao.org/aos/agrovoc/c_1464
+7,C4648>C11493>C588>C276>C1214>C1292>C29776,C29776,http://id.agrisemantics.org/gacs/C29776,- - - - - - Trifolium resupinatum,http://aims.fao.org/aos/agrovoc/c_7919
+7,C4648>C11493>C588>C276>C1214>C1292>C30691,C30691,http://id.agrisemantics.org/gacs/C30691,- - - - - - Lupinus mutabilis,http://aims.fao.org/aos/agrovoc/c_4467
+7,C4648>C11493>C588>C276>C1214>C1292>C31180,C31180,http://id.agrisemantics.org/gacs/C31180,- - - - - - Melilotus albus,http://aims.fao.org/aos/agrovoc/c_4720
+7,C4648>C11493>C588>C276>C1214>C1292>C32057,C32057,http://id.agrisemantics.org/gacs/C32057,- - - - - - Sesbania cannabina,
+7,C4648>C11493>C588>C276>C1214>C1292>C3845,C3845,http://id.agrisemantics.org/gacs/C3845,- - - - - - Vigna unguiculata,http://aims.fao.org/aos/agrovoc/c_8247
+8,C4648>C11493>C588>C276>C1214>C1292>C3845>C32497,C32497,http://id.agrisemantics.org/gacs/C32497,- - - - - - - Vigna unguiculata subsp. sesquipedalis,http://aims.fao.org/aos/agrovoc/c_8249
+7,C4648>C11493>C588>C276>C1214>C1292>C5642,C5642,http://id.agrisemantics.org/gacs/C5642,- - - - - - Vigna radiata,http://aims.fao.org/aos/agrovoc/c_8242
+8,C4648>C11493>C588>C276>C1214>C1292>C5642>C18889,C18889,http://id.agrisemantics.org/gacs/C18889,- - - - - - - Vigna radiata radiata,http://aims.fao.org/aos/agrovoc/c_8243
+6,C4648>C11493>C588>C276>C1214>C1709,C1709,http://id.agrisemantics.org/gacs/C1709,- - - - - Grain legumes,http://aims.fao.org/aos/agrovoc/c_3351
+7,C4648>C11493>C588>C276>C1214>C1709>C19808,C19808,http://id.agrisemantics.org/gacs/C19808,- - - - - - Lablab purpureus,http://aims.fao.org/aos/agrovoc/c_4125
+7,C4648>C11493>C588>C276>C1214>C1709>C20395,C20395,http://id.agrisemantics.org/gacs/C20395,- - - - - - Vigna angularis,http://aims.fao.org/aos/agrovoc/c_8231
+7,C4648>C11493>C588>C276>C1214>C1709>C29146,C29146,http://id.agrisemantics.org/gacs/C29146,- - - - - - Vigna subterranea,http://aims.fao.org/aos/agrovoc/c_15594
+7,C4648>C11493>C588>C276>C1214>C1709>C3495,C3495,http://id.agrisemantics.org/gacs/C3495,- - - - - - Beans,http://aims.fao.org/aos/agrovoc/c_331566
+8,C4648>C11493>C588>C276>C1214>C1709>C3495>C18701,C18701,http://id.agrisemantics.org/gacs/C18701,- - - - - - - Lima beans,http://aims.fao.org/aos/agrovoc/c_12180
+8,C4648>C11493>C588>C276>C1214>C1709>C3495>C6665,C6665,http://id.agrisemantics.org/gacs/C6665,- - - - - - - Pigeon peas,http://aims.fao.org/aos/agrovoc/c_13356
+7,C4648>C11493>C588>C276>C1214>C1709>C9092,C9092,http://id.agrisemantics.org/gacs/C9092,- - - - - - Lupins,
+6,C4648>C11493>C588>C276>C1214>C2054,C2054,http://id.agrisemantics.org/gacs/C2054,- - - - - Vegetable legumes,http://aims.fao.org/aos/agrovoc/c_8169
+7,C4648>C11493>C588>C276>C1214>C2054>C1637,C1637,http://id.agrisemantics.org/gacs/C1637,- - - - - - Peas,http://aims.fao.org/aos/agrovoc/c_13177
+7,C4648>C11493>C588>C276>C1214>C2054>C18704,C18704,http://id.agrisemantics.org/gacs/C18704,- - - - - - Phaseolus lunatus,http://aims.fao.org/aos/agrovoc/c_5766
+7,C4648>C11493>C588>C276>C1214>C2054>C19232,C19232,http://id.agrisemantics.org/gacs/C19232,- - - - - - Cyamopsis tetragonoloba,http://aims.fao.org/aos/agrovoc/c_2051
+7,C4648>C11493>C588>C276>C1214>C2054>C20074,C20074,http://id.agrisemantics.org/gacs/C20074,- - - - - - Phaseolus coccineus,http://aims.fao.org/aos/agrovoc/c_5765
+7,C4648>C11493>C588>C276>C1214>C2054>C21943,C21943,http://id.agrisemantics.org/gacs/C21943,- - - - - - Psophocarpus tetragonolobus,http://aims.fao.org/aos/agrovoc/c_6322
+7,C4648>C11493>C588>C276>C1214>C2054>C27865,C27865,http://id.agrisemantics.org/gacs/C27865,- - - - - - Phaseolus acutifolius,http://aims.fao.org/aos/agrovoc/c_5764
+6,C4648>C11493>C588>C276>C1214>C4394,C4394,http://id.agrisemantics.org/gacs/C4394,- - - - - Pasture legumes,
+7,C4648>C11493>C588>C276>C1214>C4394>C11046,C11046,http://id.agrisemantics.org/gacs/C11046,- - - - - - Trifolium subterraneum,http://aims.fao.org/aos/agrovoc/c_7922
+7,C4648>C11493>C588>C276>C1214>C4394>C12291,C12291,http://id.agrisemantics.org/gacs/C12291,- - - - - - Medicago truncatula,http://aims.fao.org/aos/agrovoc/c_26570
+7,C4648>C11493>C588>C276>C1214>C4394>C13742,C13742,http://id.agrisemantics.org/gacs/C13742,- - - - - - Lotus corniculatus,http://aims.fao.org/aos/agrovoc/c_4443
+7,C4648>C11493>C588>C276>C1214>C4394>C19906,C19906,http://id.agrisemantics.org/gacs/C19906,- - - - - - Lathyrus sativus,http://aims.fao.org/aos/agrovoc/c_4218
+7,C4648>C11493>C588>C276>C1214>C4394>C20686,C20686,http://id.agrisemantics.org/gacs/C20686,- - - - - - Stylosanthes guianensis,http://aims.fao.org/aos/agrovoc/c_7480
+7,C4648>C11493>C588>C276>C1214>C4394>C20917,C20917,http://id.agrisemantics.org/gacs/C20917,- - - - - - Canavalia ensiformis,http://aims.fao.org/aos/agrovoc/c_1244
+7,C4648>C11493>C588>C276>C1214>C4394>C26134,C26134,http://id.agrisemantics.org/gacs/C26134,- - - - - - Centrosema pubescens,http://aims.fao.org/aos/agrovoc/c_1447
+7,C4648>C11493>C588>C276>C1214>C4394>C29698,C29698,http://id.agrisemantics.org/gacs/C29698,- - - - - - Medicago polymorpha,http://aims.fao.org/aos/agrovoc/c_26568
+7,C4648>C11493>C588>C276>C1214>C4394>C30265,C30265,http://id.agrisemantics.org/gacs/C30265,- - - - - - Lotus uliginosus,http://aims.fao.org/aos/agrovoc/c_4446
+7,C4648>C11493>C588>C276>C1214>C4394>C4391,C4391,http://id.agrisemantics.org/gacs/C4391,- - - - - - Trifolium repens,http://aims.fao.org/aos/agrovoc/c_7918
+5,C4648>C11493>C588>C276>C13561,C13561,http://id.agrisemantics.org/gacs/C13561,- - - - Peel,http://aims.fao.org/aos/agrovoc/c_24060
+6,C4648>C11493>C588>C276>C13561>C29856,C29856,http://id.agrisemantics.org/gacs/C29856,- - - - - Citrus peels,
+5,C4648>C11493>C588>C276>C1442,C1442,http://id.agrisemantics.org/gacs/C1442,- - - - Sugarcane,http://aims.fao.org/aos/agrovoc/c_7501
+6,C4648>C11493>C588>C276>C1442>C25661,C25661,http://id.agrisemantics.org/gacs/C25661,- - - - - Sugarcane juice,http://aims.fao.org/aos/agrovoc/c_32708
+5,C4648>C11493>C588>C276>C15847,C15847,http://id.agrisemantics.org/gacs/C15847,- - - - Sugar products,http://aims.fao.org/aos/agrovoc/c_7500
+6,C4648>C11493>C588>C276>C15847>C21606,C21606,http://id.agrisemantics.org/gacs/C21606,- - - - - Syrups,
+7,C4648>C11493>C588>C276>C15847>C21606>C30925,C30925,http://id.agrisemantics.org/gacs/C30925,- - - - - - Glucose syrups,http://aims.fao.org/aos/agrovoc/c_29028
+7,C4648>C11493>C588>C276>C15847>C21606>C6919,C6919,http://id.agrisemantics.org/gacs/C6919,- - - - - - Molasses,http://aims.fao.org/aos/agrovoc/c_4889
+6,C4648>C11493>C588>C276>C15847>C27412,C27412,http://id.agrisemantics.org/gacs/C27412,- - - - - Sugar confectionery,http://aims.fao.org/aos/agrovoc/c_7502
+6,C4648>C11493>C588>C276>C15847>C4435,C4435,http://id.agrisemantics.org/gacs/C4435,- - - - - Sugar,http://aims.fao.org/aos/agrovoc/c_7498
+7,C4648>C11493>C588>C276>C15847>C4435>C17644,C17644,http://id.agrisemantics.org/gacs/C17644,- - - - - - Beet sugar,http://aims.fao.org/aos/agrovoc/c_16474
+7,C4648>C11493>C588>C276>C15847>C4435>C20050,C20050,http://id.agrisemantics.org/gacs/C20050,- - - - - - Cane sugar,http://aims.fao.org/aos/agrovoc/c_16477
+5,C4648>C11493>C588>C276>C1748,C1748,http://id.agrisemantics.org/gacs/C1748,- - - - Sugarbeet,http://aims.fao.org/aos/agrovoc/c_7499
+5,C4648>C11493>C588>C276>C19460,C19460,http://id.agrisemantics.org/gacs/C19460,- - - - Bean meal,
+5,C4648>C11493>C588>C276>C19696,C19696,http://id.agrisemantics.org/gacs/C19696,- - - - Coffee beans,http://aims.fao.org/aos/agrovoc/c_28379
+5,C4648>C11493>C588>C276>C21689,C21689,http://id.agrisemantics.org/gacs/C21689,- - - - Sweet sorghum,
+5,C4648>C11493>C588>C276>C2219,C2219,http://id.agrisemantics.org/gacs/C2219,- - - - Straw,http://aims.fao.org/aos/agrovoc/c_7441
+6,C4648>C11493>C588>C276>C2219>C19441,C19441,http://id.agrisemantics.org/gacs/C19441,- - - - - Barley straw,http://aims.fao.org/aos/agrovoc/c_15941
+6,C4648>C11493>C588>C276>C2219>C27224,C27224,http://id.agrisemantics.org/gacs/C27224,- - - - - Stover,
+7,C4648>C11493>C588>C276>C2219>C27224>C12816,C12816,http://id.agrisemantics.org/gacs/C12816,- - - - - - Maize stover,
+6,C4648>C11493>C588>C276>C2219>C7188,C7188,http://id.agrisemantics.org/gacs/C7188,- - - - - Wheat straw,http://aims.fao.org/aos/agrovoc/c_16066
+6,C4648>C11493>C588>C276>C2219>C8821,C8821,http://id.agrisemantics.org/gacs/C8821,- - - - - Rice straw,http://aims.fao.org/aos/agrovoc/c_16032
+5,C4648>C11493>C588>C276>C22465,C22465,http://id.agrisemantics.org/gacs/C22465,- - - - Stimulants,http://aims.fao.org/aos/agrovoc/c_7414
+6,C4648>C11493>C588>C276>C22465>C1193,C1193,http://id.agrisemantics.org/gacs/C1193,- - - - - Tobacco,http://aims.fao.org/aos/agrovoc/c_7796
+7,C4648>C11493>C588>C276>C22465>C1193>C8987,C8987,http://id.agrisemantics.org/gacs/C8987,- - - - - - Cigarettes,http://aims.fao.org/aos/agrovoc/c_9857
+5,C4648>C11493>C588>C276>C25671,C25671,http://id.agrisemantics.org/gacs/C25671,- - - - Grape pomace,
+6,C4648>C11493>C588>C276>C25671>C26436,C26436,http://id.agrisemantics.org/gacs/C26436,- - - - - Grape seeds,
+5,C4648>C11493>C588>C276>C27677,C27677,http://id.agrisemantics.org/gacs/C27677,- - - - Coconut products,
+5,C4648>C11493>C588>C276>C28650,C28650,http://id.agrisemantics.org/gacs/C28650,- - - - Aquatic plant culture,
+5,C4648>C11493>C588>C276>C2945,C2945,http://id.agrisemantics.org/gacs/C2945,- - - - Tea,http://aims.fao.org/aos/agrovoc/c_7634
+6,C4648>C11493>C588>C276>C2945>C11682,C11682,http://id.agrisemantics.org/gacs/C11682,- - - - - Green tea,
+6,C4648>C11493>C588>C276>C2945>C22647,C22647,http://id.agrisemantics.org/gacs/C22647,- - - - - Black tea,
+6,C4648>C11493>C588>C276>C2945>C29334,C29334,http://id.agrisemantics.org/gacs/C29334,- - - - - Herbal teas,http://aims.fao.org/aos/agrovoc/c_35743
+5,C4648>C11493>C588>C276>C29775,C29775,http://id.agrisemantics.org/gacs/C29775,- - - - Cocoa products,http://aims.fao.org/aos/agrovoc/c_331527
+6,C4648>C11493>C588>C276>C29775>C15802,C15802,http://id.agrisemantics.org/gacs/C15802,- - - - - Cocoa beans,http://aims.fao.org/aos/agrovoc/c_1711
+6,C4648>C11493>C588>C276>C29775>C4493,C4493,http://id.agrisemantics.org/gacs/C4493,- - - - - Cocoa,
+5,C4648>C11493>C588>C276>C29824,C29824,http://id.agrisemantics.org/gacs/C29824,- - - - Cellulosic materials,http://aims.fao.org/aos/agrovoc/c_1422
+6,C4648>C11493>C588>C276>C29824>C17961,C17961,http://id.agrisemantics.org/gacs/C17961,- - - - - Carboxymethylcellulose,http://aims.fao.org/aos/agrovoc/c_1309
+6,C4648>C11493>C588>C276>C29824>C24900,C24900,http://id.agrisemantics.org/gacs/C24900,- - - - - Methyl cellulose,http://aims.fao.org/aos/agrovoc/c_28458
+6,C4648>C11493>C588>C276>C29824>C24960,C24960,http://id.agrisemantics.org/gacs/C24960,- - - - - Synthetic fibres,http://aims.fao.org/aos/agrovoc/c_7574
+7,C4648>C11493>C588>C276>C29824>C24960>C18903,C18903,http://id.agrisemantics.org/gacs/C18903,- - - - - - Polyacrylamide,http://aims.fao.org/aos/agrovoc/c_28505
+7,C4648>C11493>C588>C276>C29824>C24960>C19291,C19291,http://id.agrisemantics.org/gacs/C19291,- - - - - - Rockwool,http://aims.fao.org/aos/agrovoc/c_24117
+7,C4648>C11493>C588>C276>C29824>C24960>C26328,C26328,http://id.agrisemantics.org/gacs/C26328,- - - - - - Nylon,
+5,C4648>C11493>C588>C276>C3069,C3069,http://id.agrisemantics.org/gacs/C3069,- - - - Lawns and turf,http://aims.fao.org/aos/agrovoc/c_8011
+5,C4648>C11493>C588>C276>C31653,C31653,http://id.agrisemantics.org/gacs/C31653,- - - - Maize gluten,
+5,C4648>C11493>C588>C276>C32782,C32782,http://id.agrisemantics.org/gacs/C32782,- - - - Coconut water,http://aims.fao.org/aos/agrovoc/c_34238
+5,C4648>C11493>C588>C276>C3627,C3627,http://id.agrisemantics.org/gacs/C3627,- - - - Nonfood plant products,
+6,C4648>C11493>C588>C276>C3627>C11026,C11026,http://id.agrisemantics.org/gacs/C11026,- - - - - Plant fibres,http://aims.fao.org/aos/agrovoc/c_5966
+7,C4648>C11493>C588>C276>C3627>C11026>C14156,C14156,http://id.agrisemantics.org/gacs/C14156,- - - - - - Jute,http://aims.fao.org/aos/agrovoc/c_4065
+7,C4648>C11493>C588>C276>C3627>C11026>C16355,C16355,http://id.agrisemantics.org/gacs/C16355,- - - - - - Hemp,http://aims.fao.org/aos/agrovoc/c_3558
+7,C4648>C11493>C588>C276>C3627>C11026>C18637,C18637,http://id.agrisemantics.org/gacs/C18637,- - - - - - Kenaf,http://aims.fao.org/aos/agrovoc/c_4084
+7,C4648>C11493>C588>C276>C3627>C11026>C21278,C21278,http://id.agrisemantics.org/gacs/C21278,- - - - - - Wood fibers,
+7,C4648>C11493>C588>C276>C3627>C11026>C21598,C21598,http://id.agrisemantics.org/gacs/C21598,- - - - - - Coir,http://aims.fao.org/aos/agrovoc/c_1734
+7,C4648>C11493>C588>C276>C3627>C11026>C21905,C21905,http://id.agrisemantics.org/gacs/C21905,- - - - - - Sunn hemp,http://aims.fao.org/aos/agrovoc/c_1978
+7,C4648>C11493>C588>C276>C3627>C11026>C27265,C27265,http://id.agrisemantics.org/gacs/C27265,- - - - - - Sisal,http://aims.fao.org/aos/agrovoc/c_7086
+7,C4648>C11493>C588>C276>C3627>C11026>C30526,C30526,http://id.agrisemantics.org/gacs/C30526,- - - - - - Ramie,http://aims.fao.org/aos/agrovoc/c_6442
+7,C4648>C11493>C588>C276>C3627>C11026>C4712,C4712,http://id.agrisemantics.org/gacs/C4712,- - - - - - Flax,http://aims.fao.org/aos/agrovoc/c_2970
+7,C4648>C11493>C588>C276>C3627>C11026>C881,C881,http://id.agrisemantics.org/gacs/C881,- - - - - - Cotton,http://aims.fao.org/aos/agrovoc/c_1926
+8,C4648>C11493>C588>C276>C3627>C11026>C881>C27687,C27687,http://id.agrisemantics.org/gacs/C27687,- - - - - - - Seed cotton,
+8,C4648>C11493>C588>C276>C3627>C11026>C881>C9783,C9783,http://id.agrisemantics.org/gacs/C9783,- - - - - - - Lint cotton,
+6,C4648>C11493>C588>C276>C3627>C1852,C1852,http://id.agrisemantics.org/gacs/C1852,- - - - - Planting seed,http://aims.fao.org/aos/agrovoc/c_6927
+7,C4648>C11493>C588>C276>C3627>C1852>C22906,C22906,http://id.agrisemantics.org/gacs/C22906,- - - - - - Seed mixtures,http://aims.fao.org/aos/agrovoc/c_6935
+6,C4648>C11493>C588>C276>C3627>C2492,C2492,http://id.agrisemantics.org/gacs/C2492,- - - - - Herbal medicines,
+6,C4648>C11493>C588>C276>C3627>C26734,C26734,http://id.agrisemantics.org/gacs/C26734,- - - - - Cut foliage,http://aims.fao.org/aos/agrovoc/c_32418
+6,C4648>C11493>C588>C276>C3627>C4885,C4885,http://id.agrisemantics.org/gacs/C4885,- - - - - Cut flowers,http://aims.fao.org/aos/agrovoc/c_16485
+6,C4648>C11493>C588>C276>C3627>C9432,C9432,http://id.agrisemantics.org/gacs/C9432,- - - - - Pulp and paper products,
+7,C4648>C11493>C588>C276>C3627>C9432>C5368,C5368,http://id.agrisemantics.org/gacs/C5368,- - - - - - Paper,http://aims.fao.org/aos/agrovoc/c_5548
+8,C4648>C11493>C588>C276>C3627>C9432>C5368>C15673,C15673,http://id.agrisemantics.org/gacs/C15673,- - - - - - - Paperboard,http://aims.fao.org/aos/agrovoc/c_5550
+8,C4648>C11493>C588>C276>C3627>C9432>C5368>C29752,C29752,http://id.agrisemantics.org/gacs/C29752,- - - - - - - Newsprint,http://aims.fao.org/aos/agrovoc/c_5169
+5,C4648>C11493>C588>C276>C402,C402,http://id.agrisemantics.org/gacs/C402,- - - - Forest products,http://aims.fao.org/aos/agrovoc/c_3049
+6,C4648>C11493>C588>C276>C402>C12601,C12601,http://id.agrisemantics.org/gacs/C12601,- - - - - Bamboos,http://aims.fao.org/aos/agrovoc/c_802
+6,C4648>C11493>C588>C276>C402>C20162,C20162,http://id.agrisemantics.org/gacs/C20162,- - - - - Thinnings,
+6,C4648>C11493>C588>C276>C402>C21124,C21124,http://id.agrisemantics.org/gacs/C21124,- - - - - Bark products,http://aims.fao.org/aos/agrovoc/c_822
+6,C4648>C11493>C588>C276>C402>C2576,C2576,http://id.agrisemantics.org/gacs/C2576,- - - - - Nontimber forest products,http://aims.fao.org/aos/agrovoc/c_5211
+7,C4648>C11493>C588>C276>C402>C2576>C11330,C11330,http://id.agrisemantics.org/gacs/C11330,- - - - - - Latex,http://aims.fao.org/aos/agrovoc/c_4214
+7,C4648>C11493>C588>C276>C402>C2576>C17251,C17251,http://id.agrisemantics.org/gacs/C17251,- - - - - - Cork,http://aims.fao.org/aos/agrovoc/c_1895
+7,C4648>C11493>C588>C276>C402>C2576>C17887,C17887,http://id.agrisemantics.org/gacs/C17887,- - - - - - Christmas trees,http://aims.fao.org/aos/agrovoc/c_1591
+7,C4648>C11493>C588>C276>C402>C2576>C2294,C2294,http://id.agrisemantics.org/gacs/C2294,- - - - - - Bark,http://aims.fao.org/aos/agrovoc/c_820
+7,C4648>C11493>C588>C276>C402>C2576>C27545,C27545,http://id.agrisemantics.org/gacs/C27545,- - - - - - Turpentine,http://aims.fao.org/aos/agrovoc/c_8020
+7,C4648>C11493>C588>C276>C402>C2576>C30643,C30643,http://id.agrisemantics.org/gacs/C30643,- - - - - - Canes and rattans,http://aims.fao.org/aos/agrovoc/c_1250
+7,C4648>C11493>C588>C276>C402>C2576>C4839,C4839,http://id.agrisemantics.org/gacs/C4839,- - - - - - Conifer needles,
+5,C4648>C11493>C588>C276>C4274,C4274,http://id.agrisemantics.org/gacs/C4274,- - - - Nuts,http://aims.fao.org/aos/agrovoc/c_12873
+6,C4648>C11493>C588>C276>C4274>C11144,C11144,http://id.agrisemantics.org/gacs/C11144,- - - - - Almonds,http://aims.fao.org/aos/agrovoc/c_8734
+6,C4648>C11493>C588>C276>C4274>C12494,C12494,http://id.agrisemantics.org/gacs/C12494,- - - - - Chestnuts,http://aims.fao.org/aos/agrovoc/c_25467
+6,C4648>C11493>C588>C276>C4274>C14567,C14567,http://id.agrisemantics.org/gacs/C14567,- - - - - Cashews,http://aims.fao.org/aos/agrovoc/c_9647
+6,C4648>C11493>C588>C276>C4274>C14948,C14948,http://id.agrisemantics.org/gacs/C14948,- - - - - Hazelnuts,http://aims.fao.org/aos/agrovoc/c_18248
+6,C4648>C11493>C588>C276>C4274>C16565,C16565,http://id.agrisemantics.org/gacs/C16565,- - - - - Pecans,http://aims.fao.org/aos/agrovoc/c_13178
+6,C4648>C11493>C588>C276>C4274>C18763,C18763,http://id.agrisemantics.org/gacs/C18763,- - - - - Pistachios,http://aims.fao.org/aos/agrovoc/c_13413
+6,C4648>C11493>C588>C276>C4274>C26582,C26582,http://id.agrisemantics.org/gacs/C26582,- - - - - Arecanuts,
+6,C4648>C11493>C588>C276>C4274>C8861,C8861,http://id.agrisemantics.org/gacs/C8861,- - - - - Walnuts,http://aims.fao.org/aos/agrovoc/c_15254
+5,C4648>C11493>C588>C276>C477,C477,http://id.agrisemantics.org/gacs/C477,- - - - Plant extracts,http://aims.fao.org/aos/agrovoc/c_8166
+6,C4648>C11493>C588>C276>C477>C14478,C14478,http://id.agrisemantics.org/gacs/C14478,- - - - - Fruit extracts,http://aims.fao.org/aos/agrovoc/c_29024
+6,C4648>C11493>C588>C276>C477>C16983,C16983,http://id.agrisemantics.org/gacs/C16983,- - - - - Leaf extracts,http://aims.fao.org/aos/agrovoc/c_35308
+6,C4648>C11493>C588>C276>C477>C17070,C17070,http://id.agrisemantics.org/gacs/C17070,- - - - - Seed extracts,http://aims.fao.org/aos/agrovoc/c_35303
+7,C4648>C11493>C588>C276>C477>C17070>C30711,C30711,http://id.agrisemantics.org/gacs/C30711,- - - - - - Grape seed extract,
+7,C4648>C11493>C588>C276>C477>C17070>C30945,C30945,http://id.agrisemantics.org/gacs/C30945,- - - - - - Neem seed extract,http://aims.fao.org/aos/agrovoc/c_34062
+6,C4648>C11493>C588>C276>C477>C18328,C18328,http://id.agrisemantics.org/gacs/C18328,- - - - - Neem extracts,http://aims.fao.org/aos/agrovoc/c_34060
+5,C4648>C11493>C588>C276>C5185,C5185,http://id.agrisemantics.org/gacs/C5185,- - - - Pulp,http://aims.fao.org/aos/agrovoc/c_6364
+6,C4648>C11493>C588>C276>C5185>C13993,C13993,http://id.agrisemantics.org/gacs/C13993,- - - - - Chemical pulp,http://aims.fao.org/aos/agrovoc/c_1518
+7,C4648>C11493>C588>C276>C5185>C13993>C26397,C26397,http://id.agrisemantics.org/gacs/C26397,- - - - - - Kraft pulp,
+6,C4648>C11493>C588>C276>C5185>C16722,C16722,http://id.agrisemantics.org/gacs/C16722,- - - - - Fruit pulp,http://aims.fao.org/aos/agrovoc/c_3126
+6,C4648>C11493>C588>C276>C5185>C21628,C21628,http://id.agrisemantics.org/gacs/C21628,- - - - - Mechanical pulp,http://aims.fao.org/aos/agrovoc/c_4684
+6,C4648>C11493>C588>C276>C5185>C31864,C31864,http://id.agrisemantics.org/gacs/C31864,- - - - - Fibre pulp,http://aims.fao.org/aos/agrovoc/c_2877
+5,C4648>C11493>C588>C276>C7011,C7011,http://id.agrisemantics.org/gacs/C7011,- - - - Plant fats and oils,
+5,C4648>C11493>C588>C276>C7584,C7584,http://id.agrisemantics.org/gacs/C7584,- - - - Culinary herbs,http://aims.fao.org/aos/agrovoc/c_3568
+6,C4648>C11493>C588>C276>C7584>C17710,C17710,http://id.agrisemantics.org/gacs/C17710,- - - - - Ocimum basilicum,http://aims.fao.org/aos/agrovoc/c_5305
+6,C4648>C11493>C588>C276>C7584>C18511,C18511,http://id.agrisemantics.org/gacs/C18511,- - - - - Mentha piperita,http://aims.fao.org/aos/agrovoc/c_4746
+6,C4648>C11493>C588>C276>C7584>C19418,C19418,http://id.agrisemantics.org/gacs/C19418,- - - - - Petroselinum crispum,http://aims.fao.org/aos/agrovoc/c_5751
+6,C4648>C11493>C588>C276>C7584>C19736,C19736,http://id.agrisemantics.org/gacs/C19736,- - - - - Rosmarinus officinalis,http://aims.fao.org/aos/agrovoc/c_6660
+6,C4648>C11493>C588>C276>C7584>C21116,C21116,http://id.agrisemantics.org/gacs/C21116,- - - - - Foeniculum vulgare,http://aims.fao.org/aos/agrovoc/c_3004
+6,C4648>C11493>C588>C276>C7584>C23972,C23972,http://id.agrisemantics.org/gacs/C23972,- - - - - Liquorice,http://aims.fao.org/aos/agrovoc/c_12201
+6,C4648>C11493>C588>C276>C7584>C26194,C26194,http://id.agrisemantics.org/gacs/C26194,- - - - - Origanum vulgare,http://aims.fao.org/aos/agrovoc/c_34635
+6,C4648>C11493>C588>C276>C7584>C26719,C26719,http://id.agrisemantics.org/gacs/C26719,- - - - - Armoracia rusticana,http://aims.fao.org/aos/agrovoc/c_621
+6,C4648>C11493>C588>C276>C7584>C27790,C27790,http://id.agrisemantics.org/gacs/C27790,- - - - - Carum carvi,http://aims.fao.org/aos/agrovoc/c_1347
+6,C4648>C11493>C588>C276>C7584>C32002,C32002,http://id.agrisemantics.org/gacs/C32002,- - - - - Laurus nobilis,http://aims.fao.org/aos/agrovoc/c_4227
+5,C4648>C11493>C588>C276>C876,C876,http://id.agrisemantics.org/gacs/C876,- - - - Weed science,
+6,C4648>C11493>C588>C276>C876>C390,C390,http://id.agrisemantics.org/gacs/C390,- - - - - Weeds,http://aims.fao.org/aos/agrovoc/c_8347
+7,C4648>C11493>C588>C276>C876>C390>C11505,C11505,http://id.agrisemantics.org/gacs/C11505,- - - - - - Broad leaf weeds,http://aims.fao.org/aos/agrovoc/c_330650
+7,C4648>C11493>C588>C276>C876>C390>C11549,C11549,http://id.agrisemantics.org/gacs/C11549,- - - - - - Woody weeds,
+7,C4648>C11493>C588>C276>C876>C390>C12675,C12675,http://id.agrisemantics.org/gacs/C12675,- - - - - - Herbicide resistant weeds,
+7,C4648>C11493>C588>C276>C876>C390>C13803,C13803,http://id.agrisemantics.org/gacs/C13803,- - - - - - Grass weeds,http://aims.fao.org/aos/agrovoc/c_330644
+7,C4648>C11493>C588>C276>C876>C390>C16966,C16966,http://id.agrisemantics.org/gacs/C16966,- - - - - - Perennial weeds,http://aims.fao.org/aos/agrovoc/c_5697
+7,C4648>C11493>C588>C276>C876>C390>C17124,C17124,http://id.agrisemantics.org/gacs/C17124,- - - - - - Noxious weeds,
+7,C4648>C11493>C588>C276>C876>C390>C18674,C18674,http://id.agrisemantics.org/gacs/C18674,- - - - - - Parasitic weeds,
+7,C4648>C11493>C588>C276>C876>C390>C19430,C19430,http://id.agrisemantics.org/gacs/C19430,- - - - - - Crop plants as weeds,
+7,C4648>C11493>C588>C276>C876>C390>C19769,C19769,http://id.agrisemantics.org/gacs/C19769,- - - - - - Volunteer plants,http://aims.fao.org/aos/agrovoc/c_32696
+7,C4648>C11493>C588>C276>C876>C390>C20710,C20710,http://id.agrisemantics.org/gacs/C20710,- - - - - - Annual weeds,http://aims.fao.org/aos/agrovoc/c_459
+7,C4648>C11493>C588>C276>C876>C390>C26847,C26847,http://id.agrisemantics.org/gacs/C26847,- - - - - - Weed hosts,
+7,C4648>C11493>C588>C276>C876>C390>C28322,C28322,http://id.agrisemantics.org/gacs/C28322,- - - - - - Poisonous weeds,
+7,C4648>C11493>C588>C276>C876>C390>C8216,C8216,http://id.agrisemantics.org/gacs/C8216,- - - - - - Aquatic weeds,http://aims.fao.org/aos/agrovoc/c_560
+6,C4648>C11493>C588>C276>C876>C6426,C6426,http://id.agrisemantics.org/gacs/C6426,- - - - - Crop weed competition,http://aims.fao.org/aos/agrovoc/c_35265
+6,C4648>C11493>C588>C276>C876>C9927,C9927,http://id.agrisemantics.org/gacs/C9927,- - - - - Weed biology,
+5,C4648>C11493>C588>C276>C9097,C9097,http://id.agrisemantics.org/gacs/C9097,- - - - Oilseeds,http://aims.fao.org/aos/agrovoc/c_25490
+6,C4648>C11493>C588>C276>C9097>C13559,C13559,http://id.agrisemantics.org/gacs/C13559,- - - - - Cottonseed,http://aims.fao.org/aos/agrovoc/c_25473
+6,C4648>C11493>C588>C276>C9097>C17410,C17410,http://id.agrisemantics.org/gacs/C17410,- - - - - Sunflower seed,http://aims.fao.org/aos/agrovoc/c_25507
+6,C4648>C11493>C588>C276>C9097>C2033,C2033,http://id.agrisemantics.org/gacs/C2033,- - - - - Groundnuts,http://aims.fao.org/aos/agrovoc/c_11368
+6,C4648>C11493>C588>C276>C9097>C21690,C21690,http://id.agrisemantics.org/gacs/C21690,- - - - - Castor beans,http://aims.fao.org/aos/agrovoc/c_18705
+6,C4648>C11493>C588>C276>C9097>C4718,C4718,http://id.agrisemantics.org/gacs/C4718,- - - - - Linseed,http://aims.fao.org/aos/agrovoc/c_12192
+6,C4648>C11493>C588>C276>C9097>C7942,C7942,http://id.agrisemantics.org/gacs/C7942,- - - - - Rapeseed,http://aims.fao.org/aos/agrovoc/c_25499
+7,C4648>C11493>C588>C276>C9097>C7942>C12162,C12162,http://id.agrisemantics.org/gacs/C12162,- - - - - - Canola,
+6,C4648>C11493>C588>C276>C9097>C8795,C8795,http://id.agrisemantics.org/gacs/C8795,- - - - - Sesame,http://aims.fao.org/aos/agrovoc/c_14216
+5,C4648>C11493>C588>C276>C9994,C9994,http://id.agrisemantics.org/gacs/C9994,- - - - Spices,http://aims.fao.org/aos/agrovoc/c_15685
+6,C4648>C11493>C588>C276>C9994>C13139,C13139,http://id.agrisemantics.org/gacs/C13139,- - - - - Ginger,http://aims.fao.org/aos/agrovoc/c_11157
+6,C4648>C11493>C588>C276>C9994>C14609,C14609,http://id.agrisemantics.org/gacs/C14609,- - - - - Turmeric,http://aims.fao.org/aos/agrovoc/c_15048
+6,C4648>C11493>C588>C276>C9994>C16363,C16363,http://id.agrisemantics.org/gacs/C16363,- - - - - Pepper,http://aims.fao.org/aos/agrovoc/c_25495
+6,C4648>C11493>C588>C276>C9994>C19143,C19143,http://id.agrisemantics.org/gacs/C19143,- - - - - Rosemary,http://aims.fao.org/aos/agrovoc/c_13963
+6,C4648>C11493>C588>C276>C9994>C19169,C19169,http://id.agrisemantics.org/gacs/C19169,- - - - - Fenugreek,
+6,C4648>C11493>C588>C276>C9994>C19412,C19412,http://id.agrisemantics.org/gacs/C19412,- - - - - Parsley,http://aims.fao.org/aos/agrovoc/c_13120
+6,C4648>C11493>C588>C276>C9994>C21602,C21602,http://id.agrisemantics.org/gacs/C21602,- - - - - Cloves,http://aims.fao.org/aos/agrovoc/c_23597
+6,C4648>C11493>C588>C276>C9994>C22939,C22939,http://id.agrisemantics.org/gacs/C22939,- - - - - Paprika,http://aims.fao.org/aos/agrovoc/c_13096
+6,C4648>C11493>C588>C276>C9994>C24042,C24042,http://id.agrisemantics.org/gacs/C24042,- - - - - Oregano,http://aims.fao.org/aos/agrovoc/c_34066
+6,C4648>C11493>C588>C276>C9994>C24139,C24139,http://id.agrisemantics.org/gacs/C24139,- - - - - Saffron,http://aims.fao.org/aos/agrovoc/c_14023
+6,C4648>C11493>C588>C276>C9994>C24218,C24218,http://id.agrisemantics.org/gacs/C24218,- - - - - Sage,http://aims.fao.org/aos/agrovoc/c_14025
+6,C4648>C11493>C588>C276>C9994>C25618,C25618,http://id.agrisemantics.org/gacs/C25618,- - - - - Basil,http://aims.fao.org/aos/agrovoc/c_9093
+6,C4648>C11493>C588>C276>C9994>C26585,C26585,http://id.agrisemantics.org/gacs/C26585,- - - - - Cinnamon,http://aims.fao.org/aos/agrovoc/c_9862
+6,C4648>C11493>C588>C276>C9994>C27368,C27368,http://id.agrisemantics.org/gacs/C27368,- - - - - Cardamoms,http://aims.fao.org/aos/agrovoc/c_9620
+6,C4648>C11493>C588>C276>C9994>C27723,C27723,http://id.agrisemantics.org/gacs/C27723,- - - - - Thyme,http://aims.fao.org/aos/agrovoc/c_14877
+6,C4648>C11493>C588>C276>C9994>C29630,C29630,http://id.agrisemantics.org/gacs/C29630,- - - - - Dill,http://aims.fao.org/aos/agrovoc/c_10377
+6,C4648>C11493>C588>C276>C9994>C32299,C32299,http://id.agrisemantics.org/gacs/C32299,- - - - - Chamomile,http://aims.fao.org/aos/agrovoc/c_9733
+6,C4648>C11493>C588>C276>C9994>C32353,C32353,http://id.agrisemantics.org/gacs/C32353,- - - - - Horseradish,http://aims.fao.org/aos/agrovoc/c_11614
+6,C4648>C11493>C588>C276>C9994>C4691,C4691,http://id.agrisemantics.org/gacs/C4691,- - - - - Chillies,http://aims.fao.org/aos/agrovoc/c_9795
+6,C4648>C11493>C588>C276>C9994>C7202,C7202,http://id.agrisemantics.org/gacs/C7202,- - - - - Garlic,http://aims.fao.org/aos/agrovoc/c_11091
+4,C4648>C11493>C588>C540,C540,http://id.agrisemantics.org/gacs/C540,- - - Foods,http://aims.fao.org/aos/agrovoc/c_3032
+5,C4648>C11493>C588>C540>C11481,C11481,http://id.agrisemantics.org/gacs/C11481,- - - - Food groups,
+5,C4648>C11493>C588>C540>C12081,C12081,http://id.agrisemantics.org/gacs/C12081,- - - - Juices,
+6,C4648>C11493>C588>C540>C12081>C28254,C28254,http://id.agrisemantics.org/gacs/C28254,- - - - - Juice concentrates,
+5,C4648>C11493>C588>C540>C12367,C12367,http://id.agrisemantics.org/gacs/C12367,- - - - Sweeteners,http://aims.fao.org/aos/agrovoc/c_642
+6,C4648>C11493>C588>C540>C12367>C21253,C21253,http://id.agrisemantics.org/gacs/C21253,- - - - - Artificial sweeteners,http://aims.fao.org/aos/agrovoc/c_32381
+7,C4648>C11493>C588>C540>C12367>C21253>C23079,C23079,http://id.agrisemantics.org/gacs/C23079,- - - - - - Aspartame,http://aims.fao.org/aos/agrovoc/c_24279
+7,C4648>C11493>C588>C540>C12367>C21253>C26178,C26178,http://id.agrisemantics.org/gacs/C26178,- - - - - - Saccharin,http://aims.fao.org/aos/agrovoc/c_14018
+6,C4648>C11493>C588>C540>C12367>C25851,C25851,http://id.agrisemantics.org/gacs/C25851,- - - - - Sugar substitutes,
+5,C4648>C11493>C588>C540>C12717,C12717,http://id.agrisemantics.org/gacs/C12717,- - - - Cooked foods,
+6,C4648>C11493>C588>C540>C12717>C20160,C20160,http://id.agrisemantics.org/gacs/C20160,- - - - - Fried foods,
+6,C4648>C11493>C588>C540>C12717>C7858,C7858,http://id.agrisemantics.org/gacs/C7858,- - - - - Bakery products,http://aims.fao.org/aos/agrovoc/c_785
+7,C4648>C11493>C588>C540>C12717>C7858>C18319,C18319,http://id.agrisemantics.org/gacs/C18319,- - - - - - Biscuits,http://aims.fao.org/aos/agrovoc/c_16475
+7,C4648>C11493>C588>C540>C12717>C7858>C19092,C19092,http://id.agrisemantics.org/gacs/C19092,- - - - - - Cookies,
+7,C4648>C11493>C588>C540>C12717>C7858>C21966,C21966,http://id.agrisemantics.org/gacs/C21966,- - - - - - Batters,http://aims.fao.org/aos/agrovoc/c_50116
+7,C4648>C11493>C588>C540>C12717>C7858>C4669,C4669,http://id.agrisemantics.org/gacs/C4669,- - - - - - Bread,http://aims.fao.org/aos/agrovoc/c_1071
+8,C4648>C11493>C588>C540>C12717>C7858>C4669>C26496,C26496,http://id.agrisemantics.org/gacs/C26496,- - - - - - - Tortillas,
+7,C4648>C11493>C588>C540>C12717>C7858>C6894,C6894,http://id.agrisemantics.org/gacs/C6894,- - - - - - Doughs,http://aims.fao.org/aos/agrovoc/c_26776
+8,C4648>C11493>C588>C540>C12717>C7858>C6894>C28053,C28053,http://id.agrisemantics.org/gacs/C28053,- - - - - - - Sour doughs,http://aims.fao.org/aos/agrovoc/c_34039
+8,C4648>C11493>C588>C540>C12717>C7858>C6894>C29286,C29286,http://id.agrisemantics.org/gacs/C29286,- - - - - - - Bread dough,
+5,C4648>C11493>C588>C540>C12913,C12913,http://id.agrisemantics.org/gacs/C12913,- - - - Confectionery,http://aims.fao.org/aos/agrovoc/c_1806
+6,C4648>C11493>C588>C540>C12913>C11737,C11737,http://id.agrisemantics.org/gacs/C11737,- - - - - Chocolate,http://aims.fao.org/aos/agrovoc/c_1582
+6,C4648>C11493>C588>C540>C12913>C15496,C15496,http://id.agrisemantics.org/gacs/C15496,- - - - - Cakes,http://aims.fao.org/aos/agrovoc/c_1186
+5,C4648>C11493>C588>C540>C13027,C13027,http://id.agrisemantics.org/gacs/C13027,- - - - Snack foods,http://aims.fao.org/aos/agrovoc/c_34338
+5,C4648>C11493>C588>C540>C13359,C13359,http://id.agrisemantics.org/gacs/C13359,- - - - Raw foods,
+6,C4648>C11493>C588>C540>C13359>C10218,C10218,http://id.agrisemantics.org/gacs/C10218,- - - - - Raw milk,http://aims.fao.org/aos/agrovoc/c_24225
+6,C4648>C11493>C588>C540>C13359>C15513,C15513,http://id.agrisemantics.org/gacs/C15513,- - - - - Raw meat,
+5,C4648>C11493>C588>C540>C13794,C13794,http://id.agrisemantics.org/gacs/C13794,- - - - Organic foods,http://aims.fao.org/aos/agrovoc/c_29261
+5,C4648>C11493>C588>C540>C14091,C14091,http://id.agrisemantics.org/gacs/C14091,- - - - Edible films,http://aims.fao.org/aos/agrovoc/c_35014
+5,C4648>C11493>C588>C540>C14413,C14413,http://id.agrisemantics.org/gacs/C14413,- - - - Sauces,http://aims.fao.org/aos/agrovoc/c_6821
+5,C4648>C11493>C588>C540>C15006,C15006,http://id.agrisemantics.org/gacs/C15006,- - - - Genetically modified foods,http://aims.fao.org/aos/agrovoc/c_37879
+5,C4648>C11493>C588>C540>C15030,C15030,http://id.agrisemantics.org/gacs/C15030,- - - - Extruded foods,
+5,C4648>C11493>C588>C540>C1512,C1512,http://id.agrisemantics.org/gacs/C1512,- - - - Food supplements,http://aims.fao.org/aos/agrovoc/c_25006
+6,C4648>C11493>C588>C540>C1512>C14910,C14910,http://id.agrisemantics.org/gacs/C14910,- - - - - Prebiotics,
+6,C4648>C11493>C588>C540>C1512>C2364,C2364,http://id.agrisemantics.org/gacs/C2364,- - - - - Feed supplements,http://aims.fao.org/aos/agrovoc/c_2837
+7,C4648>C11493>C588>C540>C1512>C2364>C10713,C10713,http://id.agrisemantics.org/gacs/C10713,- - - - - - Protein supplements,
+7,C4648>C11493>C588>C540>C1512>C2364>C26967,C26967,http://id.agrisemantics.org/gacs/C26967,- - - - - - Hormone supplements,
+7,C4648>C11493>C588>C540>C1512>C2364>C4560,C4560,http://id.agrisemantics.org/gacs/C4560,- - - - - - Vitamin supplements,
+7,C4648>C11493>C588>C540>C1512>C2364>C5493,C5493,http://id.agrisemantics.org/gacs/C5493,- - - - - - Mineral supplements,http://aims.fao.org/aos/agrovoc/c_12599
+6,C4648>C11493>C588>C540>C1512>C30441,C30441,http://id.agrisemantics.org/gacs/C30441,- - - - - Vitamin-mineral supplements,
+5,C4648>C11493>C588>C540>C15342,C15342,http://id.agrisemantics.org/gacs/C15342,- - - - Fortified foods,
+5,C4648>C11493>C588>C540>C15693,C15693,http://id.agrisemantics.org/gacs/C15693,- - - - Dried foods,
+6,C4648>C11493>C588>C540>C15693>C18240,C18240,http://id.agrisemantics.org/gacs/C18240,- - - - - Dry beans,
+5,C4648>C11493>C588>C540>C17269,C17269,http://id.agrisemantics.org/gacs/C17269,- - - - Dietetic foods,http://aims.fao.org/aos/agrovoc/c_2262
+6,C4648>C11493>C588>C540>C17269>C15279,C15279,http://id.agrisemantics.org/gacs/C15279,- - - - - Low fat foods,http://aims.fao.org/aos/agrovoc/c_34044
+6,C4648>C11493>C588>C540>C17269>C29884,C29884,http://id.agrisemantics.org/gacs/C29884,- - - - - Low calorie foods,http://aims.fao.org/aos/agrovoc/c_34309
+5,C4648>C11493>C588>C540>C17442,C17442,http://id.agrisemantics.org/gacs/C17442,- - - - Novel foods,http://aims.fao.org/aos/agrovoc/c_35231
+5,C4648>C11493>C588>C540>C17859,C17859,http://id.agrisemantics.org/gacs/C17859,- - - - Whole grain foods,
+5,C4648>C11493>C588>C540>C18879,C18879,http://id.agrisemantics.org/gacs/C18879,- - - - Blended foods,
+5,C4648>C11493>C588>C540>C20065,C20065,http://id.agrisemantics.org/gacs/C20065,- - - - Irradiated foods,http://aims.fao.org/aos/agrovoc/c_28524
+5,C4648>C11493>C588>C540>C20133,C20133,http://id.agrisemantics.org/gacs/C20133,- - - - Fast foods,http://aims.fao.org/aos/agrovoc/c_29146
+5,C4648>C11493>C588>C540>C20379,C20379,http://id.agrisemantics.org/gacs/C20379,- - - - Wild foods,
+5,C4648>C11493>C588>C540>C20466,C20466,http://id.agrisemantics.org/gacs/C20466,- - - - Animal-based foods,
+5,C4648>C11493>C588>C540>C21009,C21009,http://id.agrisemantics.org/gacs/C21009,- - - - Salads,http://aims.fao.org/aos/agrovoc/c_11358
+5,C4648>C11493>C588>C540>C21196,C21196,http://id.agrisemantics.org/gacs/C21196,- - - - Pickles,http://aims.fao.org/aos/agrovoc/c_5864
+5,C4648>C11493>C588>C540>C22168,C22168,http://id.agrisemantics.org/gacs/C22168,- - - - Simulated foods,http://aims.fao.org/aos/agrovoc/c_7074
+6,C4648>C11493>C588>C540>C22168>C18821,C18821,http://id.agrisemantics.org/gacs/C18821,- - - - - Milk substitutes,http://aims.fao.org/aos/agrovoc/c_4832
+6,C4648>C11493>C588>C540>C22168>C20674,C20674,http://id.agrisemantics.org/gacs/C20674,- - - - - Surimi,http://aims.fao.org/aos/agrovoc/c_33271
+6,C4648>C11493>C588>C540>C22168>C21213,C21213,http://id.agrisemantics.org/gacs/C21213,- - - - - Fat replacers,
+7,C4648>C11493>C588>C540>C22168>C21213>C23581,C23581,http://id.agrisemantics.org/gacs/C23581,- - - - - - Fat substitutes,http://aims.fao.org/aos/agrovoc/c_34306
+5,C4648>C11493>C588>C540>C22359,C22359,http://id.agrisemantics.org/gacs/C22359,- - - - Soups,http://aims.fao.org/aos/agrovoc/c_16148
+5,C4648>C11493>C588>C540>C22492,C22492,http://id.agrisemantics.org/gacs/C22492,- - - - Condiments,http://aims.fao.org/aos/agrovoc/c_1805
+6,C4648>C11493>C588>C540>C22492>C18730,C18730,http://id.agrisemantics.org/gacs/C18730,- - - - - Mustard,http://aims.fao.org/aos/agrovoc/c_25488
+6,C4648>C11493>C588>C540>C22492>C7316,C7316,http://id.agrisemantics.org/gacs/C7316,- - - - - Common salt,http://aims.fao.org/aos/agrovoc/c_26819
+5,C4648>C11493>C588>C540>C24981,C24981,http://id.agrisemantics.org/gacs/C24981,- - - - Military rations,
+5,C4648>C11493>C588>C540>C25623,C25623,http://id.agrisemantics.org/gacs/C25623,- - - - Food pastes,
+6,C4648>C11493>C588>C540>C25623>C26524,C26524,http://id.agrisemantics.org/gacs/C26524,- - - - - Fish pastes,http://aims.fao.org/aos/agrovoc/c_2927
+5,C4648>C11493>C588>C540>C26101,C26101,http://id.agrisemantics.org/gacs/C26101,- - - - Street foods,http://aims.fao.org/aos/agrovoc/c_29147
+5,C4648>C11493>C588>C540>C28524,C28524,http://id.agrisemantics.org/gacs/C28524,- - - - Powdered foods,
+5,C4648>C11493>C588>C540>C31242,C31242,http://id.agrisemantics.org/gacs/C31242,- - - - Enriched foods,
+5,C4648>C11493>C588>C540>C4182,C4182,http://id.agrisemantics.org/gacs/C4182,- - - - Seafoods,http://aims.fao.org/aos/agrovoc/c_6905
+6,C4648>C11493>C588>C540>C4182>C15285,C15285,http://id.agrisemantics.org/gacs/C15285,- - - - - Clams,http://aims.fao.org/aos/agrovoc/c_1650
+6,C4648>C11493>C588>C540>C4182>C21013,C21013,http://id.agrisemantics.org/gacs/C21013,- - - - - Squids,http://aims.fao.org/aos/agrovoc/c_7343
+6,C4648>C11493>C588>C540>C4182>C28167,C28167,http://id.agrisemantics.org/gacs/C28167,- - - - - Raw fish,
+6,C4648>C11493>C588>C540>C4182>C31900,C31900,http://id.agrisemantics.org/gacs/C31900,- - - - - Sea cucumbers,http://aims.fao.org/aos/agrovoc/c_6896
+5,C4648>C11493>C588>C540>C5214,C5214,http://id.agrisemantics.org/gacs/C5214,- - - - Functional foods,
+6,C4648>C11493>C588>C540>C5214>C6940,C6940,http://id.agrisemantics.org/gacs/C6940,- - - - - Health foods,http://aims.fao.org/aos/agrovoc/c_25396
+5,C4648>C11493>C588>C540>C5688,C5688,http://id.agrisemantics.org/gacs/C5688,- - - - Beverages,http://aims.fao.org/aos/agrovoc/c_896
+6,C4648>C11493>C588>C540>C5688>C12757,C12757,http://id.agrisemantics.org/gacs/C12757,- - - - - Soft drinks,http://aims.fao.org/aos/agrovoc/c_7149
+7,C4648>C11493>C588>C540>C5688>C12757>C24888,C24888,http://id.agrisemantics.org/gacs/C24888,- - - - - - Cocoa beverages,http://aims.fao.org/aos/agrovoc/c_1712
+7,C4648>C11493>C588>C540>C5688>C12757>C2843,C2843,http://id.agrisemantics.org/gacs/C2843,- - - - - - Drinking water,http://aims.fao.org/aos/agrovoc/c_10463
+8,C4648>C11493>C588>C540>C5688>C12757>C2843>C18942,C18942,http://id.agrisemantics.org/gacs/C18942,- - - - - - - Tap water,
+7,C4648>C11493>C588>C540>C5688>C12757>C32758,C32758,http://id.agrisemantics.org/gacs/C32758,- - - - - - Carbonated beverages,http://aims.fao.org/aos/agrovoc/c_28261
+7,C4648>C11493>C588>C540>C5688>C12757>C5002,C5002,http://id.agrisemantics.org/gacs/C5002,- - - - - - Fruit juices,http://aims.fao.org/aos/agrovoc/c_3123
+8,C4648>C11493>C588>C540>C5688>C12757>C5002>C10419,C10419,http://id.agrisemantics.org/gacs/C10419,- - - - - - - Orange juice,http://aims.fao.org/aos/agrovoc/c_25492
+8,C4648>C11493>C588>C540>C5688>C12757>C5002>C12312,C12312,http://id.agrisemantics.org/gacs/C12312,- - - - - - - Apple juice,http://aims.fao.org/aos/agrovoc/c_8893
+8,C4648>C11493>C588>C540>C5688>C12757>C5002>C17040,C17040,http://id.agrisemantics.org/gacs/C17040,- - - - - - - Grape juice,http://aims.fao.org/aos/agrovoc/c_25533
+9,C4648>C11493>C588>C540>C5688>C12757>C5002>C17040>C9592,C9592,http://id.agrisemantics.org/gacs/C9592,- - - - - - - - Grape must,http://aims.fao.org/aos/agrovoc/c_28472
+8,C4648>C11493>C588>C540>C5688>C12757>C5002>C25549,C25549,http://id.agrisemantics.org/gacs/C25549,- - - - - - - Ciders,http://aims.fao.org/aos/agrovoc/c_1617
+8,C4648>C11493>C588>C540>C5688>C12757>C5002>C31659,C31659,http://id.agrisemantics.org/gacs/C31659,- - - - - - - Grapefruit juice,
+7,C4648>C11493>C588>C540>C5688>C12757>C6304,C6304,http://id.agrisemantics.org/gacs/C6304,- - - - - - Coffee (beverage),http://aims.fao.org/aos/agrovoc/c_1731
+6,C4648>C11493>C588>C540>C5688>C23022,C23022,http://id.agrisemantics.org/gacs/C23022,- - - - - Tea (beverage),
+5,C4648>C11493>C588>C540>C6615,C6615,http://id.agrisemantics.org/gacs/C6615,- - - - Fermented foods,http://aims.fao.org/aos/agrovoc/c_27521
+6,C4648>C11493>C588>C540>C6615>C18883,C18883,http://id.agrisemantics.org/gacs/C18883,- - - - - Vinegar,http://aims.fao.org/aos/agrovoc/c_8253
+6,C4648>C11493>C588>C540>C6615>C2374,C2374,http://id.agrisemantics.org/gacs/C2374,- - - - - Wines,http://aims.fao.org/aos/agrovoc/c_8406
+7,C4648>C11493>C588>C540>C6615>C2374>C13876,C13876,http://id.agrisemantics.org/gacs/C13876,- - - - - - White wines,http://aims.fao.org/aos/agrovoc/c_28612
+7,C4648>C11493>C588>C540>C6615>C2374>C18904,C18904,http://id.agrisemantics.org/gacs/C18904,- - - - - - Champagne and sparkling wines,http://aims.fao.org/aos/agrovoc/c_9735
+7,C4648>C11493>C588>C540>C6615>C2374>C9169,C9169,http://id.agrisemantics.org/gacs/C9169,- - - - - - Red wines,http://aims.fao.org/aos/agrovoc/c_28614
+6,C4648>C11493>C588>C540>C6615>C3208,C3208,http://id.agrisemantics.org/gacs/C3208,- - - - - Beers,http://aims.fao.org/aos/agrovoc/c_864
+5,C4648>C11493>C588>C540>C6732,C6732,http://id.agrisemantics.org/gacs/C6732,- - - - Traditional foods,
+5,C4648>C11493>C588>C540>C7778,C7778,http://id.agrisemantics.org/gacs/C7778,- - - - Food products,
+6,C4648>C11493>C588>C540>C7778>C12090,C12090,http://id.agrisemantics.org/gacs/C12090,- - - - - Plant-based foods,
+4,C4648>C11493>C588>C615,C615,http://id.agrisemantics.org/gacs/C615,- - - Feeds,http://aims.fao.org/aos/agrovoc/c_2843
+5,C4648>C11493>C588>C615>C13641,C13641,http://id.agrisemantics.org/gacs/C13641,- - - - Pelleted feeds,http://aims.fao.org/aos/agrovoc/c_32509
+5,C4648>C11493>C588>C615>C1481,C1481,http://id.agrisemantics.org/gacs/C1481,- - - - Forage,http://aims.fao.org/aos/agrovoc/c_36108
+6,C4648>C11493>C588>C615>C1481>C15150,C15150,http://id.agrisemantics.org/gacs/C15150,- - - - - Forage quality,
+7,C4648>C11493>C588>C615>C1481>C15150>C1314,C1314,http://id.agrisemantics.org/gacs/C1314,- - - - - - Digestibility,http://aims.fao.org/aos/agrovoc/c_2266
+8,C4648>C11493>C588>C615>C1481>C15150>C1314>C1386,C1386,http://id.agrisemantics.org/gacs/C1386,- - - - - - - Feed conversion efficiency,http://aims.fao.org/aos/agrovoc/c_16125
+9,C4648>C11493>C588>C615>C1481>C15150>C1314>C1386>C15946,C15946,http://id.agrisemantics.org/gacs/C15946,- - - - - - - - Nitrogen retention,http://aims.fao.org/aos/agrovoc/c_24944
+8,C4648>C11493>C588>C615>C1481>C15150>C1314>C16526,C16526,http://id.agrisemantics.org/gacs/C16526,- - - - - - - Protein digestibility,
+8,C4648>C11493>C588>C615>C1481>C15150>C1314>C5925,C5925,http://id.agrisemantics.org/gacs/C5925,- - - - - - - In vitro digestibility,http://aims.fao.org/aos/agrovoc/c_34856
+7,C4648>C11493>C588>C615>C1481>C15150>C7689,C7689,http://id.agrisemantics.org/gacs/C7689,- - - - - - Palatability,http://aims.fao.org/aos/agrovoc/c_13032
+7,C4648>C11493>C588>C615>C1481>C15150>C948,C948,http://id.agrisemantics.org/gacs/C948,- - - - - - Nutritive value,http://aims.fao.org/aos/agrovoc/c_5278
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C13311,C13311,http://id.agrisemantics.org/gacs/C13311,- - - - - - - Digestible energy,
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C19857,C19857,http://id.agrisemantics.org/gacs/C19857,- - - - - - - Nutrient density,
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C2037,C2037,http://id.agrisemantics.org/gacs/C2037,- - - - - - - Dietary fibres,http://aims.fao.org/aos/agrovoc/c_28386
+9,C4648>C11493>C588>C615>C1481>C15150>C948>C2037>C24072,C24072,http://id.agrisemantics.org/gacs/C24072,- - - - - - - - Soluble fiber,
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C22554,C22554,http://id.agrisemantics.org/gacs/C22554,- - - - - - - Protein value,
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C23998,C23998,http://id.agrisemantics.org/gacs/C23998,- - - - - - - Crude fat,http://aims.fao.org/aos/agrovoc/c_32416
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C25672,C25672,http://id.agrisemantics.org/gacs/C25672,- - - - - - - Digestible fibre,http://aims.fao.org/aos/agrovoc/c_2268
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C26407,C26407,http://id.agrisemantics.org/gacs/C26407,- - - - - - - Total digestible nutrients,http://aims.fao.org/aos/agrovoc/c_7820
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C26515,C26515,http://id.agrisemantics.org/gacs/C26515,- - - - - - - Digestible nitrogen,http://aims.fao.org/aos/agrovoc/c_2269
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C5632,C5632,http://id.agrisemantics.org/gacs/C5632,- - - - - - - Energy content,http://aims.fao.org/aos/agrovoc/c_10613
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C6861,C6861,http://id.agrisemantics.org/gacs/C6861,- - - - - - - Protein quality,http://aims.fao.org/aos/agrovoc/c_6257
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C6927,C6927,http://id.agrisemantics.org/gacs/C6927,- - - - - - - Metabolizable energy,
+8,C4648>C11493>C588>C615>C1481>C15150>C948>C9294,C9294,http://id.agrisemantics.org/gacs/C9294,- - - - - - - Vitamin content,http://aims.fao.org/aos/agrovoc/c_8270
+6,C4648>C11493>C588>C615>C1481>C23444,C23444,http://id.agrisemantics.org/gacs/C23444,- - - - - Green fodders,
+6,C4648>C11493>C588>C615>C1481>C2660,C2660,http://id.agrisemantics.org/gacs/C2660,- - - - - Fodder,
+6,C4648>C11493>C588>C615>C1481>C5651,C5651,http://id.agrisemantics.org/gacs/C5651,- - - - - Herbage,
+6,C4648>C11493>C588>C615>C1481>C7635,C7635,http://id.agrisemantics.org/gacs/C7635,- - - - - Forage grasses,
+5,C4648>C11493>C588>C615>C15721,C15721,http://id.agrisemantics.org/gacs/C15721,- - - - Feed cereals,http://aims.fao.org/aos/agrovoc/c_2828
+5,C4648>C11493>C588>C615>C16191,C16191,http://id.agrisemantics.org/gacs/C16191,- - - - Medicated feeds,http://aims.fao.org/aos/agrovoc/c_4696
+5,C4648>C11493>C588>C615>C16577,C16577,http://id.agrisemantics.org/gacs/C16577,- - - - Browse,
+5,C4648>C11493>C588>C615>C17029,C17029,http://id.agrisemantics.org/gacs/C17029,- - - - Milk replacers,http://aims.fao.org/aos/agrovoc/c_16192
+5,C4648>C11493>C588>C615>C22849,C22849,http://id.agrisemantics.org/gacs/C22849,- - - - Weaning feeds,http://aims.fao.org/aos/agrovoc/c_16100
+5,C4648>C11493>C588>C615>C22924,C22924,http://id.agrisemantics.org/gacs/C22924,- - - - Pet foods,http://aims.fao.org/aos/agrovoc/c_5743
+5,C4648>C11493>C588>C615>C24084,C24084,http://id.agrisemantics.org/gacs/C24084,- - - - Live feeds,
+5,C4648>C11493>C588>C615>C24898,C24898,http://id.agrisemantics.org/gacs/C24898,- - - - Feeds of animal origin,http://aims.fao.org/aos/agrovoc/c_2844
+5,C4648>C11493>C588>C615>C25815,C25815,http://id.agrisemantics.org/gacs/C25815,- - - - Fish feeds,
+5,C4648>C11493>C588>C615>C26137,C26137,http://id.agrisemantics.org/gacs/C26137,- - - - Corn cob mix,http://aims.fao.org/aos/agrovoc/c_16171
+5,C4648>C11493>C588>C615>C26296,C26296,http://id.agrisemantics.org/gacs/C26296,- - - - Desiccated fodders,http://aims.fao.org/aos/agrovoc/c_2207
+5,C4648>C11493>C588>C615>C27345,C27345,http://id.agrisemantics.org/gacs/C27345,- - - - Total mixed rations,
+5,C4648>C11493>C588>C615>C27544,C27544,http://id.agrisemantics.org/gacs/C27544,- - - - Complete feeds,http://aims.fao.org/aos/agrovoc/c_35059
+5,C4648>C11493>C588>C615>C30310,C30310,http://id.agrisemantics.org/gacs/C30310,- - - - Liquid feeds,http://aims.fao.org/aos/agrovoc/c_27901
+5,C4648>C11493>C588>C615>C3623,C3623,http://id.agrisemantics.org/gacs/C3623,- - - - Food plants,
+5,C4648>C11493>C588>C615>C3787,C3787,http://id.agrisemantics.org/gacs/C3787,- - - - Feed grasses,http://aims.fao.org/aos/agrovoc/c_2832
+5,C4648>C11493>C588>C615>C4855,C4855,http://id.agrisemantics.org/gacs/C4855,- - - - Feed concentrates,http://aims.fao.org/aos/agrovoc/c_1800
+5,C4648>C11493>C588>C615>C5416,C5416,http://id.agrisemantics.org/gacs/C5416,- - - - Compound feeds,http://aims.fao.org/aos/agrovoc/c_1796
+5,C4648>C11493>C588>C615>C8530,C8530,http://id.agrisemantics.org/gacs/C8530,- - - - Green feed,http://aims.fao.org/aos/agrovoc/c_3374
+5,C4648>C11493>C588>C615>C8845,C8845,http://id.agrisemantics.org/gacs/C8845,- - - - Roughage,http://aims.fao.org/aos/agrovoc/c_6670
+6,C4648>C11493>C588>C615>C8845>C2345,C2345,http://id.agrisemantics.org/gacs/C2345,- - - - - Hay,http://aims.fao.org/aos/agrovoc/c_3508
+7,C4648>C11493>C588>C615>C8845>C2345>C13787,C13787,http://id.agrisemantics.org/gacs/C13787,- - - - - - Alfalfa hay,
+3,C4648>C11493>C7701,C7701,http://id.agrisemantics.org/gacs/C7701,- - Resins,http://aims.fao.org/aos/agrovoc/c_6519
+4,C4648>C11493>C7701>C16675,C16675,http://id.agrisemantics.org/gacs/C16675,- - - Propolis,http://aims.fao.org/aos/agrovoc/c_15919
+4,C4648>C11493>C7701>C20407,C20407,http://id.agrisemantics.org/gacs/C20407,- - - Oleoresins,http://aims.fao.org/aos/agrovoc/c_5343
+4,C4648>C11493>C7701>C21183,C21183,http://id.agrisemantics.org/gacs/C21183,- - - Gum arabic,http://aims.fao.org/aos/agrovoc/c_3438
+4,C4648>C11493>C7701>C22726,C22726,http://id.agrisemantics.org/gacs/C22726,- - - Lac,http://aims.fao.org/aos/agrovoc/c_24041
+4,C4648>C11493>C7701>C29697,C29697,http://id.agrisemantics.org/gacs/C29697,- - - Ion exchange resins,
+3,C4648>C11493>C8076,C8076,http://id.agrisemantics.org/gacs/C8076,- - New products,http://aims.fao.org/aos/agrovoc/c_27804
+4,C4648>C11493>C8076>C18458,C18458,http://id.agrisemantics.org/gacs/C18458,- - - New drugs,
+3,C4648>C11493>C9493,C9493,http://id.agrisemantics.org/gacs/C9493,- - Non food products,http://aims.fao.org/aos/agrovoc/c_33517
+4,C4648>C11493>C9493>C10494,C10494,http://id.agrisemantics.org/gacs/C10494,- - - Fabrics,
+4,C4648>C11493>C9493>C12006,C12006,http://id.agrisemantics.org/gacs/C12006,- - - Nonfood animal products,
+5,C4648>C11493>C9493>C12006>C12942,C12942,http://id.agrisemantics.org/gacs/C12942,- - - - Feathers,http://aims.fao.org/aos/agrovoc/c_2822
+5,C4648>C11493>C9493>C12006>C21779,C21779,http://id.agrisemantics.org/gacs/C21779,- - - - Animal fibres,http://aims.fao.org/aos/agrovoc/c_430
+6,C4648>C11493>C9493>C12006>C21779>C11752,C11752,http://id.agrisemantics.org/gacs/C11752,- - - - - Silk,http://aims.fao.org/aos/agrovoc/c_7063
+6,C4648>C11493>C9493>C12006>C21779>C22641,C22641,http://id.agrisemantics.org/gacs/C22641,- - - - - Setae (animal),
+6,C4648>C11493>C9493>C12006>C21779>C26446,C26446,http://id.agrisemantics.org/gacs/C26446,- - - - - Mohair,http://aims.fao.org/aos/agrovoc/c_24404
+6,C4648>C11493>C9493>C12006>C21779>C5776,C5776,http://id.agrisemantics.org/gacs/C5776,- - - - - Wool,http://aims.fao.org/aos/agrovoc/c_8436
+4,C4648>C11493>C9493>C13703,C13703,http://id.agrisemantics.org/gacs/C13703,- - - Pharmaceutical products,
+4,C4648>C11493>C9493>C16428,C16428,http://id.agrisemantics.org/gacs/C16428,- - - Clothing,
+5,C4648>C11493>C9493>C16428>C19399,C19399,http://id.agrisemantics.org/gacs/C19399,- - - - Protective clothing,http://aims.fao.org/aos/agrovoc/c_6246
+4,C4648>C11493>C9493>C22026,C22026,http://id.agrisemantics.org/gacs/C22026,- - - Cosmetics,
+4,C4648>C11493>C9493>C5468,C5468,http://id.agrisemantics.org/gacs/C5468,- - - Fibres,http://aims.fao.org/aos/agrovoc/c_2879
+5,C4648>C11493>C9493>C5468>C24048,C24048,http://id.agrisemantics.org/gacs/C24048,- - - - Textile fibres,http://aims.fao.org/aos/agrovoc/c_7695
+6,C4648>C11493>C9493>C5468>C24048>C21273,C21273,http://id.agrisemantics.org/gacs/C21273,- - - - - Cellulosic fibers,
+4,C4648>C11493>C9493>C7224,C7224,http://id.agrisemantics.org/gacs/C7224,- - - Dyes,http://aims.fao.org/aos/agrovoc/c_2425
+5,C4648>C11493>C9493>C7224>C14229,C14229,http://id.agrisemantics.org/gacs/C14229,- - - - Fluorescent dyes,
+6,C4648>C11493>C9493>C7224>C14229>C23577,C23577,http://id.agrisemantics.org/gacs/C23577,- - - - - Fluorescein,
+5,C4648>C11493>C9493>C7224>C16700,C16700,http://id.agrisemantics.org/gacs/C16700,- - - - Methylene blue,
+5,C4648>C11493>C9493>C7224>C17669,C17669,http://id.agrisemantics.org/gacs/C17669,- - - - Curcumin,http://aims.fao.org/aos/agrovoc/c_36415
+5,C4648>C11493>C9493>C7224>C19577,C19577,http://id.agrisemantics.org/gacs/C19577,- - - - Mercuric chloride,http://aims.fao.org/aos/agrovoc/c_16191
+5,C4648>C11493>C9493>C7224>C22262,C22262,http://id.agrisemantics.org/gacs/C22262,- - - - Ferrous sulfate,http://aims.fao.org/aos/agrovoc/c_2861
+5,C4648>C11493>C9493>C7224>C25130,C25130,http://id.agrisemantics.org/gacs/C25130,- - - - Gentian violet,
+5,C4648>C11493>C9493>C7224>C26571,C26571,http://id.agrisemantics.org/gacs/C26571,- - - - Azo dyes,http://aims.fao.org/aos/agrovoc/c_28301
+3,C4648>C11493>C9876,C9876,http://id.agrisemantics.org/gacs/C9876,- - Adulterated products,
+2,C4648>C18764,C18764,http://id.agrisemantics.org/gacs/C18764,- Natural products,
+3,C4648>C18764>C2274,C2274,http://id.agrisemantics.org/gacs/C2274,- - Phytopharmaceuticals,
+4,C4648>C18764>C2274>C10371,C10371,http://id.agrisemantics.org/gacs/C10371,- - - Phytosterols,http://aims.fao.org/aos/agrovoc/c_5847
+5,C4648>C18764>C2274>C10371>C17094,C17094,http://id.agrisemantics.org/gacs/C17094,- - - - Plant oestrogens,http://aims.fao.org/aos/agrovoc/c_13336
+6,C4648>C18764>C2274>C10371>C17094>C15196,C15196,http://id.agrisemantics.org/gacs/C15196,- - - - - Zearalenone,http://aims.fao.org/aos/agrovoc/c_16069
+5,C4648>C18764>C2274>C10371>C18543,C18543,http://id.agrisemantics.org/gacs/C18543,- - - - Brassinosteroids,http://aims.fao.org/aos/agrovoc/c_35037
+5,C4648>C18764>C2274>C10371>C29523,C29523,http://id.agrisemantics.org/gacs/C29523,- - - - Stigmasterol,http://aims.fao.org/aos/agrovoc/c_7410
+2,C4648>C3344,C3344,http://id.agrisemantics.org/gacs/C3344,- Wastes,http://aims.fao.org/aos/agrovoc/c_8307
+3,C4648>C3344>C14143,C14143,http://id.agrisemantics.org/gacs/C14143,- - Organic wastes,http://aims.fao.org/aos/agrovoc/c_35237
+4,C4648>C3344>C14143>C13645,C13645,http://id.agrisemantics.org/gacs/C13645,- - - Food wastes,http://aims.fao.org/aos/agrovoc/c_3031
+4,C4648>C3344>C14143>C2302,C2302,http://id.agrisemantics.org/gacs/C2302,- - - Agricultural wastes,http://aims.fao.org/aos/agrovoc/c_8683
+5,C4648>C3344>C14143>C2302>C15734,C15734,http://id.agrisemantics.org/gacs/C15734,- - - - Animal wastes,
+6,C4648>C3344>C14143>C2302>C15734>C25755,C25755,http://id.agrisemantics.org/gacs/C25755,- - - - - Dead animals,
+6,C4648>C3344>C14143>C2302>C15734>C26091,C26091,http://id.agrisemantics.org/gacs/C26091,- - - - - Fish scrap,
+6,C4648>C3344>C14143>C2302>C15734>C30816,C30816,http://id.agrisemantics.org/gacs/C30816,- - - - - Slaughterhouse wastes,
+6,C4648>C3344>C14143>C2302>C15734>C4029,C4029,http://id.agrisemantics.org/gacs/C4029,- - - - - Animal manures,
+7,C4648>C3344>C14143>C2302>C15734>C4029>C3478,C3478,http://id.agrisemantics.org/gacs/C3478,- - - - - - Farmyard manure,http://aims.fao.org/aos/agrovoc/c_2810
+8,C4648>C3344>C14143>C2302>C15734>C4029>C3478>C5271,C5271,http://id.agrisemantics.org/gacs/C5271,- - - - - - - Cattle manure,
+8,C4648>C3344>C14143>C2302>C15734>C4029>C3478>C6585,C6585,http://id.agrisemantics.org/gacs/C6585,- - - - - - - Pig manure,
+7,C4648>C3344>C14143>C2302>C15734>C4029>C6285,C6285,http://id.agrisemantics.org/gacs/C6285,- - - - - - Poultry droppings,http://aims.fao.org/aos/agrovoc/c_36379
+5,C4648>C3344>C14143>C2302>C23708,C23708,http://id.agrisemantics.org/gacs/C23708,- - - - Dairy wastes,
+5,C4648>C3344>C14143>C2302>C7039,C7039,http://id.agrisemantics.org/gacs/C7039,- - - - Slurries,http://aims.fao.org/aos/agrovoc/c_16602
+6,C4648>C3344>C14143>C2302>C7039>C19631,C19631,http://id.agrisemantics.org/gacs/C19631,- - - - - Pig slurry,
+6,C4648>C3344>C14143>C2302>C7039>C24968,C24968,http://id.agrisemantics.org/gacs/C24968,- - - - - Cattle slurry,
+4,C4648>C3344>C14143>C24772,C24772,http://id.agrisemantics.org/gacs/C24772,- - - Logging wastes,http://aims.fao.org/aos/agrovoc/c_24870
+4,C4648>C3344>C14143>C25266,C25266,http://id.agrisemantics.org/gacs/C25266,- - - Lignocellulosic wastes,
+4,C4648>C3344>C14143>C26953,C26953,http://id.agrisemantics.org/gacs/C26953,- - - Fish wastes,http://aims.fao.org/aos/agrovoc/c_2933
+3,C4648>C3344>C14326,C14326,http://id.agrisemantics.org/gacs/C14326,- - Liquid wastes,http://aims.fao.org/aos/agrovoc/c_4375
+4,C4648>C3344>C14326>C1487,C1487,http://id.agrisemantics.org/gacs/C1487,- - - Wastewater,http://aims.fao.org/aos/agrovoc/c_8308
+5,C4648>C3344>C14326>C1487>C10311,C10311,http://id.agrisemantics.org/gacs/C10311,- - - - Pulp and paper mill effluents,http://aims.fao.org/aos/agrovoc/c_34861
+5,C4648>C3344>C14326>C1487>C25284,C25284,http://id.agrisemantics.org/gacs/C25284,- - - - Acid mine drainage,
+5,C4648>C3344>C14326>C1487>C5672,C5672,http://id.agrisemantics.org/gacs/C5672,- - - - Sewage,http://aims.fao.org/aos/agrovoc/c_7007
+4,C4648>C3344>C14326>C5859,C5859,http://id.agrisemantics.org/gacs/C5859,- - - Effluents,http://aims.fao.org/aos/agrovoc/c_24455
+5,C4648>C3344>C14326>C5859>C10340,C10340,http://id.agrisemantics.org/gacs/C10340,- - - - Industrial effluents,
+6,C4648>C3344>C14326>C5859>C10340>C25637,C25637,http://id.agrisemantics.org/gacs/C25637,- - - - - Factory effluents,
+5,C4648>C3344>C14326>C5859>C15705,C15705,http://id.agrisemantics.org/gacs/C15705,- - - - Sewage effluent,
+4,C4648>C3344>C14326>C9616,C9616,http://id.agrisemantics.org/gacs/C9616,- - - Liquid manures,http://aims.fao.org/aos/agrovoc/c_4373
+3,C4648>C3344>C14680,C14680,http://id.agrisemantics.org/gacs/C14680,- - Waste gases,http://aims.fao.org/aos/agrovoc/c_8306
+4,C4648>C3344>C14680>C26276,C26276,http://id.agrisemantics.org/gacs/C26276,- - - Fumes,
+4,C4648>C3344>C14680>C29588,C29588,http://id.agrisemantics.org/gacs/C29588,- - - Exhaust gases,
+3,C4648>C3344>C23497,C23497,http://id.agrisemantics.org/gacs/C23497,- - Urban wastes,http://aims.fao.org/aos/agrovoc/c_35244
+4,C4648>C3344>C23497>C11618,C11618,http://id.agrisemantics.org/gacs/C11618,- - - Municipal solid waste,
+3,C4648>C3344>C28723,C28723,http://id.agrisemantics.org/gacs/C28723,- - Household wastes,http://aims.fao.org/aos/agrovoc/c_35240
+3,C4648>C3344>C28880,C28880,http://id.agrisemantics.org/gacs/C28880,- - Filter cake,
+3,C4648>C3344>C30780,C30780,http://id.agrisemantics.org/gacs/C30780,- - Hazardous waste,
+3,C4648>C3344>C6910,C6910,http://id.agrisemantics.org/gacs/C6910,- - Industrial wastes,http://aims.fao.org/aos/agrovoc/c_11763
+4,C4648>C3344>C6910>C11919,C11919,http://id.agrisemantics.org/gacs/C11919,- - - Food processing wastes,
+4,C4648>C3344>C6910>C12759,C12759,http://id.agrisemantics.org/gacs/C12759,- - - Mine spoil,http://aims.fao.org/aos/agrovoc/c_34313
+4,C4648>C3344>C6910>C29878,C29878,http://id.agrisemantics.org/gacs/C29878,- - - Slags,http://aims.fao.org/aos/agrovoc/c_32546
+5,C4648>C3344>C6910>C29878>C30308,C30308,http://id.agrisemantics.org/gacs/C30308,- - - - Basic slag,http://aims.fao.org/aos/agrovoc/c_837
+4,C4648>C3344>C6910>C30060,C30060,http://id.agrisemantics.org/gacs/C30060,- - - Cotton gin trash,
+4,C4648>C3344>C6910>C31308,C31308,http://id.agrisemantics.org/gacs/C31308,- - - Tannery waste,
+3,C4648>C3344>C8231,C8231,http://id.agrisemantics.org/gacs/C8231,- - Sludges,
+4,C4648>C3344>C8231>C4729,C4729,http://id.agrisemantics.org/gacs/C4729,- - - Sewage sludge,http://aims.fao.org/aos/agrovoc/c_7008
+5,C4648>C3344>C8231>C4729>C9171,C9171,http://id.agrisemantics.org/gacs/C9171,- - - - Activated sludge,http://aims.fao.org/aos/agrovoc/c_8611
+3,C4648>C3344>C9103,C9103,http://id.agrisemantics.org/gacs/C9103,- - Solid wastes,http://aims.fao.org/aos/agrovoc/c_7228
+4,C4648>C3344>C9103>C21138,C21138,http://id.agrisemantics.org/gacs/C21138,- - - Waste paper,http://aims.fao.org/aos/agrovoc/c_28186
+4,C4648>C3344>C9103>C23037,C23037,http://id.agrisemantics.org/gacs/C23037,- - - Pulp and paper sludge,
+4,C4648>C3344>C9103>C24698,C24698,http://id.agrisemantics.org/gacs/C24698,- - - Mine tailings,
+4,C4648>C3344>C9103>C7598,C7598,http://id.agrisemantics.org/gacs/C7598,- - - Ash (inorganic matter),http://aims.fao.org/aos/agrovoc/c_15728
+5,C4648>C3344>C9103>C7598>C19389,C19389,http://id.agrisemantics.org/gacs/C19389,- - - - Fly ash,http://aims.fao.org/aos/agrovoc/c_24840
+2,C4648>C4745,C4745,http://id.agrisemantics.org/gacs/C4745,- Concentrates,
+3,C4648>C4745>C25982,C25982,http://id.agrisemantics.org/gacs/C25982,- - Emulsifiable concentrates,http://aims.fao.org/aos/agrovoc/c_331554
+2,C4648>C6070,C6070,http://id.agrisemantics.org/gacs/C6070,- Fishery products,http://aims.fao.org/aos/agrovoc/c_2941
+3,C4648>C6070>C26971,C26971,http://id.agrisemantics.org/gacs/C26971,- - Sponges,http://aims.fao.org/aos/agrovoc/c_7321
+3,C4648>C6070>C2986,C2986,http://id.agrisemantics.org/gacs/C2986,- - Fish (product),http://aims.fao.org/aos/agrovoc/c_15903
+4,C4648>C6070>C2986>C11478,C11478,http://id.agrisemantics.org/gacs/C11478,- - - Farmed fish,
+4,C4648>C6070>C2986>C11976,C11976,http://id.agrisemantics.org/gacs/C11976,- - - Catfish,
+2,C4648>C9852,C9852,http://id.agrisemantics.org/gacs/C9852,- Hydrolysates,

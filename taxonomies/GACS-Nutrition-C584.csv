@@ -1,0 +1,224 @@
+level,term_path,term_id,term_url,title,agrovoc
+1,C584,C584,http://id.agrisemantics.org/gacs/C584,Nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+2,C584>C10374,C10374,http://id.agrisemantics.org/gacs/C10374,- Nutrient excesses,http://aims.fao.org/aos/agrovoc/c_34870
+3,C584>C10374>C23711,C23711,http://id.agrisemantics.org/gacs/C23711,- - Fluorosis,http://aims.fao.org/aos/agrovoc/c_10937
+2,C584>C1083,C1083,http://id.agrisemantics.org/gacs/C1083,- Plant nutrition,http://aims.fao.org/aos/agrovoc/c_16379
+3,C584>C1083>C26214,C26214,http://id.agrisemantics.org/gacs/C26214,- - Tree nutrition,
+3,C584>C1083>C4536,C4536,http://id.agrisemantics.org/gacs/C4536,- - Nutrient solutions,http://aims.fao.org/aos/agrovoc/c_5271
+3,C584>C1083>C8067,C8067,http://id.agrisemantics.org/gacs/C8067,- - Fertilizer requirements,
+2,C584>C1104,C1104,http://id.agrisemantics.org/gacs/C1104,- Nutrient intake,http://aims.fao.org/aos/agrovoc/c_34064
+3,C584>C1104>C11208,C11208,http://id.agrisemantics.org/gacs/C11208,- - Fat consumption,
+3,C584>C1104>C16848,C16848,http://id.agrisemantics.org/gacs/C16848,- - Repletion,
+3,C584>C1104>C24165,C24165,http://id.agrisemantics.org/gacs/C24165,- - Carbohydrate intake,
+3,C584>C1104>C24863,C24863,http://id.agrisemantics.org/gacs/C24863,- - Refeeding,
+3,C584>C1104>C6059,C6059,http://id.agrisemantics.org/gacs/C6059,- - Protein intake,
+2,C584>C11457,C11457,http://id.agrisemantics.org/gacs/C11457,- Food availability,
+2,C584>C1191,C1191,http://id.agrisemantics.org/gacs/C1191,- Nutrient deficiencies,http://aims.fao.org/aos/agrovoc/c_34868
+3,C584>C1191>C17885,C17885,http://id.agrisemantics.org/gacs/C17885,- - Protein deficiencies,http://aims.fao.org/aos/agrovoc/c_6252
+4,C584>C1191>C17885>C18398,C18398,http://id.agrisemantics.org/gacs/C18398,- - - Kwashiorkor,http://aims.fao.org/aos/agrovoc/c_34303
+3,C584>C1191>C3977,C3977,http://id.agrisemantics.org/gacs/C3977,- - Mineral deficiencies,http://aims.fao.org/aos/agrovoc/c_4849
+4,C584>C1191>C3977>C7486,C7486,http://id.agrisemantics.org/gacs/C7486,- - - Trace element deficiencies,http://aims.fao.org/aos/agrovoc/c_7833
+3,C584>C1191>C4049,C4049,http://id.agrisemantics.org/gacs/C4049,- - Vitamin deficiencies,http://aims.fao.org/aos/agrovoc/c_8272
+4,C584>C1191>C4049>C13826,C13826,http://id.agrisemantics.org/gacs/C13826,- - - Vitamin a deficiency,
+2,C584>C1257,C1257,http://id.agrisemantics.org/gacs/C1257,- Nutritional status,http://aims.fao.org/aos/agrovoc/c_24877
+3,C584>C1257>C6498,C6498,http://id.agrisemantics.org/gacs/C6498,- - Starvation,http://aims.fao.org/aos/agrovoc/c_7375
+2,C584>C126,C126,http://id.agrisemantics.org/gacs/C126,- Animal nutrition,http://aims.fao.org/aos/agrovoc/c_27925
+3,C584>C126>C10518,C10518,http://id.agrisemantics.org/gacs/C10518,- - Ruminant nutrition,
+3,C584>C126>C25980,C25980,http://id.agrisemantics.org/gacs/C25980,- - Insect nutrition,
+3,C584>C126>C822,C822,http://id.agrisemantics.org/gacs/C822,- - Feed intake,http://aims.fao.org/aos/agrovoc/c_16126
+4,C584>C126>C822>C16974,C16974,http://id.agrisemantics.org/gacs/C16974,- - - Voluntary intake,
+4,C584>C126>C822>C9768,C9768,http://id.agrisemantics.org/gacs/C9768,- - - Dry matter intake,
+2,C584>C1324,C1324,http://id.agrisemantics.org/gacs/C1324,- Nutrition physiology,http://aims.fao.org/aos/agrovoc/c_5275
+3,C584>C1324>C10137,C10137,http://id.agrisemantics.org/gacs/C10137,- - Antinutritional factors,http://aims.fao.org/aos/agrovoc/c_34999
+3,C584>C1324>C10620,C10620,http://id.agrisemantics.org/gacs/C10620,- - Nutrient balance,http://aims.fao.org/aos/agrovoc/c_35711
+3,C584>C1324>C11069,C11069,http://id.agrisemantics.org/gacs/C11069,- - Assimilation,http://aims.fao.org/aos/agrovoc/c_678
+4,C584>C1324>C11069>C6636,C6636,http://id.agrisemantics.org/gacs/C6636,- - - Net assimilation rate,
+3,C584>C1324>C11673,C11673,http://id.agrisemantics.org/gacs/C11673,- - Nutrient reserves,
+3,C584>C1324>C14130,C14130,http://id.agrisemantics.org/gacs/C14130,- - Nutrient utilization,http://aims.fao.org/aos/agrovoc/c_36245
+4,C584>C1324>C14130>C1386,C1386,http://id.agrisemantics.org/gacs/C1386,- - - Feed conversion efficiency,http://aims.fao.org/aos/agrovoc/c_16125
+5,C584>C1324>C14130>C1386>C15946,C15946,http://id.agrisemantics.org/gacs/C15946,- - - - Nitrogen retention,http://aims.fao.org/aos/agrovoc/c_24944
+4,C584>C1324>C14130>C22445,C22445,http://id.agrisemantics.org/gacs/C22445,- - - Food conversion,
+3,C584>C1324>C1956,C1956,http://id.agrisemantics.org/gacs/C1956,- - Nutrient requirements,http://aims.fao.org/aos/agrovoc/c_5277
+4,C584>C1324>C1956>C15999,C15999,http://id.agrisemantics.org/gacs/C15999,- - - Protein requirement,http://aims.fao.org/aos/agrovoc/c_13618
+5,C584>C1324>C1956>C15999>C31542,C31542,http://id.agrisemantics.org/gacs/C31542,- - - - Amino acid requirements,
+4,C584>C1324>C1956>C1857,C1857,http://id.agrisemantics.org/gacs/C1857,- - - Nitrogen fixation,http://aims.fao.org/aos/agrovoc/c_5196
+4,C584>C1324>C1956>C29778,C29778,http://id.agrisemantics.org/gacs/C29778,- - - Feed requirements,http://aims.fao.org/aos/agrovoc/c_27930
+5,C584>C1324>C1956>C29778>C7086,C7086,http://id.agrisemantics.org/gacs/C7086,- - - - Feed rations,
+3,C584>C1324>C21546,C21546,http://id.agrisemantics.org/gacs/C21546,- - Nutrient partitioning,
+3,C584>C1324>C3441,C3441,http://id.agrisemantics.org/gacs/C3441,- - Digestion,http://aims.fao.org/aos/agrovoc/c_2271
+4,C584>C1324>C3441>C10441,C10441,http://id.agrisemantics.org/gacs/C10441,- - - Digestive absorption,http://aims.fao.org/aos/agrovoc/c_2272
+5,C584>C1324>C3441>C10441>C3705,C3705,http://id.agrisemantics.org/gacs/C3705,- - - - Intestinal absorption,
+6,C584>C1324>C3441>C10441>C3705>C17409,C17409,http://id.agrisemantics.org/gacs/C17409,- - - - - Iron absorption,
+4,C584>C1324>C3441>C16281,C16281,http://id.agrisemantics.org/gacs/C16281,- - - Mastication,http://aims.fao.org/aos/agrovoc/c_12424
+4,C584>C1324>C3441>C29791,C29791,http://id.agrisemantics.org/gacs/C29791,- - - Cellulose digestion,http://aims.fao.org/aos/agrovoc/c_27481
+4,C584>C1324>C3441>C3228,C3228,http://id.agrisemantics.org/gacs/C3228,- - - Rumen fermentation,http://aims.fao.org/aos/agrovoc/c_34333
+5,C584>C1324>C3441>C3228>C15235,C15235,http://id.agrisemantics.org/gacs/C15235,- - - - Rumination,http://aims.fao.org/aos/agrovoc/c_6696
+3,C584>C1324>C3792,C3792,http://id.agrisemantics.org/gacs/C3792,- - Nutrient transport,http://aims.fao.org/aos/agrovoc/c_5272
+3,C584>C1324>C5876,C5876,http://id.agrisemantics.org/gacs/C5876,- - Appetite,http://aims.fao.org/aos/agrovoc/c_540
+4,C584>C1324>C5876>C11606,C11606,http://id.agrisemantics.org/gacs/C11606,- - - Anorexia,http://aims.fao.org/aos/agrovoc/c_8830
+5,C584>C1324>C5876>C11606>C12906,C12906,http://id.agrisemantics.org/gacs/C12906,- - - - Anorexia nervosa,
+4,C584>C1324>C5876>C9600,C9600,http://id.agrisemantics.org/gacs/C9600,- - - Hunger,
+3,C584>C1324>C6186,C6186,http://id.agrisemantics.org/gacs/C6186,- - Nutrient nutrient interactions,http://aims.fao.org/aos/agrovoc/c_34871
+3,C584>C1324>C7662,C7662,http://id.agrisemantics.org/gacs/C7662,- - Genotype nutrition interaction,
+3,C584>C1324>C8175,C8175,http://id.agrisemantics.org/gacs/C8175,- - Energy requirements,
+3,C584>C1324>C8469,C8469,http://id.agrisemantics.org/gacs/C8469,- - Nutrient retention,
+3,C584>C1324>C942,C942,http://id.agrisemantics.org/gacs/C942,- - Nutrient uptake,http://aims.fao.org/aos/agrovoc/c_5273
+4,C584>C1324>C942>C4869,C4869,http://id.agrisemantics.org/gacs/C4869,- - - Water uptake,http://aims.fao.org/aos/agrovoc/c_8329
+2,C584>C20244,C20244,http://id.agrisemantics.org/gacs/C20244,- Optimal nutrition,
+2,C584>C222,C222,http://id.agrisemantics.org/gacs/C222,- Diet,http://aims.fao.org/aos/agrovoc/c_2261
+3,C584>C222>C1038,C1038,http://id.agrisemantics.org/gacs/C1038,- - Food intake,http://aims.fao.org/aos/agrovoc/c_3022
+4,C584>C222>C1038>C15350,C15350,http://id.agrisemantics.org/gacs/C15350,- - - Milk consumption,
+4,C584>C222>C1038>C17886,C17886,http://id.agrisemantics.org/gacs/C17886,- - - Portion size,
+4,C584>C222>C1038>C30047,C30047,http://id.agrisemantics.org/gacs/C30047,- - - Fish consumption,
+3,C584>C222>C11592,C11592,http://id.agrisemantics.org/gacs/C11592,- - Dietary nutrient sources,
+4,C584>C222>C11592>C10356,C10356,http://id.agrisemantics.org/gacs/C10356,- - - Protein sources,
+3,C584>C222>C12678,C12678,http://id.agrisemantics.org/gacs/C12678,- - Vegetarian diet,
+3,C584>C222>C1293,C1293,http://id.agrisemantics.org/gacs/C1293,- - Dietary fat,
+3,C584>C222>C13149,C13149,http://id.agrisemantics.org/gacs/C13149,- - Artificial diets,
+3,C584>C222>C1512,C1512,http://id.agrisemantics.org/gacs/C1512,- - Food supplements,http://aims.fao.org/aos/agrovoc/c_25006
+4,C584>C222>C1512>C14910,C14910,http://id.agrisemantics.org/gacs/C14910,- - - Prebiotics,
+4,C584>C222>C1512>C2364,C2364,http://id.agrisemantics.org/gacs/C2364,- - - Feed supplements,http://aims.fao.org/aos/agrovoc/c_2837
+5,C584>C222>C1512>C2364>C10713,C10713,http://id.agrisemantics.org/gacs/C10713,- - - - Protein supplements,
+5,C584>C222>C1512>C2364>C26967,C26967,http://id.agrisemantics.org/gacs/C26967,- - - - Hormone supplements,
+5,C584>C222>C1512>C2364>C4560,C4560,http://id.agrisemantics.org/gacs/C4560,- - - - Vitamin supplements,
+5,C584>C222>C1512>C2364>C5493,C5493,http://id.agrisemantics.org/gacs/C5493,- - - - Mineral supplements,http://aims.fao.org/aos/agrovoc/c_12599
+4,C584>C222>C1512>C30441,C30441,http://id.agrisemantics.org/gacs/C30441,- - - Vitamin-mineral supplements,
+3,C584>C222>C18441,C18441,http://id.agrisemantics.org/gacs/C18441,- - Diet recall,
+3,C584>C222>C19239,C19239,http://id.agrisemantics.org/gacs/C19239,- - Food diaries,
+3,C584>C222>C2037,C2037,http://id.agrisemantics.org/gacs/C2037,- - Dietary fibres,http://aims.fao.org/aos/agrovoc/c_28386
+4,C584>C222>C2037>C24072,C24072,http://id.agrisemantics.org/gacs/C24072,- - - Soluble fiber,
+3,C584>C222>C2556,C2556,http://id.agrisemantics.org/gacs/C2556,- - Dietary protein,
+4,C584>C222>C2556>C3075,C3075,http://id.agrisemantics.org/gacs/C3075,- - - Animal proteins,http://aims.fao.org/aos/agrovoc/c_439
+5,C584>C222>C2556>C3075>C11274,C11274,http://id.agrisemantics.org/gacs/C11274,- - - - Gelatin,http://aims.fao.org/aos/agrovoc/c_3209
+5,C584>C222>C2556>C3075>C12068,C12068,http://id.agrisemantics.org/gacs/C12068,- - - - Blood source protein,
+5,C584>C222>C2556>C3075>C14765,C14765,http://id.agrisemantics.org/gacs/C14765,- - - - Rennet,http://aims.fao.org/aos/agrovoc/c_24075
+5,C584>C222>C2556>C3075>C18867,C18867,http://id.agrisemantics.org/gacs/C18867,- - - - Insect proteins,http://aims.fao.org/aos/agrovoc/c_1387363306809
+5,C584>C222>C2556>C3075>C19347,C19347,http://id.agrisemantics.org/gacs/C19347,- - - - Ovalbumin,
+5,C584>C222>C2556>C3075>C22347,C22347,http://id.agrisemantics.org/gacs/C22347,- - - - Keratin,http://aims.fao.org/aos/agrovoc/c_4088
+5,C584>C222>C2556>C3075>C30471,C30471,http://id.agrisemantics.org/gacs/C30471,- - - - Excretory secretory products,
+5,C584>C222>C2556>C3075>C3143,C3143,http://id.agrisemantics.org/gacs/C3143,- - - - Interferons,http://aims.fao.org/aos/agrovoc/c_3914
+6,C584>C222>C2556>C3075>C3143>C22779,C22779,http://id.agrisemantics.org/gacs/C22779,- - - - - Interferon-gamma,
+5,C584>C222>C2556>C3075>C4607,C4607,http://id.agrisemantics.org/gacs/C4607,- - - - Milk proteins,
+6,C584>C222>C2556>C3075>C4607>C10047,C10047,http://id.agrisemantics.org/gacs/C10047,- - - - - Milk protein percentage,
+6,C584>C222>C2556>C3075>C4607>C18028,C18028,http://id.agrisemantics.org/gacs/C18028,- - - - - Lactoferrin,http://aims.fao.org/aos/agrovoc/c_12040
+6,C584>C222>C2556>C3075>C4607>C18217,C18217,http://id.agrisemantics.org/gacs/C18217,- - - - - Lactoglobulins,http://aims.fao.org/aos/agrovoc/c_12043
+7,C584>C222>C2556>C3075>C4607>C18217>C12968,C12968,http://id.agrisemantics.org/gacs/C12968,- - - - - - Beta-lactoglobulin,http://aims.fao.org/aos/agrovoc/c_23994
+6,C584>C222>C2556>C3075>C4607>C18273,C18273,http://id.agrisemantics.org/gacs/C18273,- - - - - Lactalbumin,http://aims.fao.org/aos/agrovoc/c_12036
+7,C584>C222>C2556>C3075>C4607>C18273>C18773,C18773,http://id.agrisemantics.org/gacs/C18773,- - - - - - Alpha-lactalbumin,
+6,C584>C222>C2556>C3075>C4607>C2954,C2954,http://id.agrisemantics.org/gacs/C2954,- - - - - Casein,http://aims.fao.org/aos/agrovoc/c_1357
+7,C584>C222>C2556>C3075>C4607>C2954>C17180,C17180,http://id.agrisemantics.org/gacs/C17180,- - - - - - Beta-casein,
+7,C584>C222>C2556>C3075>C4607>C2954>C19880,C19880,http://id.agrisemantics.org/gacs/C19880,- - - - - - Kappa-casein,
+7,C584>C222>C2556>C3075>C4607>C2954>C26019,C26019,http://id.agrisemantics.org/gacs/C26019,- - - - - - Alpha-s1-casein,
+5,C584>C222>C2556>C3075>C5429,C5429,http://id.agrisemantics.org/gacs/C5429,- - - - Blood proteins,http://aims.fao.org/aos/agrovoc/c_970
+6,C584>C222>C2556>C3075>C5429>C13083,C13083,http://id.agrisemantics.org/gacs/C13083,- - - - - Ferritin,http://aims.fao.org/aos/agrovoc/c_37715
+6,C584>C222>C2556>C3075>C5429>C18726,C18726,http://id.agrisemantics.org/gacs/C18726,- - - - - Myoglobin,http://aims.fao.org/aos/agrovoc/c_5031
+6,C584>C222>C2556>C3075>C5429>C22845,C22845,http://id.agrisemantics.org/gacs/C22845,- - - - - Acute phase proteins,
+7,C584>C222>C2556>C3075>C5429>C22845>C10292,C10292,http://id.agrisemantics.org/gacs/C10292,- - - - - - Serum albumin,http://aims.fao.org/aos/agrovoc/c_14213
+8,C584>C222>C2556>C3075>C5429>C22845>C10292>C14043,C14043,http://id.agrisemantics.org/gacs/C14043,- - - - - - - Bovine serum albumin,
+7,C584>C222>C2556>C3075>C5429>C22845>C11567,C11567,http://id.agrisemantics.org/gacs/C11567,- - - - - - C-reactive protein,
+7,C584>C222>C2556>C3075>C5429>C22845>C15680,C15680,http://id.agrisemantics.org/gacs/C15680,- - - - - - Transferrin,http://aims.fao.org/aos/agrovoc/c_14958
+7,C584>C222>C2556>C3075>C5429>C22845>C18737,C18737,http://id.agrisemantics.org/gacs/C18737,- - - - - - Fibrinogen,http://aims.fao.org/aos/agrovoc/c_34825
+7,C584>C222>C2556>C3075>C5429>C22845>C28803,C28803,http://id.agrisemantics.org/gacs/C28803,- - - - - - Haptoglobins,
+7,C584>C222>C2556>C3075>C5429>C22845>C31649,C31649,http://id.agrisemantics.org/gacs/C31649,- - - - - - Ceruloplasmin,
+6,C584>C222>C2556>C3075>C5429>C25578,C25578,http://id.agrisemantics.org/gacs/C25578,- - - - - Blood coagulation factors,
+7,C584>C222>C2556>C3075>C5429>C25578>C22703,C22703,http://id.agrisemantics.org/gacs/C22703,- - - - - - Prothrombin,
+7,C584>C222>C2556>C3075>C5429>C25578>C28992,C28992,http://id.agrisemantics.org/gacs/C28992,- - - - - - Thrombin,
+6,C584>C222>C2556>C3075>C5429>C3017,C3017,http://id.agrisemantics.org/gacs/C3017,- - - - - Haemoglobin,http://aims.fao.org/aos/agrovoc/c_3462
+7,C584>C222>C2556>C3075>C5429>C3017>C28436,C28436,http://id.agrisemantics.org/gacs/C28436,- - - - - - Haemoglobin a1,
+6,C584>C222>C2556>C3075>C5429>C31001,C31001,http://id.agrisemantics.org/gacs/C31001,- - - - - Fibrin,
+6,C584>C222>C2556>C3075>C5429>C32104,C32104,http://id.agrisemantics.org/gacs/C32104,- - - - - Erythropoietin,http://aims.fao.org/aos/agrovoc/c_27517
+6,C584>C222>C2556>C3075>C5429>C3308,C3308,http://id.agrisemantics.org/gacs/C3308,- - - - - Immunoglobulins,http://aims.fao.org/aos/agrovoc/c_3805
+7,C584>C222>C2556>C3075>C5429>C3308>C1028,C1028,http://id.agrisemantics.org/gacs/C1028,- - - - - - Antibodies,http://aims.fao.org/aos/agrovoc/c_493
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C14810,C14810,http://id.agrisemantics.org/gacs/C14810,- - - - - - - Antitoxins,
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C16194,C16194,http://id.agrisemantics.org/gacs/C16194,- - - - - - - Polyclonal antibodies,http://aims.fao.org/aos/agrovoc/c_36002
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C20072,C20072,http://id.agrisemantics.org/gacs/C20072,- - - - - - - Haemolysins,http://aims.fao.org/aos/agrovoc/c_34293
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C23141,C23141,http://id.agrisemantics.org/gacs/C23141,- - - - - - - Autoantibodies,
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C2919,C2919,http://id.agrisemantics.org/gacs/C2919,- - - - - - - Monoclonal antibodies,http://aims.fao.org/aos/agrovoc/c_24051
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C29735,C29735,http://id.agrisemantics.org/gacs/C29735,- - - - - - - Maternal antibodies,
+8,C584>C222>C2556>C3075>C5429>C3308>C1028>C9866,C9866,http://id.agrisemantics.org/gacs/C9866,- - - - - - - Neutralizing antibodies,
+7,C584>C222>C2556>C3075>C5429>C3308>C3656,C3656,http://id.agrisemantics.org/gacs/C3656,- - - - - - Immunoglobulin g,
+7,C584>C222>C2556>C3075>C5429>C3308>C7658,C7658,http://id.agrisemantics.org/gacs/C7658,- - - - - - Immunoglobulin m,
+7,C584>C222>C2556>C3075>C5429>C3308>C8822,C8822,http://id.agrisemantics.org/gacs/C8822,- - - - - - Immunoglobulin e,
+7,C584>C222>C2556>C3075>C5429>C3308>C9962,C9962,http://id.agrisemantics.org/gacs/C9962,- - - - - - Immunoglobulin a,
+6,C584>C222>C2556>C3075>C5429>C8288,C8288,http://id.agrisemantics.org/gacs/C8288,- - - - - Leptin,http://aims.fao.org/aos/agrovoc/c_37243
+5,C584>C222>C2556>C3075>C7145,C7145,http://id.agrisemantics.org/gacs/C7145,- - - - Milk protein,http://aims.fao.org/aos/agrovoc/c_4831
+6,C584>C222>C2556>C3075>C7145>C6309,C6309,http://id.agrisemantics.org/gacs/C6309,- - - - - Whey protein,http://aims.fao.org/aos/agrovoc/c_28528
+4,C584>C222>C2556>C738,C738,http://id.agrisemantics.org/gacs/C738,- - - Plant proteins,http://aims.fao.org/aos/agrovoc/c_8172
+5,C584>C222>C2556>C738>C14148,C14148,http://id.agrisemantics.org/gacs/C14148,- - - - Ubiquitin,
+5,C584>C222>C2556>C738>C27843,C27843,http://id.agrisemantics.org/gacs/C27843,- - - - Leghaemoglobin,http://aims.fao.org/aos/agrovoc/c_26798
+5,C584>C222>C2556>C738>C28554,C28554,http://id.agrisemantics.org/gacs/C28554,- - - - Leaf protein,http://aims.fao.org/aos/agrovoc/c_24867
+5,C584>C222>C2556>C738>C28755,C28755,http://id.agrisemantics.org/gacs/C28755,- - - - Nodulins,
+5,C584>C222>C2556>C738>C30534,C30534,http://id.agrisemantics.org/gacs/C30534,- - - - Cereal protein,http://aims.fao.org/aos/agrovoc/c_23999
+6,C584>C222>C2556>C738>C30534>C21525,C21525,http://id.agrisemantics.org/gacs/C21525,- - - - - Wheat protein,
+6,C584>C222>C2556>C738>C30534>C30360,C30360,http://id.agrisemantics.org/gacs/C30360,- - - - - Rice protein,
+5,C584>C222>C2556>C738>C5604,C5604,http://id.agrisemantics.org/gacs/C5604,- - - - Soy protein,http://aims.fao.org/aos/agrovoc/c_14474
+5,C584>C222>C2556>C738>C6306,C6306,http://id.agrisemantics.org/gacs/C6306,- - - - Lectins,http://aims.fao.org/aos/agrovoc/c_24042
+6,C584>C222>C2556>C738>C6306>C31520,C31520,http://id.agrisemantics.org/gacs/C31520,- - - - - Phytohaemagglutinins,http://aims.fao.org/aos/agrovoc/c_35260
+7,C584>C222>C2556>C738>C6306>C31520>C19185,C19185,http://id.agrisemantics.org/gacs/C19185,- - - - - - Concanavalin a,http://aims.fao.org/aos/agrovoc/c_35974
+5,C584>C222>C2556>C738>C7743,C7743,http://id.agrisemantics.org/gacs/C7743,- - - - Phytochrome,http://aims.fao.org/aos/agrovoc/c_24063
+5,C584>C222>C2556>C738>C9816,C9816,http://id.agrisemantics.org/gacs/C9816,- - - - Light harvesting complexes,
+5,C584>C222>C2556>C738>C9906,C9906,http://id.agrisemantics.org/gacs/C9906,- - - - Pathogenesis-related proteins,
+3,C584>C222>C26265,C26265,http://id.agrisemantics.org/gacs/C26265,- - Healthy diet,
+3,C584>C222>C29184,C29184,http://id.agrisemantics.org/gacs/C29184,- - Dietary energy sources,
+3,C584>C222>C31141,C31141,http://id.agrisemantics.org/gacs/C31141,- - Forced feeding,http://aims.fao.org/aos/agrovoc/c_3038
+3,C584>C222>C5049,C5049,http://id.agrisemantics.org/gacs/C5049,- - Dietary carbohydrate,
+3,C584>C222>C6165,C6165,http://id.agrisemantics.org/gacs/C6165,- - Diet study techniques,
+4,C584>C222>C6165>C14332,C14332,http://id.agrisemantics.org/gacs/C14332,- - - Water deprivation,http://aims.fao.org/aos/agrovoc/c_8317
+4,C584>C222>C6165>C21660,C21660,http://id.agrisemantics.org/gacs/C21660,- - - Food deprivation,
+4,C584>C222>C6165>C24009,C24009,http://id.agrisemantics.org/gacs/C24009,- - - Test meals,
+4,C584>C222>C6165>C3765,C3765,http://id.agrisemantics.org/gacs/C3765,- - - Dietary surveys,
+3,C584>C222>C9668,C9668,http://id.agrisemantics.org/gacs/C9668,- - Therapeutic diets,http://aims.fao.org/aos/agrovoc/c_7714
+4,C584>C222>C9668>C11298,C11298,http://id.agrisemantics.org/gacs/C11298,- - - High fat diet,
+4,C584>C222>C9668>C13758,C13758,http://id.agrisemantics.org/gacs/C13758,- - - Energy restricted diets,http://aims.fao.org/aos/agrovoc/c_36785
+4,C584>C222>C9668>C23418,C23418,http://id.agrisemantics.org/gacs/C23418,- - - Fat restricted diets,http://aims.fao.org/aos/agrovoc/c_35103
+4,C584>C222>C9668>C24024,C24024,http://id.agrisemantics.org/gacs/C24024,- - - High protein diet,
+4,C584>C222>C9668>C28668,C28668,http://id.agrisemantics.org/gacs/C28668,- - - Protein restricted diets,http://aims.fao.org/aos/agrovoc/c_35279
+4,C584>C222>C9668>C28857,C28857,http://id.agrisemantics.org/gacs/C28857,- - - Liquid diets,
+4,C584>C222>C9668>C30042,C30042,http://id.agrisemantics.org/gacs/C30042,- - - Starter diets,
+4,C584>C222>C9668>C30414,C30414,http://id.agrisemantics.org/gacs/C30414,- - - High carbohydrate diet,
+2,C584>C4791,C4791,http://id.agrisemantics.org/gacs/C4791,- Nutritional adequacy,
+2,C584>C5217,C5217,http://id.agrisemantics.org/gacs/C5217,- Nutrition research,
+3,C584>C5217>C14424,C14424,http://id.agrisemantics.org/gacs/C14424,- - Metabolic studies,
+2,C584>C5381,C5381,http://id.agrisemantics.org/gacs/C5381,- Energy intake,
+3,C584>C5381>C28928,C28928,http://id.agrisemantics.org/gacs/C28928,- - Caloric intake,
+2,C584>C7110,C7110,http://id.agrisemantics.org/gacs/C7110,- Weight control,
+3,C584>C7110>C19560,C19560,http://id.agrisemantics.org/gacs/C19560,- - Weight control programs,
+2,C584>C99,C99,http://id.agrisemantics.org/gacs/C99,- Human nutrition,http://aims.fao.org/aos/agrovoc/c_27933
+3,C584>C99>C12339,C12339,http://id.agrisemantics.org/gacs/C12339,- - Nutrition policy,http://aims.fao.org/aos/agrovoc/c_32497
+3,C584>C99>C13545,C13545,http://id.agrisemantics.org/gacs/C13545,- - Diet counseling,
+3,C584>C99>C13557,C13557,http://id.agrisemantics.org/gacs/C13557,- - Clinical nutrition,
+3,C584>C99>C14223,C14223,http://id.agrisemantics.org/gacs/C14223,- - Adolescent nutrition,
+3,C584>C99>C14313,C14313,http://id.agrisemantics.org/gacs/C14313,- - Dietary guidelines,http://aims.fao.org/aos/agrovoc/c_35725
+4,C584>C99>C14313>C14514,C14514,http://id.agrisemantics.org/gacs/C14514,- - - Recommended dietary allowances,http://aims.fao.org/aos/agrovoc/c_34090
+4,C584>C99>C14313>C9453,C9453,http://id.agrisemantics.org/gacs/C9453,- - - The dietary guidelines for americans,
+3,C584>C99>C14316,C14316,http://id.agrisemantics.org/gacs/C14316,- - Dieting,
+3,C584>C99>C17125,C17125,http://id.agrisemantics.org/gacs/C17125,- - Dietetics,http://aims.fao.org/aos/agrovoc/c_2263
+3,C584>C99>C20886,C20886,http://id.agrisemantics.org/gacs/C20886,- - Dietary restriction,
+4,C584>C99>C20886>C6647,C6647,http://id.agrisemantics.org/gacs/C6647,- - - Fasting,http://aims.fao.org/aos/agrovoc/c_16545
+3,C584>C99>C21287,C21287,http://id.agrisemantics.org/gacs/C21287,- - Meals (menu),
+4,C584>C99>C21287>C11706,C11706,http://id.agrisemantics.org/gacs/C11706,- - - Snacks,
+4,C584>C99>C21287>C16317,C16317,http://id.agrisemantics.org/gacs/C16317,- - - Breakfast,
+4,C584>C99>C21287>C18447,C18447,http://id.agrisemantics.org/gacs/C18447,- - - School meals,
+5,C584>C99>C21287>C18447>C16551,C16551,http://id.agrisemantics.org/gacs/C16551,- - - - School lunches,
+4,C584>C99>C21287>C24981,C24981,http://id.agrisemantics.org/gacs/C24981,- - - Military rations,
+4,C584>C99>C21287>C25149,C25149,http://id.agrisemantics.org/gacs/C25149,- - - Lunch,
+3,C584>C99>C21939,C21939,http://id.agrisemantics.org/gacs/C21939,- - Diet planning,
+3,C584>C99>C22341,C22341,http://id.agrisemantics.org/gacs/C22341,- - Foodways,
+4,C584>C99>C22341>C12657,C12657,http://id.agrisemantics.org/gacs/C12657,- - - Food beliefs,
+3,C584>C99>C2268,C2268,http://id.agrisemantics.org/gacs/C2268,- - Food preferences,
+4,C584>C99>C2268>C21662,C21662,http://id.agrisemantics.org/gacs/C21662,- - - Food acceptability,
+3,C584>C99>C27123,C27123,http://id.agrisemantics.org/gacs/C27123,- - Sports nutrition,
+3,C584>C99>C4308,C4308,http://id.agrisemantics.org/gacs/C4308,- - Nutritional assessment,
+3,C584>C99>C4866,C4866,http://id.agrisemantics.org/gacs/C4866,- - Child nutrition,
+4,C584>C99>C4866>C9411,C9411,http://id.agrisemantics.org/gacs/C9411,- - - Infant nutrition,
+5,C584>C99>C4866>C9411>C7673,C7673,http://id.agrisemantics.org/gacs/C7673,- - - - Infant feeding,http://aims.fao.org/aos/agrovoc/c_3849
+6,C584>C99>C4866>C9411>C7673>C26301,C26301,http://id.agrisemantics.org/gacs/C26301,- - - - - Bottle feeding,
+6,C584>C99>C4866>C9411>C7673>C6032,C6032,http://id.agrisemantics.org/gacs/C6032,- - - - - Breast feeding,http://aims.fao.org/aos/agrovoc/c_9418
+3,C584>C99>C543,C543,http://id.agrisemantics.org/gacs/C543,- - Nutrition education,http://aims.fao.org/aos/agrovoc/c_37901
+3,C584>C99>C6141,C6141,http://id.agrisemantics.org/gacs/C6141,- - Maternal nutrition,
+3,C584>C99>C6816,C6816,http://id.agrisemantics.org/gacs/C6816,- - Food and nutrition programs,
+3,C584>C99>C7779,C7779,http://id.agrisemantics.org/gacs/C7779,- - Nutrition information,
+3,C584>C99>C7825,C7825,http://id.agrisemantics.org/gacs/C7825,- - Human feeding,http://aims.fao.org/aos/agrovoc/c_15615
+4,C584>C99>C7825>C13786,C13786,http://id.agrisemantics.org/gacs/C13786,- - - Child feeding,http://aims.fao.org/aos/agrovoc/c_1545
+3,C584>C99>C8559,C8559,http://id.agrisemantics.org/gacs/C8559,- - Elderly nutrition,http://aims.fao.org/aos/agrovoc/c_34818
+3,C584>C99>C9684,C9684,http://id.agrisemantics.org/gacs/C9684,- - Nutrition knowledge,

@@ -1,0 +1,289 @@
+level,term_path,term_id,term_url,title,agrovoc
+1,C1156,C1156,http://id.agrisemantics.org/gacs/C1156,Processing,http://aims.fao.org/aos/agrovoc/c_6195
+2,C1156>C10213,C10213,http://id.agrisemantics.org/gacs/C10213,- Soaking,http://aims.fao.org/aos/agrovoc/c_7127
+2,C1156>C10474,C10474,http://id.agrisemantics.org/gacs/C10474,- Isolation techniques,http://aims.fao.org/aos/agrovoc/c_3965
+2,C1156>C10566,C10566,http://id.agrisemantics.org/gacs/C10566,- Encapsulation,http://aims.fao.org/aos/agrovoc/c_28357
+3,C1156>C10566>C14688,C14688,http://id.agrisemantics.org/gacs/C14688,- - Microencapsulation,http://aims.fao.org/aos/agrovoc/c_35224
+2,C1156>C10759,C10759,http://id.agrisemantics.org/gacs/C10759,- Comminution,http://aims.fao.org/aos/agrovoc/c_1780
+2,C1156>C10854,C10854,http://id.agrisemantics.org/gacs/C10854,- Saccharification,
+2,C1156>C11526,C11526,http://id.agrisemantics.org/gacs/C11526,- Solubilization,http://aims.fao.org/aos/agrovoc/c_7234
+2,C1156>C1161,C1161,http://id.agrisemantics.org/gacs/C1161,- Heat treatment,http://aims.fao.org/aos/agrovoc/c_24947
+3,C1156>C1161>C10083,C10083,http://id.agrisemantics.org/gacs/C10083,- - Microwave treatment,http://aims.fao.org/aos/agrovoc/c_28461
+4,C1156>C1161>C10083>C16674,C16674,http://id.agrisemantics.org/gacs/C16674,- - - Microwave cooking,http://aims.fao.org/aos/agrovoc/c_26799
+3,C1156>C1161>C10452,C10452,http://id.agrisemantics.org/gacs/C10452,- - Hot water treatment,http://aims.fao.org/aos/agrovoc/c_36195
+3,C1156>C1161>C11674,C11674,http://id.agrisemantics.org/gacs/C11674,- - Steaming,http://aims.fao.org/aos/agrovoc/c_7381
+3,C1156>C1161>C13677,C13677,http://id.agrisemantics.org/gacs/C13677,- - Boiling,http://aims.fao.org/aos/agrovoc/c_988
+3,C1156>C1161>C15144,C15144,http://id.agrisemantics.org/gacs/C15144,- - Blanching,http://aims.fao.org/aos/agrovoc/c_950
+3,C1156>C1161>C31756,C31756,http://id.agrisemantics.org/gacs/C31756,- - Scalding,http://aims.fao.org/aos/agrovoc/c_6837
+3,C1156>C1161>C3561,C3561,http://id.agrisemantics.org/gacs/C3561,- - Cooking,http://aims.fao.org/aos/agrovoc/c_1851
+4,C1156>C1161>C3561>C10111,C10111,http://id.agrisemantics.org/gacs/C10111,- - - Baking,http://aims.fao.org/aos/agrovoc/c_786
+4,C1156>C1161>C3561>C11664,C11664,http://id.agrisemantics.org/gacs/C11664,- - - Roasting,http://aims.fao.org/aos/agrovoc/c_6623
+4,C1156>C1161>C3561>C13000,C13000,http://id.agrisemantics.org/gacs/C13000,- - - Frying,http://aims.fao.org/aos/agrovoc/c_3132
+5,C1156>C1161>C3561>C13000>C17376,C17376,http://id.agrisemantics.org/gacs/C17376,- - - - Deep fat frying,
+4,C1156>C1161>C3561>C31506,C31506,http://id.agrisemantics.org/gacs/C31506,- - - Grilling,http://aims.fao.org/aos/agrovoc/c_50130
+3,C1156>C1161>C6482,C6482,http://id.agrisemantics.org/gacs/C6482,- - Pasteurization,http://aims.fao.org/aos/agrovoc/c_5623
+2,C1156>C11799,C11799,http://id.agrisemantics.org/gacs/C11799,- Ionization,http://aims.fao.org/aos/agrovoc/c_25736
+2,C1156>C11828,C11828,http://id.agrisemantics.org/gacs/C11828,- Anaerobic treatment,http://aims.fao.org/aos/agrovoc/c_34990
+3,C1156>C11828>C7971,C7971,http://id.agrisemantics.org/gacs/C7971,- - Anaerobic digestion,
+2,C1156>C12105,C12105,http://id.agrisemantics.org/gacs/C12105,- Feedstocks,
+3,C1156>C12105>C26195,C26195,http://id.agrisemantics.org/gacs/C26195,- - Crude oil,
+2,C1156>C12791,C12791,http://id.agrisemantics.org/gacs/C12791,- Chilling,
+2,C1156>C12912,C12912,http://id.agrisemantics.org/gacs/C12912,- Sorting,
+2,C1156>C13024,C13024,http://id.agrisemantics.org/gacs/C13024,- Fish processing,http://aims.fao.org/aos/agrovoc/c_29020
+2,C1156>C1307,C1307,http://id.agrisemantics.org/gacs/C1307,- Fluidized bed processing,http://aims.fao.org/aos/agrovoc/c_28599
+3,C1156>C1307>C10409,C10409,http://id.agrisemantics.org/gacs/C10409,- - Pretreatment,
+3,C1156>C1307>C15961,C15961,http://id.agrisemantics.org/gacs/C15961,- - Preplanting treatment,http://aims.fao.org/aos/agrovoc/c_6159
+4,C1156>C1307>C15961>C14693,C14693,http://id.agrisemantics.org/gacs/C14693,- - - Vernalization,http://aims.fao.org/aos/agrovoc/c_16059
+4,C1156>C1307>C15961>C16810,C16810,http://id.agrisemantics.org/gacs/C16810,- - - Stratification,http://aims.fao.org/aos/agrovoc/c_7438
+5,C1156>C1307>C15961>C16810>C15965,C15965,http://id.agrisemantics.org/gacs/C15965,- - - - Seed stratification,
+3,C1156>C1307>C4980,C4980,http://id.agrisemantics.org/gacs/C4980,- - Postharvest treatment,http://aims.fao.org/aos/agrovoc/c_6130
+4,C1156>C1307>C4980>C3753,C3753,http://id.agrisemantics.org/gacs/C3753,- - - Stored products pest control,http://aims.fao.org/aos/agrovoc/c_7432
+2,C1156>C13239,C13239,http://id.agrisemantics.org/gacs/C13239,- Flocculation,http://aims.fao.org/aos/agrovoc/c_2975
+2,C1156>C13563,C13563,http://id.agrisemantics.org/gacs/C13563,- Melting,http://aims.fao.org/aos/agrovoc/c_4731
+2,C1156>C14150,C14150,http://id.agrisemantics.org/gacs/C14150,- Curing (crops),
+2,C1156>C14341,C14341,http://id.agrisemantics.org/gacs/C14341,- Bottling,http://aims.fao.org/aos/agrovoc/c_1032
+2,C1156>C14746,C14746,http://id.agrisemantics.org/gacs/C14746,- Papermaking,http://aims.fao.org/aos/agrovoc/c_28116
+2,C1156>C14785,C14785,http://id.agrisemantics.org/gacs/C14785,- Coating,http://aims.fao.org/aos/agrovoc/c_1701
+3,C1156>C14785>C30909,C30909,http://id.agrisemantics.org/gacs/C30909,- - Wax coatings,
+2,C1156>C14819,C14819,http://id.agrisemantics.org/gacs/C14819,- Milk processing,
+3,C1156>C14819>C13764,C13764,http://id.agrisemantics.org/gacs/C13764,- - Reconstitution,http://aims.fao.org/aos/agrovoc/c_6476
+2,C1156>C15525,C15525,http://id.agrisemantics.org/gacs/C15525,- Meat processing,
+2,C1156>C16578,C16578,http://id.agrisemantics.org/gacs/C16578,- Electroporation,http://aims.fao.org/aos/agrovoc/c_33983
+2,C1156>C16710,C16710,http://id.agrisemantics.org/gacs/C16710,- Electrical treatment,
+3,C1156>C16710>C20481,C20481,http://id.agrisemantics.org/gacs/C20481,- - Pulsed electric fields,
+2,C1156>C17144,C17144,http://id.agrisemantics.org/gacs/C17144,- Pressure treatment,
+3,C1156>C17144>C10192,C10192,http://id.agrisemantics.org/gacs/C10192,- - Pressing,http://aims.fao.org/aos/agrovoc/c_6173
+3,C1156>C17144>C19034,C19034,http://id.agrisemantics.org/gacs/C19034,- - Compression,
+3,C1156>C17144>C21125,C21125,http://id.agrisemantics.org/gacs/C21125,- - Seed pelleting,http://aims.fao.org/aos/agrovoc/c_6936
+3,C1156>C17144>C26196,C26196,http://id.agrisemantics.org/gacs/C26196,- - Crushing,http://aims.fao.org/aos/agrovoc/c_10181
+3,C1156>C17144>C30187,C30187,http://id.agrisemantics.org/gacs/C30187,- - Moulding,http://aims.fao.org/aos/agrovoc/c_4955
+3,C1156>C17144>C7350,C7350,http://id.agrisemantics.org/gacs/C7350,- - Extrusion,http://aims.fao.org/aos/agrovoc/c_2769
+3,C1156>C17144>C9936,C9936,http://id.agrisemantics.org/gacs/C9936,- - High pressure technology,http://aims.fao.org/aos/agrovoc/c_36742
+2,C1156>C18315,C18315,http://id.agrisemantics.org/gacs/C18315,- Cleaning and sterilizing,
+3,C1156>C18315>C5653,C5653,http://id.agrisemantics.org/gacs/C5653,- - Cleaning,http://aims.fao.org/aos/agrovoc/c_1661
+4,C1156>C18315>C5653>C7500,C7500,http://id.agrisemantics.org/gacs/C7500,- - - Washing,http://aims.fao.org/aos/agrovoc/c_24099
+3,C1156>C18315>C8467,C8467,http://id.agrisemantics.org/gacs/C8467,- - Sterilizing,http://aims.fao.org/aos/agrovoc/c_7402
+4,C1156>C18315>C8467>C22395,C22395,http://id.agrisemantics.org/gacs/C22395,- - - Autoclaving,http://aims.fao.org/aos/agrovoc/c_33073
+4,C1156>C18315>C8467>C25528,C25528,http://id.agrisemantics.org/gacs/C25528,- - - Heat sterilizing,http://aims.fao.org/aos/agrovoc/c_28572
+2,C1156>C1846,C1846,http://id.agrisemantics.org/gacs/C1846,- Feed processing,http://aims.fao.org/aos/agrovoc/c_16127
+3,C1156>C1846>C5434,C5434,http://id.agrisemantics.org/gacs/C5434,- - Silage making,http://aims.fao.org/aos/agrovoc/c_16036
+4,C1156>C1846>C5434>C17447,C17447,http://id.agrisemantics.org/gacs/C17447,- - - Silage additives,
+5,C1156>C1846>C5434>C17447>C10821,C10821,http://id.agrisemantics.org/gacs/C10821,- - - - Propionic acid,http://aims.fao.org/aos/agrovoc/c_6227
+6,C1156>C1846>C5434>C17447>C10821>C20589,C20589,http://id.agrisemantics.org/gacs/C20589,- - - - - Propionates,http://aims.fao.org/aos/agrovoc/c_6226
+5,C1156>C1846>C5434>C17447>C13891,C13891,http://id.agrisemantics.org/gacs/C13891,- - - - Formic acid,http://aims.fao.org/aos/agrovoc/c_3065
+5,C1156>C1846>C5434>C17447>C14163,C14163,http://id.agrisemantics.org/gacs/C14163,- - - - Butyric acid,http://aims.fao.org/aos/agrovoc/c_1168
+5,C1156>C1846>C5434>C17447>C15930,C15930,http://id.agrisemantics.org/gacs/C15930,- - - - Hydrochloric acid,http://aims.fao.org/aos/agrovoc/c_3720
+5,C1156>C1846>C5434>C17447>C3831,C3831,http://id.agrisemantics.org/gacs/C3831,- - - - Lactic acid,http://aims.fao.org/aos/agrovoc/c_4142
+5,C1156>C1846>C5434>C17447>C4350,C4350,http://id.agrisemantics.org/gacs/C4350,- - - - Acetic acid,http://aims.fao.org/aos/agrovoc/c_80
+6,C1156>C1846>C5434>C17447>C4350>C15683,C15683,http://id.agrisemantics.org/gacs/C15683,- - - - - Tca,http://aims.fao.org/aos/agrovoc/c_31494
+6,C1156>C1846>C5434>C17447>C4350>C28119,C28119,http://id.agrisemantics.org/gacs/C28119,- - - - - Sodium acetate,
+6,C1156>C1846>C5434>C17447>C4350>C4812,C4812,http://id.agrisemantics.org/gacs/C4812,- - - - - Acetates,http://aims.fao.org/aos/agrovoc/c_79
+5,C1156>C1846>C5434>C17447>C6623,C6623,http://id.agrisemantics.org/gacs/C6623,- - - - Formaldehyde,http://aims.fao.org/aos/agrovoc/c_3064
+4,C1156>C1846>C5434>C18570,C18570,http://id.agrisemantics.org/gacs/C18570,- - - Silage fermentation,
+2,C1156>C18516,C18516,http://id.agrisemantics.org/gacs/C18516,- Processing stages,
+2,C1156>C18849,C18849,http://id.agrisemantics.org/gacs/C18849,- Ozonization,http://aims.fao.org/aos/agrovoc/c_34874
+2,C1156>C19467,C19467,http://id.agrisemantics.org/gacs/C19467,- Cotton ginning,http://aims.fao.org/aos/agrovoc/c_34005
+2,C1156>C19882,C19882,http://id.agrisemantics.org/gacs/C19882,- Peeling,http://aims.fao.org/aos/agrovoc/c_5655
+2,C1156>C20018,C20018,http://id.agrisemantics.org/gacs/C20018,- In vitro production,
+2,C1156>C20158,C20158,http://id.agrisemantics.org/gacs/C20158,- Dissolving,http://aims.fao.org/aos/agrovoc/c_2335
+2,C1156>C20782,C20782,http://id.agrisemantics.org/gacs/C20782,- Spinning,http://aims.fao.org/aos/agrovoc/c_7307
+2,C1156>C20962,C20962,http://id.agrisemantics.org/gacs/C20962,- Husking,http://aims.fao.org/aos/agrovoc/c_3699
+2,C1156>C20965,C20965,http://id.agrisemantics.org/gacs/C20965,- Delignification,http://aims.fao.org/aos/agrovoc/c_24014
+2,C1156>C21045,C21045,http://id.agrisemantics.org/gacs/C21045,- Foaming,http://aims.fao.org/aos/agrovoc/c_24841
+2,C1156>C21428,C21428,http://id.agrisemantics.org/gacs/C21428,- Aerobic treatment,
+2,C1156>C21865,C21865,http://id.agrisemantics.org/gacs/C21865,- Deodorizing,http://aims.fao.org/aos/agrovoc/c_2188
+2,C1156>C21933,C21933,http://id.agrisemantics.org/gacs/C21933,- Batch systems,
+2,C1156>C22083,C22083,http://id.agrisemantics.org/gacs/C22083,- Gasification,http://aims.fao.org/aos/agrovoc/c_34000
+2,C1156>C22257,C22257,http://id.agrisemantics.org/gacs/C22257,- Continuous systems,
+2,C1156>C22812,C22812,http://id.agrisemantics.org/gacs/C22812,- Dyeing,
+2,C1156>C22818,C22818,http://id.agrisemantics.org/gacs/C22818,- Grinding,
+2,C1156>C2293,C2293,http://id.agrisemantics.org/gacs/C2293,- Purification,http://aims.fao.org/aos/agrovoc/c_6377
+3,C1156>C2293>C14509,C14509,http://id.agrisemantics.org/gacs/C14509,- - Clarification (processing),http://aims.fao.org/aos/agrovoc/c_1652
+3,C1156>C2293>C14529,C14529,http://id.agrisemantics.org/gacs/C14529,- - Decolorization,http://aims.fao.org/aos/agrovoc/c_28521
+3,C1156>C2293>C28926,C28926,http://id.agrisemantics.org/gacs/C28926,- - Biorefining,
+2,C1156>C22994,C22994,http://id.agrisemantics.org/gacs/C22994,- Splitting,
+2,C1156>C23010,C23010,http://id.agrisemantics.org/gacs/C23010,- Nonthermal processing,
+2,C1156>C23829,C23829,http://id.agrisemantics.org/gacs/C23829,- Slicing,
+2,C1156>C23863,C23863,http://id.agrisemantics.org/gacs/C23863,- Macerating,http://aims.fao.org/aos/agrovoc/c_4494
+2,C1156>C24046,C24046,http://id.agrisemantics.org/gacs/C24046,- Shelling,http://aims.fao.org/aos/agrovoc/c_14250
+2,C1156>C24135,C24135,http://id.agrisemantics.org/gacs/C24135,- Marinating,http://aims.fao.org/aos/agrovoc/c_4605
+2,C1156>C24726,C24726,http://id.agrisemantics.org/gacs/C24726,- Tenderizing,http://aims.fao.org/aos/agrovoc/c_7662
+2,C1156>C24750,C24750,http://id.agrisemantics.org/gacs/C24750,- Wood processing,
+2,C1156>C25206,C25206,http://id.agrisemantics.org/gacs/C25206,- Drilling,
+2,C1156>C25387,C25387,http://id.agrisemantics.org/gacs/C25387,- Infusion,http://aims.fao.org/aos/agrovoc/c_50131
+2,C1156>C25520,C25520,http://id.agrisemantics.org/gacs/C25520,- Barking,http://aims.fao.org/aos/agrovoc/c_9083
+2,C1156>C26304,C26304,http://id.agrisemantics.org/gacs/C26304,- Dewatering,
+2,C1156>C26633,C26633,http://id.agrisemantics.org/gacs/C26633,- Vitrification,
+2,C1156>C27391,C27391,http://id.agrisemantics.org/gacs/C27391,- Boning,http://aims.fao.org/aos/agrovoc/c_1002
+2,C1156>C28080,C28080,http://id.agrisemantics.org/gacs/C28080,- Bioprocessing,
+2,C1156>C28966,C28966,http://id.agrisemantics.org/gacs/C28966,- Carbonation,http://aims.fao.org/aos/agrovoc/c_1307
+2,C1156>C29119,C29119,http://id.agrisemantics.org/gacs/C29119,- Flavouring,http://aims.fao.org/aos/agrovoc/c_2967
+2,C1156>C2933,C2933,http://id.agrisemantics.org/gacs/C2933,- Irradiation,http://aims.fao.org/aos/agrovoc/c_3951
+3,C1156>C2933>C10207,C10207,http://id.agrisemantics.org/gacs/C10207,- - Gamma irradiation,http://aims.fao.org/aos/agrovoc/c_28432
+3,C1156>C2933>C16638,C16638,http://id.agrisemantics.org/gacs/C16638,- - Ultrasonic treatment,http://aims.fao.org/aos/agrovoc/c_28598
+3,C1156>C2933>C22270,C22270,http://id.agrisemantics.org/gacs/C22270,- - Ultraviolet irradiation,http://aims.fao.org/aos/agrovoc/c_28433
+3,C1156>C2933>C6312,C6312,http://id.agrisemantics.org/gacs/C6312,- - Food irradiation,http://aims.fao.org/aos/agrovoc/c_49980
+2,C1156>C29434,C29434,http://id.agrisemantics.org/gacs/C29434,- Retting,http://aims.fao.org/aos/agrovoc/c_6542
+2,C1156>C29470,C29470,http://id.agrisemantics.org/gacs/C29470,- Evaporating,http://aims.fao.org/aos/agrovoc/c_2738
+2,C1156>C29964,C29964,http://id.agrisemantics.org/gacs/C29964,- Vacuum processing,
+3,C1156>C29964>C10266,C10266,http://id.agrisemantics.org/gacs/C10266,- - Vacuum packaging,http://aims.fao.org/aos/agrovoc/c_8141
+3,C1156>C29964>C25945,C25945,http://id.agrisemantics.org/gacs/C25945,- - Vacuum drying,http://aims.fao.org/aos/agrovoc/c_25801
+2,C1156>C30575,C30575,http://id.agrisemantics.org/gacs/C30575,- Chipping,
+2,C1156>C3135,C3135,http://id.agrisemantics.org/gacs/C3135,- Freezing,http://aims.fao.org/aos/agrovoc/c_3091
+2,C1156>C3274,C3274,http://id.agrisemantics.org/gacs/C3274,- Preservation,http://aims.fao.org/aos/agrovoc/c_6171
+3,C1156>C3274>C12340,C12340,http://id.agrisemantics.org/gacs/C12340,- - Biological preservation,http://aims.fao.org/aos/agrovoc/c_27843
+4,C1156>C3274>C12340>C23818,C23818,http://id.agrisemantics.org/gacs/C23818,- - - Embryo preservation,http://aims.fao.org/aos/agrovoc/c_27510
+4,C1156>C3274>C12340>C29027,C29027,http://id.agrisemantics.org/gacs/C29027,- - - In situ conservation,
+4,C1156>C3274>C12340>C5154,C5154,http://id.agrisemantics.org/gacs/C5154,- - - Cryopreservation,http://aims.fao.org/aos/agrovoc/c_24155
+4,C1156>C3274>C12340>C9673,C9673,http://id.agrisemantics.org/gacs/C9673,- - - Semen preservation,http://aims.fao.org/aos/agrovoc/c_6962
+3,C1156>C3274>C7645,C7645,http://id.agrisemantics.org/gacs/C7645,- - Wood preservation,http://aims.fao.org/aos/agrovoc/c_8428
+3,C1156>C3274>C871,C871,http://id.agrisemantics.org/gacs/C871,- - Food preservation,http://aims.fao.org/aos/agrovoc/c_25005
+4,C1156>C3274>C871>C14395,C14395,http://id.agrisemantics.org/gacs/C14395,- - - Brining,http://aims.fao.org/aos/agrovoc/c_1092
+4,C1156>C3274>C871>C15361,C15361,http://id.agrisemantics.org/gacs/C15361,- - - Canning,http://aims.fao.org/aos/agrovoc/c_1260
+4,C1156>C3274>C871>C15745,C15745,http://id.agrisemantics.org/gacs/C15745,- - - Smoking,http://aims.fao.org/aos/agrovoc/c_7118
+4,C1156>C3274>C871>C2261,C2261,http://id.agrisemantics.org/gacs/C2261,- - - Drying,http://aims.fao.org/aos/agrovoc/c_2402
+4,C1156>C3274>C871>C22617,C22617,http://id.agrisemantics.org/gacs/C22617,- - - Salting,http://aims.fao.org/aos/agrovoc/c_14061
+5,C1156>C3274>C871>C2261>C25883,C25883,http://id.agrisemantics.org/gacs/C25883,- - - - Drying methods,
+6,C1156>C3274>C871>C2261>C25883>C14667,C14667,http://id.agrisemantics.org/gacs/C14667,- - - - - Spray drying,http://aims.fao.org/aos/agrovoc/c_24088
+6,C1156>C3274>C871>C2261>C25883>C15694,C15694,http://id.agrisemantics.org/gacs/C15694,- - - - - Natural drying,http://aims.fao.org/aos/agrovoc/c_5084
+7,C1156>C3274>C871>C2261>C25883>C15694>C12864,C12864,http://id.agrisemantics.org/gacs/C12864,- - - - - - Air drying,http://aims.fao.org/aos/agrovoc/c_28554
+7,C1156>C3274>C871>C2261>C25883>C15694>C25106,C25106,http://id.agrisemantics.org/gacs/C25106,- - - - - - Solar drying,http://aims.fao.org/aos/agrovoc/c_14413
+6,C1156>C3274>C871>C2261>C25883>C22402,C22402,http://id.agrisemantics.org/gacs/C22402,- - - - - Hot air drying,http://aims.fao.org/aos/agrovoc/c_25799
+6,C1156>C3274>C871>C2261>C25883>C22573,C22573,http://id.agrisemantics.org/gacs/C22573,- - - - - Artificial drying,http://aims.fao.org/aos/agrovoc/c_637
+6,C1156>C3274>C871>C2261>C25883>C28643,C28643,http://id.agrisemantics.org/gacs/C28643,- - - - - Kiln drying,
+6,C1156>C3274>C871>C2261>C25883>C9117,C9117,http://id.agrisemantics.org/gacs/C9117,- - - - - Freeze drying,http://aims.fao.org/aos/agrovoc/c_3090
+4,C1156>C3274>C871>C26182,C26182,http://id.agrisemantics.org/gacs/C26182,- - - Pickling,http://aims.fao.org/aos/agrovoc/c_5865
+2,C1156>C3455,C3455,http://id.agrisemantics.org/gacs/C3455,- Manufacturing,http://aims.fao.org/aos/agrovoc/c_92365
+2,C1156>C3544,C3544,http://id.agrisemantics.org/gacs/C3544,- Product ripening,http://aims.fao.org/aos/agrovoc/c_13933
+2,C1156>C3879,C3879,http://id.agrisemantics.org/gacs/C3879,- Cooling,http://aims.fao.org/aos/agrovoc/c_1854
+2,C1156>C4250,C4250,http://id.agrisemantics.org/gacs/C4250,- Water treatment,
+3,C1156>C4250>C10639,C10639,http://id.agrisemantics.org/gacs/C10639,- - Water purification,http://aims.fao.org/aos/agrovoc/c_34145
+3,C1156>C4250>C1851,C1851,http://id.agrisemantics.org/gacs/C1851,- - Wastewater treatment,http://aims.fao.org/aos/agrovoc/c_25312
+4,C1156>C4250>C1851>C17073,C17073,http://id.agrisemantics.org/gacs/C17073,- - - Sewage treatment,
+3,C1156>C4250>C21923,C21923,http://id.agrisemantics.org/gacs/C21923,- - Desalination,http://aims.fao.org/aos/agrovoc/c_2201
+2,C1156>C4542,C4542,http://id.agrisemantics.org/gacs/C4542,- Bioremediation,http://aims.fao.org/aos/agrovoc/c_35028
+3,C1156>C4542>C7254,C7254,http://id.agrisemantics.org/gacs/C7254,- - Phytoremediation,http://aims.fao.org/aos/agrovoc/c_36976
+2,C1156>C4847,C4847,http://id.agrisemantics.org/gacs/C4847,- Disinfection,http://aims.fao.org/aos/agrovoc/c_10397
+3,C1156>C4847>C20985,C20985,http://id.agrisemantics.org/gacs/C20985,- - Chlorination,http://aims.fao.org/aos/agrovoc/c_34803
+2,C1156>C4888,C4888,http://id.agrisemantics.org/gacs/C4888,- Composting,http://aims.fao.org/aos/agrovoc/c_15956
+3,C1156>C4888>C30128,C30128,http://id.agrisemantics.org/gacs/C30128,- - Vermicomposting,http://aims.fao.org/aos/agrovoc/c_24528
+2,C1156>C4914,C4914,http://id.agrisemantics.org/gacs/C4914,- Acidification,http://aims.fao.org/aos/agrovoc/c_90
+2,C1156>C5306,C5306,http://id.agrisemantics.org/gacs/C5306,- Burning,http://aims.fao.org/aos/agrovoc/c_9499
+3,C1156>C5306>C5307,C5307,http://id.agrisemantics.org/gacs/C5307,- - Controlled burning,http://aims.fao.org/aos/agrovoc/c_1843
+2,C1156>C5483,C5483,http://id.agrisemantics.org/gacs/C5483,- Biological treatment,
+2,C1156>C5655,C5655,http://id.agrisemantics.org/gacs/C5655,- Mixing,http://aims.fao.org/aos/agrovoc/c_4877
+3,C1156>C5655>C14748,C14748,http://id.agrisemantics.org/gacs/C14748,- - Emulsifying,http://aims.fao.org/aos/agrovoc/c_2554
+3,C1156>C5655>C14856,C14856,http://id.agrisemantics.org/gacs/C14856,- - Homogenization,http://aims.fao.org/aos/agrovoc/c_3648
+3,C1156>C5655>C19269,C19269,http://id.agrisemantics.org/gacs/C19269,- - Agitation,http://aims.fao.org/aos/agrovoc/c_193
+4,C1156>C5655>C19269>C29122,C29122,http://id.agrisemantics.org/gacs/C29122,- - - Kneading,http://aims.fao.org/aos/agrovoc/c_4110
+2,C1156>C5743,C5743,http://id.agrisemantics.org/gacs/C5743,- Cutting,http://aims.fao.org/aos/agrovoc/c_2046
+3,C1156>C5743>C11888,C11888,http://id.agrisemantics.org/gacs/C11888,- - Sawing,http://aims.fao.org/aos/agrovoc/c_24079
+2,C1156>C5875,C5875,http://id.agrisemantics.org/gacs/C5875,- Refrigeration,http://aims.fao.org/aos/agrovoc/c_6485
+2,C1156>C6006,C6006,http://id.agrisemantics.org/gacs/C6006,- Separation,http://aims.fao.org/aos/agrovoc/c_6973
+3,C1156>C6006>C11340,C11340,http://id.agrisemantics.org/gacs/C11340,- - Centrifugation,http://aims.fao.org/aos/agrovoc/c_9704
+3,C1156>C6006>C14177,C14177,http://id.agrisemantics.org/gacs/C14177,- - Sedimentation,
+3,C1156>C6006>C1458,C1458,http://id.agrisemantics.org/gacs/C1458,- - Extraction,http://aims.fao.org/aos/agrovoc/c_36910
+4,C1156>C6006>C1458>C10596,C10596,http://id.agrisemantics.org/gacs/C10596,- - - Mining,http://aims.fao.org/aos/agrovoc/c_49983
+4,C1156>C6006>C1458>C13716,C13716,http://id.agrisemantics.org/gacs/C13716,- - - Microextraction,
+4,C1156>C6006>C1458>C20455,C20455,http://id.agrisemantics.org/gacs/C20455,- - - Solvent extraction,http://aims.fao.org/aos/agrovoc/c_28368
+5,C1156>C6006>C1458>C20455>C13830,C13830,http://id.agrisemantics.org/gacs/C13830,- - - - Supercritical fluid extraction,http://aims.fao.org/aos/agrovoc/c_34343
+4,C1156>C6006>C1458>C7773,C7773,http://id.agrisemantics.org/gacs/C7773,- - - Solid phase extraction,
+3,C1156>C6006>C17639,C17639,http://id.agrisemantics.org/gacs/C17639,- - Dialysis,http://aims.fao.org/aos/agrovoc/c_2240
+4,C1156>C6006>C17639>C12776,C12776,http://id.agrisemantics.org/gacs/C12776,- - - Haemodialysis,
+3,C1156>C6006>C20650,C20650,http://id.agrisemantics.org/gacs/C20650,- - Sieving,http://aims.fao.org/aos/agrovoc/c_7058
+3,C1156>C6006>C21854,C21854,http://id.agrisemantics.org/gacs/C21854,- - Reverse osmosis,http://aims.fao.org/aos/agrovoc/c_26870
+3,C1156>C6006>C28768,C28768,http://id.agrisemantics.org/gacs/C28768,- - Flotation,http://aims.fao.org/aos/agrovoc/c_2986
+3,C1156>C6006>C32665,C32665,http://id.agrisemantics.org/gacs/C32665,- - Decanting,http://aims.fao.org/aos/agrovoc/c_16538
+3,C1156>C6006>C3279,C3279,http://id.agrisemantics.org/gacs/C3279,- - Fractionation,http://aims.fao.org/aos/agrovoc/c_3074
+3,C1156>C6006>C3740,C3740,http://id.agrisemantics.org/gacs/C3740,- - Isolation,http://aims.fao.org/aos/agrovoc/c_37744
+3,C1156>C6006>C5257,C5257,http://id.agrisemantics.org/gacs/C5257,- - Filtration,http://aims.fao.org/aos/agrovoc/c_2900
+4,C1156>C6006>C5257>C21385,C21385,http://id.agrisemantics.org/gacs/C21385,- - - Microfiltration,http://aims.fao.org/aos/agrovoc/c_27575
+4,C1156>C6006>C5257>C22917,C22917,http://id.agrisemantics.org/gacs/C22917,- - - Biological filtration,
+4,C1156>C6006>C5257>C9258,C9258,http://id.agrisemantics.org/gacs/C9258,- - - Ultrafiltration,http://aims.fao.org/aos/agrovoc/c_24097
+3,C1156>C6006>C5545,C5545,http://id.agrisemantics.org/gacs/C5545,- - Grading,http://aims.fao.org/aos/agrovoc/c_3341
+4,C1156>C6006>C5545>C25356,C25356,http://id.agrisemantics.org/gacs/C25356,- - - Carcass grading,
+3,C1156>C6006>C9934,C9934,http://id.agrisemantics.org/gacs/C9934,- - Distillation,http://aims.fao.org/aos/agrovoc/c_2336
+2,C1156>C6154,C6154,http://id.agrisemantics.org/gacs/C6154,- Slaughter,http://aims.fao.org/aos/agrovoc/c_7107
+3,C1156>C6154>C28923,C28923,http://id.agrisemantics.org/gacs/C28923,- - Age at slaughter,
+2,C1156>C6574,C6574,http://id.agrisemantics.org/gacs/C6574,- Milling,http://aims.fao.org/aos/agrovoc/c_4840
+2,C1156>C6891,C6891,http://id.agrisemantics.org/gacs/C6891,- Chemical treatment,
+3,C1156>C6891>C10308,C10308,http://id.agrisemantics.org/gacs/C10308,- - Acid treatment,
+3,C1156>C6891>C11110,C11110,http://id.agrisemantics.org/gacs/C11110,- - Alkali treatment,http://aims.fao.org/aos/agrovoc/c_15935
+3,C1156>C6891>C14937,C14937,http://id.agrisemantics.org/gacs/C14937,- - Acetylation,http://aims.fao.org/aos/agrovoc/c_33927
+3,C1156>C6891>C17050,C17050,http://id.agrisemantics.org/gacs/C17050,- - Hydration,http://aims.fao.org/aos/agrovoc/c_3712
+3,C1156>C6891>C17514,C17514,http://id.agrisemantics.org/gacs/C17514,- - Osmotic pretreatment,
+3,C1156>C6891>C18214,C18214,http://id.agrisemantics.org/gacs/C18214,- - Tanning,http://aims.fao.org/aos/agrovoc/c_7605
+3,C1156>C6891>C18478,C18478,http://id.agrisemantics.org/gacs/C18478,- - Hydrogenation,http://aims.fao.org/aos/agrovoc/c_3726
+3,C1156>C6891>C27847,C27847,http://id.agrisemantics.org/gacs/C27847,- - Electrolysis,http://aims.fao.org/aos/agrovoc/c_28352
+3,C1156>C6891>C9159,C9159,http://id.agrisemantics.org/gacs/C9159,- - Esterification,http://aims.fao.org/aos/agrovoc/c_28361
+4,C1156>C6891>C9159>C3321,C3321,http://id.agrisemantics.org/gacs/C3321,- - - Phosphorylation,http://aims.fao.org/aos/agrovoc/c_5806
+5,C1156>C6891>C9159>C3321>C12159,C12159,http://id.agrisemantics.org/gacs/C12159,- - - - Protein phosphorylation,
+5,C1156>C6891>C9159>C3321>C23223,C23223,http://id.agrisemantics.org/gacs/C23223,- - - - Oxidative phosphorylation,
+3,C1156>C6891>C9818,C9818,http://id.agrisemantics.org/gacs/C9818,- - Neutralization,http://aims.fao.org/aos/agrovoc/c_5151
+2,C1156>C7324,C7324,http://id.agrisemantics.org/gacs/C7324,- Aeration,http://aims.fao.org/aos/agrovoc/c_154
+2,C1156>C7465,C7465,http://id.agrisemantics.org/gacs/C7465,- Immobilization,http://aims.fao.org/aos/agrovoc/c_27550
+3,C1156>C7465>C7029,C7029,http://id.agrisemantics.org/gacs/C7029,- - Inactivation,
+4,C1156>C7465>C7029>C19767,C19767,http://id.agrisemantics.org/gacs/C19767,- - - Heat inactivation,
+4,C1156>C7465>C7029>C20148,C20148,http://id.agrisemantics.org/gacs/C20148,- - - Enzyme inactivation,
+2,C1156>C7569,C7569,http://id.agrisemantics.org/gacs/C7569,- Decontamination,
+3,C1156>C7569>C9514,C9514,http://id.agrisemantics.org/gacs/C9514,- - Detoxification,http://aims.fao.org/aos/agrovoc/c_2219
+2,C1156>C7587,C7587,http://id.agrisemantics.org/gacs/C7587,- Bleaching,http://aims.fao.org/aos/agrovoc/c_953
+2,C1156>C792,C792,http://id.agrisemantics.org/gacs/C792,- Fermentation,http://aims.fao.org/aos/agrovoc/c_2855
+3,C1156>C792>C17388,C17388,http://id.agrisemantics.org/gacs/C17388,- - Solid state fermentation,http://aims.fao.org/aos/agrovoc/c_34905
+3,C1156>C792>C17497,C17497,http://id.agrisemantics.org/gacs/C17497,- - Lactic fermentation,http://aims.fao.org/aos/agrovoc/c_27566
+3,C1156>C792>C18573,C18573,http://id.agrisemantics.org/gacs/C18573,- - Batch fermentation,
+3,C1156>C792>C19090,C19090,http://id.agrisemantics.org/gacs/C19090,- - Methane fermentation,http://aims.fao.org/aos/agrovoc/c_27571
+3,C1156>C792>C21673,C21673,http://id.agrisemantics.org/gacs/C21673,- - Malolactic fermentation,http://aims.fao.org/aos/agrovoc/c_27569
+3,C1156>C792>C31383,C31383,http://id.agrisemantics.org/gacs/C31383,- - Submerged fermentation,
+3,C1156>C792>C8356,C8356,http://id.agrisemantics.org/gacs/C8356,- - Alcoholic fermentation,http://aims.fao.org/aos/agrovoc/c_27518
+2,C1156>C8400,C8400,http://id.agrisemantics.org/gacs/C8400,- Thawing,http://aims.fao.org/aos/agrovoc/c_7706
+2,C1156>C8775,C8775,http://id.agrisemantics.org/gacs/C8775,- Crystallization,http://aims.fao.org/aos/agrovoc/c_1994
+2,C1156>C9060,C9060,http://id.agrisemantics.org/gacs/C9060,- Denaturation,http://aims.fao.org/aos/agrovoc/c_2178
+2,C1156>C9379,C9379,http://id.agrisemantics.org/gacs/C9379,- Concentrating,http://aims.fao.org/aos/agrovoc/c_1801
+2,C1156>C9697,C9697,http://id.agrisemantics.org/gacs/C9697,- Information processing,http://aims.fao.org/aos/agrovoc/c_3862
+3,C1156>C9697>C1300,C1300,http://id.agrisemantics.org/gacs/C1300,- - Identification,http://aims.fao.org/aos/agrovoc/c_3791
+4,C1156>C9697>C1300>C11922,C11922,http://id.agrisemantics.org/gacs/C11922,- - - Cultivar identification,
+4,C1156>C9697>C1300>C24462,C24462,http://id.agrisemantics.org/gacs/C24462,- - - Animal identification,
+3,C1156>C9697>C13089,C13089,http://id.agrisemantics.org/gacs/C13089,- - Bioinformatics,http://aims.fao.org/aos/agrovoc/c_37958
+3,C1156>C9697>C14446,C14446,http://id.agrisemantics.org/gacs/C14446,- - Information retrieval,http://aims.fao.org/aos/agrovoc/c_3863
+3,C1156>C9697>C1519,C1519,http://id.agrisemantics.org/gacs/C1519,- - Documentation,http://aims.fao.org/aos/agrovoc/c_2350
+3,C1156>C9697>C19030,C19030,http://id.agrisemantics.org/gacs/C19030,- - Information storage,http://aims.fao.org/aos/agrovoc/c_3866
+3,C1156>C9697>C2146,C2146,http://id.agrisemantics.org/gacs/C2146,- - Classification,http://aims.fao.org/aos/agrovoc/c_1653
+4,C1156>C9697>C2146>C1238,C1238,http://id.agrisemantics.org/gacs/C1238,- - - Characterization,
+4,C1156>C9697>C2146>C13021,C13021,http://id.agrisemantics.org/gacs/C13021,- - - Land classification,http://aims.fao.org/aos/agrovoc/c_15991
+5,C1156>C9697>C2146>C13021>C11068,C11068,http://id.agrisemantics.org/gacs/C11068,- - - - Land suitability,http://aims.fao.org/aos/agrovoc/c_15992
+4,C1156>C9697>C2146>C2080,C2080,http://id.agrisemantics.org/gacs/C2080,- - - Soil classification,http://aims.fao.org/aos/agrovoc/c_7162
+5,C1156>C9697>C2146>C2080>C26215,C26215,http://id.agrisemantics.org/gacs/C26215,- - - - Soil sequences,http://aims.fao.org/aos/agrovoc/c_7191
+6,C1156>C9697>C2146>C2080>C26215>C16125,C16125,http://id.agrisemantics.org/gacs/C16125,- - - - - Chronosequences,
+3,C1156>C9697>C2724,C2724,http://id.agrisemantics.org/gacs/C2724,- - Data collection,http://aims.fao.org/aos/agrovoc/c_2128
+4,C1156>C9697>C2724>C20619,C20619,http://id.agrisemantics.org/gacs/C20619,- - - Focus groups,
+3,C1156>C9697>C31537,C31537,http://id.agrisemantics.org/gacs/C31537,- - Access to information,http://aims.fao.org/aos/agrovoc/c_37829
+3,C1156>C9697>C31733,C31733,http://id.agrisemantics.org/gacs/C31733,- - Recording,
+4,C1156>C9697>C31733>C11447,C11447,http://id.agrisemantics.org/gacs/C11447,- - - Labelling,http://aims.fao.org/aos/agrovoc/c_330899
+5,C1156>C9697>C31733>C11447>C7024,C7024,http://id.agrisemantics.org/gacs/C7024,- - - - Product labelling,http://aims.fao.org/aos/agrovoc/c_6199
+6,C1156>C9697>C31733>C11447>C7024>C12127,C12127,http://id.agrisemantics.org/gacs/C12127,- - - - - Trade marks,http://aims.fao.org/aos/agrovoc/c_6228
+6,C1156>C9697>C31733>C11447>C7024>C15097,C15097,http://id.agrisemantics.org/gacs/C15097,- - - - - Quality labelling,http://aims.fao.org/aos/agrovoc/c_26864
+7,C1156>C9697>C31733>C11447>C7024>C15097>C9787,C9787,http://id.agrisemantics.org/gacs/C9787,- - - - - - Designation of origin,http://aims.fao.org/aos/agrovoc/c_34241
+6,C1156>C9697>C31733>C11447>C7024>C18171,C18171,http://id.agrisemantics.org/gacs/C18171,- - - - - Food labeling,
+7,C1156>C9697>C31733>C11447>C7024>C18171>C12564,C12564,http://id.agrisemantics.org/gacs/C12564,- - - - - - Nutrition labelling,http://aims.fao.org/aos/agrovoc/c_31872
+6,C1156>C9697>C31733>C11447>C7024>C25981,C25981,http://id.agrisemantics.org/gacs/C25981,- - - - - Labelling controls,http://aims.fao.org/aos/agrovoc/c_28709
+4,C1156>C9697>C31733>C16574,C16574,http://id.agrisemantics.org/gacs/C16574,- - - Milk recording,http://aims.fao.org/aos/agrovoc/c_24050
+4,C1156>C9697>C31733>C24530,C24530,http://id.agrisemantics.org/gacs/C24530,- - - Performance recording,
+4,C1156>C9697>C31733>C3841,C3841,http://id.agrisemantics.org/gacs/C3841,- - - Cartography,http://aims.fao.org/aos/agrovoc/c_1344
+5,C1156>C9697>C31733>C3841>C29172,C29172,http://id.agrisemantics.org/gacs/C29172,- - - - Thematic maps,
+4,C1156>C9697>C31733>C4519,C4519,http://id.agrisemantics.org/gacs/C4519,- - - Registration,http://aims.fao.org/aos/agrovoc/c_6491
+5,C1156>C9697>C31733>C4519>C28034,C28034,http://id.agrisemantics.org/gacs/C28034,- - - - Herdbooks,http://aims.fao.org/aos/agrovoc/c_14636
+4,C1156>C9697>C31733>C7651,C7651,http://id.agrisemantics.org/gacs/C7651,- - - Surveying,http://aims.fao.org/aos/agrovoc/c_7536
+5,C1156>C9697>C31733>C7651>C13240,C13240,http://id.agrisemantics.org/gacs/C13240,- - - - Aerial surveying,http://aims.fao.org/aos/agrovoc/c_156
+5,C1156>C9697>C31733>C7651>C2394,C2394,http://id.agrisemantics.org/gacs/C2394,- - - - Remote sensing,http://aims.fao.org/aos/agrovoc/c_6498
+3,C1156>C9697>C3204,C3204,http://id.agrisemantics.org/gacs/C3204,- - Data analysis,http://aims.fao.org/aos/agrovoc/c_15962
+4,C1156>C9697>C3204>C12322,C12322,http://id.agrisemantics.org/gacs/C12322,- - - Meteorological observations,http://aims.fao.org/aos/agrovoc/c_4780
+4,C1156>C9697>C3204>C6489,C6489,http://id.agrisemantics.org/gacs/C6489,- - - Time series analysis,http://aims.fao.org/aos/agrovoc/c_28778
+3,C1156>C9697>C5482,C5482,http://id.agrisemantics.org/gacs/C5482,- - Data processing,http://aims.fao.org/aos/agrovoc/c_10289
+4,C1156>C9697>C5482>C13388,C13388,http://id.agrisemantics.org/gacs/C13388,- - - Image processing,http://aims.fao.org/aos/agrovoc/c_37359
+3,C1156>C9697>C5593,C5593,http://id.agrisemantics.org/gacs/C5593,- - Information dissemination,http://aims.fao.org/aos/agrovoc/c_3860
+4,C1156>C9697>C5593>C32728,C32728,http://id.agrisemantics.org/gacs/C32728,- - - Journalism,http://aims.fao.org/aos/agrovoc/c_4054
+2,C1156>C9733,C9733,http://id.agrisemantics.org/gacs/C9733,- Pulping,http://aims.fao.org/aos/agrovoc/c_26811
+3,C1156>C9733>C15369,C15369,http://id.agrisemantics.org/gacs/C15369,- - Sulfate pulping,
+3,C1156>C9733>C28431,C28431,http://id.agrisemantics.org/gacs/C28431,- - Thermomechanical pulping,
+2,C1156>C9923,C9923,http://id.agrisemantics.org/gacs/C9923,- Dehydration,
