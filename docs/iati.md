@@ -19,4 +19,4 @@ The Open Ag Funding framework extends the IATI standard by:
 
 **If you already use IATI** then adopting the Open Ag Funding framework will involve checking your data quality, and adding or enhancing information for agriculture-related activities. 
 
-**If you are new to IATI** then you can choose to publish full IATI data, or you can use our [simplified spreadsheet template](TODO PAGE AND LINKS) to prepare your Open Ag Funding data.
+**If you are new to IATI** then you can choose to publish full IATI data, or you can use our simplified spreadsheet template to prepare your Open Ag Funding data. Get in touch with [iatisupport@opendataservices.coop](mailto:iatisupport@opendataservices.coop) to request a copy.
