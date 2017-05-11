@@ -571,7 +571,7 @@ Information on the major transactions associated with the project, particularly 
 
     .. admonition:: Why?
 
-        Providing transactions, particularly when transaction classifications and the associated transaction organiastions are described, allows users to understand the relevative focus of funding in practice, and to see which organiastions are associated with which kinds of work. 
+        Providing transactions, particularly when transaction classifications and the associated transaction organisations are described, allows users to understand the relevative focus of funding in practice, and to see which organiastions are associated with which kinds of work. 
 
     .. admonition:: Codelists
 
