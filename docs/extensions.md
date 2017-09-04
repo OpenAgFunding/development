@@ -39,7 +39,7 @@ Furthermore, the element mentioned above should appear at the **bottom** of an I
 Here is a worked example
 
 ```xml
-<iati-activities xmlns:openag = "http://openagfunding.readthedocs.io/en/latest/extensions/#iati-classification-tag" version="2.02">
+<iati-activities xmlns:openag = "http://openagfunding.readthedocs.io/en/latest/extensions/" version="2.02">
   <!-- .................. -->
   <!-- the rest of the    -->
   <!-- activity: sectors, -->
