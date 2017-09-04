@@ -27,6 +27,7 @@ Contents:
    framework
    identifiers
    codelists
+   extensions
    contact
 
 ```
