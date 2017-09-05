@@ -32,7 +32,7 @@ This new element looks a lot like the existing [sector](http://iatistandard.org/
 
 At the top of the `<iati-activities>` if using throughout a file, or at the top of any `<iati-activity>` element which uses the extension, a user should add a `@xmlns:openag` attribute which equals the URL of this extension page.
 
-Furthermore, the element mentioned above should appear at the **bottom** of an IATI activity file with `openag:tag` as the element name.
+Furthermore, the element mentioned above should appear at the **end** of an IATI activity file with `openag:tag` as the element name.
 
 Here is a worked example
 
