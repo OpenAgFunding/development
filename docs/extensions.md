@@ -14,7 +14,7 @@ This new element looks a lot like the existing [sector](http://iatistandard.org/
 </openag:tag>
 ```
 
-> NB: the 'openag:' at the start of the element is because this element is currently available via an an extension. If tag is adopted as a core part of IATI 2.03 the element name will simply be `<tag>`, and the namepace declartion detailed below can be dropped. 
+> NB: the 'openag:' at the start of the element is because this element is currently available via an an extension. If tag is adopted as a core part of IATI 2.03 the element name will simply be `<tag>`, and the namespace declaration detailed below can be dropped. 
 
 **Values**:
 
@@ -54,7 +54,7 @@ If you have any questions about implementing this extension, don't hesitate to [
 
 If you are building an tool that uses IATI data, consider adding support for the `tag` element. Below are some tips for handling tag data:
 
-**When querying for `tag` data** consider establishing a query that will search for both namespaced, and namespace free, data. This will ensure that your tool is 'future proof' for IATI 2.03, but also can accomodate data that was published before `tag` was adopted in the core standard. 
+**When querying for `tag` data** consider establishing a query that will search for both namespaced, and namespace free, data. This will ensure that your tool is 'future proof' for IATI 2.03, but also can accommodate data that was published before `tag` was adopted in the core standard. 
 
 For example, the xpath below should fetch both extension and core `tag` data:
 
@@ -62,13 +62,13 @@ For example, the xpath below should fetch both extension and core `tag` data:
 /iati-activities/iati-activity/openag:tag | /iati-activities/iati-activity/tag
 ```
 
-**Be vocabulary aware**. Some tag vocabularies, like AgroVoc, may have a hierarchy to their classifications. You can use this to (a) provide an improved interface for users to select the tags they want to search on; (b) search on all values from a 'child' categeory when the parent category is selected.
+**Be vocabulary aware**. Some tag vocabularies, like AgroVoc, may have a hierarchy to their classifications. You can use this to (a) provide an improved interface for users to select the tags they want to search on; (b) search on all values from a 'child' category when the parent category is selected.
 
 Be careful not to mix information from different vocabularies together when displaying tags to users, unless this is appropriate in your interface.
 
 ### History and future: towards inclusion in 2.03
 
-In order to allow for the most useful agricultural investment data, the Open Ag Funding Partnership consulted with the IATI community about ways to include additional classifications against established vocabularlies. This led to proposals for an addition of `tag` to the next version of the IATI standard (version 2.03).
+In order to allow for the most useful agricultural investment data, the Open Ag Funding Partnership consulted with the IATI community about ways to include additional classifications against established vocabularies. This led to proposals for an addition of `tag` to the next version of the IATI standard (version 2.03).
 
 The primary need met by the `tag` element is to declare classifications which _aren't_ statistical. For instance, if a donor is sure that their project concerns both irrigation and livestock, but doesn't want to split the budget based on those groups (as they would have to in the [sector](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/) element).
 
