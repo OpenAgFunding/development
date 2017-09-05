@@ -10,7 +10,7 @@ This new element looks a lot like the existing [sector](http://iatistandard.org/
 
 ```xml
 <openag:tag vocabulary="99" vocabulary-uri="http://aims.fao.org/aos/agrovoc/" code="c_4397">
-    <narrative @xml:lang="en">Livestock</narrative>
+    <narrative xml:lang="en">Livestock</narrative>
 </openag:tag>
 ```
 
