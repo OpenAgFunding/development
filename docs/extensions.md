@@ -14,7 +14,7 @@ This new element looks a lot like the existing [sector](http://iatistandard.org/
 </openag:tag>
 ```
 
-> NB: the 'openag:' at the start of the element is because this element is currently available via an extension. If tag is adopted as a core part of IATI 2.03 the element name will simply be `<tag>`, and the namespace declaration detailed below can be dropped. 
+> NB: the 'openag:' at the start of the element is because this element is currently available via an extension. If tag is adopted as a core part of IATI 2.03 the element name will simply be `<tag>`, and the namespace declaration detailed below can be dropped.
 
 **Values**:
 
