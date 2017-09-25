@@ -21,7 +21,7 @@ This new element looks a lot like the existing [sector](http://iatistandard.org/
 * the `@code` attribute will change use by use, but must always be included.
 * the `@vocabulary` attribute is '99' to specify that it's a custom vocabulary (as opposed to one of IATI's embedded ones).
 * the `@vocabulary-uri` should always be "http://aims.fao.org/aos/agrovoc/" for OpenAg early adopters, as they will be using the AGROVOC vocabulary, but in principle this can be used with any codelist.
-* the `<narrative>` should be included to show users what the code means, but will changed depending on the `@code` attribute.
+* the `<narrative>` should be included to show users what the code means, but will change depending on the `@code` attribute.
 
 ### How to include it?
 
