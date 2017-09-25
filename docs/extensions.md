@@ -70,7 +70,7 @@ Be careful not to mix information from different vocabularies together when disp
 
 In order to allow for the most useful agricultural investment data, the Open Ag Funding Partnership consulted with the IATI community about ways to include additional classifications against established vocabularies. This led to proposals for an addition of `tag` to the next version of the IATI standard (version 2.03).
 
-The primary need met by the `tag` element is to declare classifications which _aren't_ statistical. For instance, if a donor is sure that their project concerns both irrigation and livestock, but doesn't want to split the budget based on those groups (as they would have to in the [sector](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/) element).
+The primary need met by the `tag` element is to declare classifications which _aren't_ statistical. For instance, if a donor is sure that their project concerns both irrigation and livestock, but is unable to declare the budget split based on those groups (as they would have to in the [sector](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/) element).
 
 This addition has been accepted and taken forward by the IATI secretariat for inclusion in the next version. Discussion and subsequent consensus can be found [here](discuss_link).
 
