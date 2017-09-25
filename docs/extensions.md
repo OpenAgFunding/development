@@ -32,7 +32,7 @@ Furthermore, the `tag` element above should appear at the **end** of an IATI act
 Here is a worked example
 
 ```xml
-<iati-activities xmlns:openag = "http://openagfunding.readthedocs.io/en/latest/extensions/" version="2.02">
+<iati-activities xmlns:openag="http://openagfunding.readthedocs.io/en/latest/extensions/" version="2.02">
 <iati-activity>
   <!-- .................. -->
   <!-- the rest of the    -->
