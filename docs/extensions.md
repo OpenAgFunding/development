@@ -74,6 +74,6 @@ The primary need met by the `tag` element is to declare classifications which _a
 
 This addition has been accepted and taken forward by the IATI secretariat for inclusion in version 2.03. Discussion and subsequent consensus can be found [here](https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849/).
 
-However, the next new version of IATI might not be released for a while, but users want to get going!  This is where extensions come in. IATI XML based standard allows publishers to declare their own extensions using a [namespace extension](http://iatistandard.org/202/namespaces-extensions/).
+However, the new version of IATI might not be released for a while, but users want to get going! This is where extensions come in. The IATI XML based standard allows publishers to declare their own extensions using a [namespace extension](http://iatistandard.org/202/namespaces-extensions/).
 
 
