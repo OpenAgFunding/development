@@ -72,7 +72,7 @@ In order to allow for the most useful agricultural investment data, the Open Ag 
 
 The primary need met by the `tag` element is to declare classifications which _aren't_ statistical. For instance, if a donor is sure that their project concerns both irrigation and livestock, but is unable to declare the budget split based on those groups (as they would have to in the [sector](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/) element).
 
-This addition has been accepted and taken forward by the IATI secretariat for inclusion in version 2.03. Discussion and subsequent consensus can be found [here](discuss_link).
+This addition has been accepted and taken forward by the IATI secretariat for inclusion in version 2.03. Discussion and subsequent consensus can be found [here](https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849/).
 
 However, the next new version of IATI might not be released for a while, but users want to get going!  This is where extensions come in. IATI XML based standard allows publishers to declare their own extensions using a [namespace extension](http://iatistandard.org/202/namespaces-extensions/).
 
