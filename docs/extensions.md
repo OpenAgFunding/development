@@ -52,7 +52,7 @@ If you have any questions about implementing this extension, don't hesitate to [
 
 ### Using tagged data
 
-If you are building an tool that uses IATI data, consider adding support for the `tag` element. Below are some tips for handling tag data:
+If you are building a tool that uses IATI data, consider adding support for the `tag` element. Below are some tips for handling tag data:
 
 **When querying for `tag` data** consider establishing a query that will search for both namespaced, and namespace free, data. This will ensure that your tool is 'future proof' for IATI 2.03, but also can accommodate data that was published before `tag` was adopted in the core standard. 
 
