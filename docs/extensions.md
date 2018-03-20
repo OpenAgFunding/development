@@ -14,25 +14,25 @@ This new element looks a lot like the existing [sector](http://iatistandard.org/
 </openag:tag>
 ```
 
-> NB: the 'openag:' at the start of the element is because this element is currently available via an an extension. If tag is adopted as a core part of IATI 2.03 the element name will simply be `<tag>`, and the namespace declaration detailed below can be dropped. 
+> NB: the 'openag:' at the start of the element is because this element is currently available via an extension. If tag is adopted as a core part of IATI 2.03 the element name will simply be `<tag>`, and the namespace declaration detailed below can be dropped.
 
 **Values**:
 
 * the `@code` attribute will change use by use, but must always be included.
 * the `@vocabulary` attribute is '99' to specify that it's a custom vocabulary (as opposed to one of IATI's embedded ones).
-* the `@vocabulary-uri` should always be "http://aims.fao.org/aos/agrovoc/" for OpenAg early adopters, as they will be using the AGROVOC vocabulary, but in principle this can be used with any codelist.
-* the `<narrative>` should be included to show users what the code means, but will changed depending on the `@code` attribute.
+* the `@vocabulary-uri` should always be "http://aims.fao.org/aos/agrovoc/" for OpenAg early adopters, as they will be using the AGROVOC vocabulary, but in principle this extension can be used with any codelist.
+* the `<narrative>` should be included to show users what the code means, but will change depending on the `@code` attribute.
 
 ### How to include it?
 
 At the top of the `<iati-activities>` if using throughout a file, or at the top of any `<iati-activity>` element which uses the extension, a user should add a `@xmlns:openag` attribute which equals the URL of this extension page.
 
-Furthermore, the `tag` element above should appear at the **end** of an IATI activity file with `openag:tag` as the element name.
+Furthermore, the `tag` element above should appear at the **end** of an IATI activity with `openag:tag` as the element name.
 
 Here is a worked example
 
 ```xml
-<iati-activities xmlns:openag = "http://openagfunding.readthedocs.io/en/latest/extensions/" version="2.02">
+<iati-activities xmlns:openag="http://openagfunding.readthedocs.io/en/latest/extensions/" version="2.02">
 <iati-activity>
   <!-- .................. -->
   <!-- the rest of the    -->
@@ -52,7 +52,7 @@ If you have any questions about implementing this extension, don't hesitate to [
 
 ### Using tagged data
 
-If you are building an tool that uses IATI data, consider adding support for the `tag` element. Below are some tips for handling tag data:
+If you are building a tool that uses IATI data, consider adding support for the `tag` element. Below are some tips for handling tag data:
 
 **When querying for `tag` data** consider establishing a query that will search for both namespaced, and namespace free, data. This will ensure that your tool is 'future proof' for IATI 2.03, but also can accommodate data that was published before `tag` was adopted in the core standard. 
 
@@ -70,10 +70,10 @@ Be careful not to mix information from different vocabularies together when disp
 
 In order to allow for the most useful agricultural investment data, the Open Ag Funding Partnership consulted with the IATI community about ways to include additional classifications against established vocabularies. This led to proposals for an addition of `tag` to the next version of the IATI standard (version 2.03).
 
-The primary need met by the `tag` element is to declare classifications which _aren't_ statistical. For instance, if a donor is sure that their project concerns both irrigation and livestock, but doesn't want to split the budget based on those groups (as they would have to in the [sector](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/) element).
+The primary need met by the `tag` element is to declare classifications which _aren't_ statistical. For instance, if a donor is sure that their project concerns both irrigation and livestock, but is unable to declare the budget split based on those groups (as they would have to in the [sector](http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/) element).
 
-This addition has been accepted and taken forward by the IATI secretariat for inclusion in the next version. Discussion and subsequent consensus can be found [here](discuss_link).
+This addition has been accepted and taken forward by the IATI secretariat for inclusion in version 2.03. Discussion and subsequent consensus can be found [here](https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849/).
 
-However, the next new version of IATI might not be released for a while, but users want to get going!  This is where extensions come in. IATI XML based standard allows publishers to declare their own extensions using a [namespace extension](http://iatistandard.org/202/namespaces-extensions/).
+However, the new version of IATI might not be released for a while, but users want to get going! This is where extensions come in. The IATI XML based standard allows publishers to declare their own extensions using a [namespace extension](http://iatistandard.org/202/namespaces-extensions/).
 
 
