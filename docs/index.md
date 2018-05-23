@@ -29,6 +29,7 @@ Contents:
    codelists
    extensions
    contact
+   privacy_notice
 
 ```
 
